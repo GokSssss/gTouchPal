@@ -1,0 +1,2 @@
+package com.cootek.smartinput5.backup;
+final class WesternExport135 {static final class Prepared{}static Prepared prepare(java.io.File f,byte[] b)throws java.io.IOException{return null;}static void verify(Prepared p)throws java.io.IOException{}static void copy(Prepared p,java.io.OutputStream o)throws java.io.IOException{}static void discard(Prepared p){} }

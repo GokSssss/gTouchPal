@@ -1,0 +1,15 @@
+{
+  "status": "APPLIED",
+  "class_name": "Lcom/cootek/smartinput5/ui/control/MoveContrailView;",
+  "colour": "#F6D333",
+  "argb": "FFF6D333",
+  "only_exact_wave_class": true,
+  "normal_and_animated_colours": true,
+  "handwriting_subclass_colours_inherited": true,
+  "stroke_geometry_opacity_and_timing_unchanged": true,
+  "changed_methods": [
+    "public constructor <init>(Landroid/content/Context;)V"
+  ],
+  "base_smali_sha256": "4771ab13badb07110b124247b8edc19b6cac2e14806eed24c947b127e538d674",
+  "patched_smali_sha256": "853afe758f9e0617949db6b9496de1c623d3bfb75702757595360ba09418c5b9"
+}

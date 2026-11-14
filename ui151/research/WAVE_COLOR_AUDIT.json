@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "ordinary": "w -> Paint.setColor",
+  "animated": "y/z/A -> g.c ->u.d",
+  "original_gradient_colours": [
+    "#FF48B1FC",
+    "#FF0A58FF",
+    "#FF5F2FFD"
+  ],
+  "original_alpha_endpoints": [
+    "#FF000000",
+    "#FF000000"
+  ],
+  "new_colour": "#FFF6D333",
+  "alpha_fields_B_C_unchanged": true,
+  "only_setStrokeColor_callers": [
+    "HandWriteMaskView",
+    "HandWriteHalfView",
+    "HandWriteView"
+  ],
+  "subclasses_keep_inherited_colours": true,
+  "constructor_registers_v1_v2_overwritten_before_following_native_reads": true,
+  "phone_or_art_tested": false
+}

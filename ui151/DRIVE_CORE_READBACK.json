@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "id": "1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU",
+      "name": "151-gTouchPal-6.2.7.1.apk",
+      "bytes": 33402126,
+      "sha256": "3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+      "raw_bytes_read_back": true
+    },
+    {
+      "id": "1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd",
+      "name": "151-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 809587,
+      "sha256": "269ddd5e09ab4f373b7bf41ca95d98f0bc381b31fe1fd7ec1f7f08636d4ee14d",
+      "raw_bytes_read_back": true
+    }
+  ],
+  "source_manifest_verified": true
+}

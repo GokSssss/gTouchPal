@@ -305,3 +305,6 @@ SOURCE https://drive.google.com/file/d/1y9OY_zsSGrGpW9vgaQ3kboM-vRXRUcBZ/view
 GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v150
 APK https://drive.google.com/file/d/12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u/view
 SOURCE https://drive.google.com/file/d/1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS/view
+
+
+151 in progress: owner settings alignment plus Wave yellow#F6D333. Only CompactSettings family and exact MoveContrailView constructor change; three version labels. Preserve150 journal-hold diagnostics, original engine/ranking/data/geometry/fading. Use fresh151 Drive signing materials, never export private values. No agents. Published150/149 immutable; final151 SOURCE one freeze and downloaded-source rebuild/readbacks before release.

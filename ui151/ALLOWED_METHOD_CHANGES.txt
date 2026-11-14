@@ -1,0 +1,1 @@
+Lcom/cootek/smartinput5/ui/control/MoveContrailView; <init>(Landroid/content/Context;)V

@@ -1,0 +1,58 @@
+{
+  "families": [
+    "com/cootek/smartinput5/settings/CompactSettings"
+  ],
+  "source_sha256": {
+    "src/com/cootek/smartinput5/settings/CompactSettings.java": "87f29026b6dd8b57919dbb181d7e7ad383d9bafc72ce707aa7eb69805e17a1bf"
+  },
+  "compile_only_sha256": {
+    "compile_only/app/android/support/v4/app/Fragment.java": "aff3764b011f5466906afeb36fee98915b2e8c6e1d94c19e8293911546bb96b9",
+    "compile_only/app/android/support/v4/widget/DrawerLayout.java": "7f2df97dbb14438b6a5bd33c09d592c8a6c004b1e84bb33be34a13e0b3244fa9",
+    "compile_only/app/com/cootek/smartinput5/backup/BackupArchive.java": "618c8c604271ef8a655b6deb8570414c9eb3ace086df48a142919d7472f2644b",
+    "compile_only/app/com/cootek/smartinput5/backup/BackupController.java": "8ea462e207f115962ecdffc70d50672425f75975f5f3eafc3200a243ccf47832",
+    "compile_only/app/com/cootek/smartinput5/backup/BackupExport.java": "14dcdb45800ff27d927e9591cfae101464bf7facda2cd41165fe7ce0d7557b98",
+    "compile_only/app/com/cootek/smartinput5/backup/BackupFiles.java": "8a6f75abc4822ff97092b178feb31a56bba55ea4a6246c3e2cd80fad33c9fb0e",
+    "compile_only/app/com/cootek/smartinput5/backup/BackupPreferences.java": "e41fe3efa83c44266476032de7c31c38737bfbefcffbe0f45a5a46adae406657",
+    "compile_only/app/com/cootek/smartinput5/backup/BackupTransaction.java": "dc2204e13f91c91bb5953e3822b348596b77c7c3811539365d95b94d226f6357",
+    "compile_only/app/com/cootek/smartinput5/backup/ClipboardBackup138.java": "cbc0e65d87352ed4796c6370404e6f6831f1dbffede8ffc18bb1649dc063de63",
+    "compile_only/app/com/cootek/smartinput5/backup/WesternExport135.java": "0e9e07eb5a472a00858d03bbbbe0f374ab8bd1a9880a1276ba0e61b42d138e40",
+    "compile_only/app/com/cootek/smartinput5/backup/WesternImport137.java": "359ce64893702b5e3cdae6daeb7ee937ca2064d83b45d4ed514d952b4f24c3b3",
+    "compile_only/app/com/cootek/smartinput5/engine/ClipboardBackend.java": "cb0ce5aa88587d239db6f8e6dcb1587a7df28ca312ea3e20a5b32af9b5809148",
+    "compile_only/app/com/cootek/smartinput5/engine/ClipboardDbHelper.java": "2ded9ccb0fea4e9f3d3e1ee8753adf082b42d25736acaf33784fa45a6163ab18",
+    "compile_only/app/com/cootek/smartinput5/engine/Config.java": "73bd34a0a0ff65e1695bff20e0b1ddcd241e032d8464a1205a6e961c3a132db0",
+    "compile_only/app/com/cootek/smartinput5/engine/Engine.java": "c891c080e4f17d9a57f2dd675332a04ffbe611c2836068a7e90e81963bf8248e",
+    "compile_only/app/com/cootek/smartinput5/engine/Okinawa.java": "d83670d5d7fe848ef70052be2010b227ca7e79c0514106b95ecc3316d1f43bef",
+    "compile_only/app/com/cootek/smartinput5/engine/Settings.java": "1e8b9aa17c880519619325d9f77c391a6bbc6eecc6d38492b2222c07b149ede4",
+    "compile_only/app/com/cootek/smartinput5/func/I.java": "fb791a0ae071e7594946bfad5eb3216fe40a0416b7bfef69556e8f06972389b4",
+    "compile_only/app/com/cootek/smartinput5/func/h0.java": "4c2e06a11348068806523d4fc3d618a24655a897d6f37b4fb915566b2339c543",
+    "compile_only/app/com/cootek/smartinput5/func/i0.java": "86d9984bd1299c2867f8b94b1263144f4d02528f588bee488547bffb5fc4fd5b",
+    "compile_only/app/com/cootek/smartinput5/func/z.java": "1ed803ec631c7454d0a7d541945863251d980b508107ccf649ae415dfa88179b",
+    "compile_only/app/com/cootek/smartinput5/settings/CandidatePanel141.java": "74b63afca8f03159ce9f88ab6fd0b44482f2660958bfd7fbfadc2b72d4f7ce2e",
+    "compile_only/app/com/cootek/smartinput5/settings/RecentSettings146.java": "9bddbdb70b8a4ebdbf8f46258f8ec32989481f440cdc9a2c9dfc9b6e7ac642ca",
+    "compile_only/app/com/cootek/smartinput5/settings/ServiceSettings150.java": "6b39436dc0e2bf4d76bc2e03f45ee02dd1c10619212451b1660d00f543138ee5",
+    "compile_only/app/com/cootek/smartinput5/settings/SettingsIcons149.java": "e5bead8e1d1e1b7adc74951675aacda4fa444e75fc6279c74c09844afd209195",
+    "compile_only/app/com/cootek/smartinput5/settings/SizeSettingsPage.java": "6a63caec4dc367b3522d67105e4b4e2fdfebdfc183a4279550a028d76e86fb4d",
+    "compile_only/app/com/cootek/smartinput5/settings/ToolbarConfig140.java": "6763caf3688e3652d7fff235a827aa1c9c11386d2bb2f1b9227ebe406137a7d7",
+    "compile_only/app/com/cootek/smartinput5/skin/BundledGateTheme.java": "37b199d309517fcd157fc48e1c90c1cb244db77f1f5b2c19f8314a4c45134f88",
+    "compile_only/app/com/cootek/smartinput5/storage/StorageImport135.java": "3d0f5f5b61faf19b7b30dfe754f9bf3483d44839b00ae99afdf3b865b4a8b476",
+    "compile_only/app/com/cootek/smartinput5/storage/StorageRoot135.java": "2ea7f0262008406a17720cdb2fc7449043ea8828707a0a6f37961fec57c05862"
+  },
+  "compiled_smali_sha256": {
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$1.smali": "56837aea26c2866fe4c29967ab4de81d15160baf36f48fb0a3c0d77592702156",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$RowFrame.smali": "1ed55f81b776ef297943792381f8cd499c881c979d27d10e53c14aaba3630091",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$Rows.smali": "82af45378494f6347336ca71ffc38b9ad7f1d57acf5bd65cf6b7ed1dd989dd19",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings.smali": "7ab93d8ed6d67b166f3b949ff10e03449ea9c133fc052855b47d00a32f20f23b"
+  },
+  "class_entries": [
+    "com/cootek/smartinput5/settings/CompactSettings$1.class",
+    "com/cootek/smartinput5/settings/CompactSettings$RowFrame.class",
+    "com/cootek/smartinput5/settings/CompactSettings$Rows.class",
+    "com/cootek/smartinput5/settings/CompactSettings.class"
+  ],
+  "android_api": 16,
+  "min_api": 15,
+  "stubs_not_packaged": true,
+  "published143_dependencies_not_packaged": true,
+  "base_version": "150",
+  "base_apk_sha256": "d93a417b7bd2e0d601fbffcd1ab0c9266aeb0cace36bc0fbb8fdf6b23144eb54"
+}

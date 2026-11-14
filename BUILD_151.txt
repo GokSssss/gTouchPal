@@ -1,0 +1,45 @@
+gTouchPal151 — восстановление сборки
+
+Основа: TouchPal Keyboard6.2.7.1, прежний мод150, пакет com.cootek.smartinputv5.
+Оригинальная версия6.2.7.1/versionCode9999 подтверждена исходным APK
+Touchpal_android16_base.apk SHA256
+469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+
+Рабочий бинарный вход этой сборки — неизменныйAPK150:
+https://drive.google.com/file/d/12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u/view
+33402698байт, SHA256
+d93a417b7bd2e0d601fbffcd1ab0c9266aeb0cace36bc0fbb8fdf6b23144eb54
+Скопировать в output/150-gTouchPal-6.2.7.1.apk.
+Прежние открытые модули и закрытая основа берутся из этого точного входа.
+
+Инструменты: Java17+ с модулем jdk.compiler, Python3, AndroidAPI16/androidAPI34
+JAR, Apktool2.12.1, R8/D8 иapksigner. Точные хеши и официальные источники
+перечислены в ui151/TOOLCHAIN_INPUTS.json. Инструменты поместить в tools/.
+Maven3.9.11 и зависимости Robolectric4.16.1 нужны только для framework-тестов.
+
+Комплект подписи:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Получить используемыйJKS и файл «Параметры сборки и подписи.txt» из этой папки.
+Задать TOUCHPAL_KEYSTORE и TOUCHPAL_SIGNING_INFO путями к этим локальным файлам.
+Их содержимое не копировать в репозиторий илиSOURCE.
+Ожидаемый SHA256 сертификата:
+0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+
+Из корня распакованногоSOURCE выполнить:
+python3 ui151/compile_helpers.py
+python3 ui151/build.py
+python3 ui151/tests/run_dex_checks.py
+
+Результат: output/151-gTouchPal-6.2.7.1.apk.
+Для framework-тестов: python3 ui151/tests/framework/run.py.
+Можно указать системныйMaven через TOUCHPAL_TEST_MAVEN.
+Закрытые engine/cache/resizeграницы в этих тестах заменены явно объявленными
+двойниками; framework и ресурсы значков берутся из настоящего подписанногоAPK.
+Интерфейс и реальную переактивациюIME нужно дополнительно проверить на телефоне.
+
+Пакет/разрешения/компонентыAndroid не меняются, растёт только версия10064.
+ИсходныйAPK/SOURCE150 не перезаписывается; опубликованный151 также неизменяем.
+Новая доработка получает следующий номер152+.
+
+Изменения151: общий левый отступ заголовков и подписей строк48dp, разделов14dp. Убраны вложенные старые отступы только по ветви текста, checkbox/обработчики сохранены. В точном классе MoveContrailView изменены только цвета w/y/z/A на#FFF6D333; конструкторы рукописных подклассов наследуют прежние цвета. B/C, геометрия и затухание не меняются.

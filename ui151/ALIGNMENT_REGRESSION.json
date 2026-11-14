@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "regression": "Actual platform Preferences plus nested inset rows; TP150 system title84px versus48px expected",
+  "checks": [
+    "Title and summary at48dp for ordinary/system/checkable rows",
+    "Section heading at14dp",
+    "Checkbox visible and checked",
+    "Recycled row does not drift"
+  ],
+  "framework": "Robolectric SDK34, production CompactSettings source and signed151APK assets",
+  "phone_tested": false
+}

@@ -9131,5 +9131,15 @@
       "same_sha256": true
     },
     "reason": "Two latest complete releases retained;147 build input and137 fixture have no remaining SOURCE147/148 consumers."
+  },
+  "pending151": {
+    "status": "HOST_DEX_VERIFIED_SOURCE_FREEZE_NEXT",
+    "directory": "ui151",
+    "scope": [
+      "Settings leading alignment",
+      "Wave#F6D333"
+    ],
+    "diagnostics_inherited150": true,
+    "phone_tested": false
   }
 }

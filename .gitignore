@@ -29,3 +29,21 @@ ui150/tests/classes/
 ui150/tests/framework/target/
 ui150/tests/framework/generated/
 ui150/tests/framework/external/
+
+#151 generated build and local tool caches
+/tools
+/output
+/framework
+ui151/decoded/
+ui151/compile_classes/
+ui151/helper_classes/
+ui151/helper_decoded/
+ui151/helpers.*
+ui151/contracts.jar
+ui151/rebuilt.apk
+ui151/tests/classes/
+ui151/tests/framework/target/
+ui151/tests/framework/generated/
+ui151/tests/framework/external/
+ui151/retention_before/
+ui151/history151.zip

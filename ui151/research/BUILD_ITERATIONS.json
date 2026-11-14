@@ -1,0 +1,17 @@
+{
+  "published": false,
+  "iterations": [
+    {
+      "iteration": 1,
+      "bytes": 33402404,
+      "sha256": "ca519f52c0345ad92c897707838c60e55a017376e0497030b083a0eed929eccf",
+      "reason": "Unpublished first package; regenerate journal assets151 before final build"
+    },
+    {
+      "iteration": 2,
+      "bytes": 33402126,
+      "sha256": "3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+      "reason": "Final151, rendered27feature cards/133chronology entries;19framework/actualDEX/API16/source-bound4 classes PASS"
+    }
+  ]
+}

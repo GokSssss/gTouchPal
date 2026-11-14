@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.cootek.smartinputv5" android:versionCode="10062" android:versionName="6.2.7.1-149">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="28"/>
+  <application android:theme="@android:style/Theme.Holo">
+    <activity android:name="com.cootek.smartinput5.ui.settings.KeyboardCustomizeActivity"/>
+  </application>
+</manifest>

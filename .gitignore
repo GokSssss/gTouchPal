@@ -47,3 +47,6 @@ ui151/tests/framework/generated/
 ui151/tests/framework/external/
 ui151/retention_before/
 ui151/history151.zip
+
+# Versioned release passports are attached to Releases and compact history.
+/*-gTouchPal-Passport-*.txt

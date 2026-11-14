@@ -1,0 +1,28 @@
+Действующие бинарные входы после150
+149APK дляSOURCE150 находится в предыдущем полном выпуске, не дублируется воВходах.
+148-TouchPal T9 DelFix-6.2.7.1.apk
+1stIooES6P3Spa41Q9EkoWDDZuL1QFyBa
+33353137байт;SHA256 e5165e3f37b72e85a13bc6668374b62c627b75a5f67d3579fa1461160de4cf4c
+Нужен: ui149/build.py
+
+134_BUILD_INPUT_для_135.apk
+1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX
+26882367байт;SHA256 64d390c2fb3339ac9cdb79d6ab9ccece3bdc2d761c7536b41c689cf4f43ff53e
+Нужен: storage135/build.py
+
+TEST89_BUILD_INPUT_для_TEST90.apk
+1laQrw8PeCi6UHuLlItEIfnxhp2u8bfMJ
+20071255байт;SHA256 6b192592d4352da373cb711251de81e75dc433e435023c21d670739ab5542f50
+Нужен: symbols90/build.py
+
+TEST79_BUILD_INPUT_для_TEST80.apk
+1GouT67MkW1mv7zs94P_AKEgeBsQ2iCyO
+20042684байт;SHA256 4e34d4fbd26e0318f067fbaed93ff1f29df5e28a762c896ec80f7f3caa3a344b
+Нужен: symbols80/build.py
+
+TEST71_BUILD_INPUT_для_TEST72.apk
+11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f
+20047051байт;SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
+Нужен: diagnostics72/build.py
+
+147input и137fixture удалены после снятия последних потребителей SOURCE147/148.148APK только перемещён; ID/URL/SHA прежние.

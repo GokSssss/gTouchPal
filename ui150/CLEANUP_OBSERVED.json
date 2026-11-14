@@ -1,0 +1,46 @@
+{
+  "executed": true,
+  "version": "150",
+  "date": "2026-11-14",
+  "removed": [
+    {
+      "key": "148SOURCE",
+      "id": "1pexcKBONGnT553LlrBo80ghsEIL_S2Rl",
+      "bytes": 1428191,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+    },
+    {
+      "key": "148Passport",
+      "id": "1PhtZubE6dSjQB9OjHeXCf420GUKiVHRv",
+      "bytes": 9258,
+      "parent": "1gsGaKgJEkSqAbcQYnNk3T0AP7TwDw_Mb"
+    },
+    {
+      "key": "147input",
+      "id": "1KtvQWsq2UZnfJBwdi5Ph3Ic41uVZ_BTu",
+      "bytes": 33354270,
+      "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+    },
+    {
+      "key": "137fixture",
+      "id": "1oRpTlgFY-KlGs894h-xkHRNuMqnfPeo1",
+      "bytes": 39764822,
+      "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+    }
+  ],
+  "empty_folder": "1gsGaKgJEkSqAbcQYnNk3T0AP7TwDw_Mb",
+  "bytes_removed": 74556541,
+  "preserved_complete": [
+    "150",
+    "149"
+  ],
+  "protected_checkpoints_unchanged": 11,
+  "history_all_payloads_verified": true,
+  "moved_input": {
+    "version": "148",
+    "id": "1stIooES6P3Spa41Q9EkoWDDZuL1QFyBa",
+    "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+    "same_sha256": true
+  },
+  "reason": "Two latest complete releases retained;147 build input and137 fixture have no remaining SOURCE147/148 consumers."
+}

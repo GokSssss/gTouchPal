@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "counts": {
+    "root": 8,
+    "current": 2,
+    "previous": 2,
+    "sources": 12,
+    "inputs": 6,
+    "checkpoints": 12
+  },
+  "protected_folder_ids_preserved": true,
+  "obsolete_files_absent": true
+}

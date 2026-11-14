@@ -1,0 +1,14 @@
+{
+  "version": "150",
+  "bytes": 43342697,
+  "sha256": "b53a2eb61aa58111b127dbe12fe73e3ba5fe2dc63c9b90ad3d973c926e475e43",
+  "entries": 9256,
+  "manifest_hashes": 9255,
+  "stages": 155,
+  "individual_logs": 154,
+  "original_payloads_preserved": 9227,
+  "old_manifest_preserved": true,
+  "retired148_passport_preserved": true,
+  "post_publication149_preserved": true,
+  "no_full_source_or_apk_added": true
+}

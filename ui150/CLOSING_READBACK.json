@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "registry_sha256": "fd7d0050a3003d2c4630f3c8f41eb4fa32b503aad272e9efb02da0f579bded81",
+  "core_public_downloads_verified": true,
+  "live_documents_verified": 8,
+  "project_mark_present": true,
+  "retained": [
+    "150",
+    "149"
+  ],
+  "phone_tested": false
+}

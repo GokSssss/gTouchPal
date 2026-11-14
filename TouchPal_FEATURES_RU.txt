@@ -697,3 +697,7 @@ https://drive.google.com/file/d/1y9OY_zsSGrGpW9vgaQ3kboM-vRXRUcBZ/view
 
 150 — Диагностика по удержанию журнала
 Долгое нажатие на «Журнал новых функций» открывает прежнюю диагностику. Короткое нажатие открывает журнал. Отдельный пункт с главной страницы убран; запись и сохранённые отчёты доступны прежним способом.
+
+https://github.com/GokSssss/gTouchPal-/releases/tag/v150
+https://drive.google.com/file/d/12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u/view
+https://drive.google.com/file/d/1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS/view

@@ -1,0 +1,18 @@
+{
+  "version": "149",
+  "status": "COMPLETE",
+  "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v149",
+  "tag_source_commit": "9e0765cadb58b4eb37c29c522e559440ccc3c4c3",
+  "both_services_raw_readbacks_verified": true,
+  "source_isolated_rebuild_identical": true,
+  "live_documents_exact": 8,
+  "retention_complete": [
+    "149",
+    "148"
+  ],
+  "protected_unchanged": 11,
+  "root_mark_verified": true,
+  "phone_tested": false,
+  "installer_and_source_immutable": true,
+  "next_version": "150+"
+}

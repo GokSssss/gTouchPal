@@ -5,5 +5,7 @@
   "base": "148",
   "base_mod_version": "148",
   "apk": "output/149-gTouchPal-6.2.7.1.apk",
-  "build_instructions": "BUILD_149.txt"
+  "build_instructions": "BUILD_149.txt",
+  "published_immutable": true,
+  "next_new_version": "150+"
 }

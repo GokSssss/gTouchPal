@@ -1,0 +1,61 @@
+{
+  "all_exact": true,
+  "documents": [
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "path": "/workspace/touchpal/10\u0411\u0430\u0437\u0430!",
+      "bytes": 249761,
+      "sha256": "ebdf1414cd521023a6d70d9c0224d3db279521d26895a068bbaa6d8c3c523b24",
+      "verified": true
+    },
+    {
+      "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+      "path": "/workspace/touchpal/TouchPal_FEATURES_RU.txt",
+      "bytes": 163471,
+      "sha256": "f2100b5dc6b781659329d8e723f8193d1d9f96779d79966653962705709f57a7",
+      "verified": true
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "path": "/workspace/touchpal/TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 587906,
+      "sha256": "66a38300d652ba4f4653dc9310ce7456200bd29869f2290c9857402821e82f3e",
+      "verified": true
+    },
+    {
+      "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+      "path": "/workspace/touchpal/PROJECT_STORAGE.json",
+      "bytes": 430149,
+      "sha256": "276ce21b141fbbd3a39bee2cb604e0af7f6498e0f48845c5ea073e550070a82e",
+      "verified": true
+    },
+    {
+      "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+      "path": "/workspace/touchpal/SOURCE_INDEX_RU.txt",
+      "bytes": 645,
+      "sha256": "4faeaf53dd2a69efb76b198bc38038758d2c54edc93e125dfa4f68879707a726",
+      "verified": true
+    },
+    {
+      "id": "1KgVrw1Yv2Xa2M1DvgbTDWbTlpsuzfBUa",
+      "path": "/workspace/touchpal/PROJECT_CONTENTS_RU.txt",
+      "bytes": 645,
+      "sha256": "4faeaf53dd2a69efb76b198bc38038758d2c54edc93e125dfa4f68879707a726",
+      "verified": true
+    },
+    {
+      "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+      "path": "/workspace/touchpal/ui149/INPUTS_README_RU.txt",
+      "bytes": 1549,
+      "sha256": "cac0f5f0c4aa3fbe8c8f31b7a9bfb544dc6d7c8ab8b5160a4b4a3f0cf585bfd8",
+      "verified": true
+    },
+    {
+      "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+      "path": "/workspace/touchpal/TouchPal_\u041d\u043e\u0432\u043e\u0432\u0432\u0435\u0434\u0435\u043d\u0438\u044f_\u043e\u0442_DelFix.xlsx",
+      "bytes": 38903,
+      "sha256": "b9283ba42f0568de4b9a8474a2802a2470ecc1c1f781b2085e36e4e740912760",
+      "verified": true
+    }
+  ]
+}

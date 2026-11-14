@@ -78,5 +78,46 @@
     "android_runtime_executed": false
   },
   "repository": "GokSssss/gTouchPal-",
-  "visibility": "public"
+  "visibility": "public",
+  "publication": {
+    "version": "149",
+    "status": "COMPLETE",
+    "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v149",
+    "tag_source_commit": "9e0765cadb58b4eb37c29c522e559440ccc3c4c3",
+    "both_services_raw_readbacks_verified": true,
+    "source_isolated_rebuild_identical": true,
+    "live_documents_exact": 8,
+    "retention_complete": [
+      "149",
+      "148"
+    ],
+    "protected_unchanged": 11,
+    "root_mark_verified": true,
+    "phone_tested": false,
+    "installer_and_source_immutable": true,
+    "next_version": "150+"
+  },
+  "github_assets": [
+    {
+      "name": "149-gTouchPal-6.2.7.1.apk",
+      "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v149/149-gTouchPal-6.2.7.1.apk",
+      "bytes": 33403512,
+      "sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+      "public_unauthenticated_download_verified": true
+    },
+    {
+      "name": "149-gTouchPal-Passport-6.2.7.1.txt",
+      "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v149/149-gTouchPal-Passport-6.2.7.1.txt",
+      "bytes": 5841,
+      "sha256": "e518d71b5611b77102f3268856238ace5c9269d2ff62b67e5f61619c0b378be3",
+      "public_unauthenticated_download_verified": true
+    },
+    {
+      "name": "149-gTouchPal-SOURCE-6.2.7.1.zip",
+      "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v149/149-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1016247,
+      "sha256": "87633cef7c27695cefd085bf2b0a27176e86b1954497b9ff61a101c13bc99b36",
+      "public_unauthenticated_download_verified": true
+    }
+  ]
 }

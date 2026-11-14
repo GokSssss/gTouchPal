@@ -690,3 +690,7 @@ https://drive.google.com/file/d/1stIooES6P3Spa41Q9EkoWDDZuL1QFyBa/view?usp=drive
 После вставки текста больше не появляется автоматическое предложение сохранить содержимое буфера. Обычная вставка и ручное сохранение доступны прежним способом.
 Новая страница О приложении
 Указаны основа TouchPal Keyboard6.2.7.1, благодарность Tanh за создание и развитие, продолжение GokS. Доступны ссылки на исходный пост Tanh на4PDA и репозиторий gTouchPal наGitHub.
+
+https://github.com/GokSssss/gTouchPal-/releases/tag/v149
+https://drive.google.com/file/d/1qm47RSZPPJbaHAhBblD2Y5KxbgwZp8GE/view
+https://drive.google.com/file/d/1y9OY_zsSGrGpW9vgaQ3kboM-vRXRUcBZ/view

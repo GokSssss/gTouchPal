@@ -1,0 +1,28 @@
+{
+  "executed": true,
+  "gate": {
+    "allowed": true,
+    "reason": "Routine two-latest cleanup after149/148 raw readbacks and complete history preservation",
+    "keep_complete": [
+      "149",
+      "148"
+    ],
+    "protected_unchanged": 11,
+    "move_only": {
+      "id": "1KtvQWsq2UZnfJBwdi5Ph3Ic41uVZ_BTu",
+      "to": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+      "needed_by": "immutable SOURCE148"
+    },
+    "retire_ids": [
+      "1AMBsa1Km0f_Z9TWJJ-Jx0oXBKEwoGXSh",
+      "1JNIA2vrQWtSP_kzM7mUjOr08lG1GfUwH",
+      "1cZCK88ONsEmm5BlOm5Z2FhQu4jIql07i",
+      "1O1X4EOUzGy4VIzkeD3pWCUsGzv8VNm2a"
+    ],
+    "expected_freed_bytes": 34729546
+  },
+  "moved147_apk_only_once": true,
+  "history_raw_readback_verified": true,
+  "bytes_removed": 34729546,
+  "all_protected_checkpoints_untouched": true
+}

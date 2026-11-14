@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "registry": {
+    "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+    "file": "PROJECT_STORAGE.json",
+    "bytes": 437224,
+    "sha256": "527ecc9c2180c527a310ed94cb67822e2be894280e3800ffbe899ea3ffd78294",
+    "raw_bytes_match": true
+  },
+  "documents": 8,
+  "current": "151",
+  "previous": "150",
+  "source_archives": 12,
+  "protected_checkpoints": 11,
+  "inputs": 5,
+  "history_all_entries_verified": 9297,
+  "rule_revision": "2026-11-12T15:14:11.854Z",
+  "checked_at_utc": "2026-11-14T22:49:12.867430+00:00",
+  "root_name": "10 TouchPal T9 DelFix √",
+  "phone_tested": false
+}

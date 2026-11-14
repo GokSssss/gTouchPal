@@ -1,8 +1,8 @@
-gTouchPal150/149
-GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v150
-150APK https://drive.google.com/file/d/12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u/view
+gTouchPal151/150
+GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v151
+151APK https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
+151SOURCE https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
+SHA256 269ddd5e09ab4f373b7bf41ca95d98f0bc381b31fe1fd7ec1f7f08636d4ee14d
 150SOURCE https://drive.google.com/file/d/1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS/view
 SHA256 a8c86507e86e58e0402743ed035cb0c38b67041f2ec494b09c74ffc013b299c5
-149SOURCE https://drive.google.com/file/d/1y9OY_zsSGrGpW9vgaQ3kboM-vRXRUcBZ/view
-SHA256 87633cef7c27695cefd085bf2b0a27176e86b1954497b9ff61a101c13bc99b36
-Две последние полные версии и11прежних контрольных точек.150проверочный, телефон ожидается. Диагностика — долгое нажатие на журнал.
+Две последние полные версии и11прежних полезных точек.151проверочный, телефон ожидается. Диагностика — долгое нажатие на журнал.

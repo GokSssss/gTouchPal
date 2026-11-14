@@ -1,0 +1,42 @@
+{
+  "removed": [
+    {
+      "path": "/workspace/touchpal/output/148-TouchPal T9 DelFix-6.2.7.1.apk",
+      "bytes": 33353137,
+      "sha256": "e5165e3f37b72e85a13bc6668374b62c627b75a5f67d3579fa1461160de4cf4c",
+      "reason": "Obsolete149SOURCE or148input;151/150 and required149input preserved."
+    },
+    {
+      "path": "/workspace/touchpal/149-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1016247,
+      "sha256": "87633cef7c27695cefd085bf2b0a27176e86b1954497b9ff61a101c13bc99b36",
+      "reason": "Obsolete149SOURCE or148input;151/150 and required149input preserved."
+    },
+    {
+      "path": "/workspace/touchpal/github/ui151/history151.zip",
+      "bytes": 44387755,
+      "sha256": "f2f8db36701a4930b38d2eb561a7338fe5420ccb7f58dfc7428f35addc18eb99",
+      "reason": "Verified intermediate duplicate; full current history and release readback proofs preserved."
+    },
+    {
+      "path": "/workspace/touchpal/github/ui151/retention_before/history_before151.zip",
+      "bytes": 43342697,
+      "sha256": "b53a2eb61aa58111b127dbe12fe73e3ba5fe2dc63c9b90ad3d973c926e475e43",
+      "reason": "Verified intermediate duplicate; full current history and release readback proofs preserved."
+    },
+    {
+      "path": "/workspace/touchpal/github/ui151/rebuilt.apk",
+      "bytes": 38075640,
+      "sha256": "ecfeb2748ac382c6d7461fe9b9043a74e5bd3b11dce4ef589788b24168e9f12c",
+      "reason": "Verified intermediate duplicate; full current history and release readback proofs preserved."
+    },
+    {
+      "path": "/workspace/touchpal/runtime151-prep/history-readback151.zip",
+      "bytes": 44387755,
+      "sha256": "f2f8db36701a4930b38d2eb561a7338fe5420ccb7f58dfc7428f35addc18eb99",
+      "reason": "Verified intermediate duplicate; full current history and release readback proofs preserved."
+    }
+  ],
+  "canonical_current_history_preserved": true,
+  "published151_150_and_required149_inputs_preserved": true
+}

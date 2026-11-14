@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "retained": [
+    "151",
+    "150"
+  ],
+  "protected": 11,
+  "moved149_input_verified": true,
+  "all9297_history_entries_verified": true,
+  "delete_after_readbacks": [
+    "149SOURCE",
+    "149Passport",
+    "148input",
+    "empty149folder"
+  ],
+  "expected_bytes_removed": 34375225
+}

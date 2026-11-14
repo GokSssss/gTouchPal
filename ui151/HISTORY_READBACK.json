@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+  "bytes": 44387755,
+  "sha256": "f2f8db36701a4930b38d2eb561a7338fe5420ccb7f58dfc7428f35addc18eb99",
+  "all_manifest_entries_verified": 9297,
+  "raw_bytes_read_back": true,
+  "original9255_payloads_preserved": true,
+  "old_manifest_and_journals_preserved": true,
+  "exact_retired149_passport_preserved": true
+}

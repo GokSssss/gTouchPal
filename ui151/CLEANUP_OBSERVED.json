@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE",
+  "date_utc": "2026-11-14T22:43:07.090117+00:00",
+  "bytes_removed": 34375225,
+  "deleted_ids": [
+    "1y9OY_zsSGrGpW9vgaQ3kboM-vRXRUcBZ",
+    "1wcvKMpLFo20DsiI6LVFHeQ28RjxBJV5T",
+    "1stIooES6P3Spa41Q9EkoWDDZuL1QFyBa",
+    "14vt_HUjyBgKQ00aI5ezRp6dReI1zBtKS"
+  ],
+  "empty149_folder_verified": true,
+  "moved149_id": "1qm47RSZPPJbaHAhBblD2Y5KxbgwZp8GE",
+  "move_raw_sha256_verified": true,
+  "keep": [
+    "151",
+    "150"
+  ],
+  "protected_unchanged": 11,
+  "original9255_history_payloads_preserved": true,
+  "published_github149_150_unchanged": true
+}

@@ -1,0 +1,9 @@
+{
+  "source_sha256": "269ddd5e09ab4f373b7bf41ca95d98f0bc381b31fe1fd7ec1f7f08636d4ee14d",
+  "apk_sha256": "3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+  "product_files_checked": 42,
+  "current_product_sources_match_frozen_source": true,
+  "late_updates_are_records_only": true,
+  "tag": "v151",
+  "source_commit": "78ef56599c3f88c4796166ffb193afdf2e890236"
+}

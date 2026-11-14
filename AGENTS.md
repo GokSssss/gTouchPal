@@ -308,3 +308,14 @@ SOURCE https://drive.google.com/file/d/1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS/view
 
 
 151 in progress: owner settings alignment plus Wave yellow#F6D333. Only CompactSettings family and exact MoveContrailView constructor change; three version labels. Preserve150 journal-hold diagnostics, original engine/ranking/data/geometry/fading. Use fresh151 Drive signing materials, never export private values. No agents. Published150/149 immutable; final151 SOURCE one freeze and downloaded-source rebuild/readbacks before release.
+
+
+14.11.2026 — завершение публикации151
+Названия/подписи пунктов и заголовки разделов настроек имеют общие отступы; системный пункт выровнен с остальными. Обычная и анимированная линии Wave — жёлтые#F6D333, толщина/затухание/жест/цвета рукописных подклассов сохранены. Диагностика остаётся на долгом нажатии журнала150, короткое открывает журнал.
+19frameworkпроверок, actualDEX/API16,10176прежних классов,1ограниченный конструктор Wave/4скомпилированных собственных класса/3метки версии, прежний сертификатv1/v2/v3. Изолированная пересборка скачанного финальногоSOURCE побайтово совпала с подписаннымAPK;19проверок/DEX/API прошли повторно. Это проверочный выпуск, неAndroidART/телефонная приёмка151; ранжирование/данные не менялись.
+Полные151/150,11прежних полезных контрольных точек,12SOURCE и5нужныхAPK-входов+README сохранены.149APK один раз перенесён с прежнимиID/URL/SHA воВходы дляSOURCE150; имя метаданных приведено к149-gTouchPal-6.2.7.1.apk. После exactreadbacks151/150/149input и всей истории сняты SOURCE149/его паспорт/пустая папка и ненужный148input. Освобождено34375225байт. GitHub149/150 и прежние теги не менялись.
+Сохранены все9255прежних payload/старый manifest, точныйпаспорт149, post-publication150 и прежние живые журналы. История9298entry/9297hash,156этапов/155индивидуальныхжурналов,6880патчей/файлов реализации. ОпубликованныеAPK/SOURCE151 не перезаписываются; поздние ID/проверки/очистка — вGit/живых документах, в следующемSOURCE. Общая редакция12.11.2026 15:14:11.854UTC сверена без изменений.
+GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v151
+APK https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
+SOURCE https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
+Неизменныйтегv151: 78ef56599c3f88c4796166ffb193afdf2e890236

@@ -847,3 +847,8 @@ TEST121 — Компактные варианты по долгому нажат
 • Диагностика остаётся на долгом нажатии журнала; короткое нажатие открывает журнал.
 
 Предыдущий внешний журнал сохранён целиком в компактной истории при публикации151; история не удаляется.
+
+https://github.com/GokSssss/gTouchPal-/releases/tag/v151
+https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
+https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
+Проверочный151: телефон/IME ещё не проверены; диагностика под удержанием журнала.

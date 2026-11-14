@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "id": "1qm47RSZPPJbaHAhBblD2Y5KxbgwZp8GE",
+  "name": "149-gTouchPal-6.2.7.1.apk",
+  "old_drive_name": "149-gTouchPal.apk",
+  "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+  "bytes": 33403512,
+  "sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+  "same_id_and_url": true,
+  "metadata_name_normalized": true,
+  "move_verified": true,
+  "raw_bytes_read_back": true,
+  "needed_for": "SOURCE150"
+}

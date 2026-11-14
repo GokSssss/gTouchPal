@@ -1,0 +1,65 @@
+{
+  "documents": [
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "file": "10База!",
+      "bytes": 257714,
+      "sha256": "489cdaca745c60448edcc0db6a4cf1fdbe32c9066477046d80998d0f90f101f7",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+      "file": "TouchPal_FEATURES_RU.txt",
+      "bytes": 151469,
+      "sha256": "0b68b8572c0bb449a19f5ac3b72f8184fc2684a55e5136bc252bce8b2ebaa9c5",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "file": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 595859,
+      "sha256": "033bbbcbdd322bf45f2b14e5798ffd731a1695ecdd29ec5e76b8e6b18ffcb52c",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+      "file": "SOURCE_INDEX_RU.txt",
+      "bytes": 700,
+      "sha256": "3f2c3a98fbcf880e780057d840c2aeaad01283869a8d8dd53b9606f3544c28ab",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "1KgVrw1Yv2Xa2M1DvgbTDWbTlpsuzfBUa",
+      "file": "PROJECT_CONTENTS_RU.txt",
+      "bytes": 700,
+      "sha256": "3f2c3a98fbcf880e780057d840c2aeaad01283869a8d8dd53b9606f3544c28ab",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+      "file": "INPUTS_README_RU.txt",
+      "bytes": 1329,
+      "sha256": "2f80c4cbede8d3a89a0534ddd1edbfa88a15fed4193fdf43a8e34bf28d9d4cac",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+      "file": "TouchPal_Нововведения_от_DelFix.xlsx",
+      "bytes": 39291,
+      "sha256": "abec0bc1ae64e6824c6d4edebd81eac44fcb39d1cd9ccfd45363fd1f7d4229d5",
+      "raw_bytes_match": true
+    },
+    {
+      "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+      "file": "PROJECT_STORAGE.json",
+      "bytes": 437224,
+      "sha256": "527ecc9c2180c527a310ed94cb67822e2be894280e3800ffbe899ea3ffd78294",
+      "raw_bytes_match": true
+    }
+  ],
+  "count": 8,
+  "workbook_rows": 192,
+  "workbook_old190_rows_preserved": true,
+  "verified": true,
+  "registry_pending": false
+}

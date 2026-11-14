@@ -1,0 +1,2 @@
+package com.cootek.smartinput5.backup;
+final class BackupArchive {static final class Archive {final java.util.Map<String,String> metadata=null;final java.util.Map<String,byte[]> entries=null;}static Archive read(java.io.InputStream i)throws java.io.IOException{return null;}static void write(java.io.OutputStream o,java.util.Map<String,byte[]> m,java.util.Map<String,String> meta)throws java.io.IOException{} }

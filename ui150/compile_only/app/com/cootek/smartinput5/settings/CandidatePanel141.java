@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.settings;public class CandidatePanel141 {public static void migrate(android.content.Context c){throw new UnsupportedOperationException();}public static int count(android.content.Context c){throw new UnsupportedOperationException();}public static boolean openCount(android.preference.Preference p){throw new UnsupportedOperationException();}}

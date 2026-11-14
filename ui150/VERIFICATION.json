@@ -1,0 +1,27 @@
+{
+  "version": "150",
+  "apk_bytes": 33402698,
+  "apk_sha256": "d93a417b7bd2e0d601fbffcd1ab0c9266aeb0cace36bc0fbb8fdf6b23144eb54",
+  "tests": 18,
+  "framework": "Robolectric SDK34 with real preferences/views and signed APK assets; explicit cache/resize doubles; original diagnostic actions represented by fixture handlers",
+  "main_list_fits_normal_font_dp": 750,
+  "framework_captures": "research/framework-capture",
+  "android_art_or_phone_executed": false,
+  "own_helper_families": 2,
+  "own_compiled_classes": 6,
+  "original_classes_compared": 10174,
+  "bounded_original_methods": 0,
+  "api16_own_helpers_verified": true,
+  "original_hook_verification": "No original native methods/fields changed. Original diagnostic objects and all their handlers inherited unchanged.",
+  "same_certificate": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+  "signature_schemes": [
+    "v1",
+    "v2",
+    "v3"
+  ],
+  "classes2_unchanged": true,
+  "native_rom_languages_resources_and_data_paths_unchanged": true,
+  "diagnostics": "Journal short click preserved, hold opens original hidden PreferenceScreen; refresh/action listeners, repeated opening and unrelated holds covered by real framework tests",
+  "ranking": "Existing policy/store/classes unchanged; owner-reported possible partial ordering reset still requires phone evidence.",
+  "local_icons": 32
+}

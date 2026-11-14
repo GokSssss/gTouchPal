@@ -1,0 +1,5 @@
+PASS bounded original hooks: 0 methods across 0 classes; other methods/fields unchanged
+PASS all 10174 original classes compared; 7 changes within declared own helpers, bounded hooks and3version labels; 2 added/0 removed
+Changed [Lcom/cootek/smartinput5/settings/CompactSettings$1;, Lcom/cootek/smartinput5/settings/CompactSettings$RowFrame;, Lcom/cootek/smartinput5/settings/CompactSettings$Rows;, Lcom/cootek/smartinput5/settings/CompactSettings;, Lcom/cootek/smartinput5/settings/VoiceReportExport;, Lcom/cootek/smartinput5/ui/KeyboardBuildMark;, Lcom/cootek/smartinput5/voice/VoiceTrace;]
+Added [Lcom/cootek/smartinput5/settings/ServiceSettings150$JournalHold;, Lcom/cootek/smartinput5/settings/ServiceSettings150;]
+Removed []

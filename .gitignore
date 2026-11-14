@@ -18,3 +18,14 @@ ui149/tests/classes/
 ui149/tests/framework/target/
 ui149/tests/framework/generated/
 ui149/tests/framework/external/
+
+ui150/decoded/
+ui150/compile_classes/
+ui150/helper_classes/
+ui150/helper_decoded/
+ui150/helpers.*
+ui150/contracts.jar
+ui150/tests/classes/
+ui150/tests/framework/target/
+ui150/tests/framework/generated/
+ui150/tests/framework/external/

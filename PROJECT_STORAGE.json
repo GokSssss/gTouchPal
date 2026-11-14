@@ -9017,5 +9017,12 @@
     "history_raw_readback_verified": true,
     "bytes_removed": 34729546,
     "all_protected_checkpoints_untouched": true
+  },
+  "pending150": {
+    "instruction": "Diagnostics hidden behind LONG PRESS on journal; ordinary press opens journal",
+    "scope": "two own helpers only; existing diagnostics objects/backend unchanged",
+    "phone_test_confirmed": false,
+    "previous149_immutable": true,
+    "status": "host tests/build and publication in progress"
   }
 }

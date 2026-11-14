@@ -1,0 +1,35 @@
+{
+  "base": "output/149-gTouchPal-6.2.7.1.apk",
+  "base_sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+  "version": "150",
+  "version_code": 10063,
+  "version_labels": [
+    "smali/com/cootek/smartinput5/ui/KeyboardBuildMark.smali",
+    "smali/com/cootek/smartinput5/settings/VoiceReportExport.smali",
+    "smali/com/cootek/smartinput5/voice/VoiceTrace.smali"
+  ],
+  "replacement_helper_families": [
+    "com/cootek/smartinput5/settings/CompactSettings",
+    "com/cootek/smartinput5/settings/ServiceSettings150"
+  ],
+  "smali_overlay": [
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$RowFrame.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$Rows.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/ServiceSettings150$JournalHold.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/ServiceSettings150.smali"
+  ],
+  "apk_overlay": {
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "bytes": 72705,
+      "sha256": "dba310b7921bd071dbf0f398eae03484de90413988759507151a0441239c3c0d"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "bytes": 100329,
+      "sha256": "8f191f27185e08eaf553487c676c981c063a97a8525ee436bfaca8478aa9a649"
+    }
+  }
+}

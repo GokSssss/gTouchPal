@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.settings; public class SizeSettingsPage {public static android.widget.Button actionButton(android.content.Context c,CharSequence s){throw new UnsupportedOperationException();}}

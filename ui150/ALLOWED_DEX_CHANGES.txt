@@ -1,0 +1,15 @@
+add Lcom/cootek/smartinput5/settings/CompactSettings;
+add Lcom/cootek/smartinput5/settings/CompactSettings$*
+change Lcom/cootek/smartinput5/settings/CompactSettings;
+change Lcom/cootek/smartinput5/settings/CompactSettings$*
+remove Lcom/cootek/smartinput5/settings/CompactSettings;
+remove Lcom/cootek/smartinput5/settings/CompactSettings$*
+add Lcom/cootek/smartinput5/settings/ServiceSettings150;
+add Lcom/cootek/smartinput5/settings/ServiceSettings150$*
+change Lcom/cootek/smartinput5/settings/ServiceSettings150;
+change Lcom/cootek/smartinput5/settings/ServiceSettings150$*
+remove Lcom/cootek/smartinput5/settings/ServiceSettings150;
+remove Lcom/cootek/smartinput5/settings/ServiceSettings150$*
+change Lcom/cootek/smartinput5/ui/KeyboardBuildMark;
+change Lcom/cootek/smartinput5/settings/VoiceReportExport;
+change Lcom/cootek/smartinput5/voice/VoiceTrace;

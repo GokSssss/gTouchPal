@@ -1,0 +1,30 @@
+{
+  "apk": "/workspace/touchpal/output/150-gTouchPal-6.2.7.1.apk",
+  "apk_sha256": "d93a417b7bd2e0d601fbffcd1ab0c9266aeb0cace36bc0fbb8fdf6b23144eb54",
+  "base_sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+  "allowed_scope_sha256": "7528c0bf22651bd66c9715311fb3cff931508010fa680be196797ed6c82c62fd",
+  "class_comparison_passed": true,
+  "actual_dex_abi_resolution_passed": true,
+  "compile_only_stubs_checked_against_actual_apk": true,
+  "actual_smali_overlay_apis_checked": true,
+  "original_sdk23_permission_calls_inherited_unchanged": true,
+  "new_helpers_checked_with_api16_original_hook_classes_resolved_with_api34": true,
+  "resolved_overlay_prefixes": [
+    "Lcom/cootek/smartinput5/settings/CompactSettings",
+    "Lcom/cootek/smartinput5/settings/CompactSettings$",
+    "Lcom/cootek/smartinput5/settings/ServiceSettings150",
+    "Lcom/cootek/smartinput5/settings/ServiceSettings150$",
+    "Lcom/cootek/smartinput5/settings/VoiceReportExport",
+    "Lcom/cootek/smartinput5/ui/KeyboardBuildMark",
+    "Lcom/cootek/smartinput5/voice/VoiceTrace"
+  ],
+  "sdk16_core_helper_prefixes": [
+    "Lcom/cootek/smartinput5/settings/CompactSettings",
+    "Lcom/cootek/smartinput5/settings/ServiceSettings150"
+  ],
+  "sdk34_optional_helper_prefix": "Lcom/cootek/smartinput5/cursor/Api34CursorBounds",
+  "sdk34_optional_actual_dex_passed": true,
+  "sdk34_optional_jar_sha256": "6cea1df3efb77103ac3e2beb9bf4718964b0e0869ab16d39d29d5cbae1c147ad",
+  "sdk34_not_claimed_as_sdk16": true,
+  "sdk34_cursor_bridge_inherited_unchanged": true
+}

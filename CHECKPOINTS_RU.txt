@@ -1,0 +1,140 @@
+TouchPal — выбранные точки возврата
+12.11.2026:11 полезных точек, включая рабочую135 с подтверждённым владельцем восстановлениемZIP. Ни один её файл не удалён, ID и байты сохранены.
+29.10.2026.10точек вКлючевых, включая TEST90, перемещённую после TEST92 без дублирования. Резерв90до нативного GigaAM не имеет полного телефонного подтверждения.
+
+TEST90 — Резерв до добавления нативного локального GigaAM. Не содержит офлайн-движка/загрузчика и сохраняет прежний API-путь. Независимая ценность при сбое загрузки JNI, памяти или модели.
+https://drive.google.com/drive/folders/1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR
+APK TEST90_TouchPal_SYMBOL_PICKER.apk
+https://drive.google.com/file/d/1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1/view
+SHA256 3af3887fec03173bd3c29d9fd3ea6791bea4d10cd24dc59d3fc7cf49d80b230b
+SOURCE TEST90_TouchPal_SYMBOL_PICKER_sources.zip
+https://drive.google.com/file/d/14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr/view
+SHA256 cf5bd7556beca5d1e52a26998dde0f4fa9a86f47eef5a1cf4a0b54818112d622
+Телефон: Сборка и проверки DEX/JVM прошли; TEST90 на телефоне ещё не проверена. Ошибка крайних ячеек TEST89 воспроизведена её настоящим обработчиком и исправлена в модели.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Локальная сборка соответствующего выпуска и host-проверки прошли. Отдельная чистая пересборка пользователем из скачанного SOURCE не выполнялась; побайтовая детерминированность не заявляется.
+Паспорт https://drive.google.com/file/d/1JjbIt0AEIQFS1YtUFL8WsAA7bVxZ5Kul/view
+
+DelFix T10 — Подтверждённая исходная DelFix перед синхронизацией высоты и T9
+https://drive.google.com/drive/folders/1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9
+APK T10_TouchPal_DeleteFix_FINAL_SIGNED.apk
+https://drive.google.com/file/d/14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb/view
+SHA256 f03959d9dcff02fef2f094004a0a9fa799530671c6f7facb46c463506a5a5bdd
+SOURCE T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip
+https://drive.google.com/file/d/1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV/view
+SHA256 729efc3805b3a3209529f431572af5df8fc20e1f600e8acbfa8f73d59d13c34b
+Телефон: Исходный журнал15.09.2026: пользователь подтвердил запуск, ввод и удаление старых слов. Сейчас сверены реальные APK/нативная библиотека; нового прогона на телефоне не было.
+Полнота: Исторический комплект с ограничениями: Найденные smali, документы и проверенный бинарный патч, не полный исходный проект закрытого TouchPal.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1mK8rwFzHHy-QdUoF1CNHjauB-GzTk9RV/view
+
+TEST40 — Историческая подтверждённая Final; отдельные постоянные ссылки сохранены
+https://drive.google.com/drive/folders/1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn
+APK TEST40_TouchPal_FINAL.apk
+https://drive.google.com/file/d/1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC/view
+SHA256 ce379270283a7465ac3ca7f31d8cfee5e3564107d034908066dfd48c95053f9f
+SOURCE TEST40_TouchPal_FINAL_sources.zip
+https://drive.google.com/file/d/1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_/view
+SHA256 4a2185ebaad469e6d1648e03e67805bebe494113f6e857bb1a1036a3af7bb927
+Телефон: Пользователь подтвердил: «Шикарно». TEST40 и её исходники сохранены как текущая Final на прежних постоянных ссылках.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1lNsXW0yDEFMg1lGoLT8O8uKg7r05tB9q/view
+
+T9+DelFix — Первая доступная функциональная база перед жестами пробела
+https://drive.google.com/drive/folders/1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L
+APK T9+DelFix_TouchPal.apk
+https://drive.google.com/file/d/1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI/view
+SHA256 485ee5328066731794da2f0e327bd1b55e7b9b18a1958da3987eda5af7841926
+Отдельный SOURCE не найден; см. ограничения в паспорте.
+Телефон: Подтверждённая функциональная база по исходному описанию.
+Полнота: Исторический комплект с ограничениями: Отдельный SOURCE.zip исходной T9+DelFix не найден. Сохранён исходный APK, первоначальное описание и точные diff двух Lua-файлов; полный проект закрытого оригинального TouchPal недоступен.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/13l5mRqqHZbTkVl9ZvPg9l7ZYa3hRLnP7/view
+
+TEST36 — TEST36 — орфография, до новых кнопок
+https://drive.google.com/drive/folders/1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw
+APK TEST36_TouchPal_SYSTEM_SPELLCHECK.apk
+https://drive.google.com/file/d/1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx/view
+SHA256 27e3c0b8d62ad780458b3c747f204e64f5f58933d18d2039e25810a7adb7d654
+SOURCE TEST36_TouchPal_SYSTEM_SPELLCHECK_sources.zip
+https://drive.google.com/file/d/13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ/view
+SHA256 028eb74ec8e05a1508a08170acc2a97f3ac792afe01e47c8ca3404a2f04be337
+Телефон: Пользователь подтвердил: работает почти везде. На телефоне проверены RU/EN запросы слов/предложений и подсветка/меню исправлений. Некоторые поля приложений не показывают системную проверку. Пропуски форм относятся к прежнему словарю TouchPal; механики/исключения не добавлялись. Повторный аудит кода пройден.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1eAmef5dLUIKYl-V84rKN8oW658advrfr/view
+
+TEST34 — TEST34 — физическая клавиатура, до орфографии
+https://drive.google.com/drive/folders/18m3lBhXK5xySUc96JHI89qenD89ah0l7
+APK TEST34_TouchPal_CLEAN_PHYSICAL.apk
+https://drive.google.com/file/d/10DJBEZjuktzwTcTcWm973-MmAzS9_kqU/view
+SHA256 790ae93c8b3cff2cf747137785855d5abb01b7a3ce7ae39d3c08c680ccc684d5
+SOURCE TEST34_TouchPal_CLEAN_sources.zip
+https://drive.google.com/file/d/1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4/view
+SHA256 aa1e3083b3ff3b6119b9319d880cd92cbd58653804f02f96130654c0542a734d
+Телефон: Пользователь 2026-10-17: «Проверил, все работает.» Принята в локальную Final без пересборки. Обновление бинарных файлов на Диске пока не подтверждено из-за зависания загрузки.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1RVS6Tal1HMgKZG07CX_VRKLaDuCZE9d9/view
+
+TEST21 — TEST21 — жесты, до физической клавиатуры
+https://drive.google.com/drive/folders/16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa
+APK TEST21_TouchPal_CURSOR_RETREAT.apk
+https://drive.google.com/file/d/1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R/view
+SHA256 4e84e106d78509531ba8ce244a47ed60b1a76572518d000f630aaaa7fb13c64e
+SOURCE TEST21_TouchPal_sources.zip
+https://drive.google.com/file/d/1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ/view
+SHA256 d044146503af2b3409591e5f7d94427ee2c6e08d04117a0b4eec3a53f31702f0
+Телефон: Механика лучше; попросили увеличить запас разворота.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1CvsxtxRgQVHrRzHgkPt53fvyV0Hghq8r/view
+
+TEST15 — TEST15 — тёмное оформление
+https://drive.google.com/drive/folders/1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO
+APK TEST15_TouchPal_DARK_UI.apk
+https://drive.google.com/file/d/1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS/view
+SHA256 1c281bcb44a741fb21c51614214622c82bea066f80e6d4bc130a70015e70d8ea
+SOURCE TEST15_TouchPal_sources.zip
+https://drive.google.com/file/d/1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j/view
+SHA256 b3ee1b0608c1133fae84c1539a46007d7fb0de80b33eb9760e1cfdeae796e329
+Телефон: Пользователь: «всё работает». Принята в Final.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1DHVaxTwB8DxsyyBpqH6gU97B150XkLbq/view
+
+TEST72 — перед упрощением голосового ввода
+https://drive.google.com/drive/folders/1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC
+APK TEST72_TouchPal_MANUAL_DIAGNOSTICS.apk
+https://drive.google.com/file/d/1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm/view
+SHA256 a2976995afc142865ff6f14268f5ead4fcfe99c33c4bd28a00c3c0408a52c4b3
+SOURCE TEST72_TouchPal_MANUAL_DIAGNOSTICS_sources.zip
+https://drive.google.com/file/d/18rGj7u6Hmt9q6mCyx9s47NLntdTomRul/view
+SHA256 6d5fcd3859199bdd0d59812577e30685ad9b213f15e0eb2a6b96434815fe1131
+Телефон: На телефоне эта сборка пока не проверена; исчезновение мелькания и исправление провайдера не заявляются.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1rESW3fpR7jLblJPmYegtXeDDZ38nJI_f/view
+
+TEST80 — TEST80 перед полной сеткой знаков
+https://drive.google.com/drive/folders/17AcRrWqvewOehPE5s4146epfH063dFZw
+APK TEST80_TouchPal_HOLD_COORDS_MENU.apk
+https://drive.google.com/file/d/1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj/view
+SHA256 40775a45e78c7c389beedbd0beb7bf46e84f346188bed895fc03336c2476e18f
+SOURCE TEST80_TouchPal_HOLD_COORDS_MENU_sources.zip
+https://drive.google.com/file/d/1aNIbFek9CkBz5FakK471WkVQyBF4dkR_/view
+SHA256 1ceccfec62edd3bbbc720f7115fe10f3a1d810acffdf844a4a8461e8ef275f7e
+Телефон: Телефонный TXT79:ROOT hit=true/KEYBOARD localHit=true,ноSYMBOL_SKIP_NO_KEY;через221мс nativeLONGPRESS1. Отказ прежнего helper воспроизведён в модели смещённого окна и исправлен;80 на телефоне ещё не проверена. Пользователь положительно оценил вид80; сообщил об отсутствии возврата после обычного выбора знака. В81 добавлен единый fallbackabc.
+Полнота: Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.
+Пересборка: Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.
+Паспорт https://drive.google.com/file/d/1TlaV3bTOv071KSmBfnGn_k4M5WmPdCTB/view
+
+135 — рабочий резерв восстановления
+https://drive.google.com/drive/folders/1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI
+APK https://drive.google.com/file/d/17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s/view?usp=drivesdk
+SHA256 3608cfa36ffc4f45010ac08ca5c7b15582120732c366ef5be8d2cbd7435864bf
+SOURCE https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view?usp=drivesdk
+SHA256 4d3d3d8b336d2291b58a7f699725ca985653464112be6507d38cd31518c15555
+Причина защиты: Владелец подтвердил чистую установку135 и восстановлениеZIP; последняя явно принятая база восстановления до ошибок экспорта137.
+Паспорт https://drive.google.com/file/d/1rZeg9EhlR_UFD4T4u9bF-5s_g34NJ0_X/view?usp=drivesdk

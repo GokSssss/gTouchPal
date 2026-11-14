@@ -1,0 +1,4 @@
+Lcom/cootek/smartinput5/engine/Engine; checkTextPasted(III)V
+Lcom/cootek/smartinput5/func/resource/ui/c; onResume()V
+Lcom/cootek/smartinput5/preference/AboutPreferenceActivity; onCreate(Landroid/os/Bundle;)V
+Lcom/cootek/smartinput5/TPAboutPageActivity; onCreate(Landroid/os/Bundle;)V

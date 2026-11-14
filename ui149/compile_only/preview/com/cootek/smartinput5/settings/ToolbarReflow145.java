@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.settings;public class ToolbarReflow145 {public static int outerWidth(int width){throw new UnsupportedOperationException();}public static boolean hidden(android.view.View v,int i){throw new UnsupportedOperationException();}public static int width(int a,int c,int i){throw new UnsupportedOperationException();}}

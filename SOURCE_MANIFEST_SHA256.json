@@ -1,0 +1,1066 @@
+{
+  "10База!": {
+    "bytes": 247541,
+    "sha256": "d6767ad4750b40f89f512b8e4644818644bdb18bf3acdb5065ca382373ea7e2b"
+  },
+  "ACTIVE_BUILD.json": {
+    "bytes": 210,
+    "sha256": "e66bf7b6bd53a5fdb4b5ec856f1216f393dddef3d45fba1846ac5a071d927ffb"
+  },
+  "AGENTS.md": {
+    "bytes": 84750,
+    "sha256": "8685b2788817d0846202d103c0fc6db110e3778b1d9a33a4f1b6a902df88ae33"
+  },
+  "BUILD_149.txt": {
+    "bytes": 3025,
+    "sha256": "495c8eb7d4ea0b20283e621adf091517c93f3aa6c6b855e9bd0dcc9bf7b2ad1f"
+  },
+  "CHECKPOINTS_RU.txt": {
+    "bytes": 16206,
+    "sha256": "0d4f6666df6970850c6d07e9a34f2f9c2ea3e7607d973ab018957e518d728ad9"
+  },
+  "GENERAL_PROJECT_RULES.txt": {
+    "bytes": 40929,
+    "sha256": "e29e314f3bbf1b6fba2ec2af7b234203c2024256d343638f129d6c936e75c49a"
+  },
+  "PROJECT_STORAGE.json": {
+    "bytes": 428219,
+    "sha256": "e51d321fb29279fa2fba3f38d86310294c7cfd6cf996c0a3b205ccf3837c12f3"
+  },
+  "README.md": {
+    "bytes": 2978,
+    "sha256": "a97e550fe7caa2bad31deca70c53a3b63d057bf62c4c8a2c895b04371ed1f319"
+  },
+  "TouchPal_DEVELOPMENT_LOG_RU.txt": {
+    "bytes": 586072,
+    "sha256": "e14eb0ebe2c2e3daef7164991639395da230c97045259e7bf32928cdae1fb9fb"
+  },
+  "TouchPal_FEATURES_RU.txt": {
+    "bytes": 163271,
+    "sha256": "9e33e5b5066e0b7f2b2aa2c869aa07409d0ed47fe27d3df29f5c49bcb200f145"
+  },
+  "ui149/ABI34_TEST.txt": {
+    "bytes": 172,
+    "sha256": "5338ad28b52a59a9d864ef13e2acf3d763cf9ea3fe663a86273c96e8d5eece0f"
+  },
+  "ui149/ABI_HOOKS_TEST.txt": {
+    "bytes": 182,
+    "sha256": "6b7351bdab5a9b3fbfbde51cfd44e360a0bb66e06c4d68d1791383b204ccac35"
+  },
+  "ui149/ABI_TEST.txt": {
+    "bytes": 176,
+    "sha256": "c6255ea3f084e275001de61693838b71dd22dec90240c54b37453b4fb1c9090e"
+  },
+  "ui149/ALLOWED_DEX_CHANGES.txt": {
+    "bytes": 2423,
+    "sha256": "41d2809221575ef36b6fb71e378407f20d2ea25dbb34e5efd397b806612ef967"
+  },
+  "ui149/ALLOWED_METHOD_CHANGES.txt": {
+    "bytes": 284,
+    "sha256": "9fab9ed222a37a1b6eabbc5946365255faa3b431f534d661cca954231b979b3d"
+  },
+  "ui149/BASE_SIGNATURE_CHECK.txt": {
+    "bytes": 322,
+    "sha256": "331aa9c622e15f9850643e7a1ba84b7ed5a08a8cd4ab9ef76f613c477c42e9f9"
+  },
+  "ui149/BUILD_LOG.txt": {
+    "bytes": 9091,
+    "sha256": "e2bbed0eb84c56f67ede6a8ea3c36c678f734f9eb4c31b1a21530a52c91c7b87"
+  },
+  "ui149/COMPILE_LOG.txt": {
+    "bytes": 1599,
+    "sha256": "fefc8e27c05ee55dbae910ad5c306225989b464b56df1274b0cdd16ba60d8984"
+  },
+  "ui149/DEX_CHECK_LOG.txt": {
+    "bytes": 1807,
+    "sha256": "0786cc5f43be2c1822e9dcedc5d07269c1d8337c045bdd82c05ddbd3f4cda122"
+  },
+  "ui149/DEX_TEST.txt": {
+    "bytes": 1277,
+    "sha256": "c96dbaa133d32ddc47e8183e1393d6597d00ec12ab7ddd572e8df33a6f2df170"
+  },
+  "ui149/DEX_VERIFICATION.json": {
+    "bytes": 2442,
+    "sha256": "2b65246c0fa9fe307d2038207910b8aa8a56e7132166a706460399691ebec400"
+  },
+  "ui149/FRAMEWORK_TEST_LOG.txt": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "ui149/HELPERS_COMPILED.json": {
+    "bytes": 21240,
+    "sha256": "92c5534e1efbf7af0671741fa4d06d50174fd385b062af9a8bf1a33144e2d0fe"
+  },
+  "ui149/ICONS.json": {
+    "bytes": 3015,
+    "sha256": "a1e9a0d63ba3fae2e7465fc7d1f82f23783dbdc5a7399e4e196f3f064ec77f24"
+  },
+  "ui149/OVERLAY_MANIFEST.json": {
+    "bytes": 9037,
+    "sha256": "cb50b4b9d23462218494bba9f986ce6406aee74cc6260e754abc844db39cfbf0"
+  },
+  "ui149/PACKAGE_VERIFIED.json": {
+    "bytes": 8313,
+    "sha256": "6e0751fd72e6f34eac76ab02c470e9103a4f4cae29663c56160607a8564d90a3"
+  },
+  "ui149/README_RU.txt": {
+    "bytes": 4392,
+    "sha256": "6e49dd112a06fc0b620c4d930962b7ef502535ca27a4de0dd4e516697720ecea"
+  },
+  "ui149/REMOVED_FAMILIES.json": {
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "ui149/SIGNATURE_CHECK.txt": {
+    "bytes": 968,
+    "sha256": "b176852bab6d6492110cc0d2a0cf90b0530dd35b57793f7c2c8a317622b00e6e"
+  },
+  "ui149/SMALI_PATCHES.json": {
+    "bytes": 1233,
+    "sha256": "34bd554123d8c3e349cb5369887575b0025b9c71c1e2327d13153ad5d8680c58"
+  },
+  "ui149/TOOLCHAIN_INPUTS.json": {
+    "bytes": 2112,
+    "sha256": "dbbfbfa5abc0507ea640bf1443dc78941392848424b1e90adf9601d21e0e829e"
+  },
+  "ui149/TouchPal_Нововведения_от_DelFix.xlsx": {
+    "bytes": 38902,
+    "sha256": "8ca0c119dc4497f150d988aaeeb7f74670aa116f2fb454881bcb9ceee2c71311"
+  },
+  "ui149/VERIFICATION.json": {
+    "bytes": 1242,
+    "sha256": "57f5524abe529660f10d128ef65d61ebe0beac538069608c3e070f9513329610"
+  },
+  "ui149/VERSION.json": {
+    "bytes": 189,
+    "sha256": "2193f39acbdc6403577706dedeada1a14e1f675866e012648da94967df2ac2fb"
+  },
+  "ui149/assets/touchpal_features.html": {
+    "bytes": 72403,
+    "sha256": "9a114a86989969d0603c0347d99168265acb22f3e513e1ed8833379db62149b9"
+  },
+  "ui149/assets/touchpal_history.html": {
+    "bytes": 99739,
+    "sha256": "c2ca797e90e78b6e74dca31d3208d97ce21c04d28d274840c37fee7fc031b70b"
+  },
+  "ui149/axml_tools.py": {
+    "bytes": 2114,
+    "sha256": "e9e43bd89f2d7e4389d86c2e13767aa46e7d73bb608962e3e80f0c5d5bb68216"
+  },
+  "ui149/build.py": {
+    "bytes": 4646,
+    "sha256": "e24921f8ed3bfeebe57356c8ae1a454a200364e13d3d54a7cef7c4981831d83a"
+  },
+  "ui149/chronology.json": {
+    "bytes": 92834,
+    "sha256": "29a0fb5eaea474dcdf77409001340fcc9e3e4a7540fd1a8b2c5cd3aefb61c0a5"
+  },
+  "ui149/collect_verification149.py": {
+    "bytes": 3186,
+    "sha256": "ad8eac0ec843598b00eb06fe8147a7bd3d5e1486c2ba3055904f2f080f0a69f7"
+  },
+  "ui149/compile_helpers.py": {
+    "bytes": 4870,
+    "sha256": "d28959821b7792f9b32f5191a8b489943fccb4a1cc940ef422c3d7c767909315"
+  },
+  "ui149/compile_only/app/android/support/v4/app/Fragment.java": {
+    "bytes": 184,
+    "sha256": "aff3764b011f5466906afeb36fee98915b2e8c6e1d94c19e8293911546bb96b9"
+  },
+  "ui149/compile_only/app/android/support/v4/widget/DrawerLayout.java": {
+    "bytes": 236,
+    "sha256": "7f2df97dbb14438b6a5bd33c09d592c8a6c004b1e84bb33be34a13e0b3244fa9"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/BackupArchive.java": {
+    "bytes": 411,
+    "sha256": "618c8c604271ef8a655b6deb8570414c9eb3ace086df48a142919d7472f2644b"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/BackupController.java": {
+    "bytes": 1147,
+    "sha256": "8ea462e207f115962ecdffc70d50672425f75975f5f3eafc3200a243ccf47832"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/BackupExport.java": {
+    "bytes": 398,
+    "sha256": "14dcdb45800ff27d927e9591cfae101464bf7facda2cd41165fe7ce0d7557b98"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/BackupFiles.java": {
+    "bytes": 1010,
+    "sha256": "8a6f75abc4822ff97092b178feb31a56bba55ea4a6246c3e2cd80fad33c9fb0e"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/BackupPreferences.java": {
+    "bytes": 764,
+    "sha256": "e41fe3efa83c44266476032de7c31c38737bfbefcffbe0f45a5a46adae406657"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/BackupTransaction.java": {
+    "bytes": 666,
+    "sha256": "dc2204e13f91c91bb5953e3822b348596b77c7c3811539365d95b94d226f6357"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/ClipboardBackup138.java": {
+    "bytes": 227,
+    "sha256": "cbc0e65d87352ed4796c6370404e6f6831f1dbffede8ffc18bb1649dc063de63"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/WesternExport135.java": {
+    "bytes": 359,
+    "sha256": "0e9e07eb5a472a00858d03bbbbe0f374ab8bd1a9880a1276ba0e61b42d138e40"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/backup/WesternImport137.java": {
+    "bytes": 342,
+    "sha256": "359ce64893702b5e3cdae6daeb7ee937ca2064d83b45d4ed514d952b4f24c3b3"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/engine/ClipboardBackend.java": {
+    "bytes": 155,
+    "sha256": "cb0ce5aa88587d239db6f8e6dcb1587a7df28ca312ea3e20a5b32af9b5809148"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/engine/ClipboardDbHelper.java": {
+    "bytes": 361,
+    "sha256": "2ded9ccb0fea4e9f3d3e1ee8753adf082b42d25736acaf33784fa45a6163ab18"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/engine/Config.java": {
+    "bytes": 92,
+    "sha256": "73bd34a0a0ff65e1695bff20e0b1ddcd241e032d8464a1205a6e961c3a132db0"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/engine/Engine.java": {
+    "bytes": 204,
+    "sha256": "c891c080e4f17d9a57f2dd675332a04ffbe611c2836068a7e90e81963bf8248e"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/engine/Okinawa.java": {
+    "bytes": 109,
+    "sha256": "d83670d5d7fe848ef70052be2010b227ca7e79c0514106b95ecc3316d1f43bef"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/engine/Settings.java": {
+    "bytes": 600,
+    "sha256": "1e8b9aa17c880519619325d9f77c391a6bbc6eecc6d38492b2222c07b149ede4"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/func/I.java": {
+    "bytes": 132,
+    "sha256": "fb791a0ae071e7594946bfad5eb3216fe40a0416b7bfef69556e8f06972389b4"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/func/h0.java": {
+    "bytes": 54,
+    "sha256": "4c2e06a11348068806523d4fc3d618a24655a897d6f37b4fb915566b2339c543"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/func/i0.java": {
+    "bytes": 97,
+    "sha256": "86d9984bd1299c2867f8b94b1263144f4d02528f588bee488547bffb5fc4fd5b"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/func/z.java": {
+    "bytes": 234,
+    "sha256": "1ed803ec631c7454d0a7d541945863251d980b508107ccf649ae415dfa88179b"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/settings/CandidatePanel141.java": {
+    "bytes": 373,
+    "sha256": "74b63afca8f03159ce9f88ab6fd0b44482f2660958bfd7fbfadc2b72d4f7ce2e"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/settings/SizeSettingsPage.java": {
+    "bytes": 208,
+    "sha256": "6a63caec4dc367b3522d67105e4b4e2fdfebdfc183a4279550a028d76e86fb4d"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/settings/ToolbarConfig140.java": {
+    "bytes": 176,
+    "sha256": "6763caf3688e3652d7fff235a827aa1c9c11386d2bb2f1b9227ebe406137a7d7"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/skin/BundledGateTheme.java": {
+    "bytes": 287,
+    "sha256": "37b199d309517fcd157fc48e1c90c1cb244db77f1f5b2c19f8314a4c45134f88"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/storage/StorageImport135.java": {
+    "bytes": 237,
+    "sha256": "3d0f5f5b61faf19b7b30dfe754f9bf3483d44839b00ae99afdf3b865b4a8b476"
+  },
+  "ui149/compile_only/app/com/cootek/smartinput5/storage/StorageRoot135.java": {
+    "bytes": 153,
+    "sha256": "2ea7f0262008406a17720cdb2fc7449043ea8828707a0a6f37961fec57c05862"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/TouchPalIME.java": {
+    "bytes": 113,
+    "sha256": "f6cbd543cb00a8854da3cbab473170daad0c26428cf2fe5480594720d1029794"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/engine/Config.java": {
+    "bytes": 94,
+    "sha256": "396e096309272c0cff06e88fa6fb5af194b16353c8431f778c5cc937e5bddfc2"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/engine/Engine.java": {
+    "bytes": 656,
+    "sha256": "825488f8fd8e7c6fc129939ea5adb0df92abffaed71fd8a76c61ce6a117e93fc"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/engine/Settings.java": {
+    "bytes": 768,
+    "sha256": "7f5407256ad5ec7c3f0a5dfe5e8e465897056a76ae7ac33377e6038608decdf0"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/CandidatePanel141.java": {
+    "bytes": 669,
+    "sha256": "398befb6e8634946c0b9148ce64da80f0217a11117e7a717f3be11bd91c07ebb"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/FreshDefaults137.java": {
+    "bytes": 128,
+    "sha256": "e372cd6d337eee3419792f1969cd2e1cb5f4d144849dbde3026ec05f8d16f505"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/ResizeHeightSnap.java": {
+    "bytes": 328,
+    "sha256": "e26b1e2e752a5bc947ab1cb06e89f4ffd0ff5b7e3cfaefdf3b6b6f77c6a171d2"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/SizeDrag134.java": {
+    "bytes": 496,
+    "sha256": "19b0c97dff345ccc6dd279986fd9ed6df8ce26a3cbc89ea681b556f77ef9fbba"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/SizeModel.java": {
+    "bytes": 4832,
+    "sha256": "efe0708d984c6e62f950977444583ad143696ea67696ce2cfa3337881fb5cdb3"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/SizePreview.java": {
+    "bytes": 1330,
+    "sha256": "c1799a35f3538cd6397f57ec066c3069cfa7ed70d1fb43984cf43536c71ab245"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/SizeRuntimeStore.java": {
+    "bytes": 5898,
+    "sha256": "21eaef59e653a2539f169f368162e275ee7d45a58cbd39b702ae817cb380c8fc"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/settings/ToolbarConfig140.java": {
+    "bytes": 578,
+    "sha256": "f6ce7841b2dec85249f0ad0a3d27c1e1ef5958b5f2ccc531da8163db60c912c1"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/sizes/CandidateDividers.java": {
+    "bytes": 337,
+    "sha256": "b5875b3d8dd98f55e5923dee09438c7ad2507998ec7e03271684780020188c7a"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/sizes/SizePixels130.java": {
+    "bytes": 977,
+    "sha256": "7e775797f732f1fd4b4b12f5ae96e0c8e8c3def534e5becf2df65a79bfccdd45"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/CandidateBar.java": {
+    "bytes": 254,
+    "sha256": "a6c5921b1bad01fc2572acc7f91b6d2a0faf3c72dec7e64117c1a0b7ef81ee9d"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/SizePreviewBridge.java": {
+    "bytes": 428,
+    "sha256": "aaf4e7b30c86886aca3c8b716bee5dff42415d5c6db6a36672bb40066ce0a529"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/SoftKeyboardView.java": {
+    "bytes": 285,
+    "sha256": "a4cf6ae734f14b25a3c0644a232f6b840ed059328717d1339267257f4c99de13"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/control/r.java": {
+    "bytes": 167,
+    "sha256": "e704cb7028aeafbda464dfbca4c03030afba767252891ff6db20977983d5e682"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/g.java": {
+    "bytes": 226,
+    "sha256": "6faa3769e2b39d47eb54ffa8dace6b9bc26ae03b1022605b858d108b74374a8e"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/o0.java": {
+    "bytes": 380,
+    "sha256": "1ad710fa4e5f54b5cb53670bf762f1bbc2a47d9fa75eab44890748abdeaae003"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/p0.java": {
+    "bytes": 113,
+    "sha256": "dc1d656d62cdcc3e546fa003b9ac4737c25cfa7506d264421976a0e3bcd10a70"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/settings/CandidateGapListPreference.java": {
+    "bytes": 221,
+    "sha256": "166c004aa025fd44c6a1fbfc563a9469b33cc433ca12490f43c3e50657051670"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/settings/EngCandidateMaxWordsListPreference.java": {
+    "bytes": 179,
+    "sha256": "41acae7ffb865a7ee8b9fa07fad34862e92ce2f29a6eb76c640789d31fe222bf"
+  },
+  "ui149/compile_only/page/com/cootek/smartinput5/ui/settings/KeyboardCustomizeActivity.java": {
+    "bytes": 160,
+    "sha256": "66106b4fae33a59fea8c201e4deeda0f93c89f21365dff589aacd2564b0ae41b"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/engine/Config.java": {
+    "bytes": 96,
+    "sha256": "a7b93f53d9670b0db12db5e402cbb022937c0d88ada768aac86ab188049585bd"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/engine/Engine.java": {
+    "bytes": 478,
+    "sha256": "0da1c404c2ad057ac7ae337c3461aea705049fdbf846e00b7a36116356ed9207"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/engine/Okinawa.java": {
+    "bytes": 864,
+    "sha256": "bd44b043bbcce4e637dd42f61bcab0fce4feff3ccdc97f66d00c0a59749ae1ea"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/engine/Settings.java": {
+    "bytes": 774,
+    "sha256": "12dce960b0c8bcc689c177c1410796c7cdead5c171b7eabbb76fe7f8dff9bd0b"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/func/B.java": {
+    "bytes": 156,
+    "sha256": "134d0df03ccf6d9bffae9dbb3e6fb08c7f14f0c746eb23f07301636ecf50877c"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/func/g0.java": {
+    "bytes": 728,
+    "sha256": "7bfd3f3753b921219fc3fd8d0c6bbd4c807a6ab530e49ae758a1fdf9b799b621"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/func/i0.java": {
+    "bytes": 666,
+    "sha256": "1ae06d18f9c561059352795698cbcdb18bcaa32fece7f2231f67bbd847379110"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/func/r0.java": {
+    "bytes": 162,
+    "sha256": "7acd53b97487149b1cbc734f2912c8295ec03a676b5cc12dc5710ec0ac70a31e"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/func/z.java": {
+    "bytes": 277,
+    "sha256": "f785c7d99338ed896def5a18ce321008735d74a5412398da2e13afeb2267ef3f"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/settings/CandidatePanel141.java": {
+    "bytes": 276,
+    "sha256": "b3cf35ad3038eaae5954f63c2ce5e5e99311b8b0c614ba05f1ad2e07e219d3c2"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/settings/SizeRuntimeStore.java": {
+    "bytes": 149,
+    "sha256": "1608107aa55c68bf2d3e9da7626ccdfc86a22b4a62956e3d4ebbb35e7795c4b9"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/settings/ToolbarActions143.java": {
+    "bytes": 195,
+    "sha256": "e613f3e473ac91f95f904452ad917e3ff8090b2a001d51c290effb7bf9bd49ac"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/settings/ToolbarConfig140.java": {
+    "bytes": 179,
+    "sha256": "775173a51c4f7c14f6378bcddd720965cc2b5b9633a8575adbce04788e47d03f"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/settings/ToolbarReflow145.java": {
+    "bytes": 341,
+    "sha256": "c041bf36152c030e7125c010c5e199b0035e7b8296c422e811fb77d7697bdcae"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/sizes/CandidateDividers.java": {
+    "bytes": 566,
+    "sha256": "3c595eaed54a82569afa2d26bfd8e9352889ace2480e59ae0228193f10e111f8"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/sizes/SizePixels130.java": {
+    "bytes": 977,
+    "sha256": "7e775797f732f1fd4b4b12f5ae96e0c8e8c3def534e5becf2df65a79bfccdd45"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/ColdSchemaSnapshot.java": {
+    "bytes": 1209,
+    "sha256": "81dd7fa941a0cae5de2744baf07c597ef6624753403244fd066ade870ffc0d1e"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/KeyboardPreview128.java": {
+    "bytes": 960,
+    "sha256": "72f974509cd4260a64505e39a2935e0bb39c4af8376ccc1bac1e4feb6090d913"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/RendingColorPosition.java": {
+    "bytes": 161,
+    "sha256": "e4400a017a5fb4b5303ba85f1b42733d1322a7a34ad463844831f5cece01d16d"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/SizePreviewBridge.java": {
+    "bytes": 2602,
+    "sha256": "d44b2bbc6667609842ac43c6565af8fb25fc336cec226ad26f52e172e0257ab1"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/SoftKeyInfo.java": {
+    "bytes": 247,
+    "sha256": "622f9935be135ef2e0cfe7366b672c6038dcf95c5bf114cc37cef11f9abdcc77"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/SoftKeyboardView.java": {
+    "bytes": 706,
+    "sha256": "889902d76b892cc1e51f8d506ac7e4fa8f91e47e32fbbdc98e2ea8802c9fb2ad"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/T.java": {
+    "bytes": 548,
+    "sha256": "d10857627e953d62bfc2f6ffb73c29f750b0e166f58f5247d5df31d2130d54f0"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/TextColorPosition.java": {
+    "bytes": 117,
+    "sha256": "b0d5b9cffaf223563b62214763309cef773b9f9651be70a8958ff2ba3134bcdc"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/TopScrollView.java": {
+    "bytes": 143,
+    "sha256": "8dfaf3ecd04695f3ffe3f8685dd7fb94c577d04c11cde63a345bf3ffac38febe"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/W.java": {
+    "bytes": 461,
+    "sha256": "bb03cb51dfa0176fa481cb939d13b566eb0fa57d34f17f749373b5f5aa3612e2"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/control/r.java": {
+    "bytes": 251,
+    "sha256": "dcdbf515e125ac638b2a478e7cefcb128f6325b687758984cbdd916443d5cd04"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/layout/WindowKeyboardDefaultParameters.java": {
+    "bytes": 434,
+    "sha256": "330a4d36ada1d56d6d57a5736b3eec398713748ecd789223fb6e41eb5a7dda25"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/o0.java": {
+    "bytes": 396,
+    "sha256": "847fbee17049348c652f886d90f45006653234bed2b9d7db6b518264b22afbca"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/schema/KeyboardSchema.java": {
+    "bytes": 1050,
+    "sha256": "1c9d40009db823a0e9300808ec4de55bb77db1849b39402357359923d8da325a"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/schema/RowSchema.java": {
+    "bytes": 307,
+    "sha256": "46e0827c9a1f4e6e147a2fb80f20646fb75184061101df1017df522f02a03f20"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/schema/b.java": {
+    "bytes": 1780,
+    "sha256": "877d982b2807bfdc32affa56712eed991e461d017b781bb79e7a3b0a5bce087e"
+  },
+  "ui149/compile_only/preview/com/cootek/smartinput5/ui/schema/d.java": {
+    "bytes": 178,
+    "sha256": "5d4326ae8c491de68fed5bff438951c453751e3949644e67df57f5593d1fe3e0"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/TouchPalIME.java": {
+    "bytes": 114,
+    "sha256": "df59acab3c0a747e8cd1ef3620c29f8972b94d5dba435da7b94d8b5054a6f474"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/engine/Engine.java": {
+    "bytes": 228,
+    "sha256": "9476df95336ce38bcb6c5f7c6e5f4641da75d979d185719de935cad91afeb909"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/func/i0.java": {
+    "bytes": 170,
+    "sha256": "cd8f03e597367fa83e9231da1c27a3f92ca0bb19bae8f8db0e805f4dca5be58f"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/func/z.java": {
+    "bytes": 118,
+    "sha256": "3324bc2f1eb96d89a5b5fb4e769672d2e6cf797f06dc3b91d9dbaa0d1b648ef3"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/settings/ToolbarActions143.java": {
+    "bytes": 260,
+    "sha256": "674dc9b7a615a136702c206e8e3fce00c27ca413b7ac19b748f87b1b4d528b0e"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/settings/ToolbarConfig140.java": {
+    "bytes": 178,
+    "sha256": "70bb23853c4972f85a68a0b2d132bf0045beeb50018506b5bff2d0bc56051096"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/ui/CandidateBar.java": {
+    "bytes": 146,
+    "sha256": "e92055ef973328440a2af7691358634a531d9b71d3af10e68e94b8425a372641"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/ui/CandidateCollapseButton.java": {
+    "bytes": 254,
+    "sha256": "3e911bbc0424205f5878b163b4d959254577a4bf26b76c8bedb1dd68a969d5f1"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/ui/F.java": {
+    "bytes": 435,
+    "sha256": "cb2e9687897696b6426e5f057767cf6e456063b569ebf594c88911efe20f7e64"
+  },
+  "ui149/compile_only/runtime/com/cootek/smartinput5/ui/RendingColorPosition.java": {
+    "bytes": 81,
+    "sha256": "7b945d32e8fcbeed20ecbb80cc27b8224ebee5179907ab4fe696283c5d1e784b"
+  },
+  "ui149/features.json": {
+    "bytes": 79865,
+    "sha256": "6d2910f724eae8ff737c818c768e876e8f05f5f7edc4f4df5985395c5d2a2f02"
+  },
+  "ui149/journal.css": {
+    "bytes": 785,
+    "sha256": "e91fee7b13726076890012b3e6ac88aa62bb3ba57813ab8daef2da1592cdf777"
+  },
+  "ui149/overlay/assets/settings149/activity.png": {
+    "bytes": 1840,
+    "sha256": "386d6f698af2aaad98c5014ea7c9e06d11aa459b9f0dca008ee93ee2e14c819c"
+  },
+  "ui149/overlay/assets/settings149/arrow-left.png": {
+    "bytes": 805,
+    "sha256": "112f275a5a99f6c72d0043eaea2e41a14718da2f7d14eb1c5a463dbfb68a0433"
+  },
+  "ui149/overlay/assets/settings149/arrow-up-right.png": {
+    "bytes": 750,
+    "sha256": "bd52d57ff96dd47cdc8a43b39d5b1b7698223d6d60ba06ecd87147dd1f914712"
+  },
+  "ui149/overlay/assets/settings149/candidate-count.png": {
+    "bytes": 1541,
+    "sha256": "eca068e2fe81f616c2ab072e07b52339f5873fa41d8909fcbc2c24693b92b3a2"
+  },
+  "ui149/overlay/assets/settings149/chevron-right.png": {
+    "bytes": 750,
+    "sha256": "a89a67d2fa8bf1b317c7180827487d16f58f331c1879dd4020a7d52d93d003cb"
+  },
+  "ui149/overlay/assets/settings149/clipboard.png": {
+    "bytes": 1210,
+    "sha256": "81daa17530817491379f0b8ad16fac9a8fc194df5c3f7dc984de7ca3d5107b0c"
+  },
+  "ui149/overlay/assets/settings149/font-size.png": {
+    "bytes": 1544,
+    "sha256": "b72f07f9ed17c27149b10d8155c0ae9c0996516a715457890e7250c15736cd20"
+  },
+  "ui149/overlay/assets/settings149/github-logo.png": {
+    "bytes": 2245,
+    "sha256": "196ab80efc53e15459c1fe4dfc05917c536753046629f8a78aa9010eedac4cbe"
+  },
+  "ui149/overlay/assets/settings149/history.png": {
+    "bytes": 2657,
+    "sha256": "c9b0b7278237b2aef4807677d7822071842931cbea7e7cde1f4c633ac2557ac6"
+  },
+  "ui149/overlay/assets/settings149/info.png": {
+    "bytes": 2677,
+    "sha256": "15c3eaeb49c866dc558adfb3078dd21b260539fbbe1d8f66ef01e2b52dc7f777"
+  },
+  "ui149/overlay/assets/settings149/keyboard.png": {
+    "bytes": 1152,
+    "sha256": "49994ade8c1a47f83416beeff4e23c264dcdee1ee09209faca03d404530cf3a2"
+  },
+  "ui149/overlay/assets/settings149/languages.png": {
+    "bytes": 1635,
+    "sha256": "448d504b46dd759afccb38e522397c1673899f77c3f8a4eb1c9d58e5801f4873"
+  },
+  "ui149/overlay/assets/settings149/laptop.png": {
+    "bytes": 1068,
+    "sha256": "176bc311f53b3b97154863e4f1fbf10226bc5008721e19c99d5b99a53cecbef1"
+  },
+  "ui149/overlay/assets/settings149/messages-square.png": {
+    "bytes": 1727,
+    "sha256": "5c8c31ebc7022299910b2248bc634b37120ae062ed9c86bbd7c36ab70e83b1d6"
+  },
+  "ui149/overlay/assets/settings149/mic.png": {
+    "bytes": 1990,
+    "sha256": "f44e791b2225ac7f2c01897414a261df0fcdb0114db7d6d502f2cd453deaa409"
+  },
+  "ui149/overlay/assets/settings149/moon.png": {
+    "bytes": 2486,
+    "sha256": "9f3277e63682010507b0164bc960ccce987f555d6258231a09b5a50dc5ae1ba7"
+  },
+  "ui149/overlay/assets/settings149/move-down.png": {
+    "bytes": 862,
+    "sha256": "bdba3b722a27945b212619b638b2b5f6495448fca12f2f181e1ada1872be0b0c"
+  },
+  "ui149/overlay/assets/settings149/move-up.png": {
+    "bytes": 807,
+    "sha256": "bb446e0e6279a7eb29f07a15c33401e292c655b8aeec4d87b04fdeedc763cb42"
+  },
+  "ui149/overlay/assets/settings149/move-vertical.png": {
+    "bytes": 1049,
+    "sha256": "562984d40314f14249b78f1b2b668a772cb1ed748df97c4cdf182f4f515757b3"
+  },
+  "ui149/overlay/assets/settings149/notebook-text.png": {
+    "bytes": 1214,
+    "sha256": "c06fd21f919bd9848219946e8948fc0b5b5fa24abb8f2ba5b92606f0eef6bd07"
+  },
+  "ui149/overlay/assets/settings149/palette.png": {
+    "bytes": 2935,
+    "sha256": "af7c60ccb8322cfe19bf324068adaf1356d1de15826461b14f3d5155a3dbf196"
+  },
+  "ui149/overlay/assets/settings149/panel-top.png": {
+    "bytes": 911,
+    "sha256": "a7d426df69d2a2822fba6f240d5ec85744c935c4df6c1a9ebafab006b555de7c"
+  },
+  "ui149/overlay/assets/settings149/popup-square.png": {
+    "bytes": 1223,
+    "sha256": "8022920c2690ab1ea29f34852459937cc4409d7621039dd04e4b057d9027c48f"
+  },
+  "ui149/overlay/assets/settings149/rotate-cw.png": {
+    "bytes": 2448,
+    "sha256": "40d191ff3c75a1b230c4fabd4b8f283fe0e14bc20f9416b4eb41770584c5ee11"
+  },
+  "ui149/overlay/assets/settings149/save.png": {
+    "bytes": 1468,
+    "sha256": "d65effee2c80947bec3d18663b9b71ed8de9963e1b81abe02a3cd4ac9f6b7b6b"
+  },
+  "ui149/overlay/assets/settings149/settings.png": {
+    "bytes": 3287,
+    "sha256": "20f2af11c49534fecc5c5184128f3b6d6b657ea287f96fb93f7db9c7b251ef88"
+  },
+  "ui149/overlay/assets/settings149/sliders-horizontal.png": {
+    "bytes": 892,
+    "sha256": "6df2100e6f7b3d0313c857f9641dc2b94dbd76baa462af90e98e7a922d69f32a"
+  },
+  "ui149/overlay/assets/settings149/spell-check.png": {
+    "bytes": 1328,
+    "sha256": "cd94f8d4c6d52874dede2ec18f3988c7d79738bf1219e7e594800f0ad137d691"
+  },
+  "ui149/overlay/assets/settings149/timer.png": {
+    "bytes": 2376,
+    "sha256": "12a4b17a199f726a2a82dfe194adec1a718ccfbe7ccaff7c16ee1f5bb0c39974"
+  },
+  "ui149/overlay/assets/settings149/type.png": {
+    "bytes": 757,
+    "sha256": "f1f29b2ed79ed13805d1d730f40973fb3fd9273457cc5cd13753df0490c3a5f3"
+  },
+  "ui149/overlay/assets/settings149/vibrate.png": {
+    "bytes": 1158,
+    "sha256": "8a0a99f90602bb44bd872c7e73166160a0965eb4c646241a3c5b7030f087868d"
+  },
+  "ui149/overlay/assets/settings149/volume-2.png": {
+    "bytes": 2059,
+    "sha256": "7f49395b1b6f57c1c5b0ee647b3db64af249ef6cf302e631aaf7d4a462a172f5"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/AboutPage149$1.smali": {
+    "bytes": 3392,
+    "sha256": "7f9fdb7dea008694d8f173aba65bdb6b94865a344768cb36c9e7da23bae3961c"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/AboutPage149$2.smali": {
+    "bytes": 1533,
+    "sha256": "71dee16a941a1167ae3c0c5692dba8f8916b295455c204d6809d68c011ab0e31"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/AboutPage149.smali": {
+    "bytes": 35675,
+    "sha256": "366d6a40ccaf3c317c16268e580e2f8cad5e3fea5535cfb7d20554064bb895c8"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/CandidatePanel141.smali": {
+    "bytes": 18636,
+    "sha256": "e0568ac91907f8f81c784210a7f53e5e081c030b3a83ce48a1a7ec566a6330a3"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/CompactSettings$1.smali": {
+    "bytes": 3155,
+    "sha256": "ad4b3317596961f7155ebefdf74b9b1256ef940a5584e8dcd64cdfbdd9343d80"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/CompactSettings$RowFrame.smali": {
+    "bytes": 4969,
+    "sha256": "6428a4f06422911ecbaff8e62c1c6b3744c6d59ef977d90dadda9da90de56a19"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/CompactSettings$Rows.smali": {
+    "bytes": 13460,
+    "sha256": "478a066263bfbe42ac80e8f9d9a6b7d20da28d2ffa60fb63b4ea4537b7727db4"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/CompactSettings.smali": {
+    "bytes": 4197,
+    "sha256": "26297208fc9497ff39de8c18a83f332fa6132a355608ea11a9a40aea3c0f514e"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/RecentSettings146$1.smali": {
+    "bytes": 954,
+    "sha256": "66f21320488636e2a84f02e14793beb825425a9849fb4d88ace80c4cb0e9cef0"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/RecentSettings146$TopLine.smali": {
+    "bytes": 5685,
+    "sha256": "c39b4580301e6460ceb92126c7f9be43449254598a8fa2d7bcf7e8a0a77124ad"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/RecentSettings146.smali": {
+    "bytes": 10062,
+    "sha256": "c40ae80f82f1f390a8d0af338eae30c3fbd68f23178f9ba3d4e6f14767843f67"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/SettingsIcons149.smali": {
+    "bytes": 29835,
+    "sha256": "b3c856ba1144f665302699309daad2b8898faaec2b0354ca4eb284bfc476a483"
+  },
+  "ui149/overlay/smali/com/cootek/smartinput5/settings/SettingsMenu132.smali": {
+    "bytes": 6674,
+    "sha256": "ac0a8f96103d0aced5c1e196554e46724f272291727e9f51e44829f96477ab30"
+  },
+  "ui149/package_and_sign.py": {
+    "bytes": 8810,
+    "sha256": "a05f6da9271bad471f903cf0ba1ed78babef87cb15b0e79c8665cda7c3dfc421"
+  },
+  "ui149/package_source149.py": {
+    "bytes": 3867,
+    "sha256": "1302fb80fa811880ac9dca133acefd38b3072137ac1cdf7ded135dbd7c40af69"
+  },
+  "ui149/patch_native149.py": {
+    "bytes": 1785,
+    "sha256": "8fbc417abb0d0c13f2381b10094c56c47eda0196a64dd36c52d2d94a5534e49a"
+  },
+  "ui149/patch_version.py": {
+    "bytes": 2105,
+    "sha256": "b2857114d8f8c64df68a8a96bb2e1b8fa94dcc16ee989ed8109b6ac1dd3a15cd"
+  },
+  "ui149/rebuild149.py": {
+    "bytes": 3201,
+    "sha256": "39b08854a293d04cd0cb1f2b58ef5c436207bf47521ccd3069652bf78fbc3d91"
+  },
+  "ui149/render_journal.py": {
+    "bytes": 6171,
+    "sha256": "4d8d87b33350edd72a139ed6fbeb65c645add00935ce2d004661154dad1aaae9"
+  },
+  "ui149/research/framework-capture/about-dark.png": {
+    "bytes": 37259,
+    "sha256": "1ab523a3197318b76803a9d27c0fa2462bdc6d427c15966488f41cb2d6de46e2"
+  },
+  "ui149/research/framework-capture/about-light.png": {
+    "bytes": 37296,
+    "sha256": "9657ec1395584d3319e445035dd2dcfc40b601efca8cf703e9e14b3943ed7b18"
+  },
+  "ui149/research/framework-capture/main-dark.png": {
+    "bytes": 76113,
+    "sha256": "dbe101c8866bd8113ce068cce47a5ac8d1cfcf164a5135fce11c0f9fb086f812"
+  },
+  "ui149/research/framework-capture/main-light.png": {
+    "bytes": 75969,
+    "sha256": "4733c9f2de1e5fefc11097acc3b3f296d0c2949ee88db1ca19fc9a16b85e2c0c"
+  },
+  "ui149/research/icon-sources/activity.svg": {
+    "bytes": 402,
+    "sha256": "9674faaf2a8c2a6e43e8d87260c05eb77b7d06317d1a1f4ccf1008ba85bc15bb"
+  },
+  "ui149/research/icon-sources/arrow-left.svg": {
+    "bytes": 324,
+    "sha256": "c7efd379efa6c65b7d1df8baeb1f4e4accee9bc0f1d694134cd1e950dcb81f0d"
+  },
+  "ui149/research/icon-sources/arrow-up-right.svg": {
+    "bytes": 330,
+    "sha256": "931a5e0096f37b798f1a59b74a6557b53a5fb81c48dd5fcf8f99418394c3ccb0"
+  },
+  "ui149/research/icon-sources/chevron-right.svg": {
+    "bytes": 303,
+    "sha256": "efea6fe1a6be09a4440e8a8757d733a13814e685e28182983bd1e6bb18db8113"
+  },
+  "ui149/research/icon-sources/clipboard.svg": {
+    "bytes": 414,
+    "sha256": "31cda09310e5b4a346aa049beb72e5cf34c162651faed8c40b72f17e79607be1"
+  },
+  "ui149/research/icon-sources/github-mark.svg": {
+    "bytes": 822,
+    "sha256": "7421820090b50ac79d7c2bf7c951a433d7098a8a9c474809207bdd45f62d9d46"
+  },
+  "ui149/research/icon-sources/history.svg": {
+    "bytes": 382,
+    "sha256": "26972cbbf403d72b3585c8c73f9d7afd8b8682766c0fc4422b78dffd807e0f7c"
+  },
+  "ui149/research/icon-sources/info.svg": {
+    "bytes": 348,
+    "sha256": "662a033ee853f9c082067da0b68b377eb84811b71c29a1e66544471e76fa4fed"
+  },
+  "ui149/research/icon-sources/keyboard.svg": {
+    "bytes": 533,
+    "sha256": "e025a6fe0905c95fd81e5b6d2b0e076e0da65f7971f4d383c99601939ae106e0"
+  },
+  "ui149/research/icon-sources/languages.svg": {
+    "bytes": 430,
+    "sha256": "829575345d89b72f4c22727713430180f8a5bc419ddf4da345b27033e1db1820"
+  },
+  "ui149/research/icon-sources/laptop.svg": {
+    "bytes": 459,
+    "sha256": "e6a3f48ee5b66af8a69c7fe9576cb64a45d38195b257e8aa96f2615ab26321a5"
+  },
+  "ui149/research/icon-sources/lucide-LICENSE.txt": {
+    "bytes": 3208,
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  "ui149/research/icon-sources/messages-square.svg": {
+    "bytes": 529,
+    "sha256": "a65c73a8f6cba3d95c221226c0b701bf9dc2c37ad2c4dcf5e853374d7f62013c"
+  },
+  "ui149/research/icon-sources/mic.svg": {
+    "bytes": 376,
+    "sha256": "e1f81216c661b124385a87ce097935ab3e83218529dc6449f24db42fd14fd131"
+  },
+  "ui149/research/icon-sources/moon.svg": {
+    "bytes": 382,
+    "sha256": "e0957d69ecab6c894ff5c6e24f5d7077a8ff19b8a70ed3a54f8cd2af39a62575"
+  },
+  "ui149/research/icon-sources/move-down.svg": {
+    "bytes": 325,
+    "sha256": "6bfab7b28398e5d39070bb670d2fb1da5bbaa6d2effc1a6eed3abf6a878f320f"
+  },
+  "ui149/research/icon-sources/move-up.svg": {
+    "bytes": 318,
+    "sha256": "d72d086ba818734c1d54ab9f1bf87ebf27b48724b94a9155c85c6920b2763641"
+  },
+  "ui149/research/icon-sources/move-vertical.svg": {
+    "bytes": 359,
+    "sha256": "989a7253c84796e7d7360f18970b756bcfbd9e2c27bc2fb70dd8d875589fbd8b"
+  },
+  "ui149/research/icon-sources/notebook-text.svg": {
+    "bytes": 508,
+    "sha256": "989028bb2edd57f7dc3c9af5e66d50392dec7883aa08377560807da5fb4d4655"
+  },
+  "ui149/research/icon-sources/octicons-LICENSE.txt": {
+    "bytes": 1068,
+    "sha256": "da259c8bd0de62713ccdcf88910aebca810644f98c2c912bad814fc79ea778df"
+  },
+  "ui149/research/icon-sources/palette.svg": {
+    "bytes": 641,
+    "sha256": "eef2c86766066806494f8d0ae1922215cc0836dcbf0806f18bcb72cdd67e76ed"
+  },
+  "ui149/research/icon-sources/panel-top.svg": {
+    "bytes": 344,
+    "sha256": "703fe298e0ee372b91d23fb06ee4aec3a1d2dc571bb07053756f3493c9801887"
+  },
+  "ui149/research/icon-sources/rotate-cw.svg": {
+    "bytes": 359,
+    "sha256": "0e793102a1eb53130c12a3b15e77defa132fca6ee538251f5ab9fa8d2550d42b"
+  },
+  "ui149/research/icon-sources/save.svg": {
+    "bytes": 469,
+    "sha256": "48166d26826285d61bafc82da4a01729e44c3da1b1ea2bca53feac2b54bb664d"
+  },
+  "ui149/research/icon-sources/settings.svg": {
+    "bytes": 646,
+    "sha256": "50a6dfec990950fb7415f71c9848f088290708754a0729288417edbc79dc69eb"
+  },
+  "ui149/research/icon-sources/sliders-horizontal.svg": {
+    "bytes": 514,
+    "sha256": "9a9f1f9945d7a57d5a910b2238a387764104a08092fd0f0e5b333efadd1bf2ca"
+  },
+  "ui149/research/icon-sources/spell-check.svg": {
+    "bytes": 358,
+    "sha256": "1e972baaa224ce7b3b88536b513225248d2060b8b79da2132c6387ea2f7f0176"
+  },
+  "ui149/research/icon-sources/timer.svg": {
+    "bytes": 383,
+    "sha256": "ab130de39ef7b967af8331934d3eb20bb41ad7d2477b00616e7b650d23c51eb7"
+  },
+  "ui149/research/icon-sources/type.svg": {
+    "bytes": 362,
+    "sha256": "8e346e39419ff98fc2e9a9b34b6e15544842582420defd6b89845e0433ef5ff9"
+  },
+  "ui149/research/icon-sources/vibrate.svg": {
+    "bytes": 391,
+    "sha256": "0d79aed0c5c5ec5047801f91cf924f1fcbe7fc951767157ffce892c0dfa56f18"
+  },
+  "ui149/research/icon-sources/volume-2.svg": {
+    "bytes": 536,
+    "sha256": "30a19b494d443d4848032486ef2d14fd02b6bd16403ddf037c02848c1eaee41f"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupActivity.java": {
+    "bytes": 30999,
+    "sha256": "a760b200fa27c9caf678ac288128f94247bb4e978c3f3cb9eef502dc896ff9e6"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupArchive.java": {
+    "bytes": 18339,
+    "sha256": "7793d804d07f7cb01844caa9491a180a246f989bcda823ae2dac549564f729a7"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupController.java": {
+    "bytes": 16272,
+    "sha256": "af58cabac9da0875bd675f43ff9fcb57f3512cc28377342409895ce1027b446d"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupFiles.java": {
+    "bytes": 8385,
+    "sha256": "0e79733f3162e3c92a63a68850dfc7d174983358e0a055f698cf5bc067f81862"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupKeys137.java": {
+    "bytes": 1417,
+    "sha256": "99932757b0e19fb819cc3a03d2a6bb94b8acfb2b65fe2767c2bc94d78274f340"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupSettings.java": {
+    "bytes": 1299,
+    "sha256": "40ccf0ea170db9c38366dc07dae8e6425a9b7b39e11a3d48e56b583170098854"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupStartup.java": {
+    "bytes": 4619,
+    "sha256": "dec4b2b4d7cd7264464d4033d70e74eaf324233ae5ff278edb9ee72e0558a97d"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/BackupTransaction.java": {
+    "bytes": 24897,
+    "sha256": "cd30421215a1abe4f0c51734c4730ec699bcd7a35ef37766ab6eb82d7c360d4f"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/ClipboardBackup138.java": {
+    "bytes": 6373,
+    "sha256": "04a845707657393947ba7be13b950619a12e0d1ef3cea28a198b99f9d1f22480"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/WesternExport135.java": {
+    "bytes": 3016,
+    "sha256": "333dc53b9cd1a3d2f3b4d232927370d8b3d3cf1d13c357d6588d12ba8d0e59f6"
+  },
+  "ui149/src/com/cootek/smartinput5/backup/WesternImport137.java": {
+    "bytes": 9310,
+    "sha256": "4273436a0917387676107fcc72f52fd6cb337fd00e5a60716df0673b1be5b3db"
+  },
+  "ui149/src/com/cootek/smartinput5/order/WordOrderController.java": {
+    "bytes": 55958,
+    "sha256": "ad6d3e08c1c767bbe3c4cf24c84d4a0dfbfbc45cd83255202186862769411092"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/AboutPage149.java": {
+    "bytes": 7996,
+    "sha256": "14dde92c46a4297f937618ac5346c19fbc47721cd12af7f24d1ed714ee767bdf"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/CandidatePanel141.java": {
+    "bytes": 6637,
+    "sha256": "f4c3d397763e2dbac778817e5f648749565c3e36d9cc9fceeaf3c8cd2119d003"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/CandidateRow146.java": {
+    "bytes": 3836,
+    "sha256": "a70134a847b2150e2a49a5325f064783f3d51b6b1fd4540fa06b996ece0faf8f"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/CompactSettings.java": {
+    "bytes": 7011,
+    "sha256": "e55c5aa3ebed16880e4182b10131a58303e91e468f458649922ceab37b40d197"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/FreshDefaults137.java": {
+    "bytes": 4915,
+    "sha256": "5cf5d3a2a4a729a65602e130261949bf76a6fdbc521c32ad41696ce6d84a0732"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/GeneralHelp137.java": {
+    "bytes": 10588,
+    "sha256": "7b4994ddf77f31a3c68971b6244c8916afce8c112a581a87808fe03f5114efb4"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/RecentSettings146.java": {
+    "bytes": 4046,
+    "sha256": "9ef9882868a416ccb12326518d078debf40aed6800e32858bf00159b71ced06c"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SettingsIcons149.java": {
+    "bytes": 7195,
+    "sha256": "2052ceef49a4f192e1d71321178a95b7e700dc87cc37aca8a1df1461ccacfd90"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SettingsMenu132.java": {
+    "bytes": 2273,
+    "sha256": "48aa183e6b1163baa0898f98d6fe683252c93eaa2b3d5a9c46528fe90470eb6f"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SizeDrag134.java": {
+    "bytes": 8152,
+    "sha256": "32f43310d5448acfd0dfe4cf704cac5ee22d45c08fa6143f39470a9e2fec5d4d"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SizeModel.java": {
+    "bytes": 4851,
+    "sha256": "178256cc3fe45e645abad78036ac81d27031eba853514114e1bbed9129ec049d"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SizePreview.java": {
+    "bytes": 45549,
+    "sha256": "053a45b7f040cbb68b1c075781a4e19b589d3e7987d16bb752806ef14b5a7de1"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SizeRuntimeStore.java": {
+    "bytes": 5898,
+    "sha256": "21eaef59e653a2539f169f368162e275ee7d45a58cbd39b702ae817cb380c8fc"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/SizeSettingsPage.java": {
+    "bytes": 55771,
+    "sha256": "53a23ae247cbf5455ae8a72f91a54946513c893970de15069d5510db9a797aca"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/ThemeSync137.java": {
+    "bytes": 2489,
+    "sha256": "1767305f20577aa747573a992b8a4a704b7c51eadfe26451fe8da27aaaad921e"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/ToolbarActions143.java": {
+    "bytes": 6857,
+    "sha256": "d89958b9f2431a8379038d1a026663aa06d01ded1f53b89dcca5e43a5b88ebd1"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/ToolbarConfig140.java": {
+    "bytes": 3140,
+    "sha256": "55c03e60f4c6214c777369cc759275f67fabacb89ba54118ccef26d5988c6f94"
+  },
+  "ui149/src/com/cootek/smartinput5/settings/ToolbarReflow145.java": {
+    "bytes": 6134,
+    "sha256": "1e66e90f63c93bd46ce533d434e4eae4b5c557e72c9d9174d40d78dc50958613"
+  },
+  "ui149/src/com/cootek/smartinput5/sizes/SizePixels130.java": {
+    "bytes": 3704,
+    "sha256": "997c1baa5423013831ac286d3c54df1a3ccb26aaa03b893591411e8e7f36c6fc"
+  },
+  "ui149/src/com/cootek/smartinput5/storage/BundledLanguages137.java": {
+    "bytes": 3977,
+    "sha256": "67e6439bba3130018fea2710b9584836b078a93ba85829670bf551570fc632fe"
+  },
+  "ui149/src/com/cootek/smartinput5/storage/StorageImport135.java": {
+    "bytes": 6356,
+    "sha256": "5817dca6bb7684df4474e170c5890f6c20e6dcf4489c78747857e5eb1fd4b79e"
+  },
+  "ui149/src/com/cootek/smartinput5/storage/StorageRoot135.java": {
+    "bytes": 4688,
+    "sha256": "9dd5a744a62387466d8e11504af99a550a9456bb775a5af05c457c354f95a30b"
+  },
+  "ui149/src/com/cootek/smartinput5/ui/skinappshop/DrawerFragment.java": {
+    "bytes": 1072,
+    "sha256": "d4a89ac4190cd4fc1ba7e9e8bea2077c585bc517d940ca2f5d7db25fe837eff1"
+  },
+  "ui149/tests/CompareCleanDex.java": {
+    "bytes": 7617,
+    "sha256": "99b98eaf2a207285dd2aea7fb31b74a923457e9159e127627f605ba295fb4b99"
+  },
+  "ui149/tests/VerifySpaceAbi.java": {
+    "bytes": 17005,
+    "sha256": "e1ce034c7ebecc024f9878b693798c662407f2768ee1a3829083e5375f78d2dd"
+  },
+  "ui149/tests/framework/AndroidManifest.xml": {
+    "bytes": 416,
+    "sha256": "91023c0e3994c674a6ba95440912653af6496ab87cc9698c72b3f9c826e55e92"
+  },
+  "ui149/tests/framework/pom.xml": {
+    "bytes": 1997,
+    "sha256": "9fe81eb57d8b93d5c5e79bdf31c003d44a18db7b5fb7f3694c0d8233ac30d75e"
+  },
+  "ui149/tests/framework/run.py": {
+    "bytes": 2228,
+    "sha256": "62c7aa2223e4dadb9d931caddc21bc5b1584f1f6797eee84fcb5113a4f1b5d08"
+  },
+  "ui149/tests/framework/src/test/java/com/cootek/smartinput5/settings/Settings149Test.java": {
+    "bytes": 11300,
+    "sha256": "089324c0aa5a71d76322efcd35e6508a558183030faff74045395a99800dab34"
+  },
+  "ui149/tests/framework/src/test/java/com/cootek/smartinput5/settings/Settings149VisualTest.java": {
+    "bytes": 5819,
+    "sha256": "0f77497da74e2d785e839da68863fb5f4b30561498e4b39816569197019ba9d5"
+  },
+  "ui149/tests/run_dex_checks.py": {
+    "bytes": 4365,
+    "sha256": "f0529b5dc6358c16bd8b6e598e55e5ca7c6e848ae6f40aad2df8a40971d5a8d4"
+  }
+}

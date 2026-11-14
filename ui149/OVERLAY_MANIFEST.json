@@ -1,0 +1,206 @@
+{
+  "base": "output/148-TouchPal T9 DelFix-6.2.7.1.apk",
+  "base_sha256": "e5165e3f37b72e85a13bc6668374b62c627b75a5f67d3579fa1461160de4cf4c",
+  "version": "149",
+  "version_code": 10062,
+  "version_labels": [
+    "smali/com/cootek/smartinput5/ui/KeyboardBuildMark.smali",
+    "smali/com/cootek/smartinput5/settings/VoiceReportExport.smali",
+    "smali/com/cootek/smartinput5/voice/VoiceTrace.smali"
+  ],
+  "replacement_helper_families": [
+    "com/cootek/smartinput5/settings/CompactSettings",
+    "com/cootek/smartinput5/settings/RecentSettings146",
+    "com/cootek/smartinput5/settings/SettingsIcons149",
+    "com/cootek/smartinput5/settings/AboutPage149",
+    "com/cootek/smartinput5/settings/SettingsMenu132",
+    "com/cootek/smartinput5/settings/CandidatePanel141"
+  ],
+  "smali_overlay": [
+    "overlay/smali/com/cootek/smartinput5/settings/AboutPage149$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/AboutPage149$2.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/AboutPage149.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CandidatePanel141.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$RowFrame.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$Rows.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/RecentSettings146$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/RecentSettings146$TopLine.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/RecentSettings146.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SettingsIcons149.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SettingsMenu132.smali"
+  ],
+  "apk_overlay": {
+    "assets/settings149/activity.png": {
+      "source": "overlay/assets/settings149/activity.png",
+      "bytes": 1840,
+      "sha256": "386d6f698af2aaad98c5014ea7c9e06d11aa459b9f0dca008ee93ee2e14c819c"
+    },
+    "assets/settings149/arrow-left.png": {
+      "source": "overlay/assets/settings149/arrow-left.png",
+      "bytes": 805,
+      "sha256": "112f275a5a99f6c72d0043eaea2e41a14718da2f7d14eb1c5a463dbfb68a0433"
+    },
+    "assets/settings149/arrow-up-right.png": {
+      "source": "overlay/assets/settings149/arrow-up-right.png",
+      "bytes": 750,
+      "sha256": "bd52d57ff96dd47cdc8a43b39d5b1b7698223d6d60ba06ecd87147dd1f914712"
+    },
+    "assets/settings149/candidate-count.png": {
+      "source": "overlay/assets/settings149/candidate-count.png",
+      "bytes": 1541,
+      "sha256": "eca068e2fe81f616c2ab072e07b52339f5873fa41d8909fcbc2c24693b92b3a2"
+    },
+    "assets/settings149/chevron-right.png": {
+      "source": "overlay/assets/settings149/chevron-right.png",
+      "bytes": 750,
+      "sha256": "a89a67d2fa8bf1b317c7180827487d16f58f331c1879dd4020a7d52d93d003cb"
+    },
+    "assets/settings149/clipboard.png": {
+      "source": "overlay/assets/settings149/clipboard.png",
+      "bytes": 1210,
+      "sha256": "81daa17530817491379f0b8ad16fac9a8fc194df5c3f7dc984de7ca3d5107b0c"
+    },
+    "assets/settings149/font-size.png": {
+      "source": "overlay/assets/settings149/font-size.png",
+      "bytes": 1544,
+      "sha256": "b72f07f9ed17c27149b10d8155c0ae9c0996516a715457890e7250c15736cd20"
+    },
+    "assets/settings149/github-logo.png": {
+      "source": "overlay/assets/settings149/github-logo.png",
+      "bytes": 2245,
+      "sha256": "196ab80efc53e15459c1fe4dfc05917c536753046629f8a78aa9010eedac4cbe"
+    },
+    "assets/settings149/history.png": {
+      "source": "overlay/assets/settings149/history.png",
+      "bytes": 2657,
+      "sha256": "c9b0b7278237b2aef4807677d7822071842931cbea7e7cde1f4c633ac2557ac6"
+    },
+    "assets/settings149/info.png": {
+      "source": "overlay/assets/settings149/info.png",
+      "bytes": 2677,
+      "sha256": "15c3eaeb49c866dc558adfb3078dd21b260539fbbe1d8f66ef01e2b52dc7f777"
+    },
+    "assets/settings149/keyboard.png": {
+      "source": "overlay/assets/settings149/keyboard.png",
+      "bytes": 1152,
+      "sha256": "49994ade8c1a47f83416beeff4e23c264dcdee1ee09209faca03d404530cf3a2"
+    },
+    "assets/settings149/languages.png": {
+      "source": "overlay/assets/settings149/languages.png",
+      "bytes": 1635,
+      "sha256": "448d504b46dd759afccb38e522397c1673899f77c3f8a4eb1c9d58e5801f4873"
+    },
+    "assets/settings149/laptop.png": {
+      "source": "overlay/assets/settings149/laptop.png",
+      "bytes": 1068,
+      "sha256": "176bc311f53b3b97154863e4f1fbf10226bc5008721e19c99d5b99a53cecbef1"
+    },
+    "assets/settings149/messages-square.png": {
+      "source": "overlay/assets/settings149/messages-square.png",
+      "bytes": 1727,
+      "sha256": "5c8c31ebc7022299910b2248bc634b37120ae062ed9c86bbd7c36ab70e83b1d6"
+    },
+    "assets/settings149/mic.png": {
+      "source": "overlay/assets/settings149/mic.png",
+      "bytes": 1990,
+      "sha256": "f44e791b2225ac7f2c01897414a261df0fcdb0114db7d6d502f2cd453deaa409"
+    },
+    "assets/settings149/moon.png": {
+      "source": "overlay/assets/settings149/moon.png",
+      "bytes": 2486,
+      "sha256": "9f3277e63682010507b0164bc960ccce987f555d6258231a09b5a50dc5ae1ba7"
+    },
+    "assets/settings149/move-down.png": {
+      "source": "overlay/assets/settings149/move-down.png",
+      "bytes": 862,
+      "sha256": "bdba3b722a27945b212619b638b2b5f6495448fca12f2f181e1ada1872be0b0c"
+    },
+    "assets/settings149/move-up.png": {
+      "source": "overlay/assets/settings149/move-up.png",
+      "bytes": 807,
+      "sha256": "bb446e0e6279a7eb29f07a15c33401e292c655b8aeec4d87b04fdeedc763cb42"
+    },
+    "assets/settings149/move-vertical.png": {
+      "source": "overlay/assets/settings149/move-vertical.png",
+      "bytes": 1049,
+      "sha256": "562984d40314f14249b78f1b2b668a772cb1ed748df97c4cdf182f4f515757b3"
+    },
+    "assets/settings149/notebook-text.png": {
+      "source": "overlay/assets/settings149/notebook-text.png",
+      "bytes": 1214,
+      "sha256": "c06fd21f919bd9848219946e8948fc0b5b5fa24abb8f2ba5b92606f0eef6bd07"
+    },
+    "assets/settings149/palette.png": {
+      "source": "overlay/assets/settings149/palette.png",
+      "bytes": 2935,
+      "sha256": "af7c60ccb8322cfe19bf324068adaf1356d1de15826461b14f3d5155a3dbf196"
+    },
+    "assets/settings149/panel-top.png": {
+      "source": "overlay/assets/settings149/panel-top.png",
+      "bytes": 911,
+      "sha256": "a7d426df69d2a2822fba6f240d5ec85744c935c4df6c1a9ebafab006b555de7c"
+    },
+    "assets/settings149/popup-square.png": {
+      "source": "overlay/assets/settings149/popup-square.png",
+      "bytes": 1223,
+      "sha256": "8022920c2690ab1ea29f34852459937cc4409d7621039dd04e4b057d9027c48f"
+    },
+    "assets/settings149/rotate-cw.png": {
+      "source": "overlay/assets/settings149/rotate-cw.png",
+      "bytes": 2448,
+      "sha256": "40d191ff3c75a1b230c4fabd4b8f283fe0e14bc20f9416b4eb41770584c5ee11"
+    },
+    "assets/settings149/save.png": {
+      "source": "overlay/assets/settings149/save.png",
+      "bytes": 1468,
+      "sha256": "d65effee2c80947bec3d18663b9b71ed8de9963e1b81abe02a3cd4ac9f6b7b6b"
+    },
+    "assets/settings149/settings.png": {
+      "source": "overlay/assets/settings149/settings.png",
+      "bytes": 3287,
+      "sha256": "20f2af11c49534fecc5c5184128f3b6d6b657ea287f96fb93f7db9c7b251ef88"
+    },
+    "assets/settings149/sliders-horizontal.png": {
+      "source": "overlay/assets/settings149/sliders-horizontal.png",
+      "bytes": 892,
+      "sha256": "6df2100e6f7b3d0313c857f9641dc2b94dbd76baa462af90e98e7a922d69f32a"
+    },
+    "assets/settings149/spell-check.png": {
+      "source": "overlay/assets/settings149/spell-check.png",
+      "bytes": 1328,
+      "sha256": "cd94f8d4c6d52874dede2ec18f3988c7d79738bf1219e7e594800f0ad137d691"
+    },
+    "assets/settings149/timer.png": {
+      "source": "overlay/assets/settings149/timer.png",
+      "bytes": 2376,
+      "sha256": "12a4b17a199f726a2a82dfe194adec1a718ccfbe7ccaff7c16ee1f5bb0c39974"
+    },
+    "assets/settings149/type.png": {
+      "source": "overlay/assets/settings149/type.png",
+      "bytes": 757,
+      "sha256": "f1f29b2ed79ed13805d1d730f40973fb3fd9273457cc5cd13753df0490c3a5f3"
+    },
+    "assets/settings149/vibrate.png": {
+      "source": "overlay/assets/settings149/vibrate.png",
+      "bytes": 1158,
+      "sha256": "8a0a99f90602bb44bd872c7e73166160a0965eb4c646241a3c5b7030f087868d"
+    },
+    "assets/settings149/volume-2.png": {
+      "source": "overlay/assets/settings149/volume-2.png",
+      "bytes": 2059,
+      "sha256": "7f49395b1b6f57c1c5b0ee647b3db64af249ef6cf302e631aaf7d4a462a172f5"
+    },
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "bytes": 72403,
+      "sha256": "9a114a86989969d0603c0347d99168265acb22f3e513e1ed8833379db62149b9"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "bytes": 99739,
+      "sha256": "c2ca797e90e78b6e74dca31d3208d97ce21c04d28d274840c37fee7fc031b70b"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "smali/com/cootek/smartinput5/engine/Engine.smali",
+    "method": "private checkTextPasted(III)V",
+    "before_sha256": "db1ffb9b3523c7c9756195a75aeb37c8459512a739e26c6453073aaa7061654d",
+    "after_sha256": "42b8e435524649b1f5eddc7093e2cf53919d6934be8a746702a6ddeb065b662b"
+  },
+  {
+    "file": "smali/com/cootek/smartinput5/func/resource/ui/c.smali",
+    "method": "protected onResume()V",
+    "before_sha256": "e909cc59bbba2587326329c9dd85fb0806d35bdb27b26bf744eae1a9ca78f42b",
+    "after_sha256": "9f6df4d8b9d9323f98de380dad4874ded86b3f6579ff35037bb4fdaa5f83751b"
+  },
+  {
+    "file": "smali/com/cootek/smartinput5/preference/AboutPreferenceActivity.smali",
+    "method": "protected onCreate(Landroid/os/Bundle;)V",
+    "before_sha256": "529ea2fc6fe9fd186ca2cae955134a4b9bb638be75e2a552e338a374eafc2dcf",
+    "after_sha256": "a57ceb0e88057fbbccba9e873ab73988755f4de2d16b9f9598949d5db81d005f"
+  },
+  {
+    "file": "smali/com/cootek/smartinput5/TPAboutPageActivity.smali",
+    "method": "protected onCreate(Landroid/os/Bundle;)V",
+    "before_sha256": "872c977ab6ac830fabb55e6d8c5571cba7e37ef5dcbf11f29388035a66009ba3",
+    "after_sha256": "3902ea4bbffb9b683d10b0c9e1a85c30f960b9965dfc925ceffadee7db53e3fd"
+  }
+]

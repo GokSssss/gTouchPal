@@ -1,0 +1,82 @@
+{
+  "version": "149",
+  "apk": {
+    "version": "149",
+    "apk_bytes": 33403512,
+    "apk_sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+    "tests": 14,
+    "framework": "Robolectric SDK34 with real preferences/views and signed APK assets; explicit cache/resize doubles",
+    "main_list_fits_normal_font_dp": 750,
+    "framework_captures": "research/framework-capture",
+    "android_art_or_phone_executed": false,
+    "own_helper_families": 6,
+    "own_compiled_classes": 13,
+    "original_classes_compared": 10169,
+    "bounded_original_methods": 4,
+    "api16_own_helpers_verified": true,
+    "original_hook_verification": "Only the four changed native method bodies; all other original methods/fields compared unchanged.",
+    "same_certificate": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+    "signature_schemes": [
+      "v1",
+      "v2",
+      "v3"
+    ],
+    "classes2_unchanged": true,
+    "native_rom_languages_resources_and_data_paths_unchanged": true,
+    "candidate_count_reactivation": "Saved3..8, legacy flag rewriting, fresh cache and restored prefs covered by framework regression tests",
+    "ranking": "Existing policy/store/classes unchanged; owner-reported possible partial ordering reset still requires phone evidence.",
+    "local_icons": 32
+  },
+  "source": {
+    "source": "149-gTouchPal-SOURCE-6.2.7.1.zip",
+    "bytes": 1016247,
+    "sha256": "87633cef7c27695cefd085bf2b0a27176e86b1954497b9ff61a101c13bc99b36",
+    "files": 266,
+    "manifest_verified": true,
+    "private_materials_exported": false
+  },
+  "source_rebuild": {
+    "version": "149",
+    "status": "PASS",
+    "source_sha256": "87633cef7c27695cefd085bf2b0a27176e86b1954497b9ff61a101c13bc99b36",
+    "source_files": 266,
+    "apk_sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+    "byte_identical_apk": true,
+    "isolated": true,
+    "steps": [
+      {
+        "stage": "compile_helpers.py",
+        "exit_code": 0,
+        "seconds": 5.28,
+        "stdout_sha256": "95303deb83b27e59b7bf938835f852f2ad5bdd32041ea16e4ea1c5ae86b007d6",
+        "stderr_sha256": "83091dfaa00cd40de886bf36ef064ca4c8e91eab763b4fa4c2033ddede635092"
+      },
+      {
+        "stage": "build.py",
+        "exit_code": 0,
+        "seconds": 27.48,
+        "stdout_sha256": "55b222577559cc0120ccdced881c5cbb647be86ff27aa3fa6a3539cbc48efbe1",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/run_dex_checks.py",
+        "exit_code": 0,
+        "seconds": 9.92,
+        "stdout_sha256": "0786cc5f43be2c1822e9dcedc5d07269c1d8337c045bdd82c05ddbd3f4cda122",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/framework/run.py",
+        "exit_code": 0,
+        "seconds": 17.94,
+        "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "private_materials_exported": false,
+    "original_inputs_unchanged": true,
+    "android_runtime_executed": false
+  },
+  "repository": "GokSssss/gTouchPal-",
+  "visibility": "public"
+}

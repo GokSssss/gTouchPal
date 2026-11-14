@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.ui;public class CandidateCollapseButton {public static int leftWidth(android.view.View v){throw new UnsupportedOperationException();}public static int width(android.view.View v){throw new UnsupportedOperationException();}}

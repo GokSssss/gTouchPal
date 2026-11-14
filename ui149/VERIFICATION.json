@@ -1,0 +1,27 @@
+{
+  "version": "149",
+  "apk_bytes": 33403512,
+  "apk_sha256": "7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+  "tests": 14,
+  "framework": "Robolectric SDK34 with real preferences/views and signed APK assets; explicit cache/resize doubles",
+  "main_list_fits_normal_font_dp": 750,
+  "framework_captures": "research/framework-capture",
+  "android_art_or_phone_executed": false,
+  "own_helper_families": 6,
+  "own_compiled_classes": 13,
+  "original_classes_compared": 10169,
+  "bounded_original_methods": 4,
+  "api16_own_helpers_verified": true,
+  "original_hook_verification": "Only the four changed native method bodies; all other original methods/fields compared unchanged.",
+  "same_certificate": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+  "signature_schemes": [
+    "v1",
+    "v2",
+    "v3"
+  ],
+  "classes2_unchanged": true,
+  "native_rom_languages_resources_and_data_paths_unchanged": true,
+  "candidate_count_reactivation": "Saved3..8, legacy flag rewriting, fresh cache and restored prefs covered by framework regression tests",
+  "ranking": "Existing policy/store/classes unchanged; owner-reported possible partial ordering reset still requires phone evidence.",
+  "local_icons": 32
+}

@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.engine; public class Engine {public static boolean isInitialized(){return false;} public static Engine getInstance(){return null;} public com.cootek.smartinput5.TouchPalIME getIms(){return null;}}

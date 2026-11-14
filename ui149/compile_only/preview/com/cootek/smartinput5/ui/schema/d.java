@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.ui.schema; public class d { public static KeyboardSchema a(String alias){throw new UnsupportedOperationException("compile-only; never package");} }

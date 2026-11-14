@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.settings;public class ToolbarActions143 {public static android.graphics.drawable.Drawable candidateIcon(android.content.Context c,int slot,android.graphics.drawable.Drawable original){throw new UnsupportedOperationException();}}

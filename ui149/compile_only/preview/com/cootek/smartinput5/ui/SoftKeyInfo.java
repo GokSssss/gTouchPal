@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.ui; public class SoftKeyInfo { public String mainTitle,altTitle,keyIconRes; int printTitle; public void setSupportedOperation(int operations){throw new UnsupportedOperationException("compile-only; never package");} }

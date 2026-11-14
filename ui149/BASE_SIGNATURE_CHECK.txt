@@ -1,0 +1,4 @@
+Signer #1 certificate DN: CN=TouchPal DeleteFix, OU=TouchPal, O=GokS, C=RU
+Signer #1 certificate SHA-256 digest: 0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+Signer #1 certificate SHA-1 digest: 0acb5f4929b43422f73b1fbe7f73e992f87e1ec9
+Signer #1 certificate MD5 digest: 4a81681c000006b23ad31ed771b05412

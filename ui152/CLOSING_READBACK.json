@@ -1,0 +1,26 @@
+{
+  "version": "152",
+  "registry_id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+  "bytes": 438599,
+  "sha256": "5024239361d4cfd4ec766f151a70d511e9f63a6514f0192fbe77f2a2ff13b694",
+  "raw_bytes_verified": true,
+  "root": {
+    "id": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH",
+    "title": "10 TouchPal T9 DelFix \u221a",
+    "mime_type": null,
+    "size": null,
+    "url": null,
+    "file_or_folder": null,
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": null,
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "root_mark_verified": true,
+  "published_assets_immutable": true
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-15",
+  "reason": "Keep152/151 and11useful checkpoints.150APK retained once forSOURCE151;149input no longer has retained consumers. All9339history payloads downloaded and verified before retiring old release.",
+  "removed": [
+    {
+      "id": "1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS",
+      "name": "150SOURCE",
+      "bytes": 797793
+    },
+    {
+      "id": "1d-dCfTVBXY_TUWlPbtgRHb_71xZ8cctg",
+      "name": "150Passport",
+      "bytes": 4317
+    },
+    {
+      "id": "1qm47RSZPPJbaHAhBblD2Y5KxbgwZp8GE",
+      "name": "149input",
+      "bytes": 33403512
+    }
+  ],
+  "removed_empty_folder": "1ZNcU5VXnoENgvgL6bW--KFmlD-1zuU61",
+  "removed_bytes": 34205622,
+  "moved_without_copy": {
+    "version": "150",
+    "id": "12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u",
+    "consumer": "SOURCE151"
+  },
+  "old_passport_history_preserved": true,
+  "all_prior9297_payloads_preserved": true,
+  "old_manifest_preserved": true,
+  "protected_unchanged": 11
+}

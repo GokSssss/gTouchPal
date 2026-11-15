@@ -6,6 +6,10 @@
   "base_mod_version": "151",
   "apk": "output/152-gTouchPal-6.2.7.1.apk",
   "build_instructions": "BUILD_152.txt",
-  "status": "verification_in_progress",
-  "published_immutable": false
+  "status": "published",
+  "published_immutable": true,
+  "next_mod_version": "153+",
+  "github_tag": "v152",
+  "source_commit": "55c514357e352e065bfac4a3d913da3febb6c492",
+  "source_sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b"
 }

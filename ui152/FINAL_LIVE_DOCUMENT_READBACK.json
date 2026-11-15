@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+    "local": "TouchPal_FEATURES_RU.txt",
+    "path": "/workspace/attachments/ca60e1f5-e13c-4639-8547-e0b6b28cbf09/\u0416\u0443\u0440\u043d\u0430\u043b \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0439 TouchPal.txt",
+    "size_bytes": 153408,
+    "sha256": "111cf0f8cd2f544412b31883a0cda4f2623f74fb68509fd46cc08d0dac4bfc25",
+    "raw_bytes_verified": true
+  },
+  {
+    "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+    "local": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "path": "/workspace/attachments/d8fb8858-7d30-47ea-aa00-c37d2d0bb8fa/TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "size_bytes": 600454,
+    "sha256": "fdc7761afa1fb7c3e1c2b0fed17d859483e35ad10c49382808f1bc8357d4b6ac",
+    "raw_bytes_verified": true
+  },
+  {
+    "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+    "local": "10\u0411\u0430\u0437\u0430!",
+    "path": "/workspace/attachments/0ebbca1b-5c8c-4fae-a878-22c42aca0ee6/10\u0411\u0430\u0437\u0430!.txt",
+    "size_bytes": 259525,
+    "sha256": "c8a41ec6aa4545b5d58a21baa67f64d0fb669eeb1b291b07a031827e5f2691e8",
+    "raw_bytes_verified": true
+  },
+  {
+    "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+    "local": "CHECKPOINTS_RU.txt",
+    "path": "/workspace/attachments/f48b54a1-1e2b-48eb-b095-d873ece19abf/CHECKPOINTS_RU.txt",
+    "size_bytes": 16607,
+    "sha256": "c0772136f0096fd16d4929c9fc3672295d88c0a359d89e75b04b8133b35781c0",
+    "raw_bytes_verified": true
+  },
+  {
+    "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+    "local": "SOURCE_INDEX_RU.txt",
+    "path": "/workspace/attachments/5117c10a-49a7-4c58-989c-732f0f0a1f54/SOURCE_INDEX_RU.txt",
+    "size_bytes": 5005,
+    "sha256": "fad72f09966e8b2ea5cb51add337db730d56fd8ef3d53396b9b2768b84021810",
+    "raw_bytes_verified": true
+  },
+  {
+    "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+    "local": "ui152/INPUTS_README_RU.txt",
+    "path": "/workspace/attachments/35ebeb9f-1f66-40dc-beef-b35dba6d0cdb/\u041d\u0410\u0417\u041d\u0410\u0427\u0415\u041d\u0418\u0415_\u0418_SHA256.txt",
+    "size_bytes": 1547,
+    "sha256": "21aebf643ebb3b2a5b7832d9e7d31197a8d4b999db372cb7a018e4fb1ed54b38",
+    "raw_bytes_verified": true
+  },
+  {
+    "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+    "local": "TouchPal_\u041d\u043e\u0432\u043e\u0432\u0432\u0435\u0434\u0435\u043d\u0438\u044f_\u043e\u0442_DelFix.xlsx",
+    "path": "/workspace/attachments/25a243cc-0bd3-437a-9499-e2aeecc9ea38/TouchPal_\u041d\u043e\u0432\u043e\u0432\u0432\u0435\u0434\u0435\u043d\u0438\u044f_\u043e\u0442_DelFix.xlsx",
+    "size_bytes": 35589,
+    "sha256": "360d0e17d3dfc5c1e113a7b9aec6d0a121493281a247dc6becc6e1e1b8b25676",
+    "raw_bytes_verified": true
+  }
+]

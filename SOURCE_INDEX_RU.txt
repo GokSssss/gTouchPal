@@ -1,8 +1,65 @@
-gTouchPal151/150
-GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v151
-151APK https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
-151SOURCE https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
-SHA256 269ddd5e09ab4f373b7bf41ca95d98f0bc381b31fe1fd7ec1f7f08636d4ee14d
-150SOURCE https://drive.google.com/file/d/1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS/view
-SHA256 a8c86507e86e58e0402743ed035cb0c38b67041f2ec494b09c74ffc013b299c5
-Две последние полные версии и11прежних полезных точек.151проверочный, телефон ожидается. Диагностика — долгое нажатие на журнал.
+gTouchPal — исходники и входы после152
+Два текущих выпуска152/151 и11полезных точек сохранены. ОпубликованныеSOURCE/APK неизменны; точные хеши/оговорки — вPROJECT_STORAGE.json и паспортах.
+
+152 · Отдельная альбомная высота550px и ручное включение TouchPal; вход в настройки без активации
+https://drive.google.com/file/d/12V9eiX4_Nh4yRuE4-2cguTWHfR-gCaZQ/view
+https://drive.google.com/file/d/1saapH2vKb6DXEBAlAZZLIXpr8wA1ltlg/view
+
+151 · Общие отступы настроек и жёлтая линия Wave#F6D333
+https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
+https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
+
+TEST80 · TEST80 перед полной сеткой знаков
+https://drive.google.com/file/d/1aNIbFek9CkBz5FakK471WkVQyBF4dkR_/view
+https://drive.google.com/file/d/1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj/view
+
+TEST72 · перед упрощением голосового ввода
+https://drive.google.com/file/d/18rGj7u6Hmt9q6mCyx9s47NLntdTomRul/view
+https://drive.google.com/file/d/1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm/view
+
+TEST15 · TEST15 — тёмное оформление
+https://drive.google.com/file/d/1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j/view
+https://drive.google.com/file/d/1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS/view
+
+TEST21 · TEST21 — жесты, до физической клавиатуры
+https://drive.google.com/file/d/1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ/view
+https://drive.google.com/file/d/1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R/view
+
+TEST34 · TEST34 — физическая клавиатура, до орфографии
+https://drive.google.com/file/d/1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4/view
+https://drive.google.com/file/d/10DJBEZjuktzwTcTcWm973-MmAzS9_kqU/view
+
+TEST36 · TEST36 — орфография, до новых кнопок
+https://drive.google.com/file/d/13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ/view
+https://drive.google.com/file/d/1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx/view
+
+T9+DelFix · Первая доступная функциональная база перед жестами пробела
+https://drive.google.com/file/d/1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI/view
+
+TEST40 · Историческая подтверждённая Final; отдельные постоянные ссылки сохранены
+https://drive.google.com/file/d/1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_/view
+https://drive.google.com/file/d/1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC/view
+
+DelFix T10 · Подтверждённая исходная DelFix перед синхронизацией высоты и T9
+https://drive.google.com/file/d/1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV/view
+https://drive.google.com/file/d/14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb/view
+
+TEST90 · При выборе жестом от 12# скрыты дополнительные знаки и маркеры; обычная панель показывает их. Исправлен выбор крайних колонок 11/12 и возврат всплывающей подсказки для них. Набор и расположение знаков прежние. Резерв перед GigaAM-v3; пока предыдущая, не дублируется в Ключевых версиях.
+https://drive.google.com/file/d/14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr/view
+https://drive.google.com/file/d/1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1/view
+
+135 · Владелец подтвердил чистую установку135 и восстановлениеZIP; последняя явно принятая база восстановления до ошибок экспорта137.
+https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view?usp=drivesdk
+https://drive.google.com/file/d/17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s/view?usp=drivesdk
+
+Входы
+151APK дляSOURCE152 — в предыдущем полном выпуске, без копии воВходах.
+https://drive.google.com/file/d/12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u/view — ui151/build.py
+https://drive.google.com/file/d/1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX/view — storage135/build.py
+https://drive.google.com/file/d/1laQrw8PeCi6UHuLlItEIfnxhp2u8bfMJ/view — symbols90/build.py
+https://drive.google.com/file/d/1GouT67MkW1mv7zs94P_AKEgeBsQ2iCyO/view — symbols80/build.py
+https://drive.google.com/file/d/11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f/view — diagnostics72/build.py
+
+Полная история9339payload/hash: https://drive.google.com/file/d/1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e/view
+Все9297прежних payload истарыйmanifest сохранены; старые установщики/SOURCE не складируются в историю.
+Свежая пересборкаSOURCE152 побайтово совпала с подписаннымAPK. Телефон/AndroidART152 не проверены.

@@ -1,1 +1,2 @@
-152: finalAPKverified; preparing immutableSOURCE and isolated downloaded-source rebuild; previous151/150 and all protected/history retained.
+gTouchPal152 PUBLISHED_AND_PUBLIC_READBACK_VERIFIED
+26framework/DEX/API, downloadedSOURCE byte-identical rebuild.152/151 +11checkpoints retained;150APK moved once forSOURCE151; obsolete150SOURCE/Passport/emptyfolder/149input retired after preservation/readbacks. New changes153+, published152APK/SOURCE/tag immutable. Phone/AndroidART152 not tested.

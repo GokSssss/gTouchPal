@@ -325,3 +325,5 @@ GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v151
 APK https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
 SOURCE https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
 Неизменныйтегv151: 78ef56599c3f88c4796166ffb193afdf2e890236
+
+15.11.2026 —152 in progress: separate native landscape keyboard height, default550totalpx; preserve explicit saved sizes. Mode7 maps to existing mode6 preview API. Native config orientation2, normal/window2/window4 ID scoped; all preset/5px drag storage/readback retained. Root manual enable row directly under system settings; red until enabled+selected, Android enable screen or IME picker only on explicit tap. Four bounded entry/lifecycle methods remove unsolicited activation, assets initialization preserved. No native engine/ranking/languages/backup/voice changes. Current common/journal/GitHub rules15Nov read; root√ reset pending checks. No agents. Published151/150 immutable;152 SOURCE freeze once after checks.

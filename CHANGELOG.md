@@ -4,6 +4,12 @@
 
 ## Русский
 
+### 152 · Альбомная высота и ручное включение
+
+- Добавлена отдельная высота клавиатуры в альбомном режиме: по умолчанию 550 px, готовые значения и перетягивание края на макете. Высоты ориентаций сохраняются отдельно.
+- Настройки открываются при выключенном TouchPal без запроса активации.
+- Под системными настройками появился красный пункт «Включить TouchPal». По нажатию открывается включение Android или системный выбор клавиатуры; после выбора TouchPal надпись принимает обычный цвет.
+
 ### 151 · Настройки и Wave
 
 - Выровнены названия, подписи и заголовки разделов настроек.
@@ -26,6 +32,12 @@
 ---
 
 ## English
+
+### 152 · Landscape height and manual activation
+
+- Added separate landscape keyboard height: 550 px by default, with presets and edge dragging in the preview. Each orientation keeps its own height.
+- Settings open while TouchPal is disabled without an activation prompt.
+- Added a red “Включить TouchPal” (Enable TouchPal) row below system keyboard settings. Tap to enable it in Android settings or open the system keyboard picker; the label returns to its normal colour when TouchPal is selected.
 
 ### 151 · Settings and Wave
 

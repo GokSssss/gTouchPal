@@ -1668,7 +1668,7 @@
   ],
   "merged_history_stages": 91,
   "general_rules_id": "1PC7jbtXP9HRTi1C8t3JTG8xc_Y-F9H_z",
-  "general_rules_revision": "2026-11-12T15:14:11.854Z",
+  "general_rules_revision": "2026-11-15",
   "general_rules_local_snapshot": "GENERAL_PROJECT_RULES.txt",
   "protection_changes": [
     {
@@ -1877,15 +1877,15 @@
     }
   ],
   "compliance": {
-    "status": "verified_current_rules",
-    "date": "2026-11-14",
+    "status": "rechecking_new_rules",
+    "date": "2026-11-15",
     "general_rules_revision": "2026-11-12T15:14:11.854Z",
     "retained_complete_versions": [
       "151",
       "150"
     ],
     "verified_live_readbacks": 8,
-    "project_mark_present": true,
+    "project_mark_present": false,
     "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v151",
     "github_public_downloads_verified": true,
     "observed": {
@@ -1898,7 +1898,7 @@
     },
     "scope": "Publication/rules/source/signature/host checks; no phone or AndroidART confirmation.",
     "rules_revision": "2026-11-12T15:14:11.854Z",
-    "root_name": "10 TouchPal T9 DelFix √",
+    "root_name": "10 TouchPal T9 DelFix",
     "live_documents_readback_verified": 7,
     "registry_final_readback_receipt": "ui151/CLOSING_READBACK.json",
     "phone_or_art_tested": false
@@ -6260,7 +6260,7 @@
       "private_values_exported": false
     }
   },
-  "general_rules_snapshot_sha256": "e29e314f3bbf1b6fba2ec2af7b234203c2024256d343638f129d6c936e75c49a",
+  "general_rules_snapshot_sha256": "25cc640c39a040c43abf25b7a60329213e9fbeb6f8644c0861ea7f06616abb8d",
   "journal_records120": {
     "groups": 22,
     "history": 63,
@@ -9215,5 +9215,13 @@
     "protected_unchanged": 11,
     "original9255_history_payloads_preserved": true,
     "published_github149_150_unchanged": true
+  },
+  "pending_release152": {
+    "version": "152",
+    "status": "tested_preparing_publication",
+    "folder_id": "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM",
+    "apk_sha256": "8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6",
+    "phone_or_art_tested": false,
+    "host_tests": 26
   }
 }

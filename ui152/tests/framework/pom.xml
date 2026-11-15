@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion><groupId>local.gtouchpal</groupId><artifactId>settings152</artifactId><version>152</version>
+  <properties><maven.compiler.source>8</maven.compiler.source><maven.compiler.target>8</maven.compiler.target><project.build.sourceEncoding>UTF-8</project.build.sourceEncoding></properties>
+  <repositories><repository><id>google</id><url>https://dl.google.com/dl/android/maven2/</url></repository></repositories>
+  <dependencies>
+    <dependency><groupId>org.robolectric</groupId><artifactId>robolectric</artifactId><version>4.16.1</version><scope>test</scope></dependency>
+    <dependency><groupId>org.robolectric</groupId><artifactId>android-all</artifactId><version>14-robolectric-10818077</version><scope>provided</scope></dependency>
+    <dependency><groupId>junit</groupId><artifactId>junit</artifactId><version>4.13.2</version><scope>test</scope></dependency>
+  </dependencies>
+  <build><sourceDirectory>${project.basedir}/generated</sourceDirectory><plugins>
+    <plugin><groupId>org.apache.maven.plugins</groupId><artifactId>maven-compiler-plugin</artifactId><version>3.14.0</version></plugin>
+    <plugin><groupId>org.apache.maven.plugins</groupId><artifactId>maven-surefire-plugin</artifactId><version>3.5.4</version>
+      <configuration><workingDirectory>${project.basedir}</workingDirectory>
+        <additionalClasspathElements><additionalClasspathElement>${project.basedir}/external/monitor-1.8.0.jar</additionalClasspathElement><additionalClasspathElement>${project.basedir}/external/espresso-idling-resource-3.7.0.jar</additionalClasspathElement></additionalClasspathElements>
+        <systemPropertyVariables><touchpal.apk>${project.basedir}/../../../output/152-gTouchPal-6.2.7.1.apk</touchpal.apk><robolectric.dependency.repo.url>https://repo.maven.apache.org/maven2</robolectric.dependency.repo.url></systemPropertyVariables>
+      </configuration>
+    </plugin>
+  </plugins></build>
+</project>

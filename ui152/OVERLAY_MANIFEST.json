@@ -1,0 +1,75 @@
+{
+  "base": "output/151-gTouchPal-6.2.7.1.apk",
+  "base_sha256": "3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+  "version": "152",
+  "version_code": 10065,
+  "version_labels": [
+    "smali/com/cootek/smartinput5/ui/KeyboardBuildMark.smali",
+    "smali/com/cootek/smartinput5/settings/VoiceReportExport.smali",
+    "smali/com/cootek/smartinput5/voice/VoiceTrace.smali"
+  ],
+  "replacement_helper_families": [
+    "com/cootek/smartinput5/settings/CompactSettings",
+    "com/cootek/smartinput5/settings/SizeModel",
+    "com/cootek/smartinput5/settings/SizeRuntimeStore",
+    "com/cootek/smartinput5/settings/SizeSettingsPage",
+    "com/cootek/smartinput5/settings/FreshDefaults137",
+    "com/cootek/smartinput5/settings/KeyboardActivation152",
+    "com/cootek/smartinput5/settings/LandscapeHeight152"
+  ],
+  "smali_overlay": [
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$RowFrame.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$Rows.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/FreshDefaults137.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152$Activation.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/LandscapeHeight152.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeModel$Session.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeModel$Store.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeModel.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeRuntimeStore$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeRuntimeStore.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$2.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$3.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ActionButton.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ActionChoiceButton.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ActionGlyph.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ControlDrawable.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$CountPage$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$CountPage.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$NativeLayout.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$Page$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$Page$2.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$Page$3.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$Page$4.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$Page$5.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$Page.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$PageHost.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$PanelTargets$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$PanelTargets$Selection.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$PanelTargets.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$PresetButton.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$PresetGrid.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$SettingsTheme.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ToolbarPage$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ToolbarPage$2.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage$ToolbarPage.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SizeSettingsPage.smali"
+  ],
+  "apk_overlay": {
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "bytes": 74537,
+      "sha256": "3139afca764d801d5ae6f07c6dbd9ddbeab7e868c6cda30a1ed5571217108ec9"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "bytes": 102527,
+      "sha256": "fe8d57f165c2787e65803b10b8011a72712241663aa559c010d5be9b6aa2697f"
+    }
+  }
+}

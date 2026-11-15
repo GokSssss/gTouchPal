@@ -50,3 +50,22 @@ ui151/history151.zip
 
 # Versioned release passports are attached to Releases and compact history.
 /*-gTouchPal-Passport-*.txt
+
+#152 generated build and local tool caches
+/tools
+/output
+/framework
+ui152/decoded/
+ui152/compile_classes/
+ui152/helper_classes/
+ui152/helper_decoded/
+ui152/helpers.*
+ui152/contracts.jar
+ui152/rebuilt.apk
+ui152/tests/classes/
+ui152/tests/framework/target/
+ui152/tests/framework/generated/
+ui152/tests/framework/external/
+ui152/retention_before/
+ui152/history152.zip
+

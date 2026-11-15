@@ -1,11 +1,11 @@
 {
-  "active_directory": "ui151",
-  "version": "151",
-  "mod_version": "151",
-  "base": "150",
-  "base_mod_version": "150",
-  "apk": "output/151-gTouchPal-6.2.7.1.apk",
-  "build_instructions": "BUILD_151.txt",
-  "published_immutable": true,
-  "next_new_version": "152+"
+  "active_directory": "ui152",
+  "version": "152",
+  "mod_version": "152",
+  "base": "151",
+  "base_mod_version": "151",
+  "apk": "output/152-gTouchPal-6.2.7.1.apk",
+  "build_instructions": "BUILD_152.txt",
+  "status": "verification_in_progress",
+  "published_immutable": false
 }

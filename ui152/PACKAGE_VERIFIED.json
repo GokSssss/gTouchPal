@@ -1,0 +1,26 @@
+{
+  "apk": "output/152-gTouchPal-6.2.7.1.apk",
+  "bytes": 33464981,
+  "sha256": "8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6",
+  "base_sha256": "3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+  "changed_existing_entries": [
+    "AndroidManifest.xml",
+    "assets/touchpal_features.html",
+    "assets/touchpal_history.html",
+    "classes.dex"
+  ],
+  "new_entries": [],
+  "removed_entries": [],
+  "unchanged_entries_verified": 2842,
+  "native_libraries_unchanged": true,
+  "overlay": {
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "sha256": "3139afca764d801d5ae6f07c6dbd9ddbeab7e868c6cda30a1ed5571217108ec9"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "sha256": "fe8d57f165c2787e65803b10b8011a72712241663aa559c010d5be9b6aa2697f"
+    }
+  }
+}

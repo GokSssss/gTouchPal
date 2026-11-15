@@ -1,0 +1,4 @@
+Lcom/cootek/smartinput5/TouchPalOptionInte; F()V
+Lcom/cootek/smartinput5/TouchPalOptionInte; u(Landroid/os/Bundle;)V
+Lcom/cootek/smartinput5/GateActivity; o()V
+Lcom/cootek/smartinputv5/SettingsActivity; o()V

@@ -1,0 +1,28 @@
+{
+  "class": "com/cootek/smartinput5/TouchPalOptionInte.smali",
+  "changes": [
+    {
+      "method": "protected F()V",
+      "removed_sha256": "6a36e14dbb0e2c340d1143d6d79f66d3e175fffe2d4047b253aaae6f1e50fe75"
+    },
+    {
+      "method": "protected u(Landroid/os/Bundle;)V",
+      "removed_sha256": "642c5b8a36ede3ba5201cbf9dc0a5a2bf90a7cd467943fbd94eb264ff0505294"
+    }
+  ],
+  "before_sha256": "777c94fc80e061f0b162fb4e6d489fafd06b442108f15d6c39a7a945a475c6a0",
+  "after_sha256": "e0fe9cc946a671c223b9e80f887b1ad60c3a4e129ad194623f219f892c21a329",
+  "entry_routes": [
+    {
+      "class": "com/cootek/smartinput5/GateActivity.smali",
+      "method": "o()V",
+      "change": "Guide target -> TouchPalOptionInte; initialization and flags preserved"
+    },
+    {
+      "class": "com/cootek/smartinputv5/SettingsActivity.smali",
+      "method": "o()V",
+      "change": "Guide target -> TouchPalOptionInte; initialization and flags preserved"
+    }
+  ],
+  "manual_enable_guide_and_engine_unchanged": true
+}

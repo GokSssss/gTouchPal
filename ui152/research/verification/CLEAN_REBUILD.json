@@ -1,0 +1,42 @@
+{
+  "version": "152",
+  "status": "PASS",
+  "source_sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b",
+  "source_files": 207,
+  "apk_sha256": "8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6",
+  "byte_identical_apk": true,
+  "isolated": true,
+  "steps": [
+    {
+      "stage": "compile_helpers.py",
+      "exit_code": 0,
+      "seconds": 5.67,
+      "stdout_sha256": "50da638462d9f0a61a95abc911676f7698602f60922dd100bf9a2a01e627c4fd",
+      "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+    },
+    {
+      "stage": "build.py",
+      "exit_code": 0,
+      "seconds": 26.21,
+      "stdout_sha256": "e8bbd44e57b7e09ab7b22e2b42e0a78121c3ce3179fa74b2c25e562b044871cf",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/run_dex_checks.py",
+      "exit_code": 0,
+      "seconds": 11.93,
+      "stdout_sha256": "ecf1e71938da20a77d1efcd64e6c992bbe6440d9559c7a48216c2e216a78663f",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/framework/run.py",
+      "exit_code": 0,
+      "seconds": 26.72,
+      "stdout_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "stderr_sha256": "366bc17a057dc098f38cc7593e9dde9adc7053ca987af170dcae2f9ff071e7c7"
+    }
+  ],
+  "private_materials_exported": false,
+  "original_inputs_unchanged": true,
+  "android_runtime_executed": false
+}

@@ -6,7 +6,7 @@
 
 Клавиатура для Android с жестами, подсказками слов и настройкой под себя.
 
-**[Скачать APK 151](https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-6.2.7.1.apk)** · [Функции и изменения](CHANGELOG.md#русский)
+**[Скачать APK 151](https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-6.2.7.1.apk)**
 
 ### Что умеет
 
@@ -15,18 +15,12 @@
 - **Слова:** долгое нажатие на подсказку открывает редактирование и удаление слова.
 - **Буфер обмена:** вставка текста из отдельной панели и быстрый возврат к клавиатуре.
 - **Оформление:** светлая и тёмная темы, размеры клавиатуры и панели подсказок.
-- **Журнал функций:** актуальные возможности и история их изменений.
+- **Журнал функций:** актуальные возможности и история их изменений, открывается нажатием на **Журнал новых функций**.
+- **Диагностика:** долгое нажатие на строку журнала открывает её команды и отчёты.
 
-### Новое в 151
+Проверочный выпуск. Для Obtainium включите **Предварительные выпуски**.
 
-- Выровнены названия, подписи и заголовки разделов настроек.
-- Линия Wave-ввода стала жёлтой.
-
-Журнал открывается обычным нажатием на **Журнал новых функций**. Для диагностики удерживайте эту строку.
-
-**Установка:** поверх 150 без удаления приложения и данных. Проверочный выпуск; для Obtainium включите **Предварительные выпуски**.
-
-[Все файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v151) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v151) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 
@@ -36,7 +30,7 @@
 
 An Android keyboard with gestures, word suggestions and adjustable appearance.
 
-**[Download APK 151](https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-6.2.7.1.apk)** · [Features and changes](CHANGELOG.md#english)
+**[Download APK 151](https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-6.2.7.1.apk)**
 
 ### Features
 
@@ -45,18 +39,12 @@ An Android keyboard with gestures, word suggestions and adjustable appearance.
 - **Words:** long-press a suggestion to edit or delete the word.
 - **Clipboard:** paste from a separate panel and return quickly to the keyboard.
 - **Appearance:** light and dark themes, keyboard and suggestion-panel sizing.
-- **Feature journal:** current features and their change history.
+- **Feature journal:** current features and their history, opened by tapping the journal.
+- **Diagnostics:** hold the journal row to open diagnostic actions and reports.
 
-### New in 151
+Preview release. Enable **Pre-releases** in Obtainium.
 
-- Aligned labels, captions and section headings in settings.
-- Changed the Wave input trail to yellow.
-
-Tap the feature journal to open it. Hold its row to open diagnostics.
-
-**Install:** update over 150 without uninstalling or clearing data. Preview release; enable **Pre-releases** in Obtainium.
-
-[Release files](https://github.com/GokSssss/gTouchPal-/releases/tag/v151) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal-/releases/tag/v151) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 

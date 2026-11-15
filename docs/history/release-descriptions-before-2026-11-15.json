@@ -1,0 +1,100 @@
+{
+  "repository": "GokSssss/gTouchPal-",
+  "date": "2026-11-15",
+  "head": "4a16f1f65f46ff6474a0f33ba2902ba5dacb9946",
+  "releases": [
+    {
+      "id": 445635683,
+      "tag": "v151",
+      "name": "gTouchPal 151 · настройки и жёлтый Wave",
+      "body": "В gTouchPal151 выровнены названия, подписи и заголовки разделов настроек, включая системный пункт. Линия Wave-ввода стала жёлтой#F6D333, как на примере; толщина, затухание и поведение жеста сохранены.\n\nДиагностика по-прежнему открывается удержанием «Журнал новых функций», короткое нажатие открывает журнал.\n\nУстановка поверх150 без удаления приложения и данных. Тот же ключ подписи, иконка и словари. Для Obtainium включить предварительные выпуски.\n\n19frameworkпроверок, настоящийDEX/API16, сравнение10176старых классов, подписиv1/v2/v3. Изолированная пересборка скачанного финальногоSOURCE дала побайтно тот же подписанныйAPK;19проверок прошли повторно. Это проверочный выпуск; телефон/реальныйIME151 ещё требует проверки.\n",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 748986756,
+          "name": "151-gTouchPal-6.2.7.1.apk",
+          "size": 33402126,
+          "digest": "sha256:3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-6.2.7.1.apk"
+        },
+        {
+          "id": 748987025,
+          "name": "151-gTouchPal-Passport-6.2.7.1.txt",
+          "size": 5890,
+          "digest": "sha256:61c8881c71bc6a27b0814e7e3fb5cd06973db178af999438bada8f85fe075ffa",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-Passport-6.2.7.1.txt"
+        },
+        {
+          "id": 748986910,
+          "name": "151-gTouchPal-SOURCE-6.2.7.1.zip",
+          "size": 809587,
+          "digest": "sha256:269ddd5e09ab4f373b7bf41ca95d98f0bc381b31fe1fd7ec1f7f08636d4ee14d",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v151/151-gTouchPal-SOURCE-6.2.7.1.zip"
+        }
+      ]
+    },
+    {
+      "id": 445295652,
+      "tag": "v150",
+      "name": "150 — диагностика по удержанию журнала",
+      "body": "gTouchPal150 на основе TouchPal Keyboard6.2.7.1.\n\n- Отдельный пункт «Диагностика» убран с главной страницы настроек.\n- Долгое нажатие на «Журнал новых функций» открывает прежний экран диагностики со всеми командами и сохранёнными отчётами.\n- Обычное нажатие открывает журнал, как раньше.\n\nУстановка поверх149 без удаления приложения и данных. Пакет, прежняя подпись, словари, настройки и иконка приложения сохранены.\n\nПроверки:18тестов AndroidFramework/RobolectricSDK34, готовыйDEX/API16, сравнение10174старых классов без изменения исходных nativeметодов, подписьv1/v2/v3 и неизменность остальных ресурсов. Изолированная пересборка финальногоSOURCE дала побайтово тот же подписанныйAPK.\n\nЭто предварительный выпуск: требуется проверка настоящей клавиатуры на телефоне. Для Obtainium включите «Предварительные выпуски».\n\nРезерв выпуска на GoogleДиске: https://drive.google.com/drive/folders/1ZNcU5VXnoENgvgL6bW--KFmlD-1zuU61\n",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 747490990,
+          "name": "150-gTouchPal-6.2.7.1.apk",
+          "size": 33402698,
+          "digest": "sha256:d93a417b7bd2e0d601fbffcd1ab0c9266aeb0cace36bc0fbb8fdf6b23144eb54",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v150/150-gTouchPal-6.2.7.1.apk"
+        },
+        {
+          "id": 747490988,
+          "name": "150-gTouchPal-Passport-6.2.7.1.txt",
+          "size": 4317,
+          "digest": "sha256:b8e7c076b8e9caf010001cf58d5c6947a242944a772dc183771f4b8ca63ffa79",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v150/150-gTouchPal-Passport-6.2.7.1.txt"
+        },
+        {
+          "id": 747490987,
+          "name": "150-gTouchPal-SOURCE-6.2.7.1.zip",
+          "size": 797793,
+          "digest": "sha256:a8c86507e86e58e0402743ed035cb0c38b67041f2ec494b09c74ffc013b299c5",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v150/150-gTouchPal-SOURCE-6.2.7.1.zip"
+        }
+      ]
+    },
+    {
+      "id": 445213193,
+      "tag": "v149",
+      "name": "149 — настройки gTouchPal",
+      "body": "gTouchPal 149 на основе TouchPal Keyboard 6.2.7.1.\n\n- Единое оформление главной страницы и внутренних настроек, согласованные значки и три черты над последним изменённым параметром.\n- Сохранённое количество предлагаемых слов от 3 до 8 больше не заменяется тройкой при повторной инициализации.\n- Убрано автоматическое предложение сохранить содержимое буфера после вставки. Вставка и ручные операции буфера сохранены.\n- Новая страница «О приложении»: благодарность Tanh за создание и развитие, продолжение GokS, ссылки на 4PDA и GitHub.\n\nУстановка поверх 148 без удаления приложения и данных. Пакет, прежний ключ подписи, иконка приложения и словари сохранены.\n\nПроверки: 14 тестов Android Framework под Robolectric 34, готовый DEX/API16, сравнение 10 169 прежних классов, четырёх ограниченных изменений старых методов, подписи v1/v2/v3 и ресурсов. Чистая пересборка финального SOURCE дала побайтово тот же APK.\n\nЭто предварительный выпуск: работа настоящего IME на телефоне ещё требует проверки. Возможный частичный сброс ручного порядка слов отдельно не воспроизведён; алгоритм и данные порядка не менялись.\n\nДля Obtainium включите «Предварительные выпуски». В приложениях выбирайте файл с расширением APK.\n\nРезерв выпуска на Google Диске: https://drive.google.com/drive/folders/14vt_HUjyBgKQ00aI5ezRp6dReI1zBtKS\n",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 747144731,
+          "name": "149-gTouchPal-6.2.7.1.apk",
+          "size": 33403512,
+          "digest": "sha256:7648e4f148ec5ffd43b8b9ef6362a1ec359410b92961afec2859b62e517424a9",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v149/149-gTouchPal-6.2.7.1.apk"
+        },
+        {
+          "id": 747153174,
+          "name": "149-gTouchPal-Passport-6.2.7.1.txt",
+          "size": 5841,
+          "digest": "sha256:e518d71b5611b77102f3268856238ace5c9269d2ff62b67e5f61619c0b378be3",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v149/149-gTouchPal-Passport-6.2.7.1.txt"
+        },
+        {
+          "id": 747144733,
+          "name": "149-gTouchPal-SOURCE-6.2.7.1.zip",
+          "size": 1016247,
+          "digest": "sha256:87633cef7c27695cefd085bf2b0a27176e86b1954497b9ff61a101c13bc99b36",
+          "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v149/149-gTouchPal-SOURCE-6.2.7.1.zip"
+        }
+      ]
+    }
+  ]
+}

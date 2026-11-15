@@ -1,5 +1,11 @@
 # TouchPal project instructions
 
+## Публичные описания — указание владельца от 15.11.2026
+
+README, пользовательский CHANGELOG и описание GitHub Release: короткие пункты о функциях и заметных изменениях. Что появилось, изменилось, исправлено или убрано — без статистики тестов, классов, сборок, SHA, размеров, SDK/API, сертификатов и сведений о ключах. Не вставлять Mermaid и технические схемы. Подробные инструкции и техническую историю хранить отдельно, с короткой ссылкой для разработчика. Номера версий и необходимые пользователю условия сохраняются.
+
+Перед редактурой и публикацией прочитать [правила публичных описаний](docs/PUBLICATION_STYLE.md) и [общий журнал новых функций](https://drive.google.com/file/d/1d7utMdLkdiwR321UenGIRro9yxXhJUlt/view). В README — действующие функции, в Release — изменения конкретного выпуска. Русское и английское описания согласованы. Для правки текста не пересобирать APK и не менять выпущенные теги/бинарники/SOURCE.
+
 Before any resumed work or release, read the current general rules in !БАЗА
 (Drive file1PC7jbtXP9HRTi1C8t3JTG8xc_Y-F9H_z), project file `10База!`,
 `PROJECT_STORAGE.json`, and both current journals. `GENERAL_PROJECT_RULES.txt`

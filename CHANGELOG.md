@@ -4,6 +4,13 @@
 
 ## Русский
 
+### 154 · Резервная копия и словарь
+
+- «Резервная копия и восстановление» разделена на понятные блоки с пояснениями.
+- Копии USR/ZIP и TXT используют общую папку по умолчанию на SD; для USR/ZIP можно выбрать другое место или файл.
+- Убраны повторяющиеся штатные кнопки; в «Дополнительно» оставлен один переход к сохранению и восстановлению словаря.
+- Уточнены названия TXT-действий и обновлены значки умного тире и словаря.
+
 ### 153 · Дополнительные настройки и выбор клавиатуры
 
 - В «Дополнительно» появились разделы, отдельные значки и пояснения; пункты переименованы в «Предугадывание/Т9» и «Автозамена».
@@ -39,6 +46,13 @@
 ---
 
 ## English
+
+### 154 · Backup and dictionary
+
+- Backup and restore is divided into clear sections with short explanations.
+- USR/ZIP copies and TXT share a default folder on shared storage; USR/ZIP can use any selected location or file.
+- Removed duplicate stock buttons and added one dictionary-backup shortcut in Additional settings.
+- Clarified TXT action labels and refined the smart-dash and dictionary icons.
 
 ### 153 · Additional settings and keyboard selection
 

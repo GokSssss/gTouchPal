@@ -1,0 +1,68 @@
+{
+  "base": "output/153-gTouchPal-6.2.7.1.apk",
+  "base_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+  "version": "154",
+  "version_code": 10067,
+  "version_labels": [
+    "smali/com/cootek/smartinput5/ui/KeyboardBuildMark.smali",
+    "smali/com/cootek/smartinput5/settings/VoiceReportExport.smali",
+    "smali/com/cootek/smartinput5/voice/VoiceTrace.smali"
+  ],
+  "replacement_helper_families": [
+    "com/cootek/smartinput5/settings/SmartInput153",
+    "com/cootek/smartinput5/settings/SettingsGlyphs153",
+    "com/cootek/smartinput5/backup/BackupActivity",
+    "com/cootek/smartinput5/backup/BackupSettings",
+    "com/cootek/smartinput5/backup/BackupLocations154"
+  ],
+  "smali_overlay": [
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$10$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$10.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$11$1$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$11$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$11.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$12$1$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$12$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$12.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$13$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$13.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$14$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$14.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$15.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$16$1$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$16$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$16.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$17.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$2.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$3.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$4.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$5.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$6.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$7$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$7.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$8$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$8.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$9$1.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity$9.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupActivity.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupLocations154.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupSettings$DictionaryShortcut.smali",
+    "overlay/smali/com/cootek/smartinput5/backup/BackupSettings.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SettingsGlyphs153.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SmartInput153$SectionLine.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SmartInput153.smali"
+  ],
+  "apk_overlay": {
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "bytes": 78220,
+      "sha256": "1c08cac93747fb9a82f33e87fb2897472325086bc5447e3477eecbbfe1cbd435"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "bytes": 106507,
+      "sha256": "c11d1bd3e270f9cb48f3ba2f5f8616f1638eb760d8f4d2563b2cab2dec24b20a"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "154",
+  "apk_bytes": 33453455,
+  "apk_sha256": "f396ea73a4118246c3fb2c3e9d5ea18e8cb0089bcd3b921a39da1a6ce28ebdd1",
+  "tests": 48,
+  "framework": "Android34/Robolectric views, file/URI IO; native engine, validation and transaction represented by explicit doubles",
+  "own_helper_families": 5,
+  "own_compiled_classes": 36,
+  "original_classes_compared": 10184,
+  "bounded_mod_tool_methods": 4,
+  "bounded_vendor_native_methods": 0,
+  "api16_own_helpers_verified": true,
+  "classes2_unchanged": false,
+  "classes2_scope": "Only two inherited mod TXT activities: four bounded UI/output-directory methods. Parsers/native format/engine methods unchanged.",
+  "all_old_resource_ids_and_values_unchanged": true,
+  "physical_keyboard_ids_locales_flags_and_bytecode_unchanged": true,
+  "native_libraries_rom_languages_and_working_data_paths_unchanged": true,
+  "native_controller_usr_export_import_and_rollback_bytecode_unchanged": true,
+  "exports_default": "Environment.getExternalStorageDirectory()/TouchPalG/Backup",
+  "same_certificate": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+  "signature_schemes": [
+    "v1",
+    "v2",
+    "v3"
+  ],
+  "android_art_or_phone_executed": false,
+  "tests_include": "USR/ZIP initial folder, arbitrary chosen USR file, capture failure, cancellation cleanup, confirmation, missing-only TXT copy, preserved working files, one shortcut and visible two-line title, prior settings regressions"
+}

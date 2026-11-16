@@ -1,0 +1,24 @@
+{
+  "version": 154,
+  "base_published_version": 153,
+  "status": "SOURCE_FROZEN_CLEAN_REBUILD_VERIFIED",
+  "owner_authorized": "Давай меняй: убрать дубли, оставить USR с выбором файла и TXT; копии USR/ZIP и TXT на SD, рабочие файлы оставить на месте.",
+  "published153_immutable": true,
+  "working_storage_migration": false,
+  "default_copy_folder": "Environment.getExternalStorageDirectory()/TouchPalG/Backup",
+  "scope": [
+    "Backup page sections/title and one Additional shortcut",
+    "USR/ZIP initial file picker folder on shared SD",
+    "TXT outputs to same shared folder",
+    "Remove fixed-path native backup/restore/repair rows",
+    "Wide low smart-dash brackets and separated dictionary icon outlines"
+  ],
+  "native_dictionary_mechanics": "Keep the existing native release/init capture and validated transactional USR restoration. File location selection does not change dictionary format.",
+  "apk_built": true,
+  "phone_tested": false,
+  "verification": "VERIFICATION.json",
+  "source_capsule_frozen": true,
+  "downloaded_source_rebuild_required_before_publication": true,
+  "local_source_rebuild_byte_identical": true,
+  "source_sha256": "635b2ce4787d2a2fa3160497ded49cb226d9284f0d2624f8c75e7438b44b0fbb"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "android_api": 16,
+  "min_d8_api": 15,
+  "actual_signed_dex_abi_passed": true,
+  "source_sha256": {
+    "src/com/cootek/smartinput5/backup/BackupActivity.java": "f9d6ff3e0935281a12523b5bd5e17424f67b5514e17b71d1268e21b97a6bf93a",
+    "src/com/cootek/smartinput5/backup/BackupLocations154.java": "1d1017e87bc47352b5a0a27d674679ec91359d9590b74416a0ddca0a3f4f5baa",
+    "src/com/cootek/smartinput5/backup/BackupSettings.java": "1bab44bb21a04c53a898d8c2e04512882c4d0eaa67b5d7076c00a1641b6c0d30",
+    "src/com/cootek/smartinput5/settings/SettingsGlyphs153.java": "f4ca8ac2fb92ce5d095e628812ea4d74b44fbdbc6b375c447712476aa6565043",
+    "src/com/cootek/smartinput5/settings/SmartInput153.java": "5e4fddeb60f9a5045f3c06ae77f611a2e14dcfc768b3fc91c9a0c0ec1f4c97ea"
+  },
+  "compile_only_not_packaged": true
+}

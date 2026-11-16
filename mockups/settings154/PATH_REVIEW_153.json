@@ -1,0 +1,11 @@
+{
+  "owner_question": "Владелец считает путь в эскизе старым: по его представлению текущие файлы лежат прямо на SD-диске.",
+  "checked_artifact": "output/153-gTouchPal-6.2.7.1.apk",
+  "artifact_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+  "evidence": "StorageRoot135 disassembled directly from signed153 classes.dex; root(Z) calls application.getExternalFilesDir(null), then child TouchPalG.",
+  "code_external_root": "Context.getExternalFilesDir(null)/TouchPalG",
+  "device_current_path_observed": false,
+  "root_sd_migration_authorized": false,
+  "caption_requirement": "Before implementing154, resolve/display actual runtime folders, distinguish working root from selectedUSR/ZIP destinations. Owner wording SD disk does not by itself request a data migration.",
+  "status": "code_checked_device_location_needs_clarification"
+}

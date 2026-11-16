@@ -1,0 +1,41 @@
+{
+  "apk": "/workspace/touchpal/github/output/154-gTouchPal-6.2.7.1.apk",
+  "apk_sha256": "f396ea73a4118246c3fb2c3e9d5ea18e8cb0089bcd3b921a39da1a6ce28ebdd1",
+  "base_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+  "allowed_scope_sha256": "7e1b81e4dc230c7bd1999b2325f139a480957d047c6f94c88552b8bfeff60872",
+  "class_comparison_passed": true,
+  "actual_dex_abi_resolution_passed": true,
+  "compile_only_stubs_checked_against_actual_apk": true,
+  "actual_smali_overlay_apis_checked": true,
+  "original_sdk23_permission_calls_inherited_unchanged": true,
+  "new_helpers_checked_with_api16_original_hook_classes_resolved_with_api34": true,
+  "resolved_overlay_prefixes": [
+    "Lcom/cootek/smartinput5/backup/BackupActivity",
+    "Lcom/cootek/smartinput5/backup/BackupActivity$",
+    "Lcom/cootek/smartinput5/backup/BackupLocations154",
+    "Lcom/cootek/smartinput5/backup/BackupLocations154$",
+    "Lcom/cootek/smartinput5/backup/BackupSettings",
+    "Lcom/cootek/smartinput5/backup/BackupSettings$",
+    "Lcom/cootek/smartinput5/settings/SettingsGlyphs153",
+    "Lcom/cootek/smartinput5/settings/SettingsGlyphs153$",
+    "Lcom/cootek/smartinput5/settings/SmartInput153",
+    "Lcom/cootek/smartinput5/settings/SmartInput153$",
+    "Lcom/cootek/smartinput5/settings/VoiceReportExport",
+    "Lcom/cootek/smartinput5/ui/KeyboardBuildMark",
+    "Lcom/cootek/smartinput5/ui/settings/DictionaryEditorActivity",
+    "Lcom/cootek/smartinput5/ui/settings/FullDictExportActivity",
+    "Lcom/cootek/smartinput5/voice/VoiceTrace"
+  ],
+  "sdk16_core_helper_prefixes": [
+    "Lcom/cootek/smartinput5/settings/SmartInput153",
+    "Lcom/cootek/smartinput5/settings/SettingsGlyphs153",
+    "Lcom/cootek/smartinput5/backup/BackupActivity",
+    "Lcom/cootek/smartinput5/backup/BackupSettings",
+    "Lcom/cootek/smartinput5/backup/BackupLocations154"
+  ],
+  "sdk34_optional_helper_prefix": "Lcom/cootek/smartinput5/cursor/Api34CursorBounds",
+  "sdk34_optional_actual_dex_passed": true,
+  "sdk34_optional_jar_sha256": "6cea1df3efb77103ac3e2beb9bf4718964b0e0869ab16d39d29d5cbae1c147ad",
+  "sdk34_not_claimed_as_sdk16": true,
+  "sdk34_cursor_bridge_inherited_unchanged": true
+}

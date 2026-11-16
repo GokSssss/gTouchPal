@@ -177,6 +177,91 @@
         "en_US": "gTouchPal EN/ru"
       },
       "build_requested": true
+    },
+    {
+      "id": "2026-11-16-icons154-refinement",
+      "project": "gTouchPal",
+      "status": "implemented154_locally_verified_publication_pending",
+      "request": "Умное тире: широкие низкие скобочки пробела. Значки словаря: стрелки и инструменты отделить от контура книги. Название Импорт-экспорт словаря, читаемая книга со стрелками внутрь и наружу.",
+      "mockup": "mockups/settings154/dictionary-icons-proposal.png",
+      "apk_built_for_this_request": true,
+      "verification": "ui154/VERIFICATION.json"
+    },
+    {
+      "id": "2026-11-16-backup154-layout",
+      "project": "gTouchPal",
+      "status": "implemented154_locally_verified_publication_pending",
+      "page_title": "Резервная копия и восстановление",
+      "additional_entry_title": "Сохранение и восстановление пользовательского словаря",
+      "keep_in_additional": [
+        "option_import_contact",
+        "option_manage_user_word",
+        "option_clear_language_data"
+      ],
+      "replace_in_additional_with_one_entry": [
+        "option_edit_dictionary",
+        "option_backup_dictionary",
+        "option_restore_dictionary",
+        "option_rebuild_language_data"
+      ],
+      "request": "Расширить существующий раздел резервной копии, разделить блоки линиями и перенести штатные действия отдельными кнопками.",
+      "proposed_sections": [
+        "Полная копия — создать/восстановить ZIP",
+        "Пользовательский словарь — сохранить/восстановить western.usr",
+        "Слова в текстовом файле — существующий экран импорта-экспорта",
+        "Штатные действия TouchPal — сохранить в Backup, восстановить из Backup, проверить/исправить словарь",
+        "Перенос старых данных — прежний TouchPal2015"
+      ],
+      "section_order_owner_approved": false,
+      "preserve": "Существующие значения, данные и обработчики. Различать TXT, western.usr, штатную папку Backup и полный ZIP; опубликованные153 APK/SOURCE/tag не менять.",
+      "mockup": "mockups/settings154/backup-and-restore-proposal.png",
+      "apk_built_for_this_request": true,
+      "follow_up": "Владелец считает блок штатных действий непонятным и просит мини-пояснения.",
+      "proposed_native_section_title": "Словарные файлы TouchPal",
+      "proposed_button_captions": {
+        "Сохранить в папку Backup": "Копирует western.usr и связанные данные в папку Backup.",
+        "Восстановить из папки Backup": "Заменяет словари и связанные данные содержимым папки Backup.",
+        "Проверить и исправить словарь": "Ищет ошибки и пытается исправить словарь. Перед запуском сохраните копию."
+      },
+      "caption_max_lines": 2,
+      "revised_section_mockup": "mockups/settings154/dictionary-files-explanations-proposal.png",
+      "path_explanations": {
+        "request": "Добавить пути в пояснения там, где они помогают найти или сохранить данные.",
+        "fixed_backup": "Показывать фактический путь StorageRoot135/Backup на устройстве. Обычное размещение: Android/data/com.cootek.smartinputv5/files/TouchPalG/Backup/.",
+        "text_files": "Показывать фактическую папку и имя файла выбранного языка из существующего экрана TXT, не фиксировать western_dict.txt для всех языков.",
+        "western_usr_and_zip": "При сохранении место выбирает пользователь в системном окне; при восстановлении пользователь выбирает файл. Не выдумывать постоянную папку и не выдавать content URI за файловый путь.",
+        "migration": "Показать фактические исходные старые папки и рабочую папку назначения; сохранять прежние источники TouchPal2015/TouchPalv5 и приоритет существующих файлов.",
+        "repair": "Пояснить работу с текущим словарём; отдельной внешней папки сохранения у проверки нет.",
+        "presentation": "Пути отдельной строкой рядом с соответствующим действием, нормальный размер шрифта, перенос по ширине без горизонтальной прокрутки и обрезания нужной части. Мини-пояснения остаются короткими.",
+        "status": "design_requirement_recorded_no_app_changes"
+      },
+      "latest_full_page_mockup": "mockups/settings154/backup-and-restore-paths-proposal.png",
+      "path_location_review": {
+        "owner_question": "Владелец считает путь в эскизе старым: по его представлению текущие файлы лежат прямо на SD-диске.",
+        "checked_artifact": "output/153-gTouchPal-6.2.7.1.apk",
+        "artifact_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+        "evidence": "StorageRoot135 disassembled directly from signed153 classes.dex; root(Z) calls application.getExternalFilesDir(null), then child TouchPalG.",
+        "code_external_root": "Context.getExternalFilesDir(null)/TouchPalG",
+        "device_current_path_observed": false,
+        "root_sd_migration_authorized": false,
+        "caption_requirement": "Before implementing154, resolve/display actual runtime folders, distinguish working root from selectedUSR/ZIP destinations. Owner wording SD disk does not by itself request a data migration.",
+        "status": "code_checked_device_location_needs_clarification"
+      },
+      "superseding_owner_instruction": "Копии USR/ZIP и TXT в общей папке на SD; рабочие файлы оставить на месте. Убрать дублирующие штатные действия, сохранить выбор файла и прежнюю механику western.usr.",
+      "current_sections": [
+        "Полная копия",
+        "Пользовательский словарь",
+        "Слова в текстовом файле",
+        "Перенос старых данных"
+      ],
+      "remove_native_backup_section": true,
+      "remove_repair_button": true,
+      "device_txt_path_observed": "/storage/emulated/0/Android/data/com.cootek.smartinputv5/files/TouchPalG/Backup",
+      "device_legacy_backup_observed": "/storage/emulated/0/TouchPal2015/Backup",
+      "shared_exports_proposed_default": "/storage/emulated/0/TouchPalG/Backup",
+      "working_data_migration_authorized": false,
+      "note": "Earlier five-group mockup and fixed-path captions are superseded; do not implement the native Backup block.",
+      "verification": "ui154/VERIFICATION.json"
     }
   ],
   "clarifications_only": {

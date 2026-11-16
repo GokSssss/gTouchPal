@@ -1,0 +1,24 @@
+{
+  "status": "old_proposals_superseded_by_implementation154",
+  "next_version_minimum": 154,
+  "current_published_version": 153,
+  "page_title": "Резервная копия и восстановление",
+  "requests": [
+    "2026-11-16-icons154-refinement",
+    "2026-11-16-backup154-layout"
+  ],
+  "images": [
+    "dictionary-icons-proposal.png",
+    "backup-and-restore-proposal.png",
+    "dictionary-files-explanations-proposal.png",
+    "backup-and-restore-paths-proposal.png"
+  ],
+  "owner_original_screenshots_copied": false,
+  "app_code_changed": true,
+  "apk_built": true,
+  "latest_refinement": "Отдельное пояснение под каждой из3кнопок вместо общего текста; заголовок Словарные файлы TouchPal — предложение.",
+  "latest_full_page_mockup": "backup-and-restore-paths-proposal.png",
+  "paths_shown": "Fixed Backup/TXT folders relative to shared storage; actual chosen destinations forUSR/ZIP; migration source/destination.",
+  "active_implementation": "ui154",
+  "superseded_native_block": true
+}

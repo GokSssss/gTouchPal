@@ -1,0 +1,56 @@
+{
+  "version": "154",
+  "status": "PASS",
+  "source_sha256": "635b2ce4787d2a2fa3160497ded49cb226d9284f0d2624f8c75e7438b44b0fbb",
+  "source_files": 224,
+  "apk_sha256": "f396ea73a4118246c3fb2c3e9d5ea18e8cb0089bcd3b921a39da1a6ce28ebdd1",
+  "byte_identical_apk": true,
+  "isolated": true,
+  "steps": [
+    {
+      "stage": "compile_helpers.py",
+      "exit_code": 0,
+      "seconds": 4.58,
+      "stdout_sha256": "66670b0177630ebe9dd44bf3e7cd23406a45d43b63d6575818d28f94844140c4",
+      "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+    },
+    {
+      "stage": "build.py",
+      "exit_code": 0,
+      "seconds": 32.04,
+      "stdout_sha256": "a692e5bcafcf3bea4a002cedc56eebee52570634e0859c415620b0fe704f8101",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/run_dex_checks.py",
+      "exit_code": 0,
+      "seconds": 11.76,
+      "stdout_sha256": "b223501af7e179b2b6bff500d8021959163163670814f4d5e10973529a27a348",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/check_resources.py",
+      "exit_code": 0,
+      "seconds": 0.45,
+      "stdout_sha256": "8a1946c050a2424a8929350ddc6788b4cb5972afd47185a44580fcfbbaf44f60",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/framework/run.py",
+      "exit_code": 0,
+      "seconds": 38.83,
+      "stdout_sha256": "73eb4a0d3af5c13507d5fc88c3931451620e3e5b184bf22a86d2490cbda84cae",
+      "stderr_sha256": "7f6ab5331d71cef83b77bca34589bba2cb3356ee8236f28dfe84697ba72f556e"
+    },
+    {
+      "stage": "collect_verification154.py",
+      "exit_code": 0,
+      "seconds": 2.57,
+      "stdout_sha256": "a17bb2415220f022a4f11fabb1df2f25858a5e59b3a2360d5d224ce20a4e01a4",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "private_materials_exported": false,
+  "original_inputs_unchanged": true,
+  "android_runtime_executed": false
+}

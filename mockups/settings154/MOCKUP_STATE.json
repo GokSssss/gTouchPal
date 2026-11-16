@@ -1,5 +1,5 @@
 {
-  "status": "old_proposals_superseded_by_implementation154",
+  "status": "owner_review_pending",
   "next_version_minimum": 154,
   "current_published_version": 153,
   "page_title": "Резервная копия и восстановление",
@@ -11,14 +11,24 @@
     "dictionary-icons-proposal.png",
     "backup-and-restore-proposal.png",
     "dictionary-files-explanations-proposal.png",
-    "backup-and-restore-paths-proposal.png"
+    "backup-and-restore-paths-proposal.png",
+    "backup-owner-review-four-blocks.png"
   ],
   "owner_original_screenshots_copied": false,
   "app_code_changed": true,
   "apk_built": true,
   "latest_refinement": "Отдельное пояснение под каждой из3кнопок вместо общего текста; заголовок Словарные файлы TouchPal — предложение.",
-  "latest_full_page_mockup": "backup-and-restore-paths-proposal.png",
-  "paths_shown": "Fixed Backup/TXT folders relative to shared storage; actual chosen destinations forUSR/ZIP; migration source/destination.",
+  "latest_full_page_mockup": "backup-owner-review-four-blocks.png",
+  "paths_shown": "Общая предложенная папка для копий/экспорта: /storage/emulated/0/TouchPalG/Backup/. Рабочие файлы остаются на месте.",
   "active_implementation": "ui154",
-  "superseded_native_block": true
+  "superseded_native_block": true,
+  "latest_owner_instruction": "Сделаем макет и решим.",
+  "publication_paused": true,
+  "published_version": "153",
+  "proposed_sections": [
+    "Полная копия",
+    "Пользовательский словарь",
+    "Слова в текстовом файле",
+    "Перенос старых данных"
+  ]
 }

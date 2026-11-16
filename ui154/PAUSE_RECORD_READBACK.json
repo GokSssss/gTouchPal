@@ -1,0 +1,23 @@
+[
+  {
+    "key": "registry",
+    "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+    "bytes": 445627,
+    "sha256": "39e9770861edafaf86a6614a24c9ef1ed8578c9ab334b3f4ffef815e2bfd62c7",
+    "raw_readback_verified": true
+  },
+  {
+    "key": "base",
+    "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+    "bytes": 269302,
+    "sha256": "a7af9e722b1c6cded13c2ada8077dcc17cd3a1b3817b32dd0117f1a26dc0101f",
+    "raw_readback_verified": true
+  },
+  {
+    "key": "technical",
+    "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+    "bytes": 610231,
+    "sha256": "70806a1a68e1cf146894871c71a8f5c5b7e336aa37cc521e47ae5eb549e39c4b",
+    "raw_readback_verified": true
+  }
+]

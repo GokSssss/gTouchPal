@@ -1,11 +1,11 @@
 {
-  "owner_question": "Владелец считает путь в эскизе старым: по его представлению текущие файлы лежат прямо на SD-диске.",
-  "checked_artifact": "output/153-gTouchPal-6.2.7.1.apk",
-  "artifact_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
-  "evidence": "StorageRoot135 disassembled directly from signed153 classes.dex; root(Z) calls application.getExternalFilesDir(null), then child TouchPalG.",
-  "code_external_root": "Context.getExternalFilesDir(null)/TouchPalG",
-  "device_current_path_observed": false,
-  "root_sd_migration_authorized": false,
-  "caption_requirement": "Before implementing154, resolve/display actual runtime folders, distinguish working root from selectedUSR/ZIP destinations. Owner wording SD disk does not by itself request a data migration.",
-  "status": "code_checked_device_location_needs_clarification"
+  "status": "device_paths_observed_and_copy_only_shared_folder_proposed",
+  "observed_txt153": "/storage/emulated/0/Android/data/com.cootek.smartinputv5/files/TouchPalG/Backup",
+  "observed_legacy_backup": "/storage/emulated/0/TouchPal2015/Backup",
+  "proposed_exports_default": "/storage/emulated/0/TouchPalG/Backup",
+  "owner_explicit_scope": "Копии USR/ZIP и TXT; рабочие файлы оставить на месте",
+  "working_root_migration_authorized": false,
+  "latest_owner_instruction": "Сделаем макет и решим.",
+  "native_fixed_path_block_removed_from_proposal": true,
+  "current_phone_version_not_visible_in_screenshots": true
 }

@@ -208,18 +208,17 @@
       ],
       "request": "Расширить существующий раздел резервной копии, разделить блоки линиями и перенести штатные действия отдельными кнопками.",
       "proposed_sections": [
-        "Полная копия — создать/восстановить ZIP",
-        "Пользовательский словарь — сохранить/восстановить western.usr",
-        "Слова в текстовом файле — существующий экран импорта-экспорта",
-        "Штатные действия TouchPal — сохранить в Backup, восстановить из Backup, проверить/исправить словарь",
-        "Перенос старых данных — прежний TouchPal2015"
+        "Полная копия",
+        "Пользовательский словарь",
+        "Слова в текстовом файле",
+        "Перенос старых данных"
       ],
       "section_order_owner_approved": false,
       "preserve": "Существующие значения, данные и обработчики. Различать TXT, western.usr, штатную папку Backup и полный ZIP; опубликованные153 APK/SOURCE/tag не менять.",
       "mockup": "mockups/settings154/backup-and-restore-proposal.png",
       "apk_built_for_this_request": true,
       "follow_up": "Владелец считает блок штатных действий непонятным и просит мини-пояснения.",
-      "proposed_native_section_title": "Словарные файлы TouchPal",
+      "proposed_native_section_title": null,
       "proposed_button_captions": {
         "Сохранить в папку Backup": "Копирует western.usr и связанные данные в папку Backup.",
         "Восстановить из папки Backup": "Заменяет словари и связанные данные содержимым папки Backup.",
@@ -237,17 +236,17 @@
         "presentation": "Пути отдельной строкой рядом с соответствующим действием, нормальный размер шрифта, перенос по ширине без горизонтальной прокрутки и обрезания нужной части. Мини-пояснения остаются короткими.",
         "status": "design_requirement_recorded_no_app_changes"
       },
-      "latest_full_page_mockup": "mockups/settings154/backup-and-restore-paths-proposal.png",
+      "latest_full_page_mockup": "mockups/settings154/backup-owner-review-four-blocks.png",
       "path_location_review": {
-        "owner_question": "Владелец считает путь в эскизе старым: по его представлению текущие файлы лежат прямо на SD-диске.",
-        "checked_artifact": "output/153-gTouchPal-6.2.7.1.apk",
-        "artifact_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
-        "evidence": "StorageRoot135 disassembled directly from signed153 classes.dex; root(Z) calls application.getExternalFilesDir(null), then child TouchPalG.",
-        "code_external_root": "Context.getExternalFilesDir(null)/TouchPalG",
-        "device_current_path_observed": false,
-        "root_sd_migration_authorized": false,
-        "caption_requirement": "Before implementing154, resolve/display actual runtime folders, distinguish working root from selectedUSR/ZIP destinations. Owner wording SD disk does not by itself request a data migration.",
-        "status": "code_checked_device_location_needs_clarification"
+        "status": "device_paths_observed_and_copy_only_shared_folder_proposed",
+        "observed_txt153": "/storage/emulated/0/Android/data/com.cootek.smartinputv5/files/TouchPalG/Backup",
+        "observed_legacy_backup": "/storage/emulated/0/TouchPal2015/Backup",
+        "proposed_exports_default": "/storage/emulated/0/TouchPalG/Backup",
+        "owner_explicit_scope": "Копии USR/ZIP и TXT; рабочие файлы оставить на месте",
+        "working_root_migration_authorized": false,
+        "latest_owner_instruction": "Сделаем макет и решим.",
+        "native_fixed_path_block_removed_from_proposal": true,
+        "current_phone_version_not_visible_in_screenshots": true
       },
       "superseding_owner_instruction": "Копии USR/ZIP и TXT в общей папке на SD; рабочие файлы оставить на месте. Убрать дублирующие штатные действия, сохранить выбор файла и прежнюю механику western.usr.",
       "current_sections": [
@@ -265,7 +264,15 @@
       "note": "Earlier five-group mockup and fixed-path captions are superseded; do not implement the native Backup block.",
       "verification": "ui154/VERIFICATION.json",
       "publication_paused": true,
-      "latest_owner_instruction": "Сделаем макет и решим."
+      "latest_owner_instruction": "Сделаем макет и решим.",
+      "superseded_five_block_proposal": [
+        "Полная копия — создать/восстановить ZIP",
+        "Пользовательский словарь — сохранить/восстановить western.usr",
+        "Слова в текстовом файле — существующий экран импорта-экспорта",
+        "Штатные действия TouchPal — сохранить в Backup, восстановить из Backup, проверить/исправить словарь",
+        "Перенос старых данных — прежний TouchPal2015"
+      ],
+      "caption_requirement": "Мини-пояснения максимум2строки; общая папка сверху; без повторяющегося штатного Backup-блока."
     }
   ],
   "clarifications_only": {

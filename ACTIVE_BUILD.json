@@ -1,23 +1,13 @@
 {
-  "active_directory": "ui152",
-  "version": "152",
-  "mod_version": "152",
-  "base": "151",
-  "base_mod_version": "151",
-  "apk": "output/152-gTouchPal-6.2.7.1.apk",
-  "build_instructions": "BUILD_152.txt",
-  "status": "published",
-  "published_immutable": true,
-  "next_mod_version": "153+",
-  "github_tag": "v152",
-  "source_commit": "55c514357e352e065bfac4a3d913da3febb6c492",
-  "source_sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b",
-  "unpublished_source_work": {
-    "active_directory": "ui153",
-    "version": "153",
-    "status": "source_verified_not_packaged",
-    "work_state": "ui153/WORK_STATE.json",
-    "apk_built": false,
-    "source_capsule_frozen": false
-  }
+  "active_directory": "ui153",
+  "version": "153",
+  "mod_version": "153",
+  "base": "152",
+  "base_mod_version": "152",
+  "apk": "output/153-gTouchPal-6.2.7.1.apk",
+  "build_instructions": "BUILD_153.txt",
+  "status": "verified_preparing_github_release",
+  "published_immutable": false,
+  "github_tag": "v153",
+  "source_sha256": "2914ef44a198e92cd5aaecc78deb45115fb884d67ac68453a7d1410d8db2641d"
 }

@@ -1,6 +1,6 @@
 {
   "version": 153,
-  "status": "APK_VERIFIED_PREPARING_FINAL_SOURCE",
+  "status": "DRIVE_VERIFIED_PREPARING_GITHUB_RELEASE",
   "base_published_version": 152,
   "published152_immutable": true,
   "scope": [
@@ -12,7 +12,7 @@
   ],
   "empty_field_toggle_change": false,
   "apk_built": true,
-  "source_capsule_frozen": false,
+  "source_capsule_frozen": true,
   "verification": {
     "framework": {
       "status": "PASS",
@@ -33,5 +33,6 @@
     "signed_apk": "VERIFICATION.json"
   },
   "wording_assumption": "Space-next explanation shortened to fit two lines; full owner wording recorded in PENDING_OWNER_REQUESTS.json",
-  "quick_menu_presentation_changed": false
+  "quick_menu_presentation_changed": false,
+  "downloaded_source_rebuild_byte_identical": true
 }

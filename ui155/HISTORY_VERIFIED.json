@@ -1,0 +1,17 @@
+{
+  "version": "155",
+  "bytes": 58080544,
+  "sha256": "b2ae4c9768507126edb2ddb9050f19cc71aabaae86f7c28f53440cead3722478",
+  "entries": 9484,
+  "manifest_hashes": 9483,
+  "stages": 160,
+  "individual_logs": 159,
+  "implementation_patches": 6884,
+  "original_payloads_preserved": 9382,
+  "old_manifest_preserved": true,
+  "retired152_passport_preserved": true,
+  "prototype154_logs_and_implementation_preserved": true,
+  "post_publication153_preserved": true,
+  "old_live_journals_preserved": true,
+  "no_full_source_or_apk_added": true
+}

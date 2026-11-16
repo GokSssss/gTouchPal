@@ -1,0 +1,56 @@
+{
+  "version": "156",
+  "status": "PASS",
+  "source_sha256": "e3fb34a68324ff42b4e71a10ec4d018e96ddfeed12b2d67b841c9f1ef7472ed3",
+  "source_files": 293,
+  "apk_sha256": "66f0131eec274b03269175e17f4e5f7b4583c1cfca239da12993aa7b7d931740",
+  "byte_identical_apk": true,
+  "isolated": true,
+  "steps": [
+    {
+      "stage": "compile_helpers.py",
+      "exit_code": 0,
+      "seconds": 6.7,
+      "stdout_sha256": "317a2748e069fbc9b70774685390b5cf12f74476411e7ab938cc6e9cd9183d6c",
+      "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+    },
+    {
+      "stage": "build.py",
+      "exit_code": 0,
+      "seconds": 28.45,
+      "stdout_sha256": "84e7d9e59da94f1e950484d6b412d2c75f81bc03df3d625c7c85a26e9cfabb3c",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/run_dex_checks.py",
+      "exit_code": 0,
+      "seconds": 12.06,
+      "stdout_sha256": "500b09e30f2cf6c562fbc7e5147eb1901b6d367caa3fc593906ce564b1d7adef",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/check_resources.py",
+      "exit_code": 0,
+      "seconds": 0.46,
+      "stdout_sha256": "4314c9dc360381d904e01c8ef1e47f3c2fc0a686a694b7e545593cc2c5b0cc23",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/framework/run.py",
+      "exit_code": 0,
+      "seconds": 47.94,
+      "stdout_sha256": "575e7f8e8631dbfed91165569d04addf5bf5b3ef08b25782cf0341221097d55a",
+      "stderr_sha256": "10d449c909ef230509b98e3e2ab6ec7a4f3b0610d546dc0ac59057f5578a5dc5"
+    },
+    {
+      "stage": "collect_verification156.py",
+      "exit_code": 0,
+      "seconds": 2.77,
+      "stdout_sha256": "f1cb1ccd59ab45c8379b1d66403aef0b7d8faaed678bf5ccf12437bff980fefe",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "private_materials_exported": false,
+  "original_inputs_unchanged": true,
+  "android_runtime_executed": false
+}

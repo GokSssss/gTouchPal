@@ -1,0 +1,2 @@
+HTTP 401: Bad credentials (https://uploads.github.com/repos/GokSssss/gTouchPal-/releases/447212448/assets?label=&name=155-gTouchPal-SOURCE-6.2.7.1.zip)
+Try authenticating with:  gh auth login

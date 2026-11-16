@@ -1,0 +1,55 @@
+{
+  "status": "VERIFIED",
+  "files": {
+    "prototype_apk": {
+      "meta": {
+        "id": "1AQ2z6QMZcUzy3iqy4Ku8LvkWjHyguYoo",
+        "title": "154-gTouchPal-6.2.7.1.apk",
+        "mime_type": "application/vnd.android.package-archive",
+        "size": "33453455",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1csJyu7nlz2xBJv103MRwbp3M8Nqg92US"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 33453455,
+      "sha256": "f396ea73a4118246c3fb2c3e9d5ea18e8cb0089bcd3b921a39da1a6ce28ebdd1",
+      "raw_readback_verified": true
+    },
+    "prototype_source": {
+      "meta": {
+        "id": "19DqGSirsMUkIQSgW9pZ29qulGkVjZU-p",
+        "title": "154-gTouchPal-SOURCE-6.2.7.1.zip",
+        "mime_type": "application/zip",
+        "size": "1699421",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": [
+          "1csJyu7nlz2xBJv103MRwbp3M8Nqg92US"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 1699421,
+      "sha256": "635b2ce4787d2a2fa3160497ded49cb226d9284f0d2624f8c75e7438b44b0fbb",
+      "raw_readback_verified": true
+    }
+  },
+  "reason": "Superseded unapproved prototype;155 implements owner-approved later mockup",
+  "github_tag_preserved": "2c6be73eaa16c54a02475a3786e2785a92b95de5"
+}

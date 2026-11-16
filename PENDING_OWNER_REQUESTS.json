@@ -181,7 +181,7 @@
     {
       "id": "2026-11-16-icons154-refinement",
       "project": "gTouchPal",
-      "status": "approved_implementing155",
+      "status": "implemented_published155",
       "request": "Умное тире: широкие низкие скобочки пробела. Значки словаря: стрелки и инструменты отделить от контура книги. Название Импорт-экспорт словаря, читаемая книга со стрелками внутрь и наружу.",
       "mockup": "mockups/settings154/dictionary-icons-proposal.png",
       "apk_built_for_this_request": true,
@@ -189,12 +189,13 @@
       "publication_paused": false,
       "latest_owner_instruction": "Сделаем макет и решим.",
       "implementation_version": 155,
-      "owner_build_authorization": "все ок, собирай"
+      "owner_build_authorization": "все ок, собирай",
+      "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v155"
     },
     {
       "id": "2026-11-16-backup154-layout",
       "project": "gTouchPal",
-      "status": "approved_implementing155",
+      "status": "implemented_published155",
       "page_title": "Резервная копия и восстановление",
       "additional_entry_title": "Сохранение и восстановление пользовательского словаря",
       "keep_in_additional": [
@@ -358,25 +359,31 @@
       },
       "txt_split_design_approved": true,
       "implementation_version": 155,
-      "owner_build_authorization": "все ок, собирай"
+      "owner_build_authorization": "все ок, собирай",
+      "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v155"
+    },
+    {
+      "id": "2026-11-16-settings156-device-followup",
+      "status": "implementing156",
+      "theme_issue": "выбивает из меню",
+      "layout": "synchronous first frame and no IME on settings return",
+      "backup": "paired Сохранить / Сохранить и отправить; shorter buttons",
+      "folder_sketch": "received and understood as horizontal segmented pill",
+      "prototype154_preserved": true,
+      "folder_action": "open current copy folder",
+      "button_visual": "approved: отлично",
+      "button_specification": "mockups/settings156/SPEC.json"
     }
   ],
   "clarifications_only": {
     "2026-11-16-empty-field-suggestions": "Пока только вопрос: не добавлять новую функцию в TouchPal на основании этого обсуждения. В YaTouch10 отдельный empty_field_predictions уже существует, defaultfalse; в TouchPal152 отдельной настройки пустого поля нет."
   },
   "current_source_work": {
-    "version": 153,
-    "directory": "ui153",
-    "apk_built": true,
-    "final_source_frozen": true,
-    "published_version": 153,
-    "verification": {
-      "framework_tests": 38,
-      "status": "PASS",
-      "api16_compile": "PASS",
-      "phone_tested": false
-    },
-    "status": "published_verified",
-    "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v153"
+    "version": 156,
+    "directory": "ui156",
+    "apk_built": false,
+    "final_source_frozen": false,
+    "published_version": 155,
+    "status": "implementing_owner_device_followup"
   }
 }

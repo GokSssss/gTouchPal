@@ -1,0 +1,17 @@
+{
+  "version": 156,
+  "base_published_version": 155,
+  "status": "CHECKED_PENDING_SOURCE_FREEZE",
+  "scope": [
+    "Theme screen crash",
+    "Additional first-frame layout",
+    "IME flash on returning to settings",
+    "Compact paired Save/Save-and-send actions; folder sketch pending"
+  ],
+  "apk_built": true,
+  "phone_tested": false,
+  "button_visual_approved": true,
+  "folder_action": "open_current_copy_folder",
+  "latest_capsule_apk_built": true,
+  "framework_tests": 71
+}

@@ -1,0 +1,172 @@
+{
+  "status": "RAW_FILES_VERIFIED",
+  "files": [
+    {
+      "key": "current_apk",
+      "path": "/workspace/attachments/667a73e5-6ed7-4710-853a-cb8836ceb894/153-gTouchPal-6.2.7.1.apk",
+      "meta": {
+        "id": "1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl",
+        "title": "153-gTouchPal-6.2.7.1.apk",
+        "mime_type": "application/vnd.android.package-archive",
+        "size": "33457750",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": "2026-11-16T07:53:44.422Z",
+        "parent_ids": [
+          "1oJtPDz8QdQvYUhVVXcfz_440hXIUCm9E"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 33457750,
+      "sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+      "raw_readback_verified": true
+    },
+    {
+      "key": "current_source",
+      "path": "/workspace/attachments/05ebbd26-224f-41ed-97b6-b2cea87810c7/153-gTouchPal-SOURCE-6.2.7.1.zip",
+      "meta": {
+        "id": "1AOHdq56duoGA6GHsDpv9PH97OKsJbub9",
+        "title": "153-gTouchPal-SOURCE-6.2.7.1.zip",
+        "mime_type": "application/zip",
+        "size": "1153650",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": "2026-11-16T07:49:38.776Z",
+        "parent_ids": [
+          "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 1153650,
+      "sha256": "2914ef44a198e92cd5aaecc78deb45115fb884d67ac68453a7d1410d8db2641d",
+      "raw_readback_verified": true
+    },
+    {
+      "key": "current_passport",
+      "path": "/workspace/attachments/61559f63-713a-4ab7-9bbf-01febb052a57/153-gTouchPal-Passport-6.2.7.1.txt",
+      "meta": {
+        "id": "1zHyQpodZQOJKiQKNTj9XPkRk90POPXV9",
+        "title": "153-gTouchPal-Passport-6.2.7.1.txt",
+        "mime_type": "text/plain",
+        "size": "4264",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": "2026-11-16T07:54:53.625Z",
+        "parent_ids": [
+          "1oJtPDz8QdQvYUhVVXcfz_440hXIUCm9E"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 4264,
+      "sha256": "67a57eb6412495d5e76009d410ad262248de41572ba554a41b3d78d84ba4937c",
+      "raw_readback_verified": true
+    },
+    {
+      "key": "old_apk",
+      "path": "/workspace/attachments/5fefbb49-d3a9-4f68-89d6-48de55cf9620/152-gTouchPal-6.2.7.1.apk",
+      "meta": {
+        "id": "1saapH2vKb6DXEBAlAZZLIXpr8wA1ltlg",
+        "title": "152-gTouchPal-6.2.7.1.apk",
+        "mime_type": "application/vnd.android.package-archive",
+        "size": "33464981",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": "2026-11-15T11:01:06.127Z",
+        "parent_ids": [
+          "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 33464981,
+      "sha256": "8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6",
+      "raw_readback_verified": true
+    },
+    {
+      "key": "old_source",
+      "path": "/workspace/attachments/672386c1-d427-4d3b-a60b-17607611c2a6/152-gTouchPal-SOURCE-6.2.7.1.zip",
+      "meta": {
+        "id": "12V9eiX4_Nh4yRuE4-2cguTWHfR-gCaZQ",
+        "title": "152-gTouchPal-SOURCE-6.2.7.1.zip",
+        "mime_type": "application/zip",
+        "size": "958127",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": "2026-11-15T11:01:41.508Z",
+        "parent_ids": [
+          "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 958127,
+      "sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b",
+      "raw_readback_verified": true
+    },
+    {
+      "key": "old_passport",
+      "path": "/workspace/attachments/3a397c21-f35c-4e06-827f-3ce419189717/152-gTouchPal-Passport-6.2.7.1.txt",
+      "meta": {
+        "id": "1mp7RD3W6KzCjvtJybI3T_QrI54Xg3hzu",
+        "title": "152-gTouchPal-Passport-6.2.7.1.txt",
+        "mime_type": "text/plain",
+        "size": "4729",
+        "url": null,
+        "file_or_folder": "file",
+        "created_time": null,
+        "modified_time": "2026-11-15T11:04:56.143Z",
+        "parent_ids": [
+          "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM"
+        ],
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      },
+      "bytes": 4729,
+      "sha256": "47c79e95f61f43e4ecc57820d309ae5d2c210db2903a49706ab16a1b2cb838a8",
+      "raw_readback_verified": true
+    },
+    {
+      "key": "new_passport",
+      "path": "/workspace/attachments/b89b32e6-0e3d-4016-9ed0-adc9227bbf28/155-gTouchPal-Passport-6.2.7.1.txt",
+      "meta": {
+        "id": "11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ"
+      },
+      "bytes": 5581,
+      "sha256": "11b1c79f47973ac740faf801e087d95d8edb2fc0f137961a4da07a2fa1a6a824",
+      "raw_readback_verified": true
+    }
+  ],
+  "cleanup_permitted_only_after_publication_and_history": true
+}

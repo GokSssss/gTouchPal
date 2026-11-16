@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "version": "156",
+  "source_sha256": "e3fb34a68324ff42b4e71a10ec4d018e96ddfeed12b2d67b841c9f1ef7472ed3",
+  "apk_sha256": "66f0131eec274b03269175e17f4e5f7b4583c1cfca239da12993aa7b7d931740",
+  "frozen_files_identical_to_current": 292,
+  "source_manifest_files": 293,
+  "active_build_metadata_is_intentionally_minimal_in_source": true,
+  "byte_identical_downloaded_source_rebuild": true
+}

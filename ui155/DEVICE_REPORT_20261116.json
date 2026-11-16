@@ -1,0 +1,16 @@
+{
+  "version": "155",
+  "installed_by_owner": true,
+  "source": "Owner messages and Screen_Recording_20261116_232724_TouchPal.mp4",
+  "issues": [
+    "Theme screen exits/crashes; Android suggests WebView update removal",
+    "Additional menu changes layout after opening",
+    "Keyboard briefly appears when returning from settings subpages",
+    "Backup page too tall"
+  ],
+  "full_backup_restore_phone_acceptance": false,
+  "owner_media_published": false,
+  "next_version": "156",
+  "prototype154_preserved": true,
+  "old_files_cleanup_executed": false
+}

@@ -1,0 +1,15 @@
+{
+  "version": 156,
+  "status": "OWNER_APPROVED",
+  "owner_reply": "отлично",
+  "control": [
+    "Сохранить",
+    "Открыть папку копий",
+    "Сохранить и отправить"
+  ],
+  "layout": "single horizontal pill with dividers; Save text plus equal22dp folder/share icons",
+  "folder_action": "browse current shared copy folder; not change save location",
+  "save": "existing selectable file export",
+  "share": "existing persistent shared-folder copy plus Android Sharesheet; no auto deletion",
+  "user_sketch_images_not_published": true
+}

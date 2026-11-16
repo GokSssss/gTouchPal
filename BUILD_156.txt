@@ -1,0 +1,54 @@
+gTouchPal156 — восстановление сборки
+
+Основа TouchPal Keyboard6.2.7.1. Пакет com.cootek.smartinputv5.
+Оригинальный Android16 APK6.2.7.1/versionCode9999:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+SHA256 469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06
+
+Обязательный точный вход — опубликованный155APK,33479393байт:
+https://github.com/GokSssss/gTouchPal-/releases/download/v155/155-gTouchPal-6.2.7.1.apk
+https://drive.google.com/file/d/1SIBScO1exogidhB9fJl4cGWjl6OId_Dy/view
+SHA256 1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5
+Поместить в output/155-gTouchPal-6.2.7.1.apk.
+SOURCE содержит собственные изменения, контракты и рецепт поверх этого
+закрытого входа, не полный исходный код CooTek.
+
+Инструменты Java17+ с jdk.compiler, Python3, Apktool2.12.1, R8/D8, apksigner,
+AndroidAPI16/API34 JAR. Источники/суммы в ui156/TOOLCHAIN_INPUTS.json.
+Файлы инструментов — tools/. Framework: Maven3.9.11, Robolectric4.16.1 и
+зависимости tests/framework/pom.xml. Системный Maven — TOUCHPAL_TEST_MAVEN.
+
+Обычный комплект подписи:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Скачать используемый JKS и фактические «Параметры сборки и подписи.txt».
+TOUCHPAL_KEYSTORE и TOUCHPAL_SIGNING_INFO — пути к этим приватным файлам.
+Значения не входят в SOURCE/APK/Git. Сертификат SHA256:
+0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+
+Из корня распакованного SOURCE:
+python3 ui156/compile_helpers.py
+python3 ui156/build.py
+python3 ui156/tests/run_dex_checks.py
+python3 ui156/tests/check_resources.py
+python3 ui156/tests/framework/run.py
+python3 ui156/collect_verification156.py
+
+Результат output/156-gTouchPal-6.2.7.1.apk,10069/6.2.7.1-156.
+Одиннадцать собственных семейств,0исходных методов патчится. Ресурсы,
+classes2, native/ROM/языки/рабочие пути и физические раскладки155 прежние.
+Пайплайн ZIP/USR/TXT, FileProvider и private recovery155 наследуются.
+BackupActivity меняет представление/плашку и открытие папки; Combo модели
+перед первым кадром — CompactSettings, темы — SettingsMenu132/ThemePicker156.
+Тему применяет прежний i0.U0 и Settings84; собственного WebView/магазина нет.
+
+Framework проверяет реальные Android windows/preferences/views/файловый IO
+с явными native/URI-двойниками. Это не ART/телефонная приёмка. Начальная
+папка системного менеджера может быть проигнорирована OEM приложением.
+Folder открывает каталог копий, место сохранения не меняет. Save выбирает
+файл; Share сохраняет обычную постоянную копию, затем передаёт её Sharesheet.
+Файл остаётся после отмены/ошибки/отправки; автоматической очистки нет.
+Рабочие файлы клавиатуры не переносятся. Native USR сохраняется целиком;
+настройки/остальные файлы/WOR1 — полный ZIP; TXT — список слов.
+
+Опубликованные155 и прототип154/tag не переписывать.156 после выпуска
+неизменяем; следующая доработка157+.

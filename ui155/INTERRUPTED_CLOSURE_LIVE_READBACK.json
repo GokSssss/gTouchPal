@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "current": "155",
+  "previous": "153",
+  "cleanup_pending_followup": true,
+  "prototype154_preserved": true,
+  "files": [
+    {
+      "name": "PROJECT_STORAGE.json",
+      "path": "/workspace/attachments/44f3656f-d363-43ad-a7aa-2c2e93bc5e10/PROJECT_STORAGE.json",
+      "bytes": 452336,
+      "sha256": "654675fb68ba0d41008a8b4b79abf47c7c50ae2170a71b0f57a883c71685571c"
+    },
+    {
+      "name": "10\u0411\u0430\u0437\u0430!",
+      "path": "/workspace/attachments/a9839ab2-24fa-4743-9b97-1646571f42bb/10\u0411\u0430\u0437\u0430!.txt",
+      "bytes": 274408,
+      "sha256": "544d556d2636608baf199a67f94965750e9ab06473890cc01450dfe5fe4366c4"
+    },
+    {
+      "name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "path": "/workspace/attachments/f9a9e537-fe29-4a3c-9739-df05c2fc31c1/TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 615337,
+      "sha256": "27c3760fc4ddd7bb4f177aa47df94b3647da3f5a47588c5a22bbd508882ed9f6"
+    },
+    {
+      "name": "TouchPal_FEATURES_RU.txt",
+      "path": "/workspace/attachments/f8951e99-e954-45ff-94a9-1a138244d18a/\u0416\u0443\u0440\u043d\u0430\u043b \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0439 TouchPal.txt",
+      "bytes": 161260,
+      "sha256": "a65484ca2b05e99887be79d87932a19e813ccdd5c69260622d298625a1ca7279"
+    },
+    {
+      "name": "SOURCE_INDEX_RU.txt",
+      "path": "/workspace/attachments/8fd2cd56-e545-4407-9161-f25e27f1f198/SOURCE_INDEX_RU.txt",
+      "bytes": 3829,
+      "sha256": "209a8b4904859b8566156edeea8d4b04be6992348d31708e3581f25385627775"
+    }
+  ]
+}

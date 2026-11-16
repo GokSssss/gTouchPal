@@ -1,0 +1,54 @@
+{
+  "status": "mockup_only_owner_review_pending",
+  "image": "backup-owner-review-create-and-send.png",
+  "owner_request": "Пункт называется Создать и отправить; файл создаётся по стандартному пути, как при обычном создании.",
+  "button_order": {
+    "Полная копия": [
+      "Создать полную копию",
+      "Создать и отправить",
+      "Восстановить полную копию"
+    ],
+    "Пользовательский словарь": [
+      "Сохранить western.usr",
+      "Создать и отправить",
+      "Восстановить western.usr"
+    ],
+    "Слова в текстовом файле": [
+      "Сохранить слова в TXT",
+      "Создать и отправить",
+      "Добавить слова из TXT"
+    ]
+  },
+  "creation_pipeline": "Reuse the ordinary per-format current-data capture, encoding, validation and save behavior. First complete the saved copy in its standard backup/export folder; then share that same saved file.",
+  "storage": {
+    "same_standard_folder_as_save": true,
+    "default_folder": "/storage/emulated/0/TouchPalG/Backup/",
+    "file_kind": "Ordinary persistent backup/export, not a disposable share cache copy.",
+    "automatic_deletion": false,
+    "retain_if_chooser_cancelled_or_send_failed": true,
+    "filename_policy": "Use ordinary per-format default names and safe collision handling. Do not silently overwrite an existing saved backup.",
+    "working_keyboard_files_moved": false
+  },
+  "share_ui": "After verified successful creation, open the Android Sharesheet for the already-saved file. Share through a narrowly granted read URI.",
+  "implementation_note": "Use the URI of the saved file. Existing FileProvider external-path mapping already covers the default shared folder; do not add the formerly proposed cache/share mapping for this design. Never use file:// or delete the saved copy on chooser callbacks.",
+  "superseded_proposals": {
+    "temporary_cache": {
+      "root": "Context.getCacheDir()",
+      "relative_path": "share/",
+      "visibility": "Internal app cache; receiver gets read permission for the chosen file only.",
+      "file_naming": "Separate operation subdirectory; preserve proper user-visible .zip/.usr/.txt file names.",
+      "cleanup_proposal": "Owner prefers deletion after successful send. Generic Android ACTION_SEND/chooser has no delivery-completion acknowledgement. Do not delete on target selection, chooser close, Activity result or return to keyboard. A deferred automatic cleanup fallback still needs agreement; do not describe the earlier next-share-only or24hour proposal as owner-approved.",
+      "regular_saved_copies": "User-selected permanent destination, default SD TouchPalG/Backup; separate from share cache.",
+      "earlier_cleanup_proposal": "On next share remove only own completed temporary files older than24hours. Do not delete immediately on chooser launch/return because receiver may still need to read.",
+      "owner_cleanup_preference": "Удалять временный файл после успешной отправки.",
+      "platform_constraint": "Choosing a target app is not confirmation of successful sending. The receiving app may read asynchronously or reopen the URI; even one descriptor close/read is not universal delivery confirmation.",
+      "cleanup_policy_status": "owner_preference_recorded_platform_limit_explained_fallback_not_approved"
+    },
+    "reason": "Latest owner instruction replaces temporary cache and after-send/TTL cleanup discussion with an ordinary saved file in the standard folder."
+  },
+  "current_prototype_implements_sharing": false,
+  "app_code_changed_for_this_refinement": false,
+  "apk_built_for_this_refinement": false,
+  "publication_paused": true,
+  "published_version_unchanged": "153"
+}

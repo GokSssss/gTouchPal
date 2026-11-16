@@ -1,0 +1,28 @@
+{
+  "version": "155",
+  "folder": {
+    "success": true,
+    "id": "1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
+    "url": "https://drive.google.com/drive/folders/1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
+    "title": "155 \u2014 \u0440\u0435\u0437\u0435\u0440\u0432\u043d\u0430\u044f \u043a\u043e\u043f\u0438\u044f \u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0430",
+    "parent_id": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+  },
+  "files": {
+    "apk": {
+      "id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+      "url": "https://drive.google.com/file/d/1SIBScO1exogidhB9fJl4cGWjl6OId_Dy/view?usp=drivesdk",
+      "path": "/workspace/attachments/8c5fd37a-3d76-466d-9f10-1ef98aa105db/155-gTouchPal-6.2.7.1.apk",
+      "bytes": 33479393,
+      "sha256": "1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5",
+      "raw_readback_verified": true
+    },
+    "source": {
+      "id": "1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f",
+      "url": "https://drive.google.com/file/d/1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f/view?usp=drivesdk",
+      "path": "/workspace/attachments/c8600af5-ae69-4c26-ba9f-fb5324014ad0/155-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1516396,
+      "sha256": "cc3ce8070f80733ec92a7f93bab737cd59df136f269eab397636924e0081d27d",
+      "raw_readback_verified": true
+    }
+  }
+}

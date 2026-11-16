@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.skin;import android.content.Context;import com.cootek.smartinput5.func.h0;public final class BundledGateTheme{public static final String ID="com.cootek.smartinputv5.skin.keyboard_theme_meizu_white";public static h0 find(Context c,String id){return null;}}

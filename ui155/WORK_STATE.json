@@ -1,0 +1,19 @@
+{
+  "version": 155,
+  "base_published_version": 153,
+  "status": "CHECKED_PENDING_SOURCE_FREEZE",
+  "owner_authorization": "\u0432\u0441\u0435 \u043e\u043a, \u0441\u043e\u0431\u0438\u0440\u0430\u0439",
+  "prototype154_immutable_tag_preserved": true,
+  "base_apk": "output/153-gTouchPal-6.2.7.1.apk",
+  "scope": [
+    "Approved backup layout and section captions",
+    "Two direct TXT operations",
+    "Create and share ZIP/USR/TXT from the standard persistent folder",
+    "No automatic removal of saved copies",
+    "Keep native USR format, restoration checks and working data locations"
+  ],
+  "apk_built": true,
+  "phone_tested": false,
+  "host_scenarios": 63,
+  "actual_dex_abi_and_resources_checked": true
+}

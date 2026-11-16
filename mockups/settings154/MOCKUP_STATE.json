@@ -12,17 +12,20 @@
     "backup-and-restore-proposal.png",
     "dictionary-files-explanations-proposal.png",
     "backup-and-restore-paths-proposal.png",
-    "backup-owner-review-four-blocks.png"
+    "backup-owner-review-four-blocks.png",
+    "backup-owner-review-txt-split.png",
+    "backup-owner-review-share.png",
+    "backup-owner-review-create-and-send.png"
   ],
   "owner_original_screenshots_copied": false,
   "app_code_changed": true,
   "apk_built": true,
-  "latest_refinement": "Отдельное пояснение под каждой из3кнопок вместо общего текста; заголовок Словарные файлы TouchPal — предложение.",
-  "latest_full_page_mockup": "backup-owner-review-four-blocks.png",
+  "latest_refinement": "Три одинаковые кнопки Создать и отправить; файл сохраняется обычным способом в стандартную папку и затем передаётся в Поделиться.",
+  "latest_full_page_mockup": "backup-owner-review-create-and-send.png",
   "paths_shown": "Общая предложенная папка для копий/экспорта: /storage/emulated/0/TouchPalG/Backup/. Рабочие файлы остаются на месте.",
   "active_implementation": "ui154",
   "superseded_native_block": true,
-  "latest_owner_instruction": "Сделаем макет и решим.",
+  "latest_owner_instruction": "Пункт называется Создать и отправить; файл создаётся по стандартному пути, как при обычном создании.",
   "publication_paused": true,
   "published_version": "153",
   "proposed_sections": [
@@ -30,5 +33,23 @@
     "Пользовательский словарь",
     "Слова в текстовом файле",
     "Перенос старых данных"
-  ]
+  ],
+  "review_scope_instruction": "Сделаем макет и решим.",
+  "latest_mockup_changes_implemented": false,
+  "prototype154_layout_precedes_txt_split": true,
+  "txt_actions": [
+    {
+      "title": "Сохранить слова в TXT",
+      "proposal": "Отдельное прямое действие экспорта слов."
+    },
+    {
+      "title": "Добавить слова из TXT",
+      "proposal": "Отдельное прямое действие импорта; существующие слова сохраняются, дубликаты пропускаются."
+    }
+  ],
+  "prototype154_layout_precedes_sharing": true,
+  "txt_split_design_approved": true,
+  "share_proposal": "SHARE_PROPOSAL.json",
+  "cleanup_policy_status": "superseded_saved_copy_is_retained",
+  "share_storage": "Standard backup/export folder; persistent file; no automatic cleanup"
 }

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "android_api": 16,
+  "min_d8_api": 15,
+  "actual_signed_dex_abi_passed": true,
+  "source_sha256": {
+    "src/com/cootek/smartinput5/backup/BackupActivity.java": "1bd79bc13b653823c74fc7bfb92b616fac50e10ecb379fa9281ff721c3cd7629",
+    "src/com/cootek/smartinput5/backup/BackupLocations155.java": "dade76241d203f32feecb46cd5fefb0bf45c30ca02dd387258c589c07ee90417",
+    "src/com/cootek/smartinput5/backup/BackupSettings.java": "1bab44bb21a04c53a898d8c2e04512882c4d0eaa67b5d7076c00a1641b6c0d30",
+    "src/com/cootek/smartinput5/backup/CopyFiles155.java": "882d13435956372296b4ed9c0e1a17f259d66d258424e6676443849ecda151d1",
+    "src/com/cootek/smartinput5/backup/TextDictionary155.java": "6447d60b99fac14921963015add8c30feb879ec58fd7e85f069504f1d865d368",
+    "src/com/cootek/smartinput5/backup/TextRecovery155.java": "5bf57f2352bcc52de98f9e6478fcf08fb7d3c49eb4c7f4814e0b96d17a5b4aa3",
+    "src/com/cootek/smartinput5/settings/SettingsGlyphs153.java": "f4ca8ac2fb92ce5d095e628812ea4d74b44fbdbc6b375c447712476aa6565043",
+    "src/com/cootek/smartinput5/settings/SmartInput153.java": "5e4fddeb60f9a5045f3c06ae77f611a2e14dcfc768b3fc91c9a0c0ec1f4c97ea"
+  },
+  "compile_only_not_packaged": true
+}

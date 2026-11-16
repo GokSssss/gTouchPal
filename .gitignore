@@ -103,3 +103,19 @@ ui154/tests/framework/generated/
 ui154/tests/framework/external/
 ui154/retention_before/
 ui154/history154.zip
+
+#155 generated build/test outputs
+ui155/decoded/
+ui155/compile_classes/
+ui155/helper_classes/
+ui155/helper_decoded/
+ui155/helpers.*
+ui155/contracts.jar
+ui155/rebuilt.apk
+ui155/unsigned.apk
+ui155/tests/classes/
+ui155/tests/framework/target/
+ui155/tests/framework/generated/
+ui155/tests/framework/external/
+ui155/retention_before/
+ui155/history155.zip

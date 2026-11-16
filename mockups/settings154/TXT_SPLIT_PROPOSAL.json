@@ -1,0 +1,27 @@
+{
+  "status": "owner_approved_design_share_addition_pending",
+  "image": "backup-owner-review-txt-split.png",
+  "based_on": "Owner annotated screenshot from latest message; original screenshot not copied.",
+  "folder_caption": "Папка для файлов резервного копирования:",
+  "folder": "/storage/emulated/0/TouchPalG/Backup/",
+  "zip_caption": [
+    "Словари, настройки и буфер обмена — ZIP.",
+    "Без изображений буфера обмена."
+  ],
+  "removed_usr_footer": "Выберите папку сохранения или нужный файл.",
+  "txt_buttons": [
+    "Сохранить слова в TXT",
+    "Добавить слова из TXT"
+  ],
+  "txt_import_semantics": "Добавление без удаления прежних слов; не замена всего словаря.",
+  "removed_txt_caption": "Имя файла зависит от выбранного языка.",
+  "retained_txt_filename_hint": "Все слова: western_dict_full.txt.",
+  "common_button_size": true,
+  "caption_max_lines": 2,
+  "app_code_changed_for_this_refinement": false,
+  "apk_built_for_this_refinement": false,
+  "published_release_unchanged": "153",
+  "publication_paused": true,
+  "owner_feedback": "отлично теперь ... добавь ... отправить",
+  "implemented": false
+}

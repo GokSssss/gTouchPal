@@ -1,14 +1,14 @@
 {
-  "active_directory": "ui154",
-  "version": "154",
-  "mod_version": "154",
+  "active_directory": "ui155",
+  "version": "155",
+  "mod_version": "155",
   "base": "153",
   "base_mod_version": "153",
-  "apk": "output/154-gTouchPal-6.2.7.1.apk",
-  "build_instructions": "BUILD_154.txt",
-  "status": "prototype_awaiting_owner_mockup_decision",
+  "apk": "output/155-gTouchPal-6.2.7.1.apk",
+  "build_instructions": "BUILD_155.txt",
+  "status": "checked_pending_source_freeze",
   "published_immutable": false,
   "last_published_version": "153",
   "last_published_apk": "output/153-gTouchPal-6.2.7.1.apk",
-  "publication_paused_by_owner": true
+  "publication_paused_by_owner": false
 }

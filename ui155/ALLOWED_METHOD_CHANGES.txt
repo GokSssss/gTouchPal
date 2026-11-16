@@ -1,0 +1,4 @@
+Lcom/cootek/smartinput5/ui/settings/DictionaryEditorActivity; buildUi()V
+Lcom/cootek/smartinput5/ui/settings/DictionaryEditorActivity; sdDir()Ljava/io/File;
+Lcom/cootek/smartinput5/ui/settings/DictionaryEditorActivity; fallbackDir()Ljava/io/File;
+Lcom/cootek/smartinput5/ui/settings/FullDictExportActivity; outDir()Ljava/io/File;

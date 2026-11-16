@@ -181,18 +181,20 @@
     {
       "id": "2026-11-16-icons154-refinement",
       "project": "gTouchPal",
-      "status": "prototype_prepared_owner_requests_mockup_and_decision",
+      "status": "approved_implementing155",
       "request": "Умное тире: широкие низкие скобочки пробела. Значки словаря: стрелки и инструменты отделить от контура книги. Название Импорт-экспорт словаря, читаемая книга со стрелками внутрь и наружу.",
       "mockup": "mockups/settings154/dictionary-icons-proposal.png",
       "apk_built_for_this_request": true,
       "verification": "ui154/VERIFICATION.json",
-      "publication_paused": true,
-      "latest_owner_instruction": "Сделаем макет и решим."
+      "publication_paused": false,
+      "latest_owner_instruction": "Сделаем макет и решим.",
+      "implementation_version": 155,
+      "owner_build_authorization": "все ок, собирай"
     },
     {
       "id": "2026-11-16-backup154-layout",
       "project": "gTouchPal",
-      "status": "prototype_prepared_owner_requests_mockup_and_decision",
+      "status": "approved_implementing155",
       "page_title": "Резервная копия и восстановление",
       "additional_entry_title": "Сохранение и восстановление пользовательского словаря",
       "keep_in_additional": [
@@ -236,7 +238,7 @@
         "presentation": "Пути отдельной строкой рядом с соответствующим действием, нормальный размер шрифта, перенос по ширине без горизонтальной прокрутки и обрезания нужной части. Мини-пояснения остаются короткими.",
         "status": "design_requirement_recorded_no_app_changes"
       },
-      "latest_full_page_mockup": "mockups/settings154/backup-owner-review-four-blocks.png",
+      "latest_full_page_mockup": "mockups/settings154/backup-owner-review-create-and-send.png",
       "path_location_review": {
         "status": "device_paths_observed_and_copy_only_shared_folder_proposed",
         "observed_txt153": "/storage/emulated/0/Android/data/com.cootek.smartinputv5/files/TouchPalG/Backup",
@@ -263,8 +265,8 @@
       "working_data_migration_authorized": false,
       "note": "Earlier five-group mockup and fixed-path captions are superseded; do not implement the native Backup block.",
       "verification": "ui154/VERIFICATION.json",
-      "publication_paused": true,
-      "latest_owner_instruction": "Сделаем макет и решим.",
+      "publication_paused": false,
+      "latest_owner_instruction": "Пункт называется Создать и отправить; файл создаётся по стандартному пути, как при обычном создании.",
       "superseded_five_block_proposal": [
         "Полная копия — создать/восстановить ZIP",
         "Пользовательский словарь — сохранить/восстановить western.usr",
@@ -272,7 +274,91 @@
         "Штатные действия TouchPal — сохранить в Backup, восстановить из Backup, проверить/исправить словарь",
         "Перенос старых данных — прежний TouchPal2015"
       ],
-      "caption_requirement": "Мини-пояснения максимум2строки; общая папка сверху; без повторяющегося штатного Backup-блока."
+      "caption_requirement": "Мини-пояснения максимум2строки; общая папка сверху; без повторяющегося штатного Backup-блока.",
+      "review_scope_instruction": "Сделаем макет и решим.",
+      "txt_split_proposal": {
+        "status": "mockup_only_pending_owner_decision",
+        "image": "backup-owner-review-txt-split.png",
+        "based_on": "Owner annotated screenshot from latest message; original screenshot not copied.",
+        "folder_caption": "Папка для файлов резервного копирования:",
+        "folder": "/storage/emulated/0/TouchPalG/Backup/",
+        "zip_caption": [
+          "Словари, настройки и буфер обмена — ZIP.",
+          "Без изображений буфера обмена."
+        ],
+        "removed_usr_footer": "Выберите папку сохранения или нужный файл.",
+        "txt_buttons": [
+          "Сохранить слова в TXT",
+          "Добавить слова из TXT"
+        ],
+        "txt_import_semantics": "Добавление без удаления прежних слов; не замена всего словаря.",
+        "removed_txt_caption": "Имя файла зависит от выбранного языка.",
+        "retained_txt_filename_hint": "Все слова: western_dict_full.txt.",
+        "common_button_size": true,
+        "caption_max_lines": 2,
+        "app_code_changed_for_this_refinement": false,
+        "apk_built_for_this_refinement": false,
+        "published_release_unchanged": "153",
+        "publication_paused": true
+      },
+      "latest_design_changes_implemented": false,
+      "share_proposal": {
+        "status": "mockup_only_owner_review_pending",
+        "image": "backup-owner-review-create-and-send.png",
+        "owner_request": "Пункт называется Создать и отправить; файл создаётся по стандартному пути, как при обычном создании.",
+        "button_order": {
+          "Полная копия": [
+            "Создать полную копию",
+            "Создать и отправить",
+            "Восстановить полную копию"
+          ],
+          "Пользовательский словарь": [
+            "Сохранить western.usr",
+            "Создать и отправить",
+            "Восстановить western.usr"
+          ],
+          "Слова в текстовом файле": [
+            "Сохранить слова в TXT",
+            "Создать и отправить",
+            "Добавить слова из TXT"
+          ]
+        },
+        "creation_pipeline": "Reuse the ordinary per-format current-data capture, encoding, validation and save behavior. First complete the saved copy in its standard backup/export folder; then share that same saved file.",
+        "storage": {
+          "same_standard_folder_as_save": true,
+          "default_folder": "/storage/emulated/0/TouchPalG/Backup/",
+          "file_kind": "Ordinary persistent backup/export, not a disposable share cache copy.",
+          "automatic_deletion": false,
+          "retain_if_chooser_cancelled_or_send_failed": true,
+          "filename_policy": "Use ordinary per-format default names and safe collision handling. Do not silently overwrite an existing saved backup.",
+          "working_keyboard_files_moved": false
+        },
+        "share_ui": "After verified successful creation, open the Android Sharesheet for the already-saved file. Share through a narrowly granted read URI.",
+        "implementation_note": "Use the URI of the saved file. Existing FileProvider external-path mapping already covers the default shared folder; do not add the formerly proposed cache/share mapping for this design. Never use file:// or delete the saved copy on chooser callbacks.",
+        "superseded_proposals": {
+          "temporary_cache": {
+            "root": "Context.getCacheDir()",
+            "relative_path": "share/",
+            "visibility": "Internal app cache; receiver gets read permission for the chosen file only.",
+            "file_naming": "Separate operation subdirectory; preserve proper user-visible .zip/.usr/.txt file names.",
+            "cleanup_proposal": "Owner prefers deletion after successful send. Generic Android ACTION_SEND/chooser has no delivery-completion acknowledgement. Do not delete on target selection, chooser close, Activity result or return to keyboard. A deferred automatic cleanup fallback still needs agreement; do not describe the earlier next-share-only or24hour proposal as owner-approved.",
+            "regular_saved_copies": "User-selected permanent destination, default SD TouchPalG/Backup; separate from share cache.",
+            "earlier_cleanup_proposal": "On next share remove only own completed temporary files older than24hours. Do not delete immediately on chooser launch/return because receiver may still need to read.",
+            "owner_cleanup_preference": "Удалять временный файл после успешной отправки.",
+            "platform_constraint": "Choosing a target app is not confirmation of successful sending. The receiving app may read asynchronously or reopen the URI; even one descriptor close/read is not universal delivery confirmation.",
+            "cleanup_policy_status": "owner_preference_recorded_platform_limit_explained_fallback_not_approved"
+          },
+          "reason": "Latest owner instruction replaces temporary cache and after-send/TTL cleanup discussion with an ordinary saved file in the standard folder."
+        },
+        "current_prototype_implements_sharing": false,
+        "app_code_changed_for_this_refinement": false,
+        "apk_built_for_this_refinement": false,
+        "publication_paused": true,
+        "published_version_unchanged": "153"
+      },
+      "txt_split_design_approved": true,
+      "implementation_version": 155,
+      "owner_build_authorization": "все ок, собирай"
     }
   ],
   "clarifications_only": {

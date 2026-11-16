@@ -6,7 +6,7 @@
 
 Клавиатура для Android с жестами, подсказками слов и настройкой под себя.
 
-**[Скачать APK 153](https://github.com/GokSssss/gTouchPal-/releases/download/v153/153-gTouchPal-6.2.7.1.apk)**
+**[Скачать APK 155](https://github.com/GokSssss/gTouchPal-/releases/download/v155/155-gTouchPal-6.2.7.1.apk)**
 
 ### Что умеет
 
@@ -15,6 +15,7 @@
 - **Физическая клавиатура:** русская и английская раскладки; в системном списке — «gTouchPal RU/en» и «gTouchPal EN/ru».
 - **Курсор и язык:** управление курсором удержанием левой части пробела; переключение языка свайпом по пробелу.
 - **Слова:** долгое нажатие на подсказку открывает редактирование и удаление слова.
+- **Резервная копия и восстановление:** ZIP, western.usr и списки слов TXT. Папка копий на SD, выбор любого файла и «Создать и отправить» через системное меню. Добавление из TXT сохраняет существующие слова.
 - **Буфер обмена:** вставка текста из отдельной панели и быстрый возврат к клавиатуре.
 - **Оформление:** светлая и тёмная темы, размеры клавиатуры и панели подсказок. Высоты клавиатуры для портрета и альбома сохраняются отдельно; альбомная по умолчанию — 550 px. Готовые значения и перетягивание края доступны на макете.
 - **Журнал функций:** актуальные возможности и история их изменений, открывается нажатием на **Журнал новых функций**.
@@ -27,9 +28,11 @@
 
 <img src="ui153/research/framework-capture/main-dark.png" alt="Настройки gTouchPal с ручным включением" width="394">
 
-<img src="ui153/research/framework-capture/additional153-dark.png" alt="Дополнительные настройки gTouchPal" width="394">
+<img src="ui155/research/framework-capture/additional153-dark.png" alt="Дополнительные настройки gTouchPal" width="394">
 
-[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v153) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+<img src="ui155/research/framework-capture/backup155-dark.png" alt="Резервная копия и восстановление" width="394">
+
+[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v155) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 
@@ -39,7 +42,7 @@
 
 An Android keyboard with gestures, word suggestions and adjustable appearance.
 
-**[Download APK 153](https://github.com/GokSssss/gTouchPal-/releases/download/v153/153-gTouchPal-6.2.7.1.apk)**
+**[Download APK 155](https://github.com/GokSssss/gTouchPal-/releases/download/v155/155-gTouchPal-6.2.7.1.apk)**
 
 ### Features
 
@@ -48,6 +51,7 @@ An Android keyboard with gestures, word suggestions and adjustable appearance.
 - **Physical keyboard:** Russian and English layouts; the system picker shows “gTouchPal RU/en” and “gTouchPal EN/ru”.
 - **Cursor and language:** hold the left side of the spacebar to move the cursor; swipe along it to switch languages.
 - **Words:** long-press a suggestion to edit or delete the word.
+- **Backup and restore:** ZIP, western.usr and TXT word lists. A shared SD backup folder, selectable files and “Create and send” through Android sharing. TXT import keeps existing words.
 - **Clipboard:** paste from a separate panel and return quickly to the keyboard.
 - **Appearance:** light and dark themes, keyboard and suggestion-panel sizing. Portrait and landscape keyboard heights are saved separately; landscape defaults to 550 px. Presets and edge dragging are available in the preview.
 - **Feature journal:** current features and their history, opened by tapping the journal.
@@ -60,9 +64,11 @@ Android Views captured in the test environment, not a phone photograph.
 
 <img src="ui153/research/framework-capture/main-dark.png" alt="gTouchPal settings with manual activation" width="394">
 
-<img src="ui153/research/framework-capture/additional153-dark.png" alt="gTouchPal additional settings" width="394">
+<img src="ui155/research/framework-capture/additional153-dark.png" alt="gTouchPal additional settings" width="394">
 
-[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal-/releases/tag/v153) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+<img src="ui155/research/framework-capture/backup155-dark.png" alt="Backup and restore" width="394">
+
+[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal-/releases/tag/v155) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 
@@ -72,4 +78,4 @@ Android Views captured in the test environment, not a phone photograph.
 
 Based on TouchPal Deluxe and continuing Tanh's modification of TouchPal Keyboard 6.2.7.1. Further development by GokS. Original base by CooTek.
 
-[Пост Tanh на 4PDA / Tanh on 4PDA](https://4pda.to/forum/index.php?showtopic=256287&view=findpost&p=139436147) · [Лицензии значков / Icon licenses](ui153/research/icon-sources) · [Для разработчика / Developer documentation](docs/DEVELOPMENT.md)
+[Пост Tanh на 4PDA / Tanh on 4PDA](https://4pda.to/forum/index.php?showtopic=256287&view=findpost&p=139436147) · [Лицензии значков / Icon licenses](ui155/research/icon-sources) · [Для разработчика / Developer documentation](docs/DEVELOPMENT.md)

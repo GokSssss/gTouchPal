@@ -1,0 +1,221 @@
+.class Lcom/cootek/smartinput5/backup/BackupActivity$10$1;
+.super Ljava/lang/Object;
+.source "BackupActivity.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/cootek/smartinput5/backup/BackupActivity$10;->run()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+.field final synthetic val$words:Ljava/util/List;
+
+
+# direct methods
+.method constructor <init>(Lcom/cootek/smartinput5/backup/BackupActivity$10;Ljava/util/List;)V
+    .locals 0
+    .annotation system Ldalvik/annotation/MethodParameters;
+        accessFlags = {
+            0x8010,
+            0x1010
+        }
+        names = {
+            null,
+            null
+        }
+    .end annotation
+
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()V"
+        }
+    .end annotation
+
+    .line 181
+    iput-object p1, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iput-object p2, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->val$words:Ljava/util/List;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 5
+
+    .line 182
+    iget-object v0, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iget-object v0, v0, Lcom/cootek/smartinput5/backup/BackupActivity$10;->this$0:Lcom/cootek/smartinput5/backup/BackupActivity;
+
+    const/4 v1, 0x0
+
+    const/4 v2, 0x0
+
+    invoke-static {v0, v1, v2}, Lcom/cootek/smartinput5/backup/BackupActivity;->access$1200(Lcom/cootek/smartinput5/backup/BackupActivity;ZLjava/lang/String;)V
+
+    iget-object v0, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iget-object v0, v0, Lcom/cootek/smartinput5/backup/BackupActivity$10;->this$0:Lcom/cootek/smartinput5/backup/BackupActivity;
+
+    invoke-static {v0}, Lcom/cootek/smartinput5/backup/BackupActivity;->access$600(Lcom/cootek/smartinput5/backup/BackupActivity;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    .line 184
+    :cond_0
+    :try_start_0
+    new-instance v0, Lcom/cootek/smartinput5/backup/TextDictionary155$Session;
+
+    iget-object v1, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->val$words:Ljava/util/List;
+
+    iget-object v3, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iget-object v3, v3, Lcom/cootek/smartinput5/backup/BackupActivity$10;->val$language:Ljava/lang/String;
+
+    invoke-direct {v0, v1, v3}, Lcom/cootek/smartinput5/backup/TextDictionary155$Session;-><init>(Ljava/util/List;Ljava/lang/String;)V
+
+    .line 185
+    iget-object v1, v0, Lcom/cootek/smartinput5/backup/TextDictionary155$Session;->words:Ljava/util/List;
+
+    invoke-interface {v1}, Ljava/util/List;->isEmpty()Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    iget-object v0, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iget-object v0, v0, Lcom/cootek/smartinput5/backup/BackupActivity$10;->this$0:Lcom/cootek/smartinput5/backup/BackupActivity;
+
+    invoke-static {v0}, Lcom/cootek/smartinput5/backup/BackupActivity;->access$1300(Lcom/cootek/smartinput5/backup/BackupActivity;)Landroid/widget/TextView;
+
+    move-result-object v0
+
+    const-string v1, "\u0412\u0441\u0435 \u0441\u043b\u043e\u0432\u0430 \u0438\u0437 TXT \u0443\u0436\u0435 \u0435\u0441\u0442\u044c \u0432 \u0441\u043b\u043e\u0432\u0430\u0440\u0435."
+
+    invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    return-void
+
+    .line 186
+    :cond_1
+    new-instance v1, Landroid/app/AlertDialog$Builder;
+
+    iget-object v3, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iget-object v3, v3, Lcom/cootek/smartinput5/backup/BackupActivity$10;->this$0:Lcom/cootek/smartinput5/backup/BackupActivity;
+
+    invoke-direct {v1, v3}, Landroid/app/AlertDialog$Builder;-><init>(Landroid/content/Context;)V
+
+    const-string v3, "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0441\u043b\u043e\u0432\u0430 \u0438\u0437 TXT"
+
+    invoke-virtual {v1, v3}, Landroid/app/AlertDialog$Builder;->setTitle(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
+
+    move-result-object v1
+
+    new-instance v3, Ljava/lang/StringBuilder;
+
+    invoke-direct {v3}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v4, "\u041d\u043e\u0432\u044b\u0445 \u0441\u043b\u043e\u0432: "
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v3
+
+    iget-object v4, v0, Lcom/cootek/smartinput5/backup/TextDictionary155$Session;->words:Ljava/util/List;
+
+    .line 187
+    invoke-interface {v4}, Ljava/util/List;->size()I
+
+    move-result v4
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+
+    move-result-object v3
+
+    const-string v4, ". \u0423\u0436\u0435 \u0435\u0441\u0442\u044c: "
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v3
+
+    iget v0, v0, Lcom/cootek/smartinput5/backup/TextDictionary155$Session;->already:I
+
+    invoke-virtual {v3, v0}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v3, ".\n\u0421\u043b\u043e\u0432\u0430 \u0434\u043e\u0431\u0430\u0432\u044f\u0442\u0441\u044f \u0432 \u0442\u0435\u043a\u0443\u0449\u0438\u0439 \u0441\u043b\u043e\u0432\u0430\u0440\u044c. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u0437\u0430\u043f\u0438\u0441\u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0442\u0441\u044f."
+
+    invoke-virtual {v0, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-virtual {v1, v0}, Landroid/app/AlertDialog$Builder;->setMessage(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
+
+    move-result-object v0
+
+    const-string v1, "\u041e\u0442\u043c\u0435\u043d\u0430"
+
+    .line 188
+    invoke-virtual {v0, v1, v2}, Landroid/app/AlertDialog$Builder;->setNegativeButton(Ljava/lang/CharSequence;Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
+
+    move-result-object v0
+
+    const-string v1, "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c"
+
+    new-instance v2, Lcom/cootek/smartinput5/backup/BackupActivity$10$1$1;
+
+    invoke-direct {v2, p0}, Lcom/cootek/smartinput5/backup/BackupActivity$10$1$1;-><init>(Lcom/cootek/smartinput5/backup/BackupActivity$10$1;)V
+
+    invoke-virtual {v0, v1, v2}, Landroid/app/AlertDialog$Builder;->setPositiveButton(Ljava/lang/CharSequence;Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Landroid/app/AlertDialog$Builder;->show()Landroid/app/AlertDialog;
+    :try_end_0
+    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
+
+    .line 189
+    goto :goto_0
+
+    :catch_0
+    move-exception v0
+
+    iget-object v0, p0, Lcom/cootek/smartinput5/backup/BackupActivity$10$1;->this$1:Lcom/cootek/smartinput5/backup/BackupActivity$10;
+
+    iget-object v0, v0, Lcom/cootek/smartinput5/backup/BackupActivity$10;->this$0:Lcom/cootek/smartinput5/backup/BackupActivity;
+
+    const-string v1, "\u0421\u043b\u043e\u0432\u0430\u0440\u044c \u0438\u043b\u0438 \u044f\u0437\u044b\u043a \u0438\u0437\u043c\u0435\u043d\u0438\u043b\u0441\u044f. \u041e\u0442\u043a\u0440\u043e\u0439 TouchPal \u0438 \u0432\u044b\u0431\u0435\u0440\u0438 TXT \u0435\u0449\u0451 \u0440\u0430\u0437."
+
+    invoke-static {v0, v1}, Lcom/cootek/smartinput5/backup/BackupActivity;->access$1500(Lcom/cootek/smartinput5/backup/BackupActivity;Ljava/lang/String;)V
+
+    .line 190
+    :goto_0
+    return-void
+.end method

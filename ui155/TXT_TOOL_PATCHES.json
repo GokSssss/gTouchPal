@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "modified_mod_tools": [
+    {
+      "file": "smali_classes2/com/cootek/smartinput5/ui/settings/DictionaryEditorActivity.smali",
+      "before_sha256": "33e0501b2d3e37118fa0d4627514081dd85d2db2f353d73ddc7edec49956b0dc",
+      "after_sha256": "c14764f9dc363ce0e630da03e55eb2199092dee19cb5f06c3925295ee313a8e4",
+      "methods": [
+        {
+          "method": "sdDir()Ljava/io/File;",
+          "before_sha256": "246d5af89756bb30b5cde3e1279333666412768ad218cf393610500d0f6b5b24",
+          "after_sha256": "e42a9337a19ecbb894d8297694e0ac50602c7d2c098a6a41ff5309610f86471c"
+        },
+        {
+          "method": "fallbackDir()Ljava/io/File;",
+          "before_sha256": "73f57988638a198422fa1358c92403a9540bbc6af26dfb0bf36d3899885cfae1",
+          "after_sha256": "d80fd010603948b027cbf592f8a89ffe3ca83e3785789974efa64354dfe3e8bf"
+        },
+        {
+          "method": "buildUi()V",
+          "before_sha256": "ee6a8bf28741c980f71a938bfe8ddc674fe882f07bccb73499eeafd9c15e4fb4",
+          "after_sha256": "dfbdc17e370cfee0b0cf6f71e94b5f79498f781c256ba019bd3497d7f96661c7",
+          "change": "Title/button wording explicitly distinguishes TXT words from raw western.usr."
+        }
+      ]
+    },
+    {
+      "file": "smali_classes2/com/cootek/smartinput5/ui/settings/FullDictExportActivity.smali",
+      "before_sha256": "aa545235b7aa2bdb9d3fda4935b07f612a65779651f52ff3138d7b362e65cf09",
+      "after_sha256": "fe617c32922d075555a3fd8d9322a709ef80b029225b0548c60bd8e3f842531c",
+      "methods": [
+        {
+          "method": "outDir()Ljava/io/File;",
+          "before_sha256": "cec30cdcf1e69d174b27ddcaf2141402edb384da03b9b5b3e87a7ecf903c668a",
+          "after_sha256": "90294c7df21b245fe4a521b7e05a17ad11cb056bb66d3a9118c78f6b7385aa5c"
+        }
+      ]
+    }
+  ],
+  "native_parser_and_dictionary_methods_changed": false,
+  "working_storage_paths_changed": false
+}

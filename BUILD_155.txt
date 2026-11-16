@@ -1,0 +1,67 @@
+gTouchPal155 — восстановление сборки
+
+Основа: TouchPal Keyboard6.2.7.1, прежний мод153, пакет com.cootek.smartinputv5.
+Версия оригинального APK6.2.7.1/versionCode9999 подтверждена исходным
+Touchpal_android16_base.apk SHA256
+469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+
+Обязательный точный бинарный вход — опубликованный APK153:
+https://github.com/GokSssss/gTouchPal-/releases/download/v153/153-gTouchPal-6.2.7.1.apk
+https://drive.google.com/file/d/1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl/view
+33457750байт, SHA256
+eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
+Поместить в output/153-gTouchPal-6.2.7.1.apk.
+Закрытая основа и неизменённые прежние модули берутся из этого входа;
+SOURCE содержит полный рецепт и код собственных изменений155.
+
+Инструменты: Java17+ с модулем jdk.compiler, Python3, AndroidAPI16/API34 JAR,
+Apktool2.12.1, R8/D8, apksigner. Источники и суммы: ui155/TOOLCHAIN_INPUTS.json.
+Инструменты поместить в tools/. Для framework-проверок: Maven3.9.11,
+Robolectric4.16.1 и зависимости, перечисленные в tests/framework/pom.xml.
+
+Комплект подписи — обычная папка проекта на GoogleДиске:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Получить используемый JKS и «Параметры сборки и подписи.txt».
+Задать TOUCHPAL_KEYSTORE и TOUCHPAL_SIGNING_INFO путями к скачанным файлам.
+Их содержимое не включать в SOURCE, APK или Git.
+Ожидаемый SHA256 сертификата:
+0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+
+Из корня распакованного SOURCE:
+python3 ui155/compile_helpers.py
+python3 ui155/build.py
+python3 ui155/tests/run_dex_checks.py
+python3 ui155/tests/check_resources.py
+python3 ui155/tests/framework/run.py
+python3 ui155/collect_verification155.py
+
+Результат: output/155-gTouchPal-6.2.7.1.apk.
+Системный Maven можно передать через TOUCHPAL_TEST_MAVEN.
+Реальные Android Views, файловый ввод-вывод и URI проверяются Robolectric;
+закрытый native-контроллер, проверка формата и применение словаря представлены
+явными двойниками. Эти проверки не заменяют AndroidART или телефонную приёмку.
+
+Ресурсы и компоненты/разрешения прежние; версия10068/6.2.7.1-155.
+Восемь собственных семейств: BackupActivity, BackupSettings, BackupLocations155,
+SmartInput153, SettingsGlyphs153, CopyFiles155, TextDictionary155 и TextRecovery155. Имена двух прежних семейств сохранены ради
+существующих точек вызова. В двух прежних мод-экранах TXT изменены только четыре
+ограниченных метода интерфейса/папки вывода; парсеры и native-методы не меняются.
+StorageRoot135, native capture/init, формат western.usr и проверенное USR-
+восстановление с откатом унаследованы153 без изменения байткода.
+
+Копии и TXT по умолчанию: основное внешнее хранилище/TouchPalG/Backup.
+Начальная папка передаётся системному выбору файлов; другое место разрешено.
+Старый сторонний файловый менеджер может проигнорировать подсказку папки.
+Рабочие файлы клавиатуры не переносятся. Прежние TXT копируются только при
+отсутствии одноимённого файла, без удаления оригиналов. Штатные кнопки с
+фиксированным Backup и кнопка ремонта убраны из интерфейса по запросу владельца.
+
+Опубликованные153 APK/SOURCE/tag не переписываются. После выпуска155 он также
+неизменяем; следующая доработка156+.
+
+«Создать и отправить» сохраняет проверенный файл в общей папке и передаёт
+тот же файл существующему FileProvider с разрешением чтения. Сохранённый
+файл остаётся при отмене и после отправки; автоматической очистки нет.
+TXT читается в UTF-8, добавляет только новые слова через прежние native API.
+Перед добавлением — проверенная приватная копия для восстановления при сбое.

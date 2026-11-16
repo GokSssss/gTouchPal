@@ -1,0 +1,18 @@
+{
+  "version": "156",
+  "bytes": 60090755,
+  "sha256": "cb6aaa8394ad63f98d06505c63e59553a613126cae947f46330f75bab9fec5bd",
+  "entries": 9531,
+  "manifest_hashes": 9530,
+  "stages": 161,
+  "individual_logs": 160,
+  "implementation_patches": 6885,
+  "original_prepared155_payloads_preserved": 9483,
+  "original_drive9382_payloads_preserved": true,
+  "old_manifest_preserved": true,
+  "retired152_and153_passports_preserved": true,
+  "prototype154_logs_implementation_and_files_retained": true,
+  "post_publication153_and155_preserved": true,
+  "owner_phone_media_not_published": true,
+  "no_full_source_or_apk_added": true
+}

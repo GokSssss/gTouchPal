@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "counts": {
+    "root": 8,
+    "sources": 12,
+    "inputs": 6,
+    "protected": 12,
+    "signing": 2,
+    "current": 2,
+    "previous": 2,
+    "prototype154": 2
+  },
+  "protected_identities_unchanged": true,
+  "prototype154_ids_unchanged": true
+}

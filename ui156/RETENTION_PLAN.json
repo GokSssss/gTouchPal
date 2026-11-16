@@ -1,0 +1,136 @@
+{
+  "status": "PREPARED_WAITING_HISTORY_RAW_READBACK",
+  "keep": [
+    "156",
+    "155"
+  ],
+  "protected_unchanged": 11,
+  "prototype154_retained": true,
+  "move": {
+    "id": "1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl",
+    "from_parent": "1oJtPDz8QdQvYUhVVXcfz_440hXIUCm9E",
+    "to_parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+    "consumer": "SOURCE155 and prototypeSOURCE154"
+  },
+  "remove": [
+    {
+      "id": "1AOHdq56duoGA6GHsDpv9PH97OKsJbub9",
+      "title": "153-gTouchPal-SOURCE-6.2.7.1.zip",
+      "mime_type": "application/zip",
+      "size": "1153650",
+      "url": null,
+      "file_or_folder": "file",
+      "created_time": null,
+      "modified_time": null,
+      "parent_ids": [
+        "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+      ],
+      "drive_id": null,
+      "current_user_can_share": null,
+      "has_augmented_permissions": null,
+      "shared": null,
+      "permissions": null,
+      "source_visibility_status": "access_not_verified"
+    },
+    {
+      "id": "1zHyQpodZQOJKiQKNTj9XPkRk90POPXV9",
+      "title": "153-gTouchPal-Passport-6.2.7.1.txt",
+      "mime_type": "text/plain",
+      "size": "4264",
+      "url": null,
+      "file_or_folder": "file",
+      "created_time": null,
+      "modified_time": null,
+      "parent_ids": [
+        "1oJtPDz8QdQvYUhVVXcfz_440hXIUCm9E"
+      ],
+      "drive_id": null,
+      "current_user_can_share": null,
+      "has_augmented_permissions": null,
+      "shared": null,
+      "permissions": null,
+      "source_visibility_status": "access_not_verified"
+    },
+    {
+      "id": "1saapH2vKb6DXEBAlAZZLIXpr8wA1ltlg",
+      "title": "152-gTouchPal-6.2.7.1.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size": "33464981",
+      "url": null,
+      "file_or_folder": "file",
+      "created_time": null,
+      "modified_time": null,
+      "parent_ids": [
+        "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM"
+      ],
+      "drive_id": null,
+      "current_user_can_share": null,
+      "has_augmented_permissions": null,
+      "shared": null,
+      "permissions": null,
+      "source_visibility_status": "access_not_verified"
+    },
+    {
+      "id": "12V9eiX4_Nh4yRuE4-2cguTWHfR-gCaZQ",
+      "title": "152-gTouchPal-SOURCE-6.2.7.1.zip",
+      "mime_type": "application/zip",
+      "size": "958127",
+      "url": null,
+      "file_or_folder": "file",
+      "created_time": null,
+      "modified_time": null,
+      "parent_ids": [
+        "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+      ],
+      "drive_id": null,
+      "current_user_can_share": null,
+      "has_augmented_permissions": null,
+      "shared": null,
+      "permissions": null,
+      "source_visibility_status": "access_not_verified"
+    },
+    {
+      "id": "1mp7RD3W6KzCjvtJybI3T_QrI54Xg3hzu",
+      "title": "152-gTouchPal-Passport-6.2.7.1.txt",
+      "mime_type": "text/plain",
+      "size": "4729",
+      "url": null,
+      "file_or_folder": "file",
+      "created_time": null,
+      "modified_time": null,
+      "parent_ids": [
+        "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM"
+      ],
+      "drive_id": null,
+      "current_user_can_share": null,
+      "has_augmented_permissions": null,
+      "shared": null,
+      "permissions": null,
+      "source_visibility_status": "access_not_verified"
+    },
+    {
+      "id": "1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU",
+      "title": "151-gTouchPal-6.2.7.1.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "size": "33402126",
+      "url": null,
+      "file_or_folder": "file",
+      "created_time": null,
+      "modified_time": null,
+      "parent_ids": [
+        "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+      ],
+      "drive_id": null,
+      "current_user_can_share": null,
+      "has_augmented_permissions": null,
+      "shared": null,
+      "permissions": null,
+      "source_visibility_status": "access_not_verified"
+    }
+  ],
+  "empty_folders": [
+    "1oJtPDz8QdQvYUhVVXcfz_440hXIUCm9E",
+    "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM"
+  ],
+  "expected_freed_bytes": 68987877
+}

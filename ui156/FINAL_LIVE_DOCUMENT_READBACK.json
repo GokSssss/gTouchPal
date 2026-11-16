@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+      "path": "PROJECT_STORAGE.json",
+      "local": "/workspace/attachments/417f67bd-0d05-4cb9-8773-d711bb6b7909/PROJECT_STORAGE.json",
+      "bytes": 459647,
+      "sha256": "e2deb8b2b426d417aadb1e01aefe513dd1928f651a3aaa4a605f3e3157d3db86"
+    },
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "path": "10\u0411\u0430\u0437\u0430!",
+      "local": "/workspace/attachments/e731119a-441c-4395-9840-12a2d1a6fd81/10\u0411\u0430\u0437\u0430!.txt",
+      "bytes": 280148,
+      "sha256": "391f41e5f8e200ac5909a9de26f702f619cedc4ed0df28608aa189d9757ebbad"
+    },
+    {
+      "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+      "path": "TouchPal_FEATURES_RU.txt",
+      "local": "/workspace/attachments/b930fcb1-f2eb-468e-a623-2f282ad22ad1/\u0416\u0443\u0440\u043d\u0430\u043b \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0439 TouchPal.txt",
+      "bytes": 163293,
+      "sha256": "9b4ca0c745a0e6cbd6df86d858800753fe7a24af6d9c879a9f02249e73248564"
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "path": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "local": "/workspace/attachments/7d901a8a-4727-4fd4-b338-bc39d6eabde0/TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 621077,
+      "sha256": "e047ce592e9c2e29470ac02b25562c84d3ce67cc85f98cd8f304b46d619a50db"
+    },
+    {
+      "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+      "path": "CHECKPOINTS_RU.txt",
+      "local": "/workspace/attachments/9c5a2ca8-5725-456a-9cfe-4f04cda7086a/CHECKPOINTS_RU.txt",
+      "bytes": 17151,
+      "sha256": "5c74afa4e39a3581af1ac9a2e5d963c7de90b744586213e40826b2b818b055f9"
+    },
+    {
+      "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+      "path": "SOURCE_INDEX_RU.txt",
+      "local": "/workspace/attachments/df87f0f0-4e81-4349-85dc-e2a1109677a8/SOURCE_INDEX_RU.txt",
+      "bytes": 3943,
+      "sha256": "8137d0e8d7278cff02d13852b7e5e997be5241df18c57d589613edb5421ceafa"
+    },
+    {
+      "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+      "path": "INPUT_README.txt",
+      "local": "/workspace/attachments/f34f5c67-0fa0-4d97-9580-60e300dafeb0/\u041d\u0410\u0417\u041d\u0410\u0427\u0415\u041d\u0418\u0415_\u0418_SHA256.txt",
+      "bytes": 1321,
+      "sha256": "3029a8fd7a076409eb9fb1d5669f2e16f10630e1bfa1db197ca615c7f94dd020"
+    },
+    {
+      "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+      "path": "ui156/TouchPal_\u041d\u043e\u0432\u043e\u0432\u0432\u0435\u0434\u0435\u043d\u0438\u044f_\u043e\u0442_DelFix.xlsx",
+      "local": "/workspace/attachments/96b41ad1-6b58-4897-87e5-0546a79807f1/TouchPal_\u041d\u043e\u0432\u043e\u0432\u0432\u0435\u0434\u0435\u043d\u0438\u044f_\u043e\u0442_DelFix.xlsx",
+      "bytes": 37552,
+      "sha256": "100e2bb0779f5dc1d9e477417d2c613e5952095b4f311db182e41912b48a9903"
+    }
+  ],
+  "documents": 8,
+  "all_exact_bytes": true
+}

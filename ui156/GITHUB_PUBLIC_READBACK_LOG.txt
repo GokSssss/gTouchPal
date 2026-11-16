@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/workspace/touchpal/runtime156/public_readback.py", line 3, in <module>
+    r=Path('/workspace/touchpal/github');t=r/'ui156';v=json.loads((t/'GITHUB_RELEASE.json').read_text());assert v['tag_name']=='v156' and not v['draft'] and v['prerelease'];assert len(v['assets'])==3
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/workspace/touchpal/github/ui156/GITHUB_RELEASE.json'

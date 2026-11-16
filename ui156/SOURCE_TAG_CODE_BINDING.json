@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "tag": "v156",
+  "commit": "a5583a2691e14725511c05798dc2279e1441070d",
+  "source_sha256": "e3fb34a68324ff42b4e71a10ec4d018e96ddfeed12b2d67b841c9f1ef7472ed3",
+  "frozen_files_matched": 292,
+  "late_metadata_does_not_rewrite_frozen_source": true
+}

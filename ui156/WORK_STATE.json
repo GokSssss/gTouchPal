@@ -1,17 +1,13 @@
 {
   "version": 156,
-  "base_published_version": 155,
-  "status": "CHECKED_PENDING_SOURCE_FREEZE",
-  "scope": [
-    "Theme screen crash",
-    "Additional first-frame layout",
-    "IME flash on returning to settings",
-    "Compact paired Save/Save-and-send actions; folder sketch pending"
-  ],
+  "status": "PUBLISHED_VERIFIED",
   "apk_built": true,
+  "source_frozen_once": true,
+  "source_rebuild_byte_identical": true,
+  "github_public_downloads_verified": true,
   "phone_tested": false,
-  "button_visual_approved": true,
-  "folder_action": "open_current_copy_folder",
-  "latest_capsule_apk_built": true,
-  "framework_tests": 71
+  "prototype154_preserved": true,
+  "cleanup_complete": true,
+  "final_records_raw_verified": true,
+  "root_compliance_checkmark_verified": true
 }

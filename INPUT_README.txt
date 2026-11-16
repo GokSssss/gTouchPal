@@ -1,4 +1,4 @@
-Обязательные бинарные входы сохраняемыхSOURCE ·16.11.2026
+Обязательные бинарные входы сохраняемых SOURCE ·16.11.2026
 
 134_BUILD_INPUT_для_135.apk — storage135/build.py
 ID 1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX
@@ -16,8 +16,10 @@ TEST71_BUILD_INPUT_для_TEST72.apk — diagnostics72/build.py
 ID 11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f
 SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
 
-151-gTouchPal-6.2.7.1.apk — ui152/build.py
-ID 1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU
-SHA256 3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5
+153-gTouchPal-6.2.7.1.apk — ui155/build.py and retained prototypeSOURCE154
+ID 1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl
+SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
 
-Точный152APK дляSOURCE153 находится в предыдущем выпуске; повторно воВходы не копируется.151APK перенесён один раз дляSOURCE152.150input снят после снятияSOURCE151.
+Точный155APK для SOURCE156 находится в предыдущем выпуске и не дублируется.
+153APK один раз перемещён во Входы для SOURCE155 и активного прототипа154.
+151input и152APK больше не имеют сохраняемого потребителя на Диске.

@@ -1,15 +1,12 @@
 gTouchPal · сохраняемые исходники ·16.11.2026
 
-Текущий155 и предыдущий153;152 временно ожидает завершения следующей доработки. остальные — выбранные полезные точки. Установщики/паспорта находятся в папках выпусков и ключевых версий. SOURCE содержит собственные изменения и рецепты поверх указанных точных бинарных входов, не полный кодCooTek.
+Текущий156 и предыдущий155; остальные — выбранные полезные точки. Установщики/паспорта находятся в папках выпусков и ключевых версий. SOURCE содержит собственные изменения и рецепты поверх указанных точных бинарных входов, не полный кодCooTek.
+
+156-gTouchPal-SOURCE-6.2.7.1.zip
+https://drive.google.com/file/d/1bS3R_fWBuVLq40sj3ygc3MQrN54VJO4o/view
 
 155-gTouchPal-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f/view
-
-153-gTouchPal-SOURCE-6.2.7.1.zip
-https://drive.google.com/file/d/1AOHdq56duoGA6GHsDpv9PH97OKsJbub9/view
-
-152-gTouchPal-SOURCE-6.2.7.1.zip
-https://drive.google.com/file/d/12V9eiX4_Nh4yRuE4-2cguTWHfR-gCaZQ/view
 
 135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view
@@ -69,3 +66,7 @@ SHA256 3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5
 Реестр полезных точек и их ограничений: https://drive.google.com/file/d/1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR/view
 История/логика прежних правок: https://drive.google.com/file/d/1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e/view
 Журнал не заменяет удалённый полныйSOURCE и не обещает восстановление каждого старогоAPK.
+
+Активный прототип154 сохранён в Документах после вопроса владельца:
+https://drive.google.com/drive/folders/1csJyu7nlz2xBJv103MRwbp3M8Nqg92US
+Его тег/байты не менялись. Это не третий опубликованный выпуск.

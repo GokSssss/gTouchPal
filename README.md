@@ -6,7 +6,7 @@
 
 Клавиатура для Android с жестами, подсказками слов и настройкой под себя.
 
-**[Скачать APK 156](https://github.com/GokSssss/gTouchPal-/releases/download/v156/156-gTouchPal-6.2.7.1.apk)**
+**[Скачать APK 156](https://github.com/GokSssss/gTouchPal/releases/download/v156/156-gTouchPal-6.2.7.1.apk)**
 
 ### Что умеет
 
@@ -32,7 +32,7 @@
 
 <img src="ui156/research/framework-capture/backup156-dark.png" alt="Резервная копия и восстановление" width="394">
 
-[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v156) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal/releases/tag/v156) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 
@@ -42,7 +42,7 @@
 
 An Android keyboard with gestures, word suggestions and adjustable appearance.
 
-**[Download APK 156](https://github.com/GokSssss/gTouchPal-/releases/download/v156/156-gTouchPal-6.2.7.1.apk)**
+**[Download APK 156](https://github.com/GokSssss/gTouchPal/releases/download/v156/156-gTouchPal-6.2.7.1.apk)**
 
 ### Features
 
@@ -68,7 +68,7 @@ Android Views captured in the test environment, not a phone photograph.
 
 <img src="ui156/research/framework-capture/backup156-dark.png" alt="Backup and restore" width="394">
 
-[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal-/releases/tag/v156) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal/releases/tag/v156) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 

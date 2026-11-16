@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "id": "1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl",
+    "title": "153-gTouchPal-6.2.7.1.apk",
+    "mime_type": "application/vnd.android.package-archive",
+    "size": "33457750",
+    "url": null,
+    "file_or_folder": "file",
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "path": "/workspace/attachments/d03464e6-3f9a-4ffb-afc8-4cf42979ec5b/153-gTouchPal-6.2.7.1.apk",
+  "status": "PASS",
+  "raw_sha256_verified": true,
+  "move_only_no_copy": true
+}

@@ -364,7 +364,7 @@
     },
     {
       "id": "2026-11-16-settings156-device-followup",
-      "status": "implementing156",
+      "status": "implemented_published156_phone_pending",
       "theme_issue": "выбивает из меню",
       "layout": "synchronous first frame and no IME on settings return",
       "backup": "paired Сохранить / Сохранить и отправить; shorter buttons",
@@ -372,7 +372,8 @@
       "prototype154_preserved": true,
       "folder_action": "open current copy folder",
       "button_visual": "approved: отлично",
-      "button_specification": "mockups/settings156/SPEC.json"
+      "button_specification": "mockups/settings156/SPEC.json",
+      "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v156"
     }
   ],
   "clarifications_only": {
@@ -381,9 +382,10 @@
   "current_source_work": {
     "version": 156,
     "directory": "ui156",
-    "apk_built": false,
-    "final_source_frozen": false,
-    "published_version": 155,
-    "status": "implementing_owner_device_followup"
+    "apk_built": true,
+    "final_source_frozen": true,
+    "published_version": 156,
+    "status": "published_verified",
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v156"
   }
 }

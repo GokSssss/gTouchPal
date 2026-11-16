@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-16",
+  "status": "investigation_only_no_ime_metadata_or_physical_keyboard_changes",
+  "owner_goal": "Один пункт TouchPal в системном меню выбора ввода; если не получается, обсудить названия двух пунктов. Владелец напомнил: два языка добавлены для физической клавиатуры.",
+  "findings": [
+    "В приложении один IME service, два enabled keyboard subtype:1001/en_US и1002/ru_RU.",
+    "PhysicalKeyboardLanguages проверяет эти ID/locale и включает оба; PhysicalKeyboardSwitch использует их для системного переключения физической раскладки.",
+    "Стандартный Android14 добавляет отдельную строку для каждого включённого subtype; отдельного атрибута объединения этих двух keyboard subtype в меню нет.",
+    "Удаление одного subtype или объединение их ID не является изменением только отображения; так делать ради одной строки нельзя без отдельной переработки/проверки физического ввода."
+  ],
+  "proposal_only": [
+    "gTouchPal — Русский",
+    "gTouchPal — English"
+  ],
+  "proposal_implemented": false,
+  "apk_built": false,
+  "phone_tested": false,
+  "read_source_sha256": {
+    "res/xml/touchpal_method.xml": "39dd1f0373f3706dfe5e6480e223721d4570b4621fbc43b10fd51d6f2e1fe552",
+    "res/xml-v16/touchpal_method.xml": "39dd1f0373f3706dfe5e6480e223721d4570b4621fbc43b10fd51d6f2e1fe552",
+    "res/xml-v24/touchpal_method.xml": "39dd1f0373f3706dfe5e6480e223721d4570b4621fbc43b10fd51d6f2e1fe552",
+    "smali/com/cootek/smartinput5/ui/PhysicalKeyboardLanguages.smali": "754dfdd954e99460bbde07072292b02519b31e19513dbc7b838f6dab780fd3ab",
+    "smali/com/cootek/smartinput5/ui/PhysicalKeyboardSwitch.smali": "10e5371378b4e42351b0a9c611b60ef70a97e799d87515f6408e1e2e5dd642e2"
+  },
+  "android_source": "https://android.googlesource.com/platform/frameworks/base/+/refs/heads/android14-release/services/core/java/com/android/server/inputmethod/InputMethodSubtypeSwitchingController.java",
+  "android_source_method": "InputMethodAndSubtypeList.getSortedInputMethodAndSubtypeList: one ImeSubtypeListItem per enabled subtype"
+}

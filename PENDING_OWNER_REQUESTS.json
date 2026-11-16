@@ -157,6 +157,21 @@
       "verification": "Robolectric34: TouchPal → Яндекс → TouchPal без onResume/повторного открытия, enabled-list change, идемпотентная регистрация/отписка и повторная привязка строки.",
       "apk_built_for_this_request": false,
       "phone_tested": false
+    },
+    {
+      "id": "2026-11-16-input-method-picker-single-item",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "investigated_names_proposed_not_changed",
+      "request": "Один пункт в меню выбора ввода; если невозможно без изменения физического ввода, обсудить новые названия двух пунктов.",
+      "owner_reminder": "Два subtype нужны для работы физической клавиатуры.",
+      "review": "ui153/research/INPUT_METHOD_PICKER_REVIEW.json",
+      "proposed_names": [
+        "gTouchPal — Русский",
+        "gTouchPal — English"
+      ],
+      "proposal_accepted": false,
+      "apk_built_for_this_request": false
     }
   ],
   "clarifications_only": {

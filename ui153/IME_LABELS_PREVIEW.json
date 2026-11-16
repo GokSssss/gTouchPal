@@ -1,0 +1,18 @@
+{
+  "labels": {
+    "1001": "gTouchPal EN/ru",
+    "1002": "gTouchPal RU/en"
+  },
+  "resource_ids": {
+    "1001": "0x7f0f0c06",
+    "1002": "0x7f0f0c07"
+  },
+  "subtype_identity_and_attributes_preserved": true,
+  "physical_keyboard_code_unchanged": true,
+  "changed_entries": {
+    "resources.arsc": "fb460d74dae8a67909ed4944da656248cfb5a200cd36ab57054db048b30ec5d6",
+    "res/xml/touchpal_method.xml": "23bfaaf29ca6f9b7511ee01e05e4f947f518de42e7c85a8b99bcc1c84e49a426",
+    "res/xml-v16/touchpal_method.xml": "23bfaaf29ca6f9b7511ee01e05e4f947f518de42e7c85a8b99bcc1c84e49a426",
+    "res/xml-v24/touchpal_method.xml": "23bfaaf29ca6f9b7511ee01e05e4f947f518de42e7c85a8b99bcc1c84e49a426"
+  }
+}

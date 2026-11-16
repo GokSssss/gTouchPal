@@ -7,7 +7,7 @@ generated=H/'generated';generated.mkdir(exist_ok=True)
 names=['CompactSettings','RecentSettings146','SettingsIcons149','AboutPage149','SettingsMenu132','CandidatePanel141','ServiceSettings150','KeyboardActivation152','SmartInput153','SettingsGlyphs153','LandscapeHeight152','SizeModel','SizeRuntimeStore','SizeSettingsPage','FreshDefaults137']
 for name in names:
     rel=Path('com/cootek/smartinput5/settings')/(name+'.java')
-    dest=generated/rel;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(T/'src'/rel if (T/'src'/rel).exists() else R/'ui152/src'/rel if (R/'ui152/src'/rel).exists() else H/'fixtures'/rel,dest)
+    dest=generated/rel;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(T/'src'/rel if (T/'src'/rel).exists() else T/'inherited_sources'/rel if (T/'inherited_sources'/rel).exists() else H/'fixtures'/rel,dest)
 doubles={
  'com/cootek/smartinput5/ui/settings/EngCandidateMaxWordsListPreference.java':'package com.cootek.smartinput5.ui.settings; public class EngCandidateMaxWordsListPreference {public static int cached;public static void setCachedValue(int value){cached=value;}}',
  'com/cootek/smartinput5/ui/settings/KeyboardCustomizeActivity.java':'package com.cootek.smartinput5.ui.settings; public class KeyboardCustomizeActivity extends android.app.Activity {}',
@@ -35,6 +35,6 @@ subprocess.run(cmd+['test'],cwd=H,check=True)
 suites=[E.parse(p).getroot() for p in reports.glob('TEST-*.xml')]
 counts={k:sum(int(s.get(k,'0')) for s in suites) for k in ['tests','failures','errors','skipped']}
 assert counts['tests'] and counts['failures']==counts['errors']==0
-counts.update(status='PASS',android_api=34,phone_tested=False,actual_sources={str(p.relative_to(generated)):hashlib.sha256(p.read_bytes()).hexdigest() for p in generated.rglob('*.java')},selected_tests=args.tests or '*',native_contracts_are_explicit_doubles=True,apk_built=False)
+counts.update(status='PASS',android_api=34,phone_tested=False,actual_sources={str(p.relative_to(generated)):hashlib.sha256(p.read_bytes()).hexdigest() for p in generated.rglob('*.java')},selected_tests=args.tests or '*',native_contracts_are_explicit_doubles=True,apk_built=True)
 (T/'HOST_TESTS.json').write_text(json.dumps(counts,indent=2)+'\n')
 print('PASS',counts['tests'],'framework tests')

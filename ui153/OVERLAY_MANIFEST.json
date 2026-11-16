@@ -1,0 +1,44 @@
+{
+  "base": "output/152-gTouchPal-6.2.7.1.apk",
+  "base_sha256": "8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6",
+  "version": "153",
+  "version_code": 10066,
+  "version_labels": [
+    "smali/com/cootek/smartinput5/ui/KeyboardBuildMark.smali",
+    "smali/com/cootek/smartinput5/settings/VoiceReportExport.smali",
+    "smali/com/cootek/smartinput5/voice/VoiceTrace.smali"
+  ],
+  "replacement_helper_families": [
+    "com/cootek/smartinput5/settings/CompactSettings",
+    "com/cootek/smartinput5/settings/SettingsIcons149",
+    "com/cootek/smartinput5/settings/KeyboardActivation152",
+    "com/cootek/smartinput5/settings/SmartInput153",
+    "com/cootek/smartinput5/settings/SettingsGlyphs153"
+  ],
+  "smali_overlay": [
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$RowFrame.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings$Rows.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/CompactSettings.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152$1.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152$Activation.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152$Watcher.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/KeyboardActivation152.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SettingsGlyphs153.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SettingsIcons149.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SmartInput153$SectionLine.smali",
+    "overlay/smali/com/cootek/smartinput5/settings/SmartInput153.smali"
+  ],
+  "apk_overlay": {
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "bytes": 75956,
+      "sha256": "b58c04f9badba920feebbb8fdc59c06f66b0e220c5c426bc1ebfccbe73a27626"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "bytes": 104374,
+      "sha256": "9a8a992d2be090c990b52b314f3bb70307a275b1a8e094d1633b86214f550cf0"
+    }
+  }
+}

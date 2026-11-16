@@ -2,9 +2,9 @@
 
 Пользовательские описания содержат функции и изменения. Правила заполнения: [PUBLICATION_STYLE.md](PUBLICATION_STYLE.md).
 
-- Сборка текущей модификации: [BUILD_152.txt](../BUILD_152.txt), [ui152](../ui152), [инструкция входных материалов](../BUILD_152.txt).
-- Подпись, проверки и состав исходников: [техническое описание 152](../ui152/README_RU.txt), [файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v152).
-- Лицензии унаследованных значков: [Lucide и GitHub Octicons](../ui151/research/icon-sources).
+- Сборка текущей модификации: [BUILD_153.txt](../BUILD_153.txt), [ui153](../ui153), [инструкция входных материалов](../BUILD_153.txt).
+- Подпись, проверки и состав исходников: [техническое описание 153](../ui153/README_RU.txt), [файлы выпуска](https://github.com/GokSssss/gTouchPal-/releases/tag/v153).
+- Лицензии унаследованных значков: [Lucide и GitHub Octicons](../ui153/research/icon-sources).
 - Прежний текст README: [исторический снимок](history/README-before-2026-11-15.md).
 - Прежние описания релизов: [редакторский снимок](history/release-descriptions-before-2026-11-15.json).
 

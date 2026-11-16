@@ -12,7 +12,7 @@
     <plugin><groupId>org.apache.maven.plugins</groupId><artifactId>maven-surefire-plugin</artifactId><version>3.5.4</version>
       <configuration><workingDirectory>${project.basedir}</workingDirectory>
         <additionalClasspathElements><additionalClasspathElement>${project.basedir}/external/monitor-1.8.0.jar</additionalClasspathElement><additionalClasspathElement>${project.basedir}/external/espresso-idling-resource-3.7.0.jar</additionalClasspathElement></additionalClasspathElements>
-        <systemPropertyVariables><touchpal.apk>${project.basedir}/../../../output/152-gTouchPal-6.2.7.1.apk</touchpal.apk><robolectric.dependency.repo.url>https://repo.maven.apache.org/maven2</robolectric.dependency.repo.url></systemPropertyVariables>
+        <systemPropertyVariables><touchpal.apk>${project.basedir}/../../../output/153-gTouchPal-6.2.7.1.apk</touchpal.apk><robolectric.dependency.repo.url>https://repo.maven.apache.org/maven2</robolectric.dependency.repo.url></systemPropertyVariables>
       </configuration>
     </plugin>
   </plugins></build>

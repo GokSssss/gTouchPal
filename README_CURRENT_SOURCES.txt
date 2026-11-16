@@ -1,9 +1,3 @@
-gTouchPal151/150
-GitHub https://github.com/GokSssss/gTouchPal-/releases/tag/v151
-151APK https://drive.google.com/file/d/1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU/view
-151SOURCE https://drive.google.com/file/d/1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd/view
-SHA256 269ddd5e09ab4f373b7bf41ca95d98f0bc381b31fe1fd7ec1f7f08636d4ee14d
-150SOURCE https://drive.google.com/file/d/1Nj-5mQ3aljRc-alH8ivylEnUXvbLprDS/view
-SHA256 a8c86507e86e58e0402743ed035cb0c38b67041f2ec494b09c74ffc013b299c5
-Две последние полные версии и11прежних полезных точек.151проверочный, телефон ожидается. Диагностика — долгое нажатие на журнал.
-Сборка151:BUILD_151.txt. ДляSOURCE150 сохранён149APK воВходах.
+gTouchPal153: текущая подготовленная сборка ui153/ поверх неизменного152APK.
+BUILD_153.txt содержит команды, точный вход и ссылку на общий комплект подписи.
+Опубликованные версии152/151 неизменны; SOURCE153 готовится к заморозке.

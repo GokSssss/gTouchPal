@@ -23,5 +23,11 @@
     "smali/com/cootek/smartinput5/ui/PhysicalKeyboardSwitch.smali": "10e5371378b4e42351b0a9c611b60ef70a97e799d87515f6408e1e2e5dd642e2"
   },
   "android_source": "https://android.googlesource.com/platform/frameworks/base/+/refs/heads/android14-release/services/core/java/com/android/server/inputmethod/InputMethodSubtypeSwitchingController.java",
-  "android_source_method": "InputMethodAndSubtypeList.getSortedInputMethodAndSubtypeList: one ImeSubtypeListItem per enabled subtype"
+  "android_source_method": "InputMethodAndSubtypeList.getSortedInputMethodAndSubtypeList: one ImeSubtypeListItem per enabled subtype",
+  "current_status": "Owner exact labels implemented in153 APK, same two physical subtypes",
+  "owner_decision": {
+    "ru_RU": "gTouchPal RU/en",
+    "en_US": "gTouchPal EN/ru",
+    "build_requested": true
+  }
 }

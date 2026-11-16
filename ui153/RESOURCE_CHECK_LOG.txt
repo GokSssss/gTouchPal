@@ -1,0 +1,1 @@
+PASS: all old resource IDs/names/configurations/values preserved; three XML variants only add labels

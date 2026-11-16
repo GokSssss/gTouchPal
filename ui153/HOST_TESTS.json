@@ -1,5 +1,5 @@
 {
-  "tests": 37,
+  "tests": 38,
   "failures": 0,
   "errors": 0,
   "skipped": 0,
@@ -66,5 +66,5 @@
   },
   "selected_tests": "*",
   "native_contracts_are_explicit_doubles": true,
-  "apk_built": false
+  "apk_built": true
 }

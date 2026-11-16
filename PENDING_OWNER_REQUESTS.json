@@ -4,12 +4,12 @@
       "id": "2026-11-16-wave-settings-separator",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "implemented_in_unpublished153_source",
+      "status": "implemented_verified_in153_apk",
       "next_mod_version_minimum": 153,
       "request": "Отделить блок Wave горизонтальной линией в дополнительных настройках.",
       "placement": "После пункта «Не предсказывать слова», перед «Предугадывание»; сохранить Wave и его зависимый пункт вместе.",
       "preserve": "Исходные Preference, значения, зависимости и обработчики; опубликованные152 APK/SOURCE/tag неизменны.",
-      "apk_built_for_this_request": false,
+      "apk_built_for_this_request": true,
       "previous_status": "requested_not_implemented",
       "source_directory": "ui153"
     },
@@ -17,7 +17,7 @@
       "id": "2026-11-16-prediction-t9-name-icon",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "implemented_in_unpublished153_source",
+      "status": "implemented_verified_in153_apk",
       "next_mod_version_minimum": 153,
       "request": "Назвать пункт «Предугадывание / T9», значок — буква A внутри квадратной рамки в стиле остальных значков.",
       "setting_key": "option_predict",
@@ -26,7 +26,7 @@
         "prediction_off"
       ],
       "preserve": "Общий существующий переключатель WORD_PREDICTION; не менять режимы/сохранённые значения. Согласовать представление в настройках и быстром меню.",
-      "apk_built_for_this_request": false,
+      "apk_built_for_this_request": true,
       "previous_status": "requested_not_implemented",
       "source_directory": "ui153",
       "current_title": "Предугадывание/Т9",
@@ -36,14 +36,14 @@
       "id": "2026-11-16-autoreplace-name",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "implemented_in_unpublished153_source",
+      "status": "implemented_verified_in153_apk",
       "next_mod_version_minimum": 153,
       "request": "Название «Автозамена», значок А/о с двумя дуговыми стрелками замены; одинаковый размер со всеми остальными значками.",
       "setting_key": "option_auto_correction",
       "preserve": "Существующий переключатель AUTO_CORRECTION и его зависимость от WORD_PREDICTION.",
       "ios_terminology_clarification": "В русской документации Apple штатное название — «Автокоррекция». «Автозамена» — выбранное владельцем название TouchPal.",
       "ios_reference": "https://support.apple.com/ru-ru/104995",
-      "apk_built_for_this_request": false,
+      "apk_built_for_this_request": true,
       "new_title": "Автозамена",
       "icon": {
         "description": "А и о между двумя дуговыми стрелками замены, верхняя влево, нижняя вправо",
@@ -59,7 +59,7 @@
       "id": "2026-11-16-additional-settings-sections-mockup",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "implemented_in_unpublished153_source",
+      "status": "implemented_verified_in153_apk",
       "request": "Заголовки и разделители, отдельные смысловые значки у всех пунктов, пояснения максимум две строки; одинаковые размер и толщина значков.",
       "headers": [
         "Wave",
@@ -77,7 +77,7 @@
       "preserve": "Значения и обработчики сохранены. Новая зависимость строки выбора слов пробелом от контекста прямо запрошена владельцем. Отдельную настройку пустого поля не добавлять.",
       "mockup": "mockups/settings153/additional-settings-expanded.png",
       "mockup_sha256": "82c082701c63e9132517250b5af3f8497dc6ad77b964a843163b8186ab7b6063",
-      "apk_built_for_this_request": false,
+      "apk_built_for_this_request": true,
       "row_icons": {
         "option_curve": "Изогнутый непрерывный путь с двумя точками",
         "option_wave": "Две волнистые линии",
@@ -111,7 +111,7 @@
       "id": "2026-11-16-context-space-order-descriptions",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "implemented_in_unpublished153_source",
+      "status": "implemented_verified_in153_apk",
       "source_directory": "ui153",
       "request": "Связать доступность выбора следующего слова пробелом с контекстным прогнозированием, применить порядок и новые пояснения.",
       "general_order": [
@@ -144,34 +144,39 @@
         "checked_value_preserved": true,
         "native_listener_replaced": false
       },
-      "apk_built_for_this_request": false
+      "apk_built_for_this_request": true
     },
     {
       "id": "2026-11-16-activation-live-colour",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "implemented_in_unpublished153_source",
+      "status": "implemented_verified_in153_apk",
       "source_directory": "ui153",
       "report": "После выбора Яндекс вместо TouchPal пункт Включить TouchPal остаётся серым до повторного открытия настроек.",
       "implementation": "ContentObserver для DEFAULT_INPUT_METHOD и ENABLED_INPUT_METHODS обновляет подпись и уже привязанные заголовки. Наблюдение снимается при отсоединении окна; переиспользованные чужие строки не перекрашиваются.",
       "verification": "Robolectric34: TouchPal → Яндекс → TouchPal без onResume/повторного открытия, enabled-list change, идемпотентная регистрация/отписка и повторная привязка строки.",
-      "apk_built_for_this_request": false,
+      "apk_built_for_this_request": true,
       "phone_tested": false
     },
     {
       "id": "2026-11-16-input-method-picker-single-item",
       "requested_on": "2026-11-16",
       "project": "gTouchPal",
-      "status": "investigated_names_proposed_not_changed",
+      "status": "accepted_exact_names_verified_in153_apk",
       "request": "Один пункт в меню выбора ввода; если невозможно без изменения физического ввода, обсудить новые названия двух пунктов.",
       "owner_reminder": "Два subtype нужны для работы физической клавиатуры.",
       "review": "ui153/research/INPUT_METHOD_PICKER_REVIEW.json",
       "proposed_names": [
-        "gTouchPal — Русский",
-        "gTouchPal — English"
+        "gTouchPal RU/en",
+        "gTouchPal EN/ru"
       ],
-      "proposal_accepted": false,
-      "apk_built_for_this_request": false
+      "proposal_accepted": true,
+      "apk_built_for_this_request": true,
+      "labels_by_locale": {
+        "ru_RU": "gTouchPal RU/en",
+        "en_US": "gTouchPal EN/ru"
+      },
+      "build_requested": true
     }
   ],
   "clarifications_only": {
@@ -180,11 +185,11 @@
   "current_source_work": {
     "version": 153,
     "directory": "ui153",
-    "apk_built": false,
+    "apk_built": true,
     "final_source_frozen": false,
     "published_version": 152,
     "verification": {
-      "framework_tests": 37,
+      "framework_tests": 38,
       "status": "PASS",
       "api16_compile": "PASS",
       "phone_tested": false

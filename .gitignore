@@ -75,3 +75,15 @@ ui153/tests/framework/target/
 ui153/tests/framework/generated/
 ui153/tests/framework/external/
 
+
+#153 packaging intermediates
+ui153/decoded/
+ui153/compile_classes/
+ui153/helper_classes/
+ui153/helper_decoded/
+ui153/helpers.*
+ui153/contracts.jar
+ui153/rebuilt.apk
+ui153/unsigned.apk
+ui153/retention_before/
+ui153/history153.zip

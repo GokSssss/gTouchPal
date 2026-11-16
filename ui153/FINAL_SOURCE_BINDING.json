@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "source_sha256": "2914ef44a198e92cd5aaecc78deb45115fb884d67ac68453a7d1410d8db2641d",
+  "apk_sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+  "checked_code_and_repro_files": 156,
+  "source_frozen_once": true,
+  "downloaded_source_rebuild_byte_identical": true
+}

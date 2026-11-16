@@ -1,0 +1,49 @@
+gTouchPal153 — восстановление сборки
+
+Основа: TouchPal Keyboard6.2.7.1, прежний мод152, пакет com.cootek.smartinputv5.
+Оригинальная версия6.2.7.1/versionCode9999 подтверждена исходным APK
+Touchpal_android16_base.apk SHA256
+469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+
+Рабочий бинарный вход этой сборки — неизменныйAPK152:
+https://drive.google.com/file/d/1saapH2vKb6DXEBAlAZZLIXpr8wA1ltlg/view
+33464981байт, SHA256
+8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6
+Скопировать в output/152-gTouchPal-6.2.7.1.apk.
+Прежние открытые модули и закрытая основа берутся из этого точного входа.
+
+Инструменты: Java17+ с модулем jdk.compiler, Python3, AndroidAPI16/androidAPI34
+JAR, Apktool2.12.1, R8/D8 иapksigner. Точные хеши и официальные источники
+перечислены в ui153/TOOLCHAIN_INPUTS.json. Инструменты поместить в tools/.
+Maven3.9.11 и зависимости Robolectric4.16.1 нужны только для framework-тестов.
+
+Комплект подписи:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Получить используемыйJKS и файл «Параметры сборки и подписи.txt» из этой папки.
+Задать TOUCHPAL_KEYSTORE и TOUCHPAL_SIGNING_INFO путями к этим локальным файлам.
+Их содержимое не копировать в репозиторий илиSOURCE.
+Ожидаемый SHA256 сертификата:
+0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+
+Из корня распакованногоSOURCE выполнить:
+python3 ui153/compile_helpers.py
+python3 ui153/build.py
+python3 ui153/tests/run_dex_checks.py
+
+Результат: output/153-gTouchPal-6.2.7.1.apk.
+Для framework-тестов: python3 ui153/tests/framework/run.py.
+Можно указать системныйMaven через TOUCHPAL_TEST_MAVEN.
+Закрытые engine/cache/resizeграницы в этих тестах заменены явно объявленными
+двойниками; framework и ресурсы значков берутся из настоящего подписанногоAPK.
+Интерфейс и реальную переактивациюIME нужно дополнительно проверить на телефоне.
+
+Пакет/разрешения/компонентыAndroid не меняются, растёт только версия10066.
+ИсходныйAPK/SOURCE152 не перезаписывается; опубликованный153 также неизменяем.
+Новая доработка получает следующий номер154+.
+
+Изменения153: согласованные разделы/значки/пояснения Дополнительно,
+зависимость Space-next от контекста с сохранением галочки, немедленный цвет
+активации и точные имена «gTouchPal RU/en»/«gTouchPal EN/ru».
+Две физические раскладки сохраняют ID/locale/флаги и прежний код.
+Ресурсы добавляются append-only; проверка: python3 ui153/tests/check_resources.py.

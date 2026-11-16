@@ -4,6 +4,13 @@
 
 ## Русский
 
+### 153 · Дополнительные настройки и выбор клавиатуры
+
+- В «Дополнительно» появились разделы, отдельные значки и пояснения; пункты переименованы в «Предугадывание/Т9» и «Автозамена».
+- Выбор следующего слова пробелом связан с контекстным прогнозированием.
+- «Включить TouchPal» обновляет цвет сразу после смены клавиатуры.
+- В системном выборе ввода — «gTouchPal RU/en» и «gTouchPal EN/ru».
+
 ### 152 · Альбомная высота и ручное включение
 
 - Добавлена отдельная высота клавиатуры в альбомном режиме: по умолчанию 550 px, готовые значения и перетягивание края на макете. Высоты ориентаций сохраняются отдельно.
@@ -32,6 +39,13 @@
 ---
 
 ## English
+
+### 153 · Additional settings and keyboard selection
+
+- Added sections, individual icons and descriptions in Additional settings; renamed the prediction and autocorrection options.
+- Selecting the next word with Space now depends on contextual prediction.
+- Enable TouchPal updates its colour immediately when the selected keyboard changes.
+- The system picker shows “gTouchPal RU/en” and “gTouchPal EN/ru”.
 
 ### 152 · Landscape height and manual activation
 

@@ -9439,10 +9439,15 @@
     "seven_live_document_raw_readbacks_verified": true
   },
   "pending_release154": {
-    "status": "locally_verified_source_freeze_and_publication_pending",
+    "status": "owner_requested_mockup_review_not_published",
     "verification": "ui154/VERIFICATION.json",
     "scope": "Shared copy/TXT folder, selectable USR, no working-data migration",
     "phone_tested": false,
-    "preserve_current_and_previous_until_readbacks": true
+    "preserve_current_and_previous_until_readbacks": true,
+    "prototype_folder_id": "1csJyu7nlz2xBJv103MRwbp3M8Nqg92US",
+    "prototype_parent": "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3",
+    "apk_id": "1AQ2z6QMZcUzy3iqy4Ku8LvkWjHyguYoo",
+    "source_id": "19DqGSirsMUkIQSgW9pZ29qulGkVjZU-p",
+    "old_versions_cleanup_executed": false
   }
 }

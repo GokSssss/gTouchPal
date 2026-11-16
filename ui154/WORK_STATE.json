@@ -1,7 +1,7 @@
 {
   "version": 154,
   "base_published_version": 153,
-  "status": "SOURCE_FROZEN_CLEAN_REBUILD_VERIFIED",
+  "status": "OWNER_REQUESTED_MOCKUP_REVIEW_PUBLICATION_PAUSED",
   "owner_authorized": "Давай меняй: убрать дубли, оставить USR с выбором файла и TXT; копии USR/ZIP и TXT на SD, рабочие файлы оставить на месте.",
   "published153_immutable": true,
   "working_storage_migration": false,
@@ -20,5 +20,8 @@
   "source_capsule_frozen": true,
   "downloaded_source_rebuild_required_before_publication": true,
   "local_source_rebuild_byte_identical": true,
-  "source_sha256": "635b2ce4787d2a2fa3160497ded49cb226d9284f0d2624f8c75e7438b44b0fbb"
+  "source_sha256": "635b2ce4787d2a2fa3160497ded49cb226d9284f0d2624f8c75e7438b44b0fbb",
+  "owner_latest_instruction": "Сделаем макет и решим.",
+  "public_release_published": false,
+  "prototype_built_but_not_owner_approved": true
 }

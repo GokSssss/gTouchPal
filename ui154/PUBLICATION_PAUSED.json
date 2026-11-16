@@ -1,0 +1,16 @@
+{
+  "status": "OWNER_REVIEW_PENDING",
+  "owner_instruction": "Сделаем макет и решим.",
+  "release_created": false,
+  "published_version_remains": "153",
+  "previous_version_remains": "152",
+  "prototype_source_tag": "v154",
+  "prototype_source_commit": "2c6be73eaa16c54a02475a3786e2785a92b95de5",
+  "prototype_folder_id": "1csJyu7nlz2xBJv103MRwbp3M8Nqg92US",
+  "prototype_folder_parent": "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3",
+  "prototype_apk_id": "1AQ2z6QMZcUzy3iqy4Ku8LvkWjHyguYoo",
+  "prototype_source_id": "19DqGSirsMUkIQSgW9pZ29qulGkVjZU-p",
+  "same_ids_and_bytes_preserved": true,
+  "old_release_cleanup_executed": false,
+  "public_readme_restored_to153": true
+}

@@ -181,16 +181,18 @@
     {
       "id": "2026-11-16-icons154-refinement",
       "project": "gTouchPal",
-      "status": "implemented154_locally_verified_publication_pending",
+      "status": "prototype_prepared_owner_requests_mockup_and_decision",
       "request": "Умное тире: широкие низкие скобочки пробела. Значки словаря: стрелки и инструменты отделить от контура книги. Название Импорт-экспорт словаря, читаемая книга со стрелками внутрь и наружу.",
       "mockup": "mockups/settings154/dictionary-icons-proposal.png",
       "apk_built_for_this_request": true,
-      "verification": "ui154/VERIFICATION.json"
+      "verification": "ui154/VERIFICATION.json",
+      "publication_paused": true,
+      "latest_owner_instruction": "Сделаем макет и решим."
     },
     {
       "id": "2026-11-16-backup154-layout",
       "project": "gTouchPal",
-      "status": "implemented154_locally_verified_publication_pending",
+      "status": "prototype_prepared_owner_requests_mockup_and_decision",
       "page_title": "Резервная копия и восстановление",
       "additional_entry_title": "Сохранение и восстановление пользовательского словаря",
       "keep_in_additional": [
@@ -261,7 +263,9 @@
       "shared_exports_proposed_default": "/storage/emulated/0/TouchPalG/Backup",
       "working_data_migration_authorized": false,
       "note": "Earlier five-group mockup and fixed-path captions are superseded; do not implement the native Backup block.",
-      "verification": "ui154/VERIFICATION.json"
+      "verification": "ui154/VERIFICATION.json",
+      "publication_paused": true,
+      "latest_owner_instruction": "Сделаем макет и решим."
     }
   ],
   "clarifications_only": {

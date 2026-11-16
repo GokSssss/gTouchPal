@@ -1,0 +1,12 @@
+{
+  "reason": "Local GitHub uploads host returned401 while API/git access worked",
+  "workflow_run": 43828781337,
+  "run_url": "https://github.com/GokSssss/gTouchPal-/actions/runs/43828781337",
+  "conclusion": "success",
+  "exact_hashes_pinned": true,
+  "existing_assets_not_overwritten": true,
+  "signing_keys_or_parameters_passed": false,
+  "temporary_download_references_only_for_final_public_release_files": true,
+  "workflow_copy_preserved_in_history": true,
+  "one_time_workflow_removed_after_success": true
+}

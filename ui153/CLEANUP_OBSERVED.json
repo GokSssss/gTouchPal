@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-16",
+  "status": "COMPLETE",
+  "reason": "Keep153/152 and11useful checkpoints; retain151APK once forSOURCE152. SOURCE151 retirement leaves no retained Drive consumer for150input.",
+  "removed": [
+    {
+      "id": "1oDATzds6_EJlKpn6xgRzoY84QF3_nPTd",
+      "name": "151SOURCE",
+      "bytes": 809587
+    },
+    {
+      "id": "1SrKUYqpVrSi8a-xNiqX4Lh5tJa2kJVeQ",
+      "name": "151Passport",
+      "bytes": 5890
+    },
+    {
+      "id": "12t9KpTFmoaLGuh4o9N4pD3vXcL5xja9u",
+      "name": "150input",
+      "bytes": 33402698
+    }
+  ],
+  "empty_folder_removed": "1UyH15Lzk-hRYhWtrtbivJZRNNBIPH9_8",
+  "removed_bytes": 34218175,
+  "moved_without_copy": {
+    "version": "151",
+    "id": "1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU",
+    "consumer": "SOURCE152"
+  },
+  "keep": [
+    "153",
+    "152"
+  ],
+  "protected_unchanged": 11,
+  "all_prior9339_payloads_and_old_manifest_preserved": true,
+  "exact151_passport_preserved": true,
+  "github151_152_unchanged": true
+}

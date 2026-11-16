@@ -1,0 +1,16 @@
+{
+  "version": "153",
+  "bytes": 46542816,
+  "sha256": "197382a37ca452651b8602eda8d1cfbc3bd835a787a07c22f360a84d5950e532",
+  "entries": 9383,
+  "manifest_hashes": 9382,
+  "stages": 158,
+  "individual_logs": 157,
+  "implementation_patches": 6882,
+  "original_payloads_preserved": 9339,
+  "old_manifest_preserved": true,
+  "retired151_passport_preserved": true,
+  "post_publication152_preserved": true,
+  "old_live_journals_preserved": true,
+  "no_full_source_or_apk_added": true
+}

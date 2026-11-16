@@ -1,6 +1,6 @@
 {
   "version": 153,
-  "status": "DRIVE_VERIFIED_PREPARING_GITHUB_RELEASE",
+  "status": "PUBLISHED_VERIFIED",
   "base_published_version": 152,
   "published152_immutable": true,
   "scope": [
@@ -34,5 +34,7 @@
   },
   "wording_assumption": "Space-next explanation shortened to fit two lines; full owner wording recorded in PENDING_OWNER_REQUESTS.json",
   "quick_menu_presentation_changed": false,
-  "downloaded_source_rebuild_byte_identical": true
+  "downloaded_source_rebuild_byte_identical": true,
+  "github_url": "https://github.com/GokSssss/gTouchPal-/releases/tag/v153",
+  "cleanup_complete": true
 }

@@ -1,0 +1,20 @@
+{
+  "version": "153",
+  "status": "COMPLETE",
+  "drive_three_artifacts_exact": true,
+  "github_three_public_artifacts_exact": true,
+  "source_frozen_once_and_downloaded_rebuild_identical": true,
+  "source_tag_code_binding_passed": true,
+  "root_items": 8,
+  "current_release_items": 2,
+  "previous_release_items": 2,
+  "source_archives": 12,
+  "build_inputs_plus_readme": 6,
+  "signing_files": 2,
+  "protected_folders_plus_registry": 12,
+  "all_old_history_payloads_and_manifest_preserved": true,
+  "seven_live_documents_exact": true,
+  "root_checkmark_verified": true,
+  "rules_revision": "2026-11-15T07:53:46.300Z",
+  "phone_or_art_tested": false
+}

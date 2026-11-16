@@ -1,0 +1,23 @@
+[
+  {
+    "name": "153-gTouchPal-6.2.7.1.apk",
+    "bytes": 33457750,
+    "sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+    "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v153/153-gTouchPal-6.2.7.1.apk",
+    "downloaded_without_authorization": true
+  },
+  {
+    "name": "153-gTouchPal-Passport-6.2.7.1.txt",
+    "bytes": 4264,
+    "sha256": "67a57eb6412495d5e76009d410ad262248de41572ba554a41b3d78d84ba4937c",
+    "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v153/153-gTouchPal-Passport-6.2.7.1.txt",
+    "downloaded_without_authorization": true
+  },
+  {
+    "name": "153-gTouchPal-SOURCE-6.2.7.1.zip",
+    "bytes": 1153650,
+    "sha256": "2914ef44a198e92cd5aaecc78deb45115fb884d67ac68453a7d1410d8db2641d",
+    "url": "https://github.com/GokSssss/gTouchPal-/releases/download/v153/153-gTouchPal-SOURCE-6.2.7.1.zip",
+    "downloaded_without_authorization": true
+  }
+]

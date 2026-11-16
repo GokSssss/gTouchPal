@@ -1,0 +1,65 @@
+[
+  {
+    "key": "user",
+    "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+    "local": "TouchPal_FEATURES_RU.txt",
+    "path": "/workspace/attachments/5db24d8e-8d6b-4e20-bf14-516f726f7d91/Журнал улучшений TouchPal.txt",
+    "size_bytes": 156316,
+    "sha256": "be11c346f96190307b4854908f488878b91e2d6e3fd789ff787c49962dd8b1c0",
+    "raw_bytes_verified": true
+  },
+  {
+    "key": "tech",
+    "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+    "local": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "path": "/workspace/attachments/b4f4038b-df99-4b1a-b63a-2f33c95ae845/TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "size_bytes": 605414,
+    "sha256": "d61f1acd2a7bd08462dd9b97cb25faaf559dc76d45286eee268ab5bb6737c867",
+    "raw_bytes_verified": true
+  },
+  {
+    "key": "rules",
+    "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+    "local": "10База!",
+    "path": "/workspace/attachments/b57eeaaa-388b-45a3-bc5a-18acdda71726/10База!.txt",
+    "size_bytes": 264485,
+    "sha256": "2a743af9f00b001faf991b6fd331dfc9db6885d19922d19ac066f1c276aa75bb",
+    "raw_bytes_verified": true
+  },
+  {
+    "key": "storage",
+    "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+    "local": "PROJECT_STORAGE.json",
+    "path": "/workspace/attachments/aa612736-6f50-44c2-89a5-008eaf8f0dd1/PROJECT_STORAGE.json",
+    "size_bytes": 445047,
+    "sha256": "e3bf59d2b7b43fc4dbd88adbb4a65097fe393c041aa59c5c6388c1835c7d82a9",
+    "raw_bytes_verified": true
+  },
+  {
+    "key": "index",
+    "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+    "local": "SOURCE_INDEX_RU.txt",
+    "path": "/workspace/attachments/09206247-8772-418d-ba5b-1b12c4b68b8b/SOURCE_INDEX_RU.txt",
+    "size_bytes": 3629,
+    "sha256": "68ae62c8313eb7408f3431b5ea172996105df2a879c0ca6bc19f5ee613903476",
+    "raw_bytes_verified": true
+  },
+  {
+    "key": "excel",
+    "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+    "local": "TouchPal_Нововведения_от_DelFix.xlsx",
+    "path": "/workspace/attachments/5531a263-c51b-4aa6-89c7-cbd13e904cf7/TouchPal_Нововведения_от_DelFix.xlsx",
+    "size_bytes": 36217,
+    "sha256": "b44e23e61f8eb7c645795611de1e68e2691a91f5e1f5c12a66f1e381db036710",
+    "raw_bytes_verified": true
+  },
+  {
+    "key": "inputs",
+    "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+    "local": "ui153/INPUTS_README_RU.txt",
+    "path": "/workspace/attachments/dbe9fde0-0658-42d3-be6e-4f858b04dcdb/НАЗНАЧЕНИЕ_И_SHA256.txt",
+    "size_bytes": 1192,
+    "sha256": "67e08dcc8e7f08e16569a8705ea311337a9b3d51b83db17cdeda3e6d5a49822e",
+    "raw_bytes_verified": true
+  }
+]

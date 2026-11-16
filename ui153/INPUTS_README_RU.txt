@@ -1,0 +1,23 @@
+Обязательные бинарные входы сохраняемыхSOURCE ·16.11.2026
+
+134_BUILD_INPUT_для_135.apk — storage135/build.py
+ID 1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX
+SHA256 64d390c2fb3339ac9cdb79d6ab9ccece3bdc2d761c7536b41c689cf4f43ff53e
+
+TEST89_BUILD_INPUT_для_TEST90.apk — symbols90/build.py
+ID 1laQrw8PeCi6UHuLlItEIfnxhp2u8bfMJ
+SHA256 6b192592d4352da373cb711251de81e75dc433e435023c21d670739ab5542f50
+
+TEST79_BUILD_INPUT_для_TEST80.apk — symbols80/build.py
+ID 1GouT67MkW1mv7zs94P_AKEgeBsQ2iCyO
+SHA256 4e34d4fbd26e0318f067fbaed93ff1f29df5e28a762c896ec80f7f3caa3a344b
+
+TEST71_BUILD_INPUT_для_TEST72.apk — diagnostics72/build.py
+ID 11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f
+SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
+
+151-gTouchPal-6.2.7.1.apk — ui152/build.py
+ID 1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU
+SHA256 3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5
+
+Точный152APK дляSOURCE153 находится в предыдущем выпуске; повторно воВходы не копируется.151APK перенесён один раз дляSOURCE152.150input снят после снятияSOURCE151.

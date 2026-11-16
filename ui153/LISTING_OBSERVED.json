@@ -1,0 +1,280 @@
+{
+  "root": [
+    {
+      "id": "1oJtPDz8QdQvYUhVVXcfz_440hXIUCm9E",
+      "name": "153 — дополнительные настройки и выбор ввода",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+      "name": "TouchPal_Нововведения_от_DelFix.xlsx",
+      "size": "35589",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "name": "10База!",
+      "size": "259525",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "size": "600454",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+      "name": "Журнал улучшений TouchPal.txt",
+      "size": "153408",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1Hc3QfhseVrfrBKhswIbPOSqZXBo-SLRM",
+      "name": "152 — альбомная высота и включение TouchPal",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1jmkShIaCyrjCu3fkDLujpIFoS3r5axLe",
+      "name": "Ключевые версии",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1bXi-ezmYh1qwos6shoyW6Pmy1EITzZhH",
+      "name": "Ресурсы",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    }
+  ],
+  "current": [
+    {
+      "id": "1zHyQpodZQOJKiQKNTj9XPkRk90POPXV9",
+      "name": "153-gTouchPal-Passport-6.2.7.1.txt",
+      "size": "4264",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl",
+      "name": "153-gTouchPal-6.2.7.1.apk",
+      "size": "33457750",
+      "mime_type": "application/vnd.android.package-archive"
+    }
+  ],
+  "previous": [
+    {
+      "id": "1mp7RD3W6KzCjvtJybI3T_QrI54Xg3hzu",
+      "name": "152-gTouchPal-Passport-6.2.7.1.txt",
+      "size": "4729",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1saapH2vKb6DXEBAlAZZLIXpr8wA1ltlg",
+      "name": "152-gTouchPal-6.2.7.1.apk",
+      "size": "33464981",
+      "mime_type": "application/vnd.android.package-archive"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1AOHdq56duoGA6GHsDpv9PH97OKsJbub9",
+      "name": "153-gTouchPal-SOURCE-6.2.7.1.zip",
+      "size": "1153650",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "12V9eiX4_Nh4yRuE4-2cguTWHfR-gCaZQ",
+      "name": "152-gTouchPal-SOURCE-6.2.7.1.zip",
+      "size": "958127",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto",
+      "name": "135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip",
+      "size": "916688",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr",
+      "name": "TEST90_TouchPal_SYMBOL_PICKER_sources.zip",
+      "size": "420749",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j",
+      "name": "TEST15_TouchPal_sources.zip",
+      "size": "43428",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ",
+      "name": "TEST21_TouchPal_sources.zip",
+      "size": "159528",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ",
+      "name": "TEST36_TouchPal_SYSTEM_SPELLCHECK_sources.zip",
+      "size": "82726",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_",
+      "name": "TEST40_TouchPal_FINAL_sources.zip",
+      "size": "297358",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4",
+      "name": "TEST34_TouchPal_CLEAN_sources.zip",
+      "size": "57808",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "18rGj7u6Hmt9q6mCyx9s47NLntdTomRul",
+      "name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS_sources.zip",
+      "size": "315077",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1aNIbFek9CkBz5FakK471WkVQyBF4dkR_",
+      "name": "TEST80_TouchPal_HOLD_COORDS_MENU_sources.zip",
+      "size": "402818",
+      "mime_type": "application/zip"
+    },
+    {
+      "id": "1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV",
+      "name": "T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip",
+      "size": "17602",
+      "mime_type": "application/zip"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+      "name": "НАЗНАЧЕНИЕ_И_SHA256.txt",
+      "size": "1547",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1UwTuX4XGr65_Hwlo6HkIoa764EcVuwtU",
+      "name": "151-gTouchPal-6.2.7.1.apk",
+      "size": "33402126",
+      "mime_type": "application/vnd.android.package-archive"
+    },
+    {
+      "id": "1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX",
+      "name": "134_BUILD_INPUT_для_135.apk",
+      "size": "26882367",
+      "mime_type": "application/vnd.android.package-archive"
+    },
+    {
+      "id": "1laQrw8PeCi6UHuLlItEIfnxhp2u8bfMJ",
+      "name": "TEST89_BUILD_INPUT_для_TEST90.apk",
+      "size": "20071255",
+      "mime_type": "application/vnd.android.package-archive"
+    },
+    {
+      "id": "11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f",
+      "name": "TEST71_BUILD_INPUT_для_TEST72.apk",
+      "size": "20047051",
+      "mime_type": "application/vnd.android.package-archive"
+    },
+    {
+      "id": "1GouT67MkW1mv7zs94P_AKEgeBsQ2iCyO",
+      "name": "TEST79_BUILD_INPUT_для_TEST80.apk",
+      "size": "20042684",
+      "mime_type": "application/vnd.android.package-archive"
+    }
+  ],
+  "signing": [
+    {
+      "id": "1j1MJCp2cp7oaUftFNMS6Gg9s9m_8KUMm",
+      "name": "Параметры сборки и подписи.txt",
+      "size": "4824",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1wN89_8b6RgLeFIw9nrnV1OFllCWYohT_",
+      "name": "TouchPal_DeleteFix_STABLE.jks",
+      "size": "2718",
+      "mime_type": "application/octet-stream"
+    }
+  ],
+  "checkpoints": [
+    {
+      "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+      "name": "CHECKPOINTS_RU.txt",
+      "size": "16607",
+      "mime_type": "text/plain"
+    },
+    {
+      "id": "1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+      "name": "135 — рабочий резерв восстановления",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+      "name": "TEST90 — резерв до GigaAM",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+      "name": "T10 — Подтверждённая исходная DelFix перед синхронизацией высоты и T9",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+      "name": "TEST40 — Историческая подтверждённая Final; отдельные постоянные ссылки сохранены",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+      "name": "T9+DelFix — Первая доступная функциональная база перед жестами пробела",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+      "name": "TEST36 — орфография, до новых кнопок",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+      "name": "TEST34 — физическая клавиатура, до орфографии",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+      "name": "TEST21 — жесты, до физической клавиатуры",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+      "name": "TEST15 — тёмное оформление",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+      "name": "TEST72 — перед упрощением голосового ввода",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    },
+    {
+      "id": "17AcRrWqvewOehPE5s4146epfH063dFZw",
+      "name": "TEST80 — перед полной сеткой знаков",
+      "size": null,
+      "mime_type": "application/vnd.google-apps.folder"
+    }
+  ]
+}

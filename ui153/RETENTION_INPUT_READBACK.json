@@ -1,0 +1,20 @@
+[
+  {
+    "name": "152APK",
+    "bytes": 33464981,
+    "sha256": "8cb98072317d6a4788b041b515f30cf75b95ffcd6d4242095fe211602b9700d6",
+    "raw_readback_verified": true
+  },
+  {
+    "name": "152SOURCE",
+    "bytes": 958127,
+    "sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b",
+    "raw_readback_verified": true
+  },
+  {
+    "name": "151input",
+    "bytes": 33402126,
+    "sha256": "3646c7102345972d1bbc552f7144333525e226001bb7da283c62e4414cb660f5",
+    "raw_readback_verified": true
+  }
+]

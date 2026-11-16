@@ -186,13 +186,15 @@
     "version": 153,
     "directory": "ui153",
     "apk_built": true,
-    "final_source_frozen": false,
-    "published_version": 152,
+    "final_source_frozen": true,
+    "published_version": 153,
     "verification": {
       "framework_tests": 38,
       "status": "PASS",
       "api16_compile": "PASS",
       "phone_tested": false
-    }
+    },
+    "status": "published_verified",
+    "github_release": "https://github.com/GokSssss/gTouchPal-/releases/tag/v153"
   }
 }

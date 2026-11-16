@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.backup; public final class WesternImport137 { public static void applyPending(android.content.Context c){} public static byte[] read(java.io.InputStream in)throws java.io.IOException{return null;} public static void stage(android.content.Context c,byte[] incoming,byte[] previous)throws java.io.IOException{} }

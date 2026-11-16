@@ -69,3 +69,9 @@ ui152/tests/framework/external/
 ui152/retention_before/
 ui152/history152.zip
 
+#153 unpublished source verification outputs
+ui153/tests/classes/
+ui153/tests/framework/target/
+ui153/tests/framework/generated/
+ui153/tests/framework/external/
+

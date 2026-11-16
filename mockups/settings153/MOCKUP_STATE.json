@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-16-additional-settings-sections-mockup",
+  "requested_on": "2026-11-16",
+  "project": "gTouchPal",
+  "status": "semantic_icons_mockup_prepared_awaiting_review",
+  "request": "Заголовки и разделители, отдельные смысловые значки у всех пунктов, пояснения максимум две строки; одинаковые размер и толщина значков.",
+  "headers": [
+    "Wave",
+    "T9",
+    "Общие настройки",
+    "Словарь пользователя"
+  ],
+  "summary_max_lines": 2,
+  "icon_bounds_dp": [
+    22,
+    22
+  ],
+  "wave_icon": "Две тонкие волнистые линии; у зависимого отключения прогноза вариант с диагональным штрихом",
+  "curve_icon": "Непрерывный изогнутый путь с точками на концах",
+  "preserve": "Исходные значения/зависимости/обработчики. Контекст и настройку пустого поля не менять. Сначала показать макет; APK153 не создаётся на этом этапе.",
+  "mockup": "mockups/settings153/additional-settings-expanded.png",
+  "mockup_sha256": "82c082701c63e9132517250b5af3f8497dc6ad77b964a843163b8186ab7b6063",
+  "apk_built_for_this_request": false,
+  "row_icons": {
+    "option_curve": "Изогнутый непрерывный путь с двумя точками",
+    "option_wave": "Две волнистые линии",
+    "option_wave_without_next_word_on_candidate": "Перечёркнутые волны, серые при недоступности",
+    "option_predict": "A в квадратной рамке",
+    "option_auto_correction": "А/о с двумя дуговыми стрелками замены",
+    "option_auto_save": "Контур дискеты",
+    "smartdash": "Тире, по бокам снизу две маленькие скобочки пробела ␣ — ␣, без квадратных скобок",
+    "option_auto_space": "Нижняя скобочка пробела и стрелка вперёд",
+    "option_auto_capitalization": "Маленькая a и большая A",
+    "option_space_to_input_nextword": "Скобочка пробела со стрелкой к следующему варианту",
+    "option_emoji_prediction": "Контурный смайлик",
+    "option_advanced_prediction": "Контур реплики с текстом и стрелкой вперёд",
+    "option_import_contact": "Контур головы и плеч со стрелкой импорта",
+    "option_manage_user_word": "Открытая книга с карандашом"
+  },
+  "implementation_status": "mockup_only_no_apk_or_native_setting_changes",
+  "owner_requested_icons": [
+    "smartdash",
+    "option_auto_space",
+    "option_auto_capitalization",
+    "option_emoji_prediction",
+    "option_import_contact"
+  ],
+  "other_row_icons": "Предложены в макете по просьбе дать отдельные значки всем остальным пунктам."
+}

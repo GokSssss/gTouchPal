@@ -1,0 +1,178 @@
+{
+  "requests": [
+    {
+      "id": "2026-11-16-wave-settings-separator",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "implemented_in_unpublished153_source",
+      "next_mod_version_minimum": 153,
+      "request": "Отделить блок Wave горизонтальной линией в дополнительных настройках.",
+      "placement": "После пункта «Не предсказывать слова», перед «Предугадывание»; сохранить Wave и его зависимый пункт вместе.",
+      "preserve": "Исходные Preference, значения, зависимости и обработчики; опубликованные152 APK/SOURCE/tag неизменны.",
+      "apk_built_for_this_request": false,
+      "previous_status": "requested_not_implemented",
+      "source_directory": "ui153"
+    },
+    {
+      "id": "2026-11-16-prediction-t9-name-icon",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "implemented_in_unpublished153_source",
+      "next_mod_version_minimum": 153,
+      "request": "Назвать пункт «Предугадывание / T9», значок — буква A внутри квадратной рамки в стиле остальных значков.",
+      "setting_key": "option_predict",
+      "same_setting_quick_menu_labels": [
+        "prediction_on",
+        "prediction_off"
+      ],
+      "preserve": "Общий существующий переключатель WORD_PREDICTION; не менять режимы/сохранённые значения. Согласовать представление в настройках и быстром меню.",
+      "apk_built_for_this_request": false,
+      "previous_status": "requested_not_implemented",
+      "source_directory": "ui153",
+      "current_title": "Предугадывание/Т9",
+      "implementation_scope": "Строка в Дополнительно; общий WORD_PREDICTION сохранён. Представление быстрого меню ещё не менялось."
+    },
+    {
+      "id": "2026-11-16-autoreplace-name",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "implemented_in_unpublished153_source",
+      "next_mod_version_minimum": 153,
+      "request": "Название «Автозамена», значок А/о с двумя дуговыми стрелками замены; одинаковый размер со всеми остальными значками.",
+      "setting_key": "option_auto_correction",
+      "preserve": "Существующий переключатель AUTO_CORRECTION и его зависимость от WORD_PREDICTION.",
+      "ios_terminology_clarification": "В русской документации Apple штатное название — «Автокоррекция». «Автозамена» — выбранное владельцем название TouchPal.",
+      "ios_reference": "https://support.apple.com/ru-ru/104995",
+      "apk_built_for_this_request": false,
+      "new_title": "Автозамена",
+      "icon": {
+        "description": "А и о между двумя дуговыми стрелками замены, верхняя влево, нижняя вправо",
+        "frame": false,
+        "style": "Тонкие монохромные линии; одинаковые размер и толщина с соседними значками",
+        "owner_accepted": true,
+        "supersedes": "Предыдущий вариант abc с галочкой"
+      },
+      "previous_status": "requested_not_implemented",
+      "source_directory": "ui153"
+    },
+    {
+      "id": "2026-11-16-additional-settings-sections-mockup",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "implemented_in_unpublished153_source",
+      "request": "Заголовки и разделители, отдельные смысловые значки у всех пунктов, пояснения максимум две строки; одинаковые размер и толщина значков.",
+      "headers": [
+        "Wave",
+        "T9",
+        "Общие настройки",
+        "Словарь пользователя"
+      ],
+      "summary_max_lines": 2,
+      "icon_bounds_dp": [
+        22,
+        22
+      ],
+      "wave_icon": "Две тонкие волнистые линии; у зависимого отключения прогноза вариант с диагональным штрихом",
+      "curve_icon": "Непрерывный изогнутый путь с точками на концах",
+      "preserve": "Значения и обработчики сохранены. Новая зависимость строки выбора слов пробелом от контекста прямо запрошена владельцем. Отдельную настройку пустого поля не добавлять.",
+      "mockup": "mockups/settings153/additional-settings-expanded.png",
+      "mockup_sha256": "82c082701c63e9132517250b5af3f8497dc6ad77b964a843163b8186ab7b6063",
+      "apk_built_for_this_request": false,
+      "row_icons": {
+        "option_curve": "Изогнутый непрерывный путь с двумя точками",
+        "option_wave": "Две волнистые линии",
+        "option_wave_without_next_word_on_candidate": "Перечёркнутые волны, серые при недоступности",
+        "option_predict": "A в квадратной рамке",
+        "option_auto_correction": "А/о с двумя дуговыми стрелками замены",
+        "option_auto_save": "Контур дискеты",
+        "smartdash": "Тире, по бокам снизу две маленькие скобочки пробела ␣ — ␣, без квадратных скобок",
+        "option_auto_space": "Нижняя скобочка пробела и стрелка вперёд",
+        "option_auto_capitalization": "Маленькая a и большая A",
+        "option_space_to_input_nextword": "Скобочка пробела со стрелкой к следующему варианту",
+        "option_emoji_prediction": "Контурный смайлик",
+        "option_advanced_prediction": "Контур реплики с текстом и стрелкой вперёд",
+        "option_import_contact": "Контур головы и плеч со стрелкой импорта",
+        "option_manage_user_word": "Открытая книга с карандашом"
+      },
+      "implementation_status": "mockup_only_no_apk_or_native_setting_changes",
+      "owner_requested_icons": [
+        "smartdash",
+        "option_auto_space",
+        "option_auto_capitalization",
+        "option_emoji_prediction",
+        "option_import_contact"
+      ],
+      "other_row_icons": "Предложены в макете по просьбе дать отдельные значки всем остальным пунктам.",
+      "previous_status": "semantic_icons_mockup_prepared_awaiting_review",
+      "source_directory": "ui153",
+      "follow_up_authorization": "После показа макета владелец попросил связать контекст/пробел, применить порядок и исправленные пояснения; работа перешла к исходникам153."
+    },
+    {
+      "id": "2026-11-16-context-space-order-descriptions",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "implemented_in_unpublished153_source",
+      "source_directory": "ui153",
+      "request": "Связать доступность выбора следующего слова пробелом с контекстным прогнозированием, применить порядок и новые пояснения.",
+      "general_order": [
+        "Автосохранение",
+        "Контекстное прогнозирование",
+        "Выбирать след. слово пробелом",
+        "Автоматический пробел",
+        "Умное тире",
+        "Эмодзи прогнозирование",
+        "Автом. заглавные буквы"
+      ],
+      "capitalization_placement": "Непронумерованный пункт оставлен после шести пронумерованных; это предположение сообщено владельцу.",
+      "descriptions_requested": {
+        "Предугадывание/Т9": "Т9 клавиатура: подбор слово по группам букв. Полная: дополнять набираемое слово.",
+        "Автозамена": "Пробелом автоматически исправлять опечатки и ошибки при наборе текста.",
+        "Контекстное прогнозирование": "Предлагать следующее слово по контексту.",
+        "Выбирать след. слово пробелом": "Когда слово ещё не набирается, пробел выбирает первый предложенный вариант из Контекстного прогнозирования"
+      },
+      "descriptions_applied": {
+        "Предугадывание/Т9": "Т9 клавиатура: подбор слова по группам букв. Полная: дополнять набираемое слово.",
+        "Автозамена": "Пробелом автоматически исправлять опечатки и ошибки при наборе текста.",
+        "Контекстное прогнозирование": "Предлагать следующее слово по контексту.",
+        "Выбирать след. слово пробелом": "До начала набора пробел выбирает первый вариант контекстного прогноза."
+      },
+      "summary_max_lines": 2,
+      "wording_assumption": "В длинном пояснении про пробел предложены сокращение или многоточие; асинхронного ответа пока нет. После более60сек независимой работы применено сообщённое сокращение, чтобы смысл целиком помещался в две строки.",
+      "dependency": {
+        "dependent": "option_space_to_input_nextword",
+        "parent": "option_advanced_prediction",
+        "checked_value_preserved": true,
+        "native_listener_replaced": false
+      },
+      "apk_built_for_this_request": false
+    },
+    {
+      "id": "2026-11-16-activation-live-colour",
+      "requested_on": "2026-11-16",
+      "project": "gTouchPal",
+      "status": "implemented_in_unpublished153_source",
+      "source_directory": "ui153",
+      "report": "После выбора Яндекс вместо TouchPal пункт Включить TouchPal остаётся серым до повторного открытия настроек.",
+      "implementation": "ContentObserver для DEFAULT_INPUT_METHOD и ENABLED_INPUT_METHODS обновляет подпись и уже привязанные заголовки. Наблюдение снимается при отсоединении окна; переиспользованные чужие строки не перекрашиваются.",
+      "verification": "Robolectric34: TouchPal → Яндекс → TouchPal без onResume/повторного открытия, enabled-list change, идемпотентная регистрация/отписка и повторная привязка строки.",
+      "apk_built_for_this_request": false,
+      "phone_tested": false
+    }
+  ],
+  "clarifications_only": {
+    "2026-11-16-empty-field-suggestions": "Пока только вопрос: не добавлять новую функцию в TouchPal на основании этого обсуждения. В YaTouch10 отдельный empty_field_predictions уже существует, defaultfalse; в TouchPal152 отдельной настройки пустого поля нет."
+  },
+  "current_source_work": {
+    "version": 153,
+    "directory": "ui153",
+    "apk_built": false,
+    "final_source_frozen": false,
+    "published_version": 152,
+    "verification": {
+      "framework_tests": 37,
+      "status": "PASS",
+      "api16_compile": "PASS",
+      "phone_tested": false
+    }
+  }
+}

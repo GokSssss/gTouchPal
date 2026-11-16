@@ -1,0 +1,34 @@
+{
+  "version": 153,
+  "status": "SOURCE_IMPLEMENTED_VERIFIED_NOT_PACKAGED",
+  "base_published_version": 152,
+  "published152_immutable": true,
+  "scope": [
+    "Native Preference objects, values, listeners and dependencies retained",
+    "Section headings/icons/two-line subtitles and approved general order",
+    "Space-next-word depends on context without clearing its checked value",
+    "Enable TouchPal updates immediately on Android default/enabled IME changes"
+  ],
+  "empty_field_toggle_change": false,
+  "apk_built": false,
+  "source_capsule_frozen": false,
+  "verification": {
+    "framework": {
+      "status": "PASS",
+      "tests": 37,
+      "api": 34,
+      "report": "HOST_TESTS.json",
+      "native_boundaries": "explicit doubles"
+    },
+    "api16_source_compile": {
+      "status": "PASS",
+      "report": "SOURCE_API16.json"
+    },
+    "source_hashes_match_reports": true,
+    "phone_tested": false,
+    "android_art_executed": false,
+    "apk_tested": false
+  },
+  "wording_assumption": "Space-next explanation shortened to fit two lines; full owner wording recorded in PENDING_OWNER_REQUESTS.json",
+  "quick_menu_presentation_changed": false
+}

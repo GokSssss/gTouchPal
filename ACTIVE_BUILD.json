@@ -11,5 +11,13 @@
   "next_mod_version": "153+",
   "github_tag": "v152",
   "source_commit": "55c514357e352e065bfac4a3d913da3febb6c492",
-  "source_sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b"
+  "source_sha256": "3906e5e69aed14d1612eb23c1b5244b592089391245f391aa2c108a3c300e10b",
+  "unpublished_source_work": {
+    "active_directory": "ui153",
+    "version": "153",
+    "status": "source_verified_not_packaged",
+    "work_state": "ui153/WORK_STATE.json",
+    "apk_built": false,
+    "source_capsule_frozen": false
+  }
 }

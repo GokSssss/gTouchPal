@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "android_api": 16,
+  "check": "Exact production Java helpers compiled; unchanged dependencies are compile-only signatures",
+  "apk_built": false,
+  "phone_tested": false,
+  "sources": {
+    "src/com/cootek/smartinput5/settings/CompactSettings.java": "72db68e921e1c49a254c29dad672fe0a5c000f3e1becb7825c07218ff8c62de8",
+    "src/com/cootek/smartinput5/settings/KeyboardActivation152.java": "15b59a538c6acd119978865763c783467a1f2358b31df3302d2f1e7c4ab5f5e0",
+    "src/com/cootek/smartinput5/settings/SettingsGlyphs153.java": "bdde41a307979265dc1d989f79dc71797dbda8dfa3dc68f9c6b613e1b50a5fe3",
+    "src/com/cootek/smartinput5/settings/SettingsIcons149.java": "538def4073948aad73b65fd8fb5ee66afec03f80f001cfa779fcac3fb5157235",
+    "src/com/cootek/smartinput5/settings/SmartInput153.java": "e710484da1f0120225debc16623829d68d0908c9bb93e0943ac11151245bb447"
+  }
+}

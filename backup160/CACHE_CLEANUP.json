@@ -1,0 +1,26 @@
+{
+  "inherited_shared_cleanup": "language159/CACHE_CLEANUP.json",
+  "removed160": [
+    {
+      "path": "backup160/decoded",
+      "bytes": 139641920,
+      "reason": "Derived cache after final41framework/DEX/API16/resource checks; signed APK/source retained"
+    },
+    {
+      "path": "backup160/rebuilt.apk",
+      "bytes": 38113466,
+      "reason": "Derived cache after final41framework/DEX/API16/resource checks; signed APK/source retained"
+    },
+    {
+      "path": "backup160/unsigned.apk",
+      "bytes": 33288185,
+      "reason": "Derived cache after final41framework/DEX/API16/resource checks; signed APK/source retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime159/history159-drive-readback.zip",
+      "bytes": 60140161,
+      "reason": "Verified raw history readback duplicate; exact history159.zip retained"
+    }
+  ],
+  "freed_bytes": 271183732
+}

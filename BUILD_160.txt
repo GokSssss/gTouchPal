@@ -1,0 +1,66 @@
+gTouchPal158 — восстановление сборки
+
+Основа TouchPal Keyboard6.2.7.1, com.cootek.smartinputv5.
+Точный вход: опубликованный157APK,33472459байт:
+https://github.com/GokSssss/gTouchPal/releases/download/v157/159-gTouchPal-6.2.7.1.apk
+https://drive.google.com/file/d/1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_/view
+SHA256 4e28683b6b68df32d05c130a3910d9a025d694f3946aef20bf6b40bc985d2a12
+Поместить в output/159-gTouchPal-6.2.7.1.apk.
+
+SOURCE содержит изменения проекта, compile-only контракты и рецепт поверх
+закрытого156, не полный исходный код производителя CooTek.
+Оригинальная6.2.7.1/versionCode9999:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+SHA256 469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06
+
+Java17+, Python3, Apktool2.12.1, R8/D8, apksigner, API16/API34 JAR:
+backup160/TOOLCHAIN_INPUTS.json. Инструменты в tools/.
+Framework: Maven3.9.11, Robolectric4.16.1, tests/framework/pom.xml.
+
+Используемый комплект подписи — обычная папка проекта:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Скачать JKS и Параметры сборки и подписи.txt. Передать пути в
+TOUCHPAL_KEYSTORE и TOUCHPAL_SIGNING_INFO; значения в SOURCE/Git не включать.
+Сертификат SHA256 0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46.
+
+python3 backup160/compile_helpers.py
+python3 backup160/build.py
+python3 backup160/tests/run_dex_checks.py
+python3 backup160/tests/check_resources.py
+python3 backup160/tests/framework/run.py
+python3 backup160/collect_verification160.py
+
+Результат output/160-gTouchPal-6.2.7.1.apk,10073/6.2.7.1-160.
+StorageRoot135 и основной внутренний словарь неизменны159.
+Копии: Context.getExternalFilesDir(null)/TouchPalG/Backup.
+Save — постоянная app-owned копия; Share — эта же копия и read-granted URI;
+стрелка — дополнительный файл Downloads (MediaStore29+, legacy public folder
+до29). Файловый список открывается внутри приложения, без зависимости от
+доступа стороннего менеджера к Android/data. Входящий файл читается один раз
+в проверенный snapshot и сохраняется в Backup после подтверждения, до native
+staging. Отмена и невалидный файл не сохраняются; одинаковая копия не дублируется.
+Прежние public TouchPalG/Backup копируются с проверкой и только затем удаляются
+исходные файлы. Неизвестные/ссылочные/слишком большие файлы остаются; разные
+одинаковые имена не затираются; удаляются только пустые прежние каталоги.
+
+Native контроллеры/парсеры/Engine и MediaStore mapping — явные границы host-тестов.
+Проверены Android Views, Filesystem, provider streams, cancel/collision/tamper,
+разрешения старой платформы и сохранение исходных копий при ошибке.
+Это не Android ART/приёмка реального телефона. Внутренние копии удаляются
+при деинсталляции приложения; Downloads и отправка доступны для переноса.
+156/155 и теги неизменны;159 после публикации тоже неизменяем.
+Имя/жёлтая иконка TouchPalG — отдельный неподтверждённый макет; не включены.
+Форма кнопок восстановления отложена владельцем, не менялась.
+
+160: новые действия только в собственном BackupActivity/LanguageFiles158.
+Восстановить — filtered app-owned list, Folder — system GET_CONTENT.
+52dp icon zones, visible separators,180ms press highlight, active-row progress.
+Progress/success uses a nonfocusable PopupWindow, preserving the main page
+layout and keyboard focus. Existing UI-thread native capture is deferred40ms
+so feedback can render first; native barriers/controllers unchanged.
+TPL import reads a bounded snapshot, validates ZIP/CRC/paths/resource presence,
+requires explicit replacement confirmation, verifies the expected current file,
+preserves it in Backup/Language and publishes a checked same-directory temp
+by rename. It never installs the APK or selects/enables a language. Native
+language content/version compatibility still requires device verification.
+Bundled Russian archive is the real fixture; native engine is an explicit test boundary.

@@ -188,3 +188,21 @@ language159/history159*.zip
 language159/BACKUP_PAGE158.png
 
 language159/BACKUP_PAGE*.png
+
+#160 generated caches
+backup160/decoded/
+backup160/compile_classes/
+backup160/helper_classes/
+backup160/helper_decoded/
+backup160/helpers.*
+backup160/contracts.jar
+backup160/rebuilt.apk
+backup160/unsigned.apk
+backup160/tests/classes/
+backup160/tests/framework/target/
+backup160/tests/framework/generated/
+backup160/tests/framework/external/
+backup160/retention_before/
+backup160/history160*.zip
+backup160/BACKUP_PAGE158.png
+backup160/BACKUP_PAGE*.png

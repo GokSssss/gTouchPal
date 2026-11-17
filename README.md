@@ -6,7 +6,7 @@
 
 Клавиатура для Android с жестами, подсказками слов и настройкой под себя.
 
-**[Скачать APK 159](https://github.com/GokSssss/gTouchPal/releases/download/v159/159-gTouchPal-6.2.7.1.apk)**
+**[Скачать APK 160](https://github.com/GokSssss/gTouchPal/releases/download/v160/160-gTouchPal-6.2.7.1.apk)**
 
 ### Что умеет
 
@@ -15,7 +15,7 @@
 - **Физическая клавиатура:** русская и английская раскладки; в системном списке — «gTouchPal RU/en» и «gTouchPal EN/ru».
 - **Курсор и язык:** управление курсором удержанием левой части пробела; переключение языка свайпом по пробелу.
 - **Слова:** долгое нажатие на подсказку открывает редактирование и удаление слова.
-- **Резервная копия и восстановление:** ZIP, western.usr и списки слов TXT. Копии хранятся в Backup рабочей папки приложения. «Восстановить» показывает локальные копии нужного формата, значок папки открывает системный выбор файла. Значки отправки и Загрузки сохраняют прежние действия; удержание показывает справку, после сохранения видно имя и папку файла. Выбранные для восстановления файлы сохраняются в Backup. Добавление из TXT сохраняет существующие слова.
+- **Резервная копия и восстановление:** ZIP, western.usr и списки слов TXT. Копии хранятся в Backup рабочей папки приложения. «Восстановить» показывает локальные копии нужного формата, значок папки открывает системный выбор файла. Значки отправки и Загрузки сохраняют прежние действия; удержание показывает справку, после сохранения видно имя и папку файла. Уведомление остаётся плавающим у выбранного раздела. Обычное «Сохранить» предлагает дополнительную копию в Загрузки или выбранное место, включая SD-карту; отказ сохраняет внутренний файл. Красное напоминание просит сохранить копию вне приложения перед удалением клавиатуры. Выбранные для восстановления файлы сохраняются в Backup. Добавление из TXT сохраняет существующие слова.
 - **Файлы языков:** в разделе «Языки» доступна загрузка TPL и TPL.apk через системный файловый менеджер в рабочую language. При замене сохраняется прежний файл.
 - **Буфер обмена:** вставка текста из отдельной панели и быстрый возврат к клавиатуре.
 - **Оформление:** выбор установленной темы клавиатуры с отмеченной текущей; светлая и тёмная темы настроек, размеры клавиатуры и панели подсказок. Высоты клавиатуры для портрета и альбома сохраняются отдельно; альбомная по умолчанию — 550 px. Готовые значения и перетягивание края доступны на макете.
@@ -31,9 +31,9 @@
 
 <img src="ui155/research/framework-capture/additional153-dark.png" alt="Дополнительные настройки gTouchPal" width="394">
 
-<img src="language159/research/framework-capture/backup159-dark.png" alt="Резервная копия и восстановление" width="394">
+<img src="backup160/research/framework-capture/backup160-dark.png" alt="Резервная копия и восстановление" width="394">
 
-[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal/releases/tag/v159) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal/releases/tag/v160) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 
@@ -43,7 +43,7 @@
 
 An Android keyboard with gestures, word suggestions and adjustable appearance.
 
-**[Download APK 159](https://github.com/GokSssss/gTouchPal/releases/download/v159/159-gTouchPal-6.2.7.1.apk)**
+**[Download APK 160](https://github.com/GokSssss/gTouchPal/releases/download/v160/160-gTouchPal-6.2.7.1.apk)**
 
 ### Features
 
@@ -52,7 +52,7 @@ An Android keyboard with gestures, word suggestions and adjustable appearance.
 - **Physical keyboard:** Russian and English layouts; the system picker shows “gTouchPal RU/en” and “gTouchPal EN/ru”.
 - **Cursor and language:** hold the left side of the spacebar to move the cursor; swipe along it to switch languages.
 - **Words:** long-press a suggestion to edit or delete the word.
-- **Backup and restore:** ZIP, western.usr and TXT word lists. Copies are kept in the app workspace’s Backup folder. Restore lists local copies of the selected format; the folder icon opens the system file chooser. Share and Downloads have separate icons; hold for help. A successful save shows the filename and folder. Confirmed restore inputs are retained in Backup. TXT import keeps existing words.
+- **Backup and restore:** ZIP, western.usr and TXT word lists. Copies are kept in the app workspace’s Backup folder. Restore lists local copies of the selected format; the folder icon opens the system file chooser. Share and Downloads have separate icons; hold for help. A successful save shows the filename and folder in a floating notice anchored to its section. Save offers an additional copy in Downloads or a selected location, including an SD card; declining keeps the internal copy. A red reminder asks you to keep a copy outside the app before uninstalling. Confirmed restore inputs are retained in Backup. TXT import keeps existing words.
 - **Language files:** the Languages page imports TPL or TPL.apk through the system file chooser into the working language folder; replaced files are backed up.
 - **Clipboard:** paste from a separate panel and return quickly to the keyboard.
 - **Appearance:** choose an installed keyboard theme with the current one marked; light and dark settings themes, keyboard and suggestion-panel sizing. Portrait and landscape keyboard heights are saved separately; landscape defaults to 550 px. Presets and edge dragging are available in the preview.
@@ -68,9 +68,9 @@ Android Views captured in the test environment, not a phone photograph.
 
 <img src="ui155/research/framework-capture/additional153-dark.png" alt="gTouchPal additional settings" width="394">
 
-<img src="language159/research/framework-capture/backup159-dark.png" alt="Backup and restore" width="394">
+<img src="backup160/research/framework-capture/backup160-dark.png" alt="Backup and restore" width="394">
 
-[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal/releases/tag/v159) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal/releases/tag/v160) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 

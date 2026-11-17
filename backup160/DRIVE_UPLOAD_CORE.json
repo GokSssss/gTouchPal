@@ -1,0 +1,57 @@
+{
+  "folder": {
+    "success": true,
+    "id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+    "url": "https://drive.google.com/drive/folders/1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+    "title": "160 — копия вне приложения и всплывающие уведомления",
+    "parent_id": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+  },
+  "apk": {
+    "accepted_input": "file_uri",
+    "success": true,
+    "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+    "title": "160-gTouchPal-6.2.7.1.apk",
+    "file_name": "160-gTouchPal-6.2.7.1.apk",
+    "mime_type": "application/vnd.android.package-archive",
+    "url": "https://drive.google.com/file/d/1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38/view?usp=drivesdk",
+    "parent_id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+    "structuredContent": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+      "title": "160-gTouchPal-6.2.7.1.apk",
+      "file_name": "160-gTouchPal-6.2.7.1.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "url": "https://drive.google.com/file/d/1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38/view?usp=drivesdk",
+      "parent_id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM"
+    }
+  },
+  "source": {
+    "accepted_input": "file_uri",
+    "success": true,
+    "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+    "title": "160-gTouchPal-SOURCE-6.2.7.1.zip",
+    "file_name": "160-gTouchPal-SOURCE-6.2.7.1.zip",
+    "mime_type": "application/zip",
+    "url": "https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view?usp=drivesdk",
+    "parent_id": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+    "structuredContent": {
+      "accepted_input": "file_uri",
+      "success": true,
+      "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+      "title": "160-gTouchPal-SOURCE-6.2.7.1.zip",
+      "file_name": "160-gTouchPal-SOURCE-6.2.7.1.zip",
+      "mime_type": "application/zip",
+      "url": "https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view?usp=drivesdk",
+      "parent_id": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+    }
+  },
+  "apk_download": {
+    "path": "/workspace/attachments/1aa63c0e-a0ac-4c49-bee9-9973d37523ad/160-gTouchPal-6.2.7.1.apk",
+    "size_bytes": 33462601
+  },
+  "source_download": {
+    "path": "/workspace/attachments/1883947c-a012-4a60-80c2-2aaafe6bbde0/160-gTouchPal-SOURCE-6.2.7.1.zip",
+    "size_bytes": 1208913
+  }
+}

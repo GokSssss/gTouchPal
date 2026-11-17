@@ -4,6 +4,12 @@
 
 ## Русский
 
+### 160 · Копия вне приложения и плавающие уведомления
+
+- После «Сохранить» можно дополнительно сохранить копию в Загрузки или выбранное место, включая SD-карту.
+- Красное напоминание просит сохранить копию вне приложения перед удалением клавиатуры.
+- Плавающее уведомление привязано к выбранному разделу; пункты меню не раздвигаются.
+
 ### 159 · Файл языка в разделе Языки
 
 - «Загрузить словарь языка» перенесено из резервного копирования в раздел «Языки». Нажатие открывает системный выбор файла.
@@ -78,6 +84,12 @@
 ---
 
 ## English
+
+### 160 · Extra copies and floating notices
+
+- Save offers an additional copy in Downloads or a selected location, including an SD card.
+- A red reminder asks you to keep a copy outside the app before uninstalling.
+- Floating notices are anchored to the relevant section without inserting rows into the menu.
 
 ### 159 · Language file import on the Languages page
 

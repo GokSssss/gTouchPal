@@ -388,13 +388,14 @@
       "screenshot_showed_package_parent_directory": true,
       "live_working_root_unchanged": true
     },
-    "uninstall159": "Android removes app-owned workspace/Backup and private app data on uninstall; Downloads and copies sent elsewhere remain. No path relocation requested."
+    "uninstall159": "Android removes app-owned workspace/Backup and private app data on uninstall; Downloads and copies sent elsewhere remain. No path relocation requested.",
+    "popup160": "Keep it floating above the page, anchored below the relevant section; no inline rows or menu reflow."
   },
   "current_source_work": {
-    "version": 159,
-    "directory": "language159",
-    "status": "source_frozen_rebuilding",
-    "last_published_version": 158,
+    "version": 160,
+    "directory": "backup160",
+    "status": "source_frozen_verified",
+    "last_published_version": 159,
     "apk_built": true,
     "final_source_frozen": true
   }

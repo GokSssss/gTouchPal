@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "version": "158",
+  "immutable_artifacts_unchanged": true,
+  "history_sha256": "2f1621bf0e10466dc7ee1ef76645bdefe2a65fa715a529e7b29cdb4a11584bde",
+  "retained": [
+    "158",
+    "157"
+  ],
+  "xlsx_rows": 147,
+  "source_count": 12,
+  "build_inputs": 6,
+  "live_documents_expected": 8
+}

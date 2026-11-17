@@ -382,14 +382,22 @@
     }
   ],
   "clarifications_only": {
-    "2026-11-16-empty-field-suggestions": "Пока только вопрос: не добавлять новую функцию в TouchPal на основании этого обсуждения. В YaTouch10 отдельный empty_field_predictions уже существует, defaultfalse; в TouchPal152 отдельной настройки пустого поля нет."
+    "2026-11-16-empty-field-suggestions": "Пока только вопрос: не добавлять новую функцию в TouchPal на основании этого обсуждения. В YaTouch10 отдельный empty_field_predictions уже существует, defaultfalse; в TouchPal152 отдельной настройки пустого поля нет.",
+    "working_folder_158": {
+      "owner_confirmed_files_exist": true,
+      "screenshot_showed_package_parent_directory": true,
+      "live_working_root_unchanged": true
+    }
   },
   "current_source_work": {
     "version": 158,
     "directory": "backup158",
     "apk_built": true,
     "final_source_frozen": true,
-    "last_published_version": 157,
-    "status": "verified_preparing_publication"
+    "last_published_version": 158,
+    "status": "published_verified",
+    "published_version": 158,
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v158",
+    "storage_closure_complete": true
   }
 }

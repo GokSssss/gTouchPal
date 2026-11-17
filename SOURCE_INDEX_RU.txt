@@ -1,12 +1,12 @@
 gTouchPal · сохраняемые исходники ·17.11.2026
 
-Текущий157 и предыдущий156. Остальные — выбранные полезные точки; прежние ограничения их полноты и телефонной проверки сохранены. SOURCE содержит изменения проекта и рецепт поверх точных бинарных входов, не полный исходный код производителя CooTek.
+Текущий158 и предыдущий157. Остальные — выбранные полезные точки; прежние ограничения полноты и телефонной проверки сохранены. SOURCE содержит изменения проекта и рецепт поверх точных бинарных входов, не полный исходный код производителя CooTek.
+
+158-gTouchPal-SOURCE-6.2.7.1.zip
+https://drive.google.com/file/d/1240OoowT5oFTdHg8KTmjlOEMWI7cZvi-/view
 
 157-gTouchPal-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1sVb17aH7V-OtXbGQoVa7VAdn5s0UYxQz/view
-
-156-gTouchPal-SOURCE-6.2.7.1.zip
-https://drive.google.com/file/d/1bS3R_fWBuVLq40sj3ygc3MQrN54VJO4o/view
 
 135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view
@@ -38,7 +38,8 @@ https://drive.google.com/file/d/1aNIbFek9CkBz5FakK471WkVQyBF4dkR_/view
 T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip
 https://drive.google.com/file/d/1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV/view
 
-Обязательные входы сохраняются один раз:
+SOURCE158 использует APK157 из папки предыдущего выпуска; SOURCE157 использует единственный APK156 во Входах.
+Входы для сохраняемых SOURCE:
 
 134_BUILD_INPUT_для_135.apk → storage135/build.py
 https://drive.google.com/file/d/1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX/view
@@ -56,19 +57,18 @@ TEST71_BUILD_INPUT_для_TEST72.apk → diagnostics72/build.py
 https://drive.google.com/file/d/11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f/view
 SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
 
-153-gTouchPal-6.2.7.1.apk → retained prototypeSOURCE154; public historical SOURCE155 also uses the same bytes
+153-gTouchPal-6.2.7.1.apk → retained prototypeSOURCE154
 https://drive.google.com/file/d/1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl/view
 SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
 
-155-gTouchPal-6.2.7.1.apk → ui156/build.py
-https://drive.google.com/file/d/1SIBScO1exogidhB9fJl4cGWjl6OId_Dy/view
-SHA256 1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5
+156-gTouchPal-6.2.7.1.apk → backup157/build.py
+https://drive.google.com/file/d/10fCN8NQYzXyazI9EX4q-URoWZIf7dmWL/view
+SHA256 66f0131eec274b03269175e17f4e5f7b4583c1cfca239da12993aa7b7d931740
 
 Используемый комплект подписи: https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
 Реестр полезных точек: https://drive.google.com/file/d/1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR/view
 Компактная история/логика: https://drive.google.com/file/d/1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e/view
 
-Активный прототип154 отдельно сохранён в Документах после вопроса владельца:
-https://drive.google.com/drive/folders/1csJyu7nlz2xBJv103MRwbp3M8Nqg92US
-Оба прежних файла и tagv154 неизменны; это не третий опубликованный выпуск.
-История не заменяет снятый полный SOURCE и не обещает пересборку каждой удалённой версии.
+Активный прототип154 сохранён отдельно: https://drive.google.com/drive/folders/1csJyu7nlz2xBJv103MRwbp3M8Nqg92US
+Прежние два файла иtagv154 неизменны; это не третий текущий опубликованный выпуск.
+История сохраняет логи/малые изменения, а не полные старые SOURCE/APK.

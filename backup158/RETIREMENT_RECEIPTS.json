@@ -1,0 +1,46 @@
+{
+  "history_raw_readback_verified_before_removal": true,
+  "moved156": {
+    "id": "10fCN8NQYzXyazI9EX4q-URoWZIf7dmWL",
+    "title": "156-gTouchPal-6.2.7.1.apk",
+    "mime_type": null,
+    "size": "33476537",
+    "url": null,
+    "file_or_folder": null,
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "deleted": [
+    {
+      "id": "1bS3R_fWBuVLq40sj3ygc3MQrN54VJO4o",
+      "name": "156 SOURCE",
+      "deleted": true
+    },
+    {
+      "id": "1qs-dU_dMxeHMqnUL9AKL-abgx6XZXvyv",
+      "name": "156 passport",
+      "deleted": true
+    },
+    {
+      "id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+      "name": "155 obsolete input",
+      "deleted": true
+    },
+    {
+      "id": "1nfR5q3dJ76j4L0Y4Rd4euxXmq1HBrpMg",
+      "name": "156 empty folder",
+      "deleted": true,
+      "empty_confirmed": true
+    }
+  ],
+  "freed_bytes": 35018351
+}

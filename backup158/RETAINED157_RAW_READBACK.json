@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "files": {
+    "apk157": {
+      "path": "/workspace/attachments/57628ac3-38b2-42ce-922d-5906dd0374db/157-gTouchPal-6.2.7.1.apk",
+      "size_bytes": 33472459,
+      "bytes": 33472459,
+      "sha256": "5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a",
+      "raw_readback_verified": true
+    },
+    "source157": {
+      "path": "/workspace/attachments/073e5298-4afa-400f-899e-da9d8f356acd/157-gTouchPal-SOURCE-6.2.7.1.zip",
+      "size_bytes": 1133632,
+      "bytes": 1133632,
+      "sha256": "340caf9fd9f7e944b457ad39a579e4408a742e11309d80c3effb520863f53b1b",
+      "raw_readback_verified": true
+    },
+    "passport157": {
+      "path": "/workspace/attachments/af3145b0-3339-41a4-a6de-96e929ed1052/157-gTouchPal-Passport-6.2.7.1.txt",
+      "size_bytes": 4816,
+      "bytes": 4816,
+      "sha256": "88b3aa281c6f3b57dbecb2ea8a3f3195899a61882cd4058cdbd66b86f9fe6b0c",
+      "raw_readback_verified": true
+    }
+  }
+}

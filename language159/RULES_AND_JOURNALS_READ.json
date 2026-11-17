@@ -1,0 +1,44 @@
+{
+  "rules": {
+    "id": "1PC7jbtXP9HRTi1C8t3JTG8xc_Y-F9H_z",
+    "title": "Правила ведения проектов.txt",
+    "modified": "2026-11-15T07:53:46.300Z",
+    "characters": 24087,
+    "read_before_change": true
+  },
+  "project": {
+    "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+    "title": "10База!",
+    "modified": "2026-11-17T04:36:18.110Z",
+    "characters": 176241,
+    "read_before_change": true
+  },
+  "userjournal": {
+    "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+    "title": "Журнал улучшений TouchPal.txt",
+    "modified": "2026-11-17T04:36:22.404Z",
+    "characters": 93038,
+    "read_before_change": true
+  },
+  "techjournal": {
+    "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+    "title": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "modified": "2026-11-17T04:36:27.283Z",
+    "characters": 391580,
+    "read_before_change": true
+  },
+  "guide": {
+    "id": "1d7utMdLkdiwR321UenGIRro9yxXhJUlt",
+    "title": "Правила заполнения и оформления журнала новых функций.txt",
+    "modified": "2026-11-15T07:53:57.682Z",
+    "characters": 13807,
+    "read_before_change": true
+  },
+  "philosophy": {
+    "id": "1YdiaMuz-9lkSF6PFjEaPIB-Cp2ecpgjX",
+    "title": "GitHub — философия и правила оформления.txt",
+    "modified": "2026-11-15T07:45:19.543Z",
+    "characters": 6037,
+    "read_before_change": true
+  }
+}

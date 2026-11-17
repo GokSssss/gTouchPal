@@ -387,17 +387,15 @@
       "owner_confirmed_files_exist": true,
       "screenshot_showed_package_parent_directory": true,
       "live_working_root_unchanged": true
-    }
+    },
+    "uninstall159": "Android removes app-owned workspace/Backup and private app data on uninstall; Downloads and copies sent elsewhere remain. No path relocation requested."
   },
   "current_source_work": {
-    "version": 158,
-    "directory": "backup158",
-    "apk_built": true,
-    "final_source_frozen": true,
+    "version": 159,
+    "directory": "language159",
+    "status": "source_frozen_rebuilding",
     "last_published_version": 158,
-    "status": "published_verified",
-    "published_version": 158,
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v158",
-    "storage_closure_complete": true
+    "apk_built": true,
+    "final_source_frozen": true
   }
 }

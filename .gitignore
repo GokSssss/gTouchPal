@@ -169,3 +169,22 @@ backup158/tests/framework/external/
 backup158/retention_before/
 backup158/history158*.zip
 backup158/BACKUP_PAGE158.png
+
+#159 generated build, framework and readback caches
+language159/decoded/
+language159/compile_classes/
+language159/helper_classes/
+language159/helper_decoded/
+language159/helpers.*
+language159/contracts.jar
+language159/rebuilt.apk
+language159/unsigned.apk
+language159/tests/classes/
+language159/tests/framework/target/
+language159/tests/framework/generated/
+language159/tests/framework/external/
+language159/retention_before/
+language159/history159*.zip
+language159/BACKUP_PAGE158.png
+
+language159/BACKUP_PAGE*.png

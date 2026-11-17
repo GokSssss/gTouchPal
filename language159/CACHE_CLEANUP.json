@@ -1,0 +1,40 @@
+{
+  "removed": [
+    {
+      "path": "/workspace/touchpal/ui149/rebuilt.apk",
+      "bytes": 38074251,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    },
+    {
+      "path": "/workspace/touchpal/ui149/unsigned.apk",
+      "bytes": 33229096,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    },
+    {
+      "path": "/workspace/touchpal/ui150/rebuilt.apk",
+      "bytes": 38075066,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    },
+    {
+      "path": "/workspace/touchpal/ui150/unsigned.apk",
+      "bytes": 33228282,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    },
+    {
+      "path": "/workspace/touchpal/fix148/decoded",
+      "bytes": 138792468,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    },
+    {
+      "path": "/workspace/touchpal/fix148/rebuilt.apk",
+      "bytes": 38013408,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    },
+    {
+      "path": "/workspace/touchpal/fix148/unsigned.apk",
+      "bytes": 33178987,
+      "reason": "Derived Apktool or unsigned build cache; own src/overlay, immutable published APK/SOURCE and signing retained"
+    }
+  ],
+  "freed_bytes": 352591558
+}

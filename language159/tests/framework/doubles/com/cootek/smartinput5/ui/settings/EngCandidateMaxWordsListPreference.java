@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.ui.settings;public class EngCandidateMaxWordsListPreference{public static int cached;public static void setCachedValue(int value){cached=value;}}

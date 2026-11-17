@@ -1,0 +1,17 @@
+[
+  {
+    "path": "language159/decoded",
+    "bytes": 139574615,
+    "reason": "Reproducible post-verification cache; signed APK/frozen SOURCE retained"
+  },
+  {
+    "path": "language159/rebuilt.apk",
+    "bytes": 38109113,
+    "reason": "Reproducible post-verification cache; signed APK/frozen SOURCE retained"
+  },
+  {
+    "path": "language159/unsigned.apk",
+    "bytes": 33292542,
+    "reason": "Reproducible post-verification cache; signed APK/frozen SOURCE retained"
+  }
+]

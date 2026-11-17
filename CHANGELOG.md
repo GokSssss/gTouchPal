@@ -4,6 +4,10 @@
 
 ## Русский
 
+### 159 · Файл языка в разделе Языки
+
+- «Загрузить словарь языка» перенесено из резервного копирования в раздел «Языки». Нажатие открывает системный выбор файла.
+
 ### 158 · Кнопки копий, уведомления и файлы языков
 
 - «Восстановить» показывает сохранённые копии нужного формата, а значок папки открывает системный выбор файла.
@@ -74,6 +78,10 @@
 ---
 
 ## English
+
+### 159 · Language file import on the Languages page
+
+- Moved language file import from Backup and restore to Languages. Tap it to open the system file chooser.
 
 ### 158 · Backup actions, notifications and language files
 

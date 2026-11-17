@@ -394,9 +394,11 @@
   "current_source_work": {
     "version": 160,
     "directory": "backup160",
-    "status": "source_frozen_verified",
-    "last_published_version": 159,
+    "status": "published_verified",
+    "last_published_version": 160,
     "apk_built": true,
-    "final_source_frozen": true
+    "final_source_frozen": true,
+    "published_version": 160,
+    "storage_closure_complete": true
   }
 }

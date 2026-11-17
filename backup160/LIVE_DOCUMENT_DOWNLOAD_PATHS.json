@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+    "name": "10База!",
+    "path": "/workspace/attachments/5bf84c3d-c948-4dc8-8fc7-18ba67436ba1/10База!.txt",
+    "bytes": 304500,
+    "parents": [
+      "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+    ]
+  },
+  {
+    "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+    "name": "TouchPal_FEATURES_RU.txt",
+    "path": "/workspace/attachments/7df7bfe7-c3a6-406b-b818-ce7b2a87aed1/Журнал улучшений TouchPal.txt",
+    "bytes": 169713,
+    "parents": [
+      "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+    ]
+  },
+  {
+    "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+    "name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "path": "/workspace/attachments/8a795372-a333-44b8-8f72-8e8bede386e9/TouchPal_DEVELOPMENT_LOG_RU.txt",
+    "bytes": 645429,
+    "parents": [
+      "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+    ]
+  },
+  {
+    "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+    "name": "PROJECT_STORAGE.json",
+    "path": "/workspace/attachments/2aefddad-0595-4e7b-be51-ad5c3323673d/PROJECT_STORAGE.json",
+    "bytes": 486690,
+    "parents": [
+      "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3"
+    ]
+  },
+  {
+    "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+    "name": "CHECKPOINTS_RU.txt",
+    "path": "/workspace/attachments/6aea38be-26dc-45a8-b29e-fee4bc3bece7/CHECKPOINTS_RU.txt",
+    "bytes": 17569,
+    "parents": [
+      "1jmkShIaCyrjCu3fkDLujpIFoS3r5axLe"
+    ]
+  },
+  {
+    "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+    "name": "SOURCE_INDEX_RU.txt",
+    "path": "/workspace/attachments/49c4fc5e-e92a-43a1-8d78-2bc89b4a85a1/SOURCE_INDEX_RU.txt",
+    "bytes": 3671,
+    "parents": [
+      "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3"
+    ]
+  },
+  {
+    "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+    "name": "BUILD_INPUTS_INDEX_RU.txt",
+    "path": "/workspace/attachments/640a7d74-dcb6-4a1c-8c1a-4ef128fd3afc/НАЗНАЧЕНИЕ_И_SHA256.txt",
+    "bytes": 1104,
+    "parents": [
+      "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+    ]
+  },
+  {
+    "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+    "name": "TouchPal_Нововведения_от_DelFix.xlsx",
+    "path": "/workspace/attachments/e9ab81b0-ca53-4055-bc93-4d3014702d58/TouchPal_Нововведения_от_DelFix.xlsx",
+    "bytes": 38871,
+    "parents": [
+      "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+    ]
+  }
+]

@@ -1,12 +1,12 @@
 gTouchPal · сохраняемые исходники ·17.11.2026
 
-Текущий159 и предыдущий158. SOURCE — собственные изменения/рецепт поверх закрытого APK; полнота и телефонные ограничения прежних выбранных точек сохранены.
+Текущий160 и предыдущий159. SOURCE — собственные изменения/рецепт поверх закрытого APK; полнота и телефонные ограничения прежних выбранных точек сохранены.
+
+160-gTouchPal-SOURCE-6.2.7.1.zip
+https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view
 
 159-gTouchPal-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ/view
-
-158-gTouchPal-SOURCE-6.2.7.1.zip
-https://drive.google.com/file/d/1240OoowT5oFTdHg8KTmjlOEMWI7cZvi-/view
 
 135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view
@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1aNIbFek9CkBz5FakK471WkVQyBF4dkR_/view
 T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip
 https://drive.google.com/file/d/1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV/view
 
-SOURCE159 использует APK158 из предыдущего выпуска; SOURCE158 использует единственный APK157 во Входах.
+SOURCE160 использует APK159 из предыдущего выпуска; SOURCE159 использует единственный APK158 во Входах.
 
 Входы для сохраняемых SOURCE:
 
@@ -62,12 +62,12 @@ SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
 https://drive.google.com/file/d/1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl/view
 SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
 
-157-gTouchPal-6.2.7.1.apk → backup158/build.py
-https://drive.google.com/file/d/1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_/view
-SHA256 5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a
+158-gTouchPal-6.2.7.1.apk → language159/build.py
+https://drive.google.com/file/d/1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB/view
+SHA256 b08fbc1070de01a2d60d288a0f3f7bc4d3adebf9fde4881aebdc7d33f83b16d8
 
 Комплект подписи: https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
 Полезные точки: https://drive.google.com/file/d/1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR/view
 История/логика: https://drive.google.com/file/d/1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e/view
 Активный прототип154 отдельно: https://drive.google.com/drive/folders/1csJyu7nlz2xBJv103MRwbp3M8Nqg92US
-История сохраняет логи и малые патчи, не полные старые SOURCE/APK.
+История сохраняет логи и малые патчи, не полные старые Source/APK.

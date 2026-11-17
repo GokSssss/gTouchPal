@@ -1,0 +1,10 @@
+{
+  "version": "157",
+  "base": "156",
+  "status": "verified_source_frozen_preparing_publication",
+  "source_frozen": true,
+  "apk_drive_raw_readback_verified": true,
+  "source_drive_raw_readback_verified": true,
+  "isolated_rebuild_byte_identical": true,
+  "github_pending": true
+}

@@ -374,18 +374,22 @@
       "button_visual": "approved: отлично",
       "button_specification": "mockups/settings156/SPEC.json",
       "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v156"
+    },
+    {
+      "id": "branding_touchpalg_yellow_black_20261117",
+      "status": "design_only_pending_owner_review",
+      "description": "System name TouchPalG, yellow icon with black existing TouchPal symbol; mockup in mockups/branding157. Not included in157."
     }
   ],
   "clarifications_only": {
     "2026-11-16-empty-field-suggestions": "Пока только вопрос: не добавлять новую функцию в TouchPal на основании этого обсуждения. В YaTouch10 отдельный empty_field_predictions уже существует, defaultfalse; в TouchPal152 отдельной настройки пустого поля нет."
   },
   "current_source_work": {
-    "version": 156,
-    "directory": "ui156",
+    "version": 157,
+    "directory": "backup157",
     "apk_built": true,
-    "final_source_frozen": true,
-    "published_version": 156,
-    "status": "published_verified",
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v156"
+    "final_source_frozen": false,
+    "last_published_version": 156,
+    "status": "verified_preparing_source"
   }
 }

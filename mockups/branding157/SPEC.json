@@ -1,0 +1,44 @@
+{
+  "date_utc": "2026-11-17",
+  "status": "DESIGN_ONLY_PENDING_OWNER_REVIEW",
+  "current_published_version": "156",
+  "system_application_name_proposed": "TouchPalG",
+  "icon": {
+    "preview": "touchpalg-yellow-black-proposal.png",
+    "background": "yellow",
+    "symbol": "black original TouchPal emblem",
+    "reference_apk": "output/156-gTouchPal-6.2.7.1.apk",
+    "reference_resource": "res/drawable-xxhdpi/icon.png",
+    "image_generation_used": true,
+    "preview_is_not_an_apk_resource": true
+  },
+  "owner_scope": "Эскиз сначала. Форму кнопок восстановления владелец явно отложил на потом.",
+  "owner_feedback_156": "Владелец назвал компактное меню идеальным; это не общая приёмка всех функций резервного копирования.",
+  "storage_explanation": {
+    "public_copies": "/storage/emulated/0/TouchPalG/Backup",
+    "working_external_root": "/storage/emulated/0/Android/data/com.cootek.smartinputv5/files/TouchPalG",
+    "legacy_sources": [
+      "/storage/emulated/0/TouchPal2015",
+      "/storage/emulated/0/TouchPalv5"
+    ],
+    "implementation": "StorageImport135.run / StorageRoot135.root; inherited unchanged by156",
+    "owner_screenshot_result": {
+      "copied": 0,
+      "kept": 20,
+      "skipped": 0
+    },
+    "kept_semantics": "Existing destination paths are counted without checking content equality. Directory-to-file conflicts can also count as kept. The result contains no per-file names or creation/transfer provenance; cannot identify exact20 from screenshot.",
+    "originals_preserved": true,
+    "live_working_paths_changed_this_turn": false
+  },
+  "github": {
+    "owner_report": "Владелец сообщил о переименовании GitHub в TouchPalG.",
+    "observed_public_full_name": "GokSssss/gTouchPal",
+    "node_id": "R_kgDOVt3b2g",
+    "new_name_readback": "GokSssss/TouchPalG returned404 both connector and publicAPI at inspection time; do not point origin to an unverified404 URL.",
+    "origin_changed_this_turn": false
+  },
+  "application_code_changed": false,
+  "build_created": false,
+  "published_artifacts_changed": false
+}

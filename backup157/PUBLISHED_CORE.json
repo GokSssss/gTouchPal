@@ -1,0 +1,20 @@
+{
+  "version": "157",
+  "apk": {
+    "id": "1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_",
+    "bytes": 33472459,
+    "sha256": "5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a"
+  },
+  "source": {
+    "id": "1sVb17aH7V-OtXbGQoVa7VAdn5s0UYxQz",
+    "bytes": 1133632,
+    "sha256": "340caf9fd9f7e944b457ad39a579e4408a742e11309d80c3effb520863f53b1b"
+  },
+  "folder_id": "1lijrSX0UThpSN26jfdYZCOYhCPN6JsYy",
+  "passport": {
+    "id": "17QbX86Y2EWf6YDIntUSVuuToAemRFYhr",
+    "bytes": 4816,
+    "sha256": "88b3aa281c6f3b57dbecb2ea8a3f3195899a61882cd4058cdbd66b86f9fe6b0c",
+    "raw_readback_verified": true
+  }
+}

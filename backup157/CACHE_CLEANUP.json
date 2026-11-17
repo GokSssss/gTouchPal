@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-17",
+  "reason": "Room for157 build and isolated SOURCE reproduction",
+  "removed": [
+    {
+      "path": "/workspace/touchpal/runtime152/base151",
+      "bytes": 120086025,
+      "kind": "regenerable old decoded APK cache; no frozen release/source or user file"
+    },
+    {
+      "path": "/workspace/touchpal/storage135/decoded",
+      "bytes": 130289120,
+      "kind": "regenerable old decoded APK cache; no frozen release/source or user file"
+    }
+  ],
+  "released_artifacts_unchanged": true
+}

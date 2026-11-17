@@ -135,3 +135,20 @@ ui156/tests/framework/generated/
 ui156/tests/framework/external/
 ui156/retention_before/
 ui156/history156.zip
+
+#157 generated backup build/test outputs
+backup157/decoded/
+backup157/compile_classes/
+backup157/helper_classes/
+backup157/helper_decoded/
+backup157/helpers.*
+backup157/contracts.jar
+backup157/rebuilt.apk
+backup157/unsigned.apk
+backup157/tests/classes/
+backup157/tests/framework/target/
+backup157/tests/framework/generated/
+backup157/tests/framework/external/
+backup157/retention_before/
+backup157/history157.zip
+backup157/BACKUP_PAGE157.png

@@ -6,7 +6,7 @@
 
 Клавиатура для Android с жестами, подсказками слов и настройкой под себя.
 
-**[Скачать APK 156](https://github.com/GokSssss/gTouchPal/releases/download/v156/156-gTouchPal-6.2.7.1.apk)**
+**[Скачать APK 157](https://github.com/GokSssss/gTouchPal/releases/download/v157/157-gTouchPal-6.2.7.1.apk)**
 
 ### Что умеет
 
@@ -15,7 +15,7 @@
 - **Физическая клавиатура:** русская и английская раскладки; в системном списке — «gTouchPal RU/en» и «gTouchPal EN/ru».
 - **Курсор и язык:** управление курсором удержанием левой части пробела; переключение языка свайпом по пробелу.
 - **Слова:** долгое нажатие на подсказку открывает редактирование и удаление слова.
-- **Резервная копия и восстановление:** ZIP, western.usr и списки слов TXT. Общая плашка сохранения со значками открытия папки и отправки; файлы на SD, любое место через выбор файла. Добавление из TXT сохраняет существующие слова.
+- **Резервная копия и восстановление:** ZIP, western.usr и списки слов TXT. Копии хранятся в Backup рабочей папки приложения. Значки открывают копии, отправляют их или сохраняют в Загрузки; удержание показывает справку. Выбранные для восстановления файлы сохраняются в Backup. Добавление из TXT сохраняет существующие слова.
 - **Буфер обмена:** вставка текста из отдельной панели и быстрый возврат к клавиатуре.
 - **Оформление:** выбор установленной темы клавиатуры с отмеченной текущей; светлая и тёмная темы настроек, размеры клавиатуры и панели подсказок. Высоты клавиатуры для портрета и альбома сохраняются отдельно; альбомная по умолчанию — 550 px. Готовые значения и перетягивание края доступны на макете.
 - **Журнал функций:** актуальные возможности и история их изменений, открывается нажатием на **Журнал новых функций**.
@@ -30,9 +30,9 @@
 
 <img src="ui155/research/framework-capture/additional153-dark.png" alt="Дополнительные настройки gTouchPal" width="394">
 
-<img src="ui156/research/framework-capture/backup156-dark.png" alt="Резервная копия и восстановление" width="394">
+<img src="backup157/research/framework-capture/backup157-dark.png" alt="Резервная копия и восстановление" width="394">
 
-[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal/releases/tag/v156) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[История версий](CHANGELOG.md#русский) · [Файлы выпуска](https://github.com/GokSssss/gTouchPal/releases/tag/v157) · [Проект на Диске](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 
@@ -42,7 +42,7 @@
 
 An Android keyboard with gestures, word suggestions and adjustable appearance.
 
-**[Download APK 156](https://github.com/GokSssss/gTouchPal/releases/download/v156/156-gTouchPal-6.2.7.1.apk)**
+**[Download APK 157](https://github.com/GokSssss/gTouchPal/releases/download/v157/157-gTouchPal-6.2.7.1.apk)**
 
 ### Features
 
@@ -51,7 +51,7 @@ An Android keyboard with gestures, word suggestions and adjustable appearance.
 - **Physical keyboard:** Russian and English layouts; the system picker shows “gTouchPal RU/en” and “gTouchPal EN/ru”.
 - **Cursor and language:** hold the left side of the spacebar to move the cursor; swipe along it to switch languages.
 - **Words:** long-press a suggestion to edit or delete the word.
-- **Backup and restore:** ZIP, western.usr and TXT word lists. A shared action strip for saving, opening the SD backup folder and sharing; save to any selected file. TXT import keeps existing words.
+- **Backup and restore:** ZIP, western.usr and TXT word lists. Copies are kept in the app workspace’s Backup folder. Icons open saved copies, share them or save to Downloads; hold for help. Confirmed restore inputs are retained in Backup. TXT import keeps existing words.
 - **Clipboard:** paste from a separate panel and return quickly to the keyboard.
 - **Appearance:** choose an installed keyboard theme with the current one marked; light and dark settings themes, keyboard and suggestion-panel sizing. Portrait and landscape keyboard heights are saved separately; landscape defaults to 550 px. Presets and edge dragging are available in the preview.
 - **Feature journal:** current features and their history, opened by tapping the journal.
@@ -66,9 +66,9 @@ Android Views captured in the test environment, not a phone photograph.
 
 <img src="ui155/research/framework-capture/additional153-dark.png" alt="gTouchPal additional settings" width="394">
 
-<img src="ui156/research/framework-capture/backup156-dark.png" alt="Backup and restore" width="394">
+<img src="backup157/research/framework-capture/backup157-dark.png" alt="Backup and restore" width="394">
 
-[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal/releases/tag/v156) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
+[Version history](CHANGELOG.md#english) · [Release files](https://github.com/GokSssss/gTouchPal/releases/tag/v157) · [Project on Drive](https://drive.google.com/drive/folders/1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH)
 
 [↑ Русский / English](#gtouchpal)
 

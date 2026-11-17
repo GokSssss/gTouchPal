@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "name": "10База!",
+      "bytes": 306725,
+      "sha256": "e8938661d1e905ac753259f996fdbd561dcdc7f8e8c80b5f12822c3b5d5fefe0",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 647654,
+      "sha256": "352c57a50ff0de249b10c759bae3ae48c74e61b0fd9d300795ee8777a3a825f3",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+      "name": "PROJECT_STORAGE.json",
+      "bytes": 487941,
+      "sha256": "aed2df6d0c50221f4dfda8b12de11b04ce92d4d94c8fed72c556c54c1b22877a",
+      "raw_readback_equal": true
+    }
+  ]
+}

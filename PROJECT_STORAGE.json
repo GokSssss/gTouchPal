@@ -10535,5 +10535,29 @@
       "inputs": 7
     },
     "final_eight_documents_raw_readback_verified": true
+  },
+  "deferred_next_work": {
+    "id": "backup161-layout-branding-deferred",
+    "status": "scheduled_not_started",
+    "requested_after_release": "160",
+    "next_run_time": "2026-11-18T20:00:00+08:00",
+    "timezone": "Etc/GMT-8",
+    "automation_id": "Automation_50e4349781e081919632f301aaf7b2f7",
+    "changes": [
+      "Capsule outer shape for standalone restore/TXT-add/legacy-transfer buttons to match Save strips",
+      "Remove top page padding and redundant Стрелка вниз — сохранить в Загрузки hint; compact vertical gaps so the last line is fully visible at the owner phone size without shrinking readable fonts",
+      "System application display name TouchPalG",
+      "Yellow background with black original TouchPal emblem according to mockups/branding157/touchpalg-yellow-black-proposal.png"
+    ],
+    "preserve": [
+      "package identity and signing certificate",
+      "working paths and existing files",
+      "physical keyboard subtype identities",
+      "additional outside-copy offer and red uninstall reminder",
+      "floating section-anchored notice without inline reflow",
+      "TPL import entry in Languages"
+    ],
+    "published160_unchanged": true,
+    "code_or_apk_changes_now": false
   }
 }

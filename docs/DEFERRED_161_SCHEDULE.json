@@ -1,0 +1,11 @@
+{
+  "id": "Automation_50e4349781e081919632f301aaf7b2f7",
+  "title": "Доработать оформление TouchPalG",
+  "is_enabled": true,
+  "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Etc/GMT-8:20261118T200000\nEND:VEVENT",
+  "next_run_time": "2026-11-18T20:00:00+08:00",
+  "default_timezone": "Etc/GMT-8",
+  "environment_selection": "inherited",
+  "environments": null,
+  "confirmation": "User explicitly selected phone timezone UTC+8; scheduled work, not reminder-only."
+}

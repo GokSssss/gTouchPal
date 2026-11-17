@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-17",
+  "removed": [
+    {
+      "id": "1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f",
+      "kind": "155 SOURCE",
+      "bytes": 1516396
+    },
+    {
+      "id": "11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ",
+      "kind": "155 passport",
+      "bytes": 5581
+    },
+    {
+      "id": "1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
+      "kind": "empty155 folder",
+      "bytes": 0
+    }
+  ],
+  "freed_bytes": 1521977,
+  "input155_moved_once_same_id_sha": true,
+  "retained_full_versions": [
+    "157",
+    "156"
+  ],
+  "prototype154_preserved": true,
+  "protected_points": 11,
+  "old_github_releases_and_tags_untouched": true
+}

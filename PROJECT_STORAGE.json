@@ -1,6 +1,6 @@
 {
   "schema": 3,
-  "updated_utc_date": "2026-11-16",
+  "updated_utc_date": "2026-11-17",
   "rules_name": "10База!",
   "rules_id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
   "root_id": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH",
@@ -11,6 +11,42 @@
   "research_id": "1FB2MIYM2mR_nQZK0QK51gyTAWMsigz0h",
   "records_id": "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3",
   "current": {
+    "version": "157",
+    "folder_id": "1lijrSX0UThpSN26jfdYZCOYhCPN6JsYy",
+    "folder_url": "https://drive.google.com/drive/folders/1lijrSX0UThpSN26jfdYZCOYhCPN6JsYy",
+    "original_folder_name": "157 — копии приложения и Загрузки",
+    "protected": false,
+    "location": "root",
+    "reason": "App-owned copies, verified Downloads, retained import sources and icon help",
+    "apk_id": "1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_",
+    "apk_name": "157-gTouchPal-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_/view",
+    "apk_bytes": 33472459,
+    "apk_sha256": "5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a",
+    "apk_raw_readback_verified": true,
+    "source_id": "1sVb17aH7V-OtXbGQoVa7VAdn5s0UYxQz",
+    "source_name": "157-gTouchPal-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1sVb17aH7V-OtXbGQoVa7VAdn5s0UYxQz/view",
+    "source_bytes": 1133632,
+    "source_sha256": "340caf9fd9f7e944b457ad39a579e4408a742e11309d80c3effb520863f53b1b",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "17QbX86Y2EWf6YDIntUSVuuToAemRFYhr",
+        "name": "157-gTouchPal-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/17QbX86Y2EWf6YDIntUSVuuToAemRFYhr/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v157",
+    "github_tag": "v157",
+    "github_commit": "545a8b29d74c09668bb37248800b81750d5cd0ed",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact files verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file",
+    "phone_or_art_tested": false,
+    "status": "published_verified"
+  },
+  "previous": {
     "version": "156",
     "folder_id": "1nfR5q3dJ76j4L0Y4Rd4euxXmq1HBrpMg",
     "folder_url": "https://drive.google.com/drive/folders/1nfR5q3dJ76j4L0Y4Rd4euxXmq1HBrpMg",
@@ -44,43 +80,6 @@
     "completeness": "Three exact verified artifacts on Drive/public GitHub prerelease",
     "build_reproducibility": "Downloaded final SOURCE rebuilt in isolation to byte-identical signed APK;71framework/DEX/API/resource checks",
     "phone_or_art_tested": false
-  },
-  "previous": {
-    "version": "155",
-    "folder_id": "1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
-    "folder_url": "https://drive.google.com/drive/folders/1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
-    "original_folder_name": "155 — резервная копия и отправка",
-    "protected": false,
-    "location": "root",
-    "reason": "Approved backup layout, direct TXT and persistent Save/Share",
-    "apk_id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
-    "apk_name": "155-gTouchPal-6.2.7.1.apk",
-    "apk_url": "https://drive.google.com/file/d/1SIBScO1exogidhB9fJl4cGWjl6OId_Dy/view",
-    "apk_bytes": 33479393,
-    "apk_sha256": "1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5",
-    "apk_raw_readback_verified": true,
-    "source_id": "1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f",
-    "source_name": "155-gTouchPal-SOURCE-6.2.7.1.zip",
-    "source_url": "https://drive.google.com/file/d/1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f/view",
-    "source_bytes": 1516396,
-    "source_sha256": "cc3ce8070f80733ec92a7f93bab737cd59df136f269eab397636924e0081d27d",
-    "source_raw_readback_verified": true,
-    "notes": [
-      {
-        "id": "11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ",
-        "name": "155-gTouchPal-Passport-6.2.7.1.txt",
-        "url": "https://drive.google.com/file/d/11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ/view"
-      }
-    ],
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v155",
-    "github_tag": "v155",
-    "github_commit": "758ad71268d414c8ca3817ebdd7d15d589d8d4ab",
-    "github_public_downloads_verified": true,
-    "completeness": "Same verified APK/SOURCE/passport on Drive and public GitHub prerelease",
-    "build_reproducibility": "Downloaded final SOURCE rebuilt in isolation to byte-identical signed APK;63framework/DEX/API/resource checks",
-    "phone_or_art_tested": false,
-    "owner_installed155": true,
-    "owner_reports_regressions": true
   },
   "protected": [
     {
@@ -445,16 +444,16 @@
   "full_history": {
     "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
     "path": "TouchPal_JOURNALS_AND_IMPLEMENTATION.zip",
-    "stages": 161,
+    "stages": 162,
     "source_archives": 0,
     "note": "Компактные журналы/логика, без полного SOURCE старых выпусков; не обещает восстановление каждой удалённой версии.",
-    "bytes": 60090755,
-    "sha256": "cb6aaa8394ad63f98d06505c63e59553a613126cae947f46330f75bab9fec5bd",
-    "entries": 9531,
-    "individual_logs": 160,
-    "implementation_patches": 6885,
+    "bytes": 59067772,
+    "sha256": "aa9149b80eb22571ae1b4d38d94d6cd90815320fd31e4be58cef5354ec6a14af",
+    "entries": 9578,
+    "individual_logs": 161,
+    "implementation_patches": 6905,
     "drive_readback_verified": true,
-    "manifest_hashes": 9530,
+    "manifest_hashes": 9577,
     "post_publication127_preserved": true,
     "post_publication127_evidence": [
       {
@@ -1482,7 +1481,10 @@
     "retired152_and153_passports_preserved": true,
     "prototype154_logs_implementation_and_files_retained": true,
     "post_publication153_and155_preserved": true,
-    "owner_phone_media_not_published": true
+    "owner_phone_media_not_published": true,
+    "post_publication156_preserved": true,
+    "exact_retiring155_passport_preserved": true,
+    "all_previous9530_payloads_preserved": true
   },
   "phone_test86_confirmed": false,
   "word_order_fixed": false,
@@ -1647,7 +1649,7 @@
       }
     ]
   },
-  "cleanup_completed_utc_date": "2026-11-16",
+  "cleanup_completed_utc_date": "2026-11-17",
   "project_name": "gTouchPal",
   "merged_from": {
     "former_id": "1ncp0QVULdMPzQhvbROCHgqSnrk4RWkg1",
@@ -1850,12 +1852,27 @@
       "version": "153",
       "file": "153-gTouchPal-6.2.7.1.apk",
       "drive_name": "153-gTouchPal-6.2.7.1.apk",
-      "for_release": "155",
-      "consumer": "ui155/build.py and retained prototypeSOURCE154",
+      "for_release": "154-prototype",
+      "consumer": "retained prototypeSOURCE154; public historical SOURCE155 also uses the same bytes",
       "id": "1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl",
       "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
       "bytes": 33457750,
       "sha256": "eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b",
+      "move_pending": false,
+      "move_verified": true,
+      "reason": "Preserved active154 prototype at owner request"
+    },
+    {
+      "version": "155",
+      "mod_version": "155",
+      "file": "155-gTouchPal-6.2.7.1.apk",
+      "drive_name": "155-gTouchPal-6.2.7.1.apk",
+      "for_release": "156",
+      "consumer": "ui156/build.py",
+      "id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+      "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+      "bytes": 33479393,
+      "sha256": "1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5",
       "move_pending": false,
       "move_verified": true
     }
@@ -9828,5 +9845,115 @@
       "prototype154": 2
     },
     "final_eight_documents_raw_readback_verified": true
+  },
+  "retention157": {
+    "status": "complete",
+    "plan": "backup157/RETENTION_PLAN.json",
+    "published_verified": true,
+    "prototype154_preserved": true,
+    "removed_source155": true,
+    "removed_passport155": true,
+    "removed_empty_folder155": true,
+    "freed_bytes": 1521977,
+    "input155_moved_once": true,
+    "history_verified": "aa9149b80eb22571ae1b4d38d94d6cd90815320fd31e4be58cef5354ec6a14af"
+  },
+  "cleanup157_complete": true,
+  "drive_publication157_complete": true,
+  "github_publication157_complete": true,
+  "release157_verification": {
+    "version": "157",
+    "apk_bytes": 33472459,
+    "apk_sha256": "5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a",
+    "base_sha256": "66f0131eec274b03269175e17f4e5f7b4583c1cfca239da12993aa7b7d931740",
+    "tests": 19,
+    "framework": "Actual Android34 Views/Intents, app-owned filesystem and provider streams; native engine/parser and OS MediaStore authority are explicit boundaries, not a phone test",
+    "own_helper_families": 12,
+    "own_compiled_classes": 68,
+    "original_classes_compared": 10205,
+    "bounded_vendor_methods": 0,
+    "api16_actual_dex_verified": true,
+    "classes2_unchanged": true,
+    "all_old_resources_and_native_libraries_unchanged": true,
+    "live_workspace_and_private_dictionary_and_native_staging_unchanged": true,
+    "physical_keyboard_subtypes_unchanged": true,
+    "exports_default": "Context.getExternalFilesDir(null)/TouchPalG/Backup",
+    "save_without_picker": true,
+    "folder_uses_app_owned_native_list": true,
+    "share_keeps_same_saved_file": true,
+    "downloads": "MediaStore Downloads29+; legacy public Downloads before29",
+    "incoming_read_once_checked_snapshot": true,
+    "confirmed_restore_input_retained": true,
+    "cancel_and_invalid_input_not_retained": true,
+    "former_public_copies_verified_before_source_removal": true,
+    "delete_only_empty_old_directories": true,
+    "unknown_files_and_name_collisions_preserved": true,
+    "icon_long_press_help_without_action": true,
+    "last_full_zip_date_filename_one_line_above_buttons": true,
+    "certificate_sha256": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+    "signature_schemes": [
+      "v1",
+      "v2",
+      "v3"
+    ],
+    "android_art_or_phone_executed": false,
+    "branding_design_pending": true,
+    "restore_button_shape_deferred": true
+  },
+  "clean_rebuild157": {
+    "version": "157",
+    "status": "PASS",
+    "source_sha256": "340caf9fd9f7e944b457ad39a579e4408a742e11309d80c3effb520863f53b1b",
+    "source_files": 256,
+    "apk_sha256": "5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a",
+    "byte_identical_apk": true,
+    "isolated": true,
+    "steps": [
+      {
+        "stage": "compile_helpers.py",
+        "exit_code": 0,
+        "seconds": 11.4,
+        "stdout_sha256": "c58510f0bfd82d64514cd61cb5a3f038be0ac65bdba82e3db17a58d04c18f1aa",
+        "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+      },
+      {
+        "stage": "build.py",
+        "exit_code": 0,
+        "seconds": 26.93,
+        "stdout_sha256": "05266bb7a10be094bb1bfdbefcbab359d4223cf12880885046bb2207cb7920d7",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/run_dex_checks.py",
+        "exit_code": 0,
+        "seconds": 12.85,
+        "stdout_sha256": "42b56606536a2d31aacf0c60950ab707e2d0bff95d34ab8d38d746428c5d2174",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/check_resources.py",
+        "exit_code": 0,
+        "seconds": 0.3,
+        "stdout_sha256": "44ddf1cd3f0cc033fc4338cfa1252ccfbcde92ccac9f00dbed62114655715ac4",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/framework/run.py",
+        "exit_code": 0,
+        "seconds": 26.69,
+        "stdout_sha256": "15e2e566522366141935c307fbd6f614d815edf204d6c3268c771f49a41623ef",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "collect_verification157.py",
+        "exit_code": 0,
+        "seconds": 2.96,
+        "stdout_sha256": "f54e231f696338084a1eb64410c6b934f17d2406c6d2ace8278017e1ec233bdd",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "private_materials_exported": false,
+    "original_inputs_unchanged": true,
+    "android_runtime_executed": false
   }
 }

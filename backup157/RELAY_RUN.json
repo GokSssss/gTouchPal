@@ -1,0 +1,7 @@
+{
+  "successful_run": 44002531557,
+  "first_failed_run": 44001975787,
+  "first_failure": "Expired temporary file references; no assets attached. Fresh references succeeded.",
+  "only_three_pinned_public_artifacts": true,
+  "signing_materials_never_sent_to_relay": true
+}

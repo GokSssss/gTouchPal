@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "apiUrl": "https://api.github.com/repos/GokSssss/gTouchPal/releases/assets/757287558",
+      "contentType": "application/vnd.android.package-archive",
+      "createdAt": "2026-11-17T02:22:58Z",
+      "downloadCount": 0,
+      "id": "RA_kwDOVt3b2s4tI0qG",
+      "label": "",
+      "name": "157-gTouchPal-6.2.7.1.apk",
+      "size": 33472459,
+      "state": "uploaded",
+      "updatedAt": "2026-11-17T02:23:01Z",
+      "url": "https://github.com/GokSssss/gTouchPal/releases/download/v157/157-gTouchPal-6.2.7.1.apk"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/GokSssss/gTouchPal/releases/assets/757287555",
+      "contentType": "text/plain; charset=utf-8",
+      "createdAt": "2026-11-17T02:22:58Z",
+      "downloadCount": 0,
+      "id": "RA_kwDOVt3b2s4tI0qD",
+      "label": "",
+      "name": "157-gTouchPal-Passport-6.2.7.1.txt",
+      "size": 4816,
+      "state": "uploaded",
+      "updatedAt": "2026-11-17T02:22:59Z",
+      "url": "https://github.com/GokSssss/gTouchPal/releases/download/v157/157-gTouchPal-Passport-6.2.7.1.txt"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/GokSssss/gTouchPal/releases/assets/757287548",
+      "contentType": "application/zip",
+      "createdAt": "2026-11-17T02:22:58Z",
+      "downloadCount": 0,
+      "id": "RA_kwDOVt3b2s4tI0p8",
+      "label": "",
+      "name": "157-gTouchPal-SOURCE-6.2.7.1.zip",
+      "size": 1133632,
+      "state": "uploaded",
+      "updatedAt": "2026-11-17T02:22:59Z",
+      "url": "https://github.com/GokSssss/gTouchPal/releases/download/v157/157-gTouchPal-SOURCE-6.2.7.1.zip"
+    }
+  ],
+  "isDraft": false,
+  "isPrerelease": true,
+  "tagName": "v157",
+  "url": "https://github.com/GokSssss/gTouchPal/releases/tag/v157"
+}

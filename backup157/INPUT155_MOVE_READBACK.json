@@ -1,0 +1,43 @@
+{
+  "before": {
+    "id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+    "title": "155-gTouchPal-6.2.7.1.apk",
+    "mime_type": null,
+    "size": "33479393",
+    "url": null,
+    "file_or_folder": null,
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "after": {
+    "id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+    "title": "155-gTouchPal-6.2.7.1.apk",
+    "mime_type": null,
+    "size": "33479393",
+    "url": null,
+    "file_or_folder": null,
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "only_metadata_changed": true,
+  "sha256": "1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5",
+  "raw_bytes_verified_before_move": true
+}

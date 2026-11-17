@@ -1,10 +1,11 @@
 {
   "version": "157",
   "base": "156",
-  "status": "verified_source_frozen_preparing_publication",
+  "status": "published_verified",
   "source_frozen": true,
-  "apk_drive_raw_readback_verified": true,
-  "source_drive_raw_readback_verified": true,
+  "drive_and_github_three_files_raw_verified": true,
   "isolated_rebuild_byte_identical": true,
-  "github_pending": true
+  "history_preserved": true,
+  "storage_cleanup_complete": true,
+  "phone_tested": false
 }

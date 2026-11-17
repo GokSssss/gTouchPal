@@ -1,0 +1,9 @@
+{
+  "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+  "status": "PASS",
+  "bytes": 59067772,
+  "sha256": "aa9149b80eb22571ae1b4d38d94d6cd90815320fd31e4be58cef5354ec6a14af",
+  "manifest_hashes": 9577,
+  "all_old_payloads_preserved": true,
+  "exact_file_downloaded": true
+}

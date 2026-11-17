@@ -1,0 +1,18 @@
+{
+  "version": "157",
+  "state": "published_verified",
+  "apk_source_hashes_unchanged": true,
+  "old_tags_154_155_156_unchanged": true,
+  "two_full_releases": [
+    "157",
+    "156"
+  ],
+  "all_eight_live_documents_raw_verified": true,
+  "history_all9530_previous_payloads_preserved": true,
+  "prototype154_preserved": true,
+  "root_objects": 8,
+  "source_files": 12,
+  "input_apks": 6,
+  "signing_files": 2,
+  "phone_or_art_tested": false
+}

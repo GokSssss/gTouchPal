@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-17",
+  "state": "prepared_pending_verified_history_and_cleanup",
+  "current": {
+    "version": "157",
+    "folder_id": "1lijrSX0UThpSN26jfdYZCOYhCPN6JsYy",
+    "folder_url": "https://drive.google.com/drive/folders/1lijrSX0UThpSN26jfdYZCOYhCPN6JsYy",
+    "original_folder_name": "157 — копии приложения и Загрузки",
+    "protected": false,
+    "location": "root",
+    "reason": "App-owned copies, verified Downloads, retained import sources and icon help",
+    "apk_id": "1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_",
+    "apk_name": "157-gTouchPal-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_/view",
+    "apk_bytes": 33472459,
+    "apk_sha256": "5820c72df9dc43bf8486e1fbe99bed8b092765f7e710dafa6b50f78c424c1e5a",
+    "apk_raw_readback_verified": true,
+    "source_id": "1sVb17aH7V-OtXbGQoVa7VAdn5s0UYxQz",
+    "source_name": "157-gTouchPal-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1sVb17aH7V-OtXbGQoVa7VAdn5s0UYxQz/view",
+    "source_bytes": 1133632,
+    "source_sha256": "340caf9fd9f7e944b457ad39a579e4408a742e11309d80c3effb520863f53b1b",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "17QbX86Y2EWf6YDIntUSVuuToAemRFYhr",
+        "name": "157-gTouchPal-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/17QbX86Y2EWf6YDIntUSVuuToAemRFYhr/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v157",
+    "github_tag": "v157",
+    "github_commit": "545a8b29d74c09668bb37248800b81750d5cd0ed",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact files verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file",
+    "phone_or_art_tested": false
+  },
+  "previous_retained": {
+    "version": "156",
+    "folder_id": "1nfR5q3dJ76j4L0Y4Rd4euxXmq1HBrpMg",
+    "folder_url": "https://drive.google.com/drive/folders/1nfR5q3dJ76j4L0Y4Rd4euxXmq1HBrpMg",
+    "original_folder_name": "156 — темы и компактное меню копий",
+    "protected": false,
+    "location": "root",
+    "reason": "Native installed-theme selection, first-frame settings/IME policy and approved compact action strip",
+    "apk_id": "10fCN8NQYzXyazI9EX4q-URoWZIf7dmWL",
+    "apk_name": "156-gTouchPal-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/10fCN8NQYzXyazI9EX4q-URoWZIf7dmWL/view",
+    "apk_bytes": 33476537,
+    "apk_sha256": "66f0131eec274b03269175e17f4e5f7b4583c1cfca239da12993aa7b7d931740",
+    "apk_raw_readback_verified": true,
+    "source_id": "1bS3R_fWBuVLq40sj3ygc3MQrN54VJO4o",
+    "source_name": "156-gTouchPal-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1bS3R_fWBuVLq40sj3ygc3MQrN54VJO4o/view",
+    "source_bytes": 1533739,
+    "source_sha256": "e3fb34a68324ff42b4e71a10ec4d018e96ddfeed12b2d67b841c9f1ef7472ed3",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1qs-dU_dMxeHMqnUL9AKL-abgx6XZXvyv",
+        "name": "156-gTouchPal-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1qs-dU_dMxeHMqnUL9AKL-abgx6XZXvyv/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v156",
+    "github_tag": "v156",
+    "github_commit": "a5583a2691e14725511c05798dc2279e1441070d",
+    "github_public_downloads_verified": true,
+    "completeness": "Three exact verified artifacts on Drive/public GitHub prerelease",
+    "build_reproducibility": "Downloaded final SOURCE rebuilt in isolation to byte-identical signed APK;71framework/DEX/API/resource checks",
+    "phone_or_art_tested": false
+  },
+  "retiring155": {
+    "version": "155",
+    "folder_id": "1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
+    "folder_url": "https://drive.google.com/drive/folders/1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
+    "original_folder_name": "155 — резервная копия и отправка",
+    "protected": false,
+    "location": "root",
+    "reason": "Approved backup layout, direct TXT and persistent Save/Share",
+    "apk_id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+    "apk_name": "155-gTouchPal-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1SIBScO1exogidhB9fJl4cGWjl6OId_Dy/view",
+    "apk_bytes": 33479393,
+    "apk_sha256": "1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5",
+    "apk_raw_readback_verified": true,
+    "source_id": "1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f",
+    "source_name": "155-gTouchPal-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f/view",
+    "source_bytes": 1516396,
+    "source_sha256": "cc3ce8070f80733ec92a7f93bab737cd59df136f269eab397636924e0081d27d",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ",
+        "name": "155-gTouchPal-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v155",
+    "github_tag": "v155",
+    "github_commit": "758ad71268d414c8ca3817ebdd7d15d589d8d4ab",
+    "github_public_downloads_verified": true,
+    "completeness": "Same verified APK/SOURCE/passport on Drive and public GitHub prerelease",
+    "build_reproducibility": "Downloaded final SOURCE rebuilt in isolation to byte-identical signed APK;63framework/DEX/API/resource checks",
+    "phone_or_art_tested": false,
+    "owner_installed155": true,
+    "owner_reports_regressions": true
+  },
+  "move_input155": {
+    "version": "155",
+    "mod_version": "155",
+    "file": "155-gTouchPal-6.2.7.1.apk",
+    "drive_name": "155-gTouchPal-6.2.7.1.apk",
+    "for_release": "156",
+    "consumer": "ui156/build.py",
+    "id": "1SIBScO1exogidhB9fJl4cGWjl6OId_Dy",
+    "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+    "bytes": 33479393,
+    "sha256": "1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5",
+    "move_pending": true,
+    "move_verified": false
+  },
+  "preserve_prototype154": {
+    "folder_id": "1csJyu7nlz2xBJv103MRwbp3M8Nqg92US",
+    "reason": "Owner asked154 availability; keep both exact files, no tag rewrite"
+  },
+  "protected_points_unchanged": 11,
+  "deletion_candidates": [
+    {
+      "id": "1Xg2eLIIKfmYMKIjCVZWMpOjSu7ls5X2f",
+      "kind": "retired155 SOURCE",
+      "bytes": 1516396
+    },
+    {
+      "id": "11PHgsrn1cCzTtdcXRMSPp6ROlqLUdAkQ",
+      "kind": "retired155 passport",
+      "bytes": 5581
+    },
+    {
+      "id": "1zNBH8FiUDa5i6WFT3sIlrGp6Uele1-1V",
+      "kind": "empty155 folder after APK input move",
+      "bytes": 0
+    }
+  ],
+  "github_old_assets_and_tags_unchanged": true
+}

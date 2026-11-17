@@ -388,8 +388,10 @@
     "version": 157,
     "directory": "backup157",
     "apk_built": true,
-    "final_source_frozen": false,
+    "final_source_frozen": true,
     "last_published_version": 156,
-    "status": "verified_preparing_source"
+    "status": "published_verified",
+    "published_version": 157,
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v157"
   }
 }

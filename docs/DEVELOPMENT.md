@@ -4,7 +4,7 @@
 
 - Сборка текущей модификации: [BUILD_157.txt](../BUILD_157.txt), [backup157](../backup157), [инструкция входных материалов](../BUILD_157.txt).
 - Подпись, проверки и состав исходников: [техническое описание 157](../backup157/README_RU.txt), [файлы выпуска](https://github.com/GokSssss/gTouchPal/releases/tag/v157).
-- Лицензии унаследованных значков: [Lucide и GitHub Octicons](../backup157/research/icon-sources).
+- Лицензии унаследованных значков: [Lucide и GitHub Octicons](../ui156/research/icon-sources).
 - Прежний текст README: [исторический снимок](history/README-before-2026-11-15.md).
 - Прежние описания релизов: [редакторский снимок](history/release-descriptions-before-2026-11-15.json).
 

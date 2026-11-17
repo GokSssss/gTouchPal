@@ -1,0 +1,26 @@
+Обязательные бинарные входы сохраняемых SOURCE ·17.11.2026
+
+134_BUILD_INPUT_для_135.apk → storage135/build.py
+ID 1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX
+SHA256 64d390c2fb3339ac9cdb79d6ab9ccece3bdc2d761c7536b41c689cf4f43ff53e
+
+TEST89_BUILD_INPUT_для_TEST90.apk → symbols90/build.py
+ID 1laQrw8PeCi6UHuLlItEIfnxhp2u8bfMJ
+SHA256 6b192592d4352da373cb711251de81e75dc433e435023c21d670739ab5542f50
+
+TEST79_BUILD_INPUT_для_TEST80.apk → symbols80/build.py
+ID 1GouT67MkW1mv7zs94P_AKEgeBsQ2iCyO
+SHA256 4e34d4fbd26e0318f067fbaed93ff1f29df5e28a762c896ec80f7f3caa3a344b
+
+TEST71_BUILD_INPUT_для_TEST72.apk → diagnostics72/build.py
+ID 11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f
+SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
+
+153-gTouchPal-6.2.7.1.apk → retained prototypeSOURCE154; public historical SOURCE155 also uses the same bytes
+ID 1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl
+SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
+
+155-gTouchPal-6.2.7.1.apk → ui156/build.py
+ID 1SIBScO1exogidhB9fJl4cGWjl6OId_Dy
+SHA256 1eeb58b276fc02541491edf65ec01f50bbd68faacb2a465149308cddea6fafb5
+

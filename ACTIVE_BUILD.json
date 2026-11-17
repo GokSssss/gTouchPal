@@ -6,8 +6,8 @@
   "base_mod_version": "156",
   "apk": "output/157-gTouchPal-6.2.7.1.apk",
   "build_instructions": "BUILD_157.txt",
-  "status": "verified_source_frozen_preparing_publication",
+  "status": "published_verified",
   "published_immutable": true,
-  "last_published_version": "156",
-  "last_published_apk": "output/156-gTouchPal-6.2.7.1.apk"
+  "last_published_version": "157",
+  "last_published_apk": "output/157-gTouchPal-6.2.7.1.apk"
 }

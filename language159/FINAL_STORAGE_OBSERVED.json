@@ -1,0 +1,369 @@
+{
+  "status": "PASS",
+  "counts": {
+    "sources": 12,
+    "previous": 2,
+    "prototype": 2,
+    "current": 2,
+    "keys": 12,
+    "root": 8,
+    "inputs": 7,
+    "signing": 2
+  },
+  "folders": {
+    "sources": {
+      "id": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "title": "Исходники",
+      "parents": [
+        "1bXi-ezmYh1qwos6shoyW6Pmy1EITzZhH"
+      ],
+      "files": [
+        {
+          "id": "1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ",
+          "name": "159-gTouchPal-SOURCE-6.2.7.1.zip",
+          "bytes": 1176651,
+          "folder": false
+        },
+        {
+          "id": "1240OoowT5oFTdHg8KTmjlOEMWI7cZvi-",
+          "name": "158-gTouchPal-SOURCE-6.2.7.1.zip",
+          "bytes": 1179662,
+          "folder": false
+        },
+        {
+          "id": "1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto",
+          "name": "135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip",
+          "bytes": 916688,
+          "folder": false
+        },
+        {
+          "id": "14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr",
+          "name": "TEST90_TouchPal_SYMBOL_PICKER_sources.zip",
+          "bytes": 420749,
+          "folder": false
+        },
+        {
+          "id": "1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j",
+          "name": "TEST15_TouchPal_sources.zip",
+          "bytes": 43428,
+          "folder": false
+        },
+        {
+          "id": "1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ",
+          "name": "TEST21_TouchPal_sources.zip",
+          "bytes": 159528,
+          "folder": false
+        },
+        {
+          "id": "13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ",
+          "name": "TEST36_TouchPal_SYSTEM_SPELLCHECK_sources.zip",
+          "bytes": 82726,
+          "folder": false
+        },
+        {
+          "id": "1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_",
+          "name": "TEST40_TouchPal_FINAL_sources.zip",
+          "bytes": 297358,
+          "folder": false
+        },
+        {
+          "id": "1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4",
+          "name": "TEST34_TouchPal_CLEAN_sources.zip",
+          "bytes": 57808,
+          "folder": false
+        },
+        {
+          "id": "18rGj7u6Hmt9q6mCyx9s47NLntdTomRul",
+          "name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS_sources.zip",
+          "bytes": 315077,
+          "folder": false
+        },
+        {
+          "id": "1aNIbFek9CkBz5FakK471WkVQyBF4dkR_",
+          "name": "TEST80_TouchPal_HOLD_COORDS_MENU_sources.zip",
+          "bytes": 402818,
+          "folder": false
+        },
+        {
+          "id": "1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV",
+          "name": "T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip",
+          "bytes": 17602,
+          "folder": false
+        }
+      ]
+    },
+    "previous": {
+      "id": "1lD2_GoHaIrwOxd5JvLO50XHIKYa8ENEF",
+      "title": "158 — уведомления копий и файлы языков",
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "files": [
+        {
+          "id": "1tWp-NPjHQR1BrzvYjM0CLu228wzNMOAD",
+          "name": "158-gTouchPal-Passport-6.2.7.1.txt",
+          "bytes": 4889,
+          "folder": false
+        },
+        {
+          "id": "1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB",
+          "name": "158-gTouchPal-6.2.7.1.apk",
+          "bytes": 33467377,
+          "folder": false
+        }
+      ]
+    },
+    "prototype": {
+      "id": "1csJyu7nlz2xBJv103MRwbp3M8Nqg92US",
+      "title": "Прототип154 — решение по макету",
+      "parents": [
+        "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3"
+      ],
+      "files": [
+        {
+          "id": "19DqGSirsMUkIQSgW9pZ29qulGkVjZU-p",
+          "name": "154-gTouchPal-SOURCE-6.2.7.1.zip",
+          "bytes": 1699421,
+          "folder": false
+        },
+        {
+          "id": "1AQ2z6QMZcUzy3iqy4Ku8LvkWjHyguYoo",
+          "name": "154-gTouchPal-6.2.7.1.apk",
+          "bytes": 33453455,
+          "folder": false
+        }
+      ]
+    },
+    "current": {
+      "id": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+      "title": "159 — файл словаря в разделе Языки",
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "files": [
+        {
+          "id": "1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C",
+          "name": "159-gTouchPal-Passport-6.2.7.1.txt",
+          "bytes": 4104,
+          "folder": false
+        },
+        {
+          "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+          "name": "159-gTouchPal-6.2.7.1.apk",
+          "bytes": 33466958,
+          "folder": false
+        }
+      ]
+    },
+    "keys": {
+      "id": "1jmkShIaCyrjCu3fkDLujpIFoS3r5axLe",
+      "title": "Ключевые версии",
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "files": [
+        {
+          "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+          "name": "CHECKPOINTS_RU.txt",
+          "bytes": 17703,
+          "folder": false
+        },
+        {
+          "id": "1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+          "name": "135 — рабочий резерв восстановления",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+          "name": "TEST90 — резерв до GigaAM",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+          "name": "T10 — Подтверждённая исходная DelFix перед синхронизацией высоты и T9",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+          "name": "TEST40 — Историческая подтверждённая Final; отдельные постоянные ссылки сохранены",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+          "name": "T9+DelFix — Первая доступная функциональная база перед жестами пробела",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+          "name": "TEST36 — орфография, до новых кнопок",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+          "name": "TEST34 — физическая клавиатура, до орфографии",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+          "name": "TEST21 — жесты, до физической клавиатуры",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+          "name": "TEST15 — тёмное оформление",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+          "name": "TEST72 — перед упрощением голосового ввода",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "17AcRrWqvewOehPE5s4146epfH063dFZw",
+          "name": "TEST80 — перед полной сеткой знаков",
+          "bytes": 0,
+          "folder": true
+        }
+      ]
+    },
+    "root": {
+      "id": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH",
+      "title": "10 TouchPal T9 DelFix √",
+      "parents": [
+        "1PxhpYBoasPw21C4_AnPuQ96x5qyStQc7"
+      ],
+      "files": [
+        {
+          "id": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+          "name": "159 — файл словаря в разделе Языки",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+          "name": "TouchPal_Нововведения_от_DelFix.xlsx",
+          "bytes": 38364,
+          "folder": false
+        },
+        {
+          "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+          "name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+          "bytes": 633264,
+          "folder": false
+        },
+        {
+          "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+          "name": "Журнал улучшений TouchPal.txt",
+          "bytes": 167603,
+          "folder": false
+        },
+        {
+          "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+          "name": "10База!",
+          "bytes": 292335,
+          "folder": false
+        },
+        {
+          "id": "1lD2_GoHaIrwOxd5JvLO50XHIKYa8ENEF",
+          "name": "158 — уведомления копий и файлы языков",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1jmkShIaCyrjCu3fkDLujpIFoS3r5axLe",
+          "name": "Ключевые версии",
+          "bytes": 0,
+          "folder": true
+        },
+        {
+          "id": "1bXi-ezmYh1qwos6shoyW6Pmy1EITzZhH",
+          "name": "Ресурсы",
+          "bytes": 0,
+          "folder": true
+        }
+      ]
+    },
+    "inputs": {
+      "id": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+      "title": "Бинарные входы сборки",
+      "parents": [
+        "1bXi-ezmYh1qwos6shoyW6Pmy1EITzZhH"
+      ],
+      "files": [
+        {
+          "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+          "name": "НАЗНАЧЕНИЕ_И_SHA256.txt",
+          "bytes": 1102,
+          "folder": false
+        },
+        {
+          "id": "1ZbodNzvqkJAZuzQhWig2PVc5aqzN5Sb_",
+          "name": "157-gTouchPal-6.2.7.1.apk",
+          "bytes": 33472459,
+          "folder": false
+        },
+        {
+          "id": "1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl",
+          "name": "153-gTouchPal-6.2.7.1.apk",
+          "bytes": 33457750,
+          "folder": false
+        },
+        {
+          "id": "1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX",
+          "name": "134_BUILD_INPUT_для_135.apk",
+          "bytes": 26882367,
+          "folder": false
+        },
+        {
+          "id": "1laQrw8PeCi6UHuLlItEIfnxhp2u8bfMJ",
+          "name": "TEST89_BUILD_INPUT_для_TEST90.apk",
+          "bytes": 20071255,
+          "folder": false
+        },
+        {
+          "id": "11gCl95Hz4ZcPim5vqCQahsAAYKtvWI3f",
+          "name": "TEST71_BUILD_INPUT_для_TEST72.apk",
+          "bytes": 20047051,
+          "folder": false
+        },
+        {
+          "id": "1GouT67MkW1mv7zs94P_AKEgeBsQ2iCyO",
+          "name": "TEST79_BUILD_INPUT_для_TEST80.apk",
+          "bytes": 20042684,
+          "folder": false
+        }
+      ]
+    },
+    "signing": {
+      "id": "1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW",
+      "title": "Сборка и подпись",
+      "parents": [
+        "1bXi-ezmYh1qwos6shoyW6Pmy1EITzZhH"
+      ],
+      "files": [
+        {
+          "id": "1j1MJCp2cp7oaUftFNMS6Gg9s9m_8KUMm",
+          "name": "Параметры сборки и подписи.txt",
+          "bytes": 4824,
+          "folder": false
+        },
+        {
+          "id": "1wN89_8b6RgLeFIw9nrnV1OFllCWYohT_",
+          "name": "TouchPal_DeleteFix_STABLE.jks",
+          "bytes": 2718,
+          "folder": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "bytes": 60140161,
+  "sha256": "5a7223e2b6c1664ae457d456fab8eff998a07a36a6d30b84a4a986eeb441d308",
+  "entries": 9665,
+  "manifest_hashes": 9664,
+  "old_payloads_preserved": 9620,
+  "added_payloads": 44,
+  "stages": 164,
+  "individual_logs": 163,
+  "implementation_patches": 6938,
+  "new_implementation_items": 17,
+  "full_old_apk_or_source_added": false,
+  "exact_retiring157_passport_and_manifest_preserved": true,
+  "published158_closure_preserved": true,
+  "owner_media_not_added": true,
+  "drive_id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+  "raw_download_equal": true,
+  "all_manifest_entries_checked": true,
+  "all_prior_payloads_preserved": true
+}

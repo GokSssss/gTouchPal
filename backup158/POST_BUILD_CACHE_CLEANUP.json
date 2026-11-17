@@ -1,0 +1,17 @@
+{
+  "regenerable_only": [
+    {
+      "path": "backup158/decoded",
+      "bytes": 139566115
+    },
+    {
+      "path": "backup158/rebuilt.apk",
+      "bytes": 38108692
+    },
+    {
+      "path": "backup158/unsigned.apk",
+      "bytes": 33292961
+    }
+  ],
+  "signed_apk_and_source_inputs_unchanged": true
+}

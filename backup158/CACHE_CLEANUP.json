@@ -1,0 +1,33 @@
+{
+  "removed_verified_download_caches_only": [
+    {
+      "path": "/workspace/attachments/f0fa3d1c-ae4a-4db2-b2bc-ff51e1d6b1e0/157-gTouchPal-6.2.7.1.apk",
+      "bytes": 33472459
+    },
+    {
+      "path": "/workspace/attachments/ab98d2eb-5552-45a2-acf4-80d18c1d87e4/156-gTouchPal-6.2.7.1.apk",
+      "bytes": 33476537
+    },
+    {
+      "path": "/workspace/attachments/512f573b-0030-498b-af70-578c40c13517/155-gTouchPal-6.2.7.1.apk",
+      "bytes": 33479393
+    },
+    {
+      "path": "/workspace/touchpal/github/backup157/history157-downloaded.zip",
+      "bytes": 59067772
+    },
+    {
+      "path": "/workspace/touchpal/runtime157/github-readback/157-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1133632
+    },
+    {
+      "path": "/workspace/touchpal/runtime157/github-readback/157-gTouchPal-Passport-6.2.7.1.txt",
+      "bytes": 4816
+    },
+    {
+      "path": "/workspace/touchpal/runtime157/github-readback/157-gTouchPal-6.2.7.1.apk",
+      "bytes": 33472459
+    }
+  ],
+  "canonical_release_source_inputs_preserved": true
+}

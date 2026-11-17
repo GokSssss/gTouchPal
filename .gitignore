@@ -152,3 +152,20 @@ backup157/tests/framework/external/
 backup157/retention_before/
 backup157/history157.zip
 backup157/BACKUP_PAGE157.png
+
+#158 generated outputs
+backup158/decoded/
+backup158/compile_classes/
+backup158/helper_classes/
+backup158/helper_decoded/
+backup158/helpers.*
+backup158/contracts.jar
+backup158/rebuilt.apk
+backup158/unsigned.apk
+backup158/tests/classes/
+backup158/tests/framework/target/
+backup158/tests/framework/generated/
+backup158/tests/framework/external/
+backup158/retention_before/
+backup158/history158*.zip
+backup158/BACKUP_PAGE158.png

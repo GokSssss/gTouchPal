@@ -1,0 +1,14 @@
+{
+  "version": 161,
+  "decision_date": "2026-11-18",
+  "owner_approved": true,
+  "historical_mockup_status_superseded": true,
+  "historical_spec_modified": false,
+  "system_name": "TouchPalG",
+  "application_package": "com.cootek.smartinputv5",
+  "icon": "Yellow background; black existing TouchPal glyph",
+  "reference": "mockups/branding157/touchpalg-yellow-black-proposal.png",
+  "same_certificate": true,
+  "working_paths_and_physical_subtype_ids_preserved": true,
+  "personal_media_exported": false
+}

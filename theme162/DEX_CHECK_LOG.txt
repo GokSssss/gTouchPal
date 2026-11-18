@@ -1,0 +1,8 @@
+PASS bounded original hooks: 0 methods across 0 classes; other methods/fields unchanged
+PASS all 10234 original classes compared; 6 changes within declared own helpers, bounded hooks and3version labels; 0 added/2 removed
+Changed [Lcom/cootek/smartinput5/settings/SettingsIcons149;, Lcom/cootek/smartinput5/settings/SettingsMenu132;, Lcom/cootek/smartinput5/settings/ThemePicker156;, Lcom/cootek/smartinput5/settings/VoiceReportExport;, Lcom/cootek/smartinput5/ui/KeyboardBuildMark;, Lcom/cootek/smartinput5/voice/VoiceTrace;]
+Added []
+Removed [Lcom/cootek/smartinput5/settings/ThemePicker156$1;, Lcom/cootek/smartinput5/settings/ThemePicker156$Choice;]
+PASS actual APK theme/backup/startup/menu/native/settings ABI: 2053 method/field references; 2039 SDK16 Android/Java references; 100 inherited Android/Java references; 90 classes
+PASS actual APK theme/backup/startup/menu/native/settings ABI: 2213 method/field references; 2232 SDK34_hooks Android/Java references; 110 inherited Android/Java references; 97 classes
+PASS actual APK theme/backup/startup/menu/native/settings ABI: 60 method/field references; 89 SDK34 Android/Java references; 0 inherited Android/Java references; 3 classes

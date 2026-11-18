@@ -1,0 +1,5 @@
+PASS bounded original hooks: 0 methods across 0 classes; other methods/fields unchanged
+PASS all 10234 original classes compared; 6 changes within declared own helpers, bounded hooks and3version labels; 0 added/2 removed
+Changed [Lcom/cootek/smartinput5/settings/SettingsIcons149;, Lcom/cootek/smartinput5/settings/SettingsMenu132;, Lcom/cootek/smartinput5/settings/ThemePicker156;, Lcom/cootek/smartinput5/settings/VoiceReportExport;, Lcom/cootek/smartinput5/ui/KeyboardBuildMark;, Lcom/cootek/smartinput5/voice/VoiceTrace;]
+Added []
+Removed [Lcom/cootek/smartinput5/settings/ThemePicker156$1;, Lcom/cootek/smartinput5/settings/ThemePicker156$Choice;]

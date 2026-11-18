@@ -4,6 +4,11 @@
 
 ## Русский
 
+### 162 · Штатная страница тем
+
+- «Тема клавиатуры» открывает штатную страницу установленных тем с превью и выбором.
+- Пункт перенесён первым в «Дополнения TouchPalG».
+
 ### 161 · Оформление TouchPalG
 
 - Имя приложения — TouchPalG; иконка жёлтая с чёрным знаком TouchPal.
@@ -90,6 +95,11 @@
 ---
 
 ## English
+
+### 162 · Original theme page
+
+- Keyboard theme opens the original installed-theme page with previews and selection.
+- The entry is first in TouchPalG additions.
 
 ### 161 · TouchPalG appearance
 

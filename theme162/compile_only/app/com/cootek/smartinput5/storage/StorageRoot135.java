@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.storage;public final class StorageRoot135{public static void bind(android.content.Context c){}public static java.io.File directory(String path,boolean create){return null;}public static java.io.File workDirectory(android.content.Context c){return null;}}

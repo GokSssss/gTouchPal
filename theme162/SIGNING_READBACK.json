@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-18",
+  "folder": "https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW",
+  "files": {
+    "key": {
+      "id": "1wN89_8b6RgLeFIw9nrnV1OFllCWYohT_",
+      "bytes": 2718,
+      "sha256": "e9776ca0dfcb77ac8a2c0d8e09c7e9aa30052aee5e106b7db22f650e7f40a9e0",
+      "fresh_download": true,
+      "same_used_set_as161": true
+    },
+    "parameters": {
+      "id": "1j1MJCp2cp7oaUftFNMS6Gg9s9m_8KUMm",
+      "bytes": 4824,
+      "sha256": "5e9afea09e1f0af6d42a43446e4a28c140cb60a8c564c4d246951500987019a8",
+      "fresh_download": true,
+      "same_used_set_as161": true
+    }
+  },
+  "private_values_exported": false
+}

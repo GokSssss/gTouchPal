@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "android_api": 16,
+  "min_d8_api": 15,
+  "actual_signed_dex_abi_passed": true,
+  "source_sha256": {
+    "src/com/cootek/smartinput5/backup/BackupActivity.java": "b742d532e2e07c88bde64a4a07c6ed279f24051af9806d304076656d49cd2dbc",
+    "src/com/cootek/smartinput5/backup/BackupLocations155.java": "bb6fbdb91ea8c5005656e5d2bb4c4b7ee1bcae3a5ee2d9686e63e12990af6d81",
+    "src/com/cootek/smartinput5/backup/BackupSettings.java": "1bab44bb21a04c53a898d8c2e04512882c4d0eaa67b5d7076c00a1641b6c0d30",
+    "src/com/cootek/smartinput5/backup/CopyFiles155.java": "de466d26f2d10543ec9aeb3a3048a4a60d8f09a4669f2f911cc4718244b7232d",
+    "src/com/cootek/smartinput5/backup/LanguageFiles158.java": "6865c0446d562658c58b559b338bef1cb3d0c6ae21aca870558a20e8b6021980",
+    "src/com/cootek/smartinput5/backup/SavedCopies157.java": "a355a7b83ad8c63501999a98619c8e94b8bb1c786d34255a4c4374e74aad9b06",
+    "src/com/cootek/smartinput5/backup/TextDictionary155.java": "6447d60b99fac14921963015add8c30feb879ec58fd7e85f069504f1d865d368",
+    "src/com/cootek/smartinput5/backup/TextRecovery155.java": "5bf57f2352bcc52de98f9e6478fcf08fb7d3c49eb4c7f4814e0b96d17a5b4aa3",
+    "src/com/cootek/smartinput5/settings/AboutPage149.java": "3930bc3486cd2fdd8f7101fc6c2503597bdd76f82e8e905862b9e8d4d71218f7",
+    "src/com/cootek/smartinput5/settings/CompactSettings.java": "25fe4d0be010489704e03881bdc10965028c4f5b7a7627a9a6af890a13f454dc",
+    "src/com/cootek/smartinput5/settings/SettingsGlyphs153.java": "f4ca8ac2fb92ce5d095e628812ea4d74b44fbdbc6b375c447712476aa6565043",
+    "src/com/cootek/smartinput5/settings/SettingsIcons149.java": "473989d92fb469efa67d55c3bdbf630469470600233d81f1a1467d622b0567fa",
+    "src/com/cootek/smartinput5/settings/SettingsMenu132.java": "88aa8b8be5fd9e6e753f20b769bb2eed8f01d125b55cbf94ca8f1b799d85b248",
+    "src/com/cootek/smartinput5/settings/SmartInput153.java": "5e4fddeb60f9a5045f3c06ae77f611a2e14dcfc768b3fc91c9a0c0ec1f4c97ea",
+    "src/com/cootek/smartinput5/settings/ThemePicker156.java": "d3abf616e4610e0eb5a6f9aca238d78757a2adc96799895a6d8f01be030bb146"
+  },
+  "compile_only_not_packaged": true
+}

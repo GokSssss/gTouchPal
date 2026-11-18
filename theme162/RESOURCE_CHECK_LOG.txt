@@ -1,0 +1,1 @@
+PASS162: all resource/icon/subtype bytes unchanged; manifest only version; nameTouchPalG preserved

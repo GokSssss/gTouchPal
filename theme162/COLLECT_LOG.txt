@@ -1,0 +1,1 @@
+PASS162: exact source/test/signed-APK binding, actual DEX/API16, preserved resources and same certificate

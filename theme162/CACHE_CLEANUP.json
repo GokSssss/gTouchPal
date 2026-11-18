@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "status": "PASS",
+  "removed": [
+    {
+      "path": "theme162/decoded",
+      "bytes": 139683997,
+      "reason": "Reproducible cache; signed162 source/DEX/resource checks passed before isolated SOURCE rebuild"
+    },
+    {
+      "path": "theme162/rebuilt.apk",
+      "bytes": 38140325,
+      "reason": "Reproducible cache; signed162 source/DEX/resource checks passed before isolated SOURCE rebuild"
+    },
+    {
+      "path": "theme162/unsigned.apk",
+      "bytes": 33326863,
+      "reason": "Reproducible cache; signed162 source/DEX/resource checks passed before isolated SOURCE rebuild"
+    },
+    {
+      "path": "theme162/helper_decoded",
+      "bytes": 960783,
+      "reason": "Reproducible cache; signed162 source/DEX/resource checks passed before isolated SOURCE rebuild"
+    }
+  ],
+  "canonical_artifacts_and_signing_untouched": true
+}

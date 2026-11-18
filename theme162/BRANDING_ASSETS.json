@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "master": "research/icon-sources/icon-master161.png",
+  "master_sha256": "b4d23d7b562b280bb7cb56efe3fbab01190f2cfd0e36994daaa2c4a80a4171c2",
+  "artwork": "ImageGen clean opaque yellow/black original TouchPal mark; mechanical legacy density/alpha packaging only",
+  "image_tool": "Version: ImageMagick 7.1.1-43 Q16 x86_64 22550 https://imagemagick.org",
+  "changes": {
+    "resources.arsc": {
+      "sha256": "b7345f8b2b2e012a188cbf7bd835f780051ba759c86772a8379b4e260cc1c7b8",
+      "string_replacements": {
+        "TouchPal": "TouchPalG",
+        "gTouchPal EN/ru": "TouchPalG EN/ru",
+        "gTouchPal RU/en": "TouchPalG RU/en"
+      },
+      "indices_preserved": true,
+      "all_package_chunks_unchanged": true
+    },
+    "res/drawable-hdpi/icon.png": {
+      "sha256": "5f3b05e9cb7b9d4a89becf505923ca21cc72df94a7f0c1aa58bf4e0c0ea45ec7",
+      "width": 72,
+      "height": 72,
+      "original_alpha_mask": true
+    },
+    "res/drawable-xhdpi/icon.png": {
+      "sha256": "d603e6bae3212b1af0bf6ba06d44ca382926a229ec2ebe8d632b70195759d05b",
+      "width": 96,
+      "height": 96,
+      "original_alpha_mask": true
+    },
+    "res/drawable-xxhdpi/icon.png": {
+      "sha256": "3e7e11f85850b1cebb6f329e29f00973b8ffd672a7680112429e902cbad19020",
+      "width": 180,
+      "height": 180,
+      "original_alpha_mask": true
+    }
+  }
+}

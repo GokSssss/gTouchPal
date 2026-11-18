@@ -465,3 +465,5 @@ SOURCE https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view
 GitHub https://github.com/GokSssss/gTouchPal/releases/tag/v161
 APK https://drive.google.com/file/d/15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG/view
 SOURCE https://drive.google.com/file/d/1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92/view
+
+18.11.2026 — theme162 work: owner reports161 custom theme dialog shows only Customize/fails; use the original installed-theme grid, first in TouchPalG additions per annotated photo. Own ThemePicker156 opens existing func.mainentrance.MainEntranceActivity with tabNumber0 and no action/data. Native mainentrance.f/selection/preview classes unchanged; no new picker imitation. SettingsMenu132/SettingsIcons149 place samePreference first after grouping. Use bounded0..N child orders, not MIN_VALUE (native compareTo subtraction overflows). Preserve161branding/Backup, samepackage/cert/workroots/physicalIDs.47framework/actualDEX/API16; original resources/native unchanged. Native theme selection on owner phone after fix is not claimed verified. New162 over immutable161; freezeSOURCEonce and release/readback/retention as usual. No subagents or private photos.

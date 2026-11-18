@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "target": "com.cootek.smartinput5.func.mainentrance.MainEntranceActivity",
+  "tabNumber": 0,
+  "action": null,
+  "data": null,
+  "original_installed_manager": "com.cootek.smartinput5.func.mainentrance.f",
+  "original_GridView": true,
+  "original_preview_and_selection_callbacks_preserved": true,
+  "web_alternative_only_for_hotword_action": true,
+  "web_constructor_only_initializes_fields_and_map": true,
+  "native_route_vendor_methods_unchanged": true,
+  "scope": "Static signed-APK route plus Android framework intent/preferences tests; native JNI/theme selection on owner phone remains to be checked",
+  "owner_photos_copied": false
+}

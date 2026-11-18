@@ -1,0 +1,27 @@
+{
+  "folder": {
+    "success": true,
+    "id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "url": "https://drive.google.com/drive/folders/1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "title": "161 — TouchPalG: оформление и компактные копии",
+    "parent_id": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+  },
+  "apk": {
+    "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+    "title": "161-TouchPalG-6.2.7.1.apk",
+    "url": "https://drive.google.com/file/d/15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG/view",
+    "parent": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6"
+  },
+  "source": {
+    "id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+    "title": "161-TouchPalG-SOURCE-6.2.7.1.zip",
+    "url": "https://drive.google.com/file/d/1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92/view",
+    "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+  },
+  "passport": {
+    "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+    "title": "161-TouchPalG-Passport-6.2.7.1.txt",
+    "url": "https://drive.google.com/file/d/13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR/view",
+    "parent": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6"
+  }
+}

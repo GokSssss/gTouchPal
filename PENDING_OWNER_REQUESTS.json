@@ -377,15 +377,18 @@
     },
     {
       "id": "branding_touchpalg_yellow_black_20261117",
-      "status": "owner_approved_scheduled",
+      "status": "implemented_host_verification161",
       "description": "System name TouchPalG, yellow icon with black existing TouchPal symbol; mockup in mockups/branding157. Not included in157.",
       "owner_approval": "и иконка прежняя, а не желтая из макета и название не TouchPalG",
       "scheduled_next_run": "2026-11-18T20:00:00+08:00",
-      "historical_spec_unchanged": true
+      "historical_spec_unchanged": true,
+      "code_or_apk_changes_now": true,
+      "implemented_version": "161",
+      "phone_tested": false
     },
     {
       "id": "backup161-layout-branding-deferred",
-      "status": "scheduled_not_started",
+      "status": "implemented_host_verification161",
       "requested_after_release": "160",
       "next_run_time": "2026-11-18T20:00:00+08:00",
       "timezone": "Etc/GMT-8",
@@ -405,7 +408,9 @@
         "TPL import entry in Languages"
       ],
       "published160_unchanged": true,
-      "code_or_apk_changes_now": false
+      "code_or_apk_changes_now": true,
+      "implemented_version": "161",
+      "phone_tested": false
     }
   ],
   "clarifications_only": {
@@ -419,18 +424,17 @@
     "popup160": "Keep it floating above the page, anchored below the relevant section; no inline rows or menu reflow."
   },
   "current_source_work": {
-    "version": 160,
-    "directory": "backup160",
-    "status": "published_verified",
+    "version": 161,
+    "directory": "branding161",
+    "status": "verified_ready_to_publish",
     "last_published_version": 160,
     "apk_built": true,
     "final_source_frozen": true,
-    "published_version": 160,
-    "storage_closure_complete": true
+    "isolated_byte_identical": true
   },
   "deferred_next_work": {
     "id": "backup161-layout-branding-deferred",
-    "status": "scheduled_not_started",
+    "status": "in_progress",
     "requested_after_release": "160",
     "next_run_time": "2026-11-18T20:00:00+08:00",
     "timezone": "Etc/GMT-8",
@@ -450,6 +454,7 @@
       "TPL import entry in Languages"
     ],
     "published160_unchanged": true,
-    "code_or_apk_changes_now": false
+    "code_or_apk_changes_now": true,
+    "started_utc_date": "2026-11-18"
   }
 }

@@ -1,0 +1,56 @@
+{
+  "apktool_2.12.1.jar": {
+    "url": "https://github.com/iBotPeaches/Apktool/releases/download/v2.12.1/apktool_2.12.1.jar",
+    "bytes": 25926183,
+    "sha256": "66cf4524a4a45a7f56567d08b2c9b6ec237bcdd78cee69fd4a59c8a0243aeafa"
+  },
+  "r8.jar": {
+    "url": "https://storage.googleapis.com/r8-releases/raw/8.3.37/r8.jar",
+    "bytes": 49959183,
+    "sha256": "900dfbc649519969fc5a4c7520d6b7355338e565fa1249874e0190b8d61b1199"
+  },
+  "android-api16.jar": {
+    "url": "https://raw.githubusercontent.com/Sable/android-platforms/master/android-16/android.jar",
+    "bytes": 18383520,
+    "sha256": "05300b97ba88700b4514c8d4f689fcb0bf225ae8680c618a7c75512cd6795580"
+  },
+  "build-tools_r36.1_linux.zip": {
+    "url": "https://dl.google.com/android/repository/build-tools_r36.1_linux.zip",
+    "bytes": 64195204,
+    "sha256": "a7b5889e4a79fcf3b0976bef40d401f4240fb1eed891d9d91169da1111e11d78"
+  },
+  "apksigner.jar": {
+    "extracted_from": "build-tools_r36.1_linux.zip",
+    "bytes": 1109763,
+    "sha256": "71e18adf733f5e112d1f062dbe6b0c2eb439a4d7c773d083c42a703c66f56df1"
+  },
+  "aapt2": {
+    "extracted_from": "build-tools_r36.1_linux.zip",
+    "bytes": 7620984,
+    "sha256": "012764928a2e5ad747531f669fcda1cf2ccd2d0b6eb8bdb728807c17e3cf16d0"
+  },
+  "host_lua_regression": {
+    "command": "texlua",
+    "version": "This is LuaTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)",
+    "purpose": "actual Lua modules with synthetic native I/O; not vendor Android runtime"
+  },
+  "android-api34.jar": {
+    "url": "https://raw.githubusercontent.com/Sable/android-platforms/master/android-34/android.jar",
+    "bytes": 26361808,
+    "sha256": "6cea1df3efb77103ac3e2beb9bf4718964b0e0869ab16d39d29d5cbae1c147ad",
+    "purpose": "Isolated API34 visible-line capability compile/ABI contract, not bundled into APK"
+  },
+  "dex-tools-v2.4.zip": {
+    "url": "https://github.com/pxb1988/dex2jar/releases/download/v2.4/dex-tools-v2.4.zip",
+    "bytes": 19105975,
+    "sha256": "ee7c45eb3c1d2474a6145d8d447e651a736a22d9664b6d3d3be5a5a817dda23a",
+    "purpose": "Actual135 root getter JVM regression only; not packaged"
+  },
+  "ImageMagick": {
+    "installed_version": "Version: ImageMagick 7.1.1-43 Q16 x86_64 22550 https://imagemagick.org",
+    "purpose": "Mechanical density resize and exact base alpha-mask packaging of ImageGen artwork; no logo editing at build time"
+  },
+  "Pillow": {
+    "purpose": "Read-only icon/resource verification"
+  }
+}

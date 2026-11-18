@@ -1,0 +1,13 @@
+{
+  "version": 161,
+  "apk": "output/161-TouchPalG-6.2.7.1.apk",
+  "apk_bytes": 33500335,
+  "apk_sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+  "source": "161-TouchPalG-SOURCE-6.2.7.1.zip",
+  "source_bytes": 4213516,
+  "source_sha256": "74c14ff8ce680c2a567ad1dd736c3876fc37b10bc206be6b403ef37f2d965d88",
+  "source_files": 302,
+  "frozen_once": true,
+  "isolated_source_rebuild_byte_identical": true,
+  "do_not_rebuild_or_refreeze": true
+}

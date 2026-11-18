@@ -1,13 +1,13 @@
 {
-  "active_directory": "backup160",
-  "version": "160",
-  "mod_version": "160",
-  "base": "159",
-  "base_mod_version": "159",
-  "apk": "output/160-gTouchPal-6.2.7.1.apk",
-  "build_instructions": "BUILD_160.txt",
-  "status": "published_verified",
-  "published_immutable": true,
+  "active_directory": "branding161",
+  "version": "161",
+  "mod_version": "161",
+  "base": "160",
+  "base_mod_version": "160",
+  "apk": "output/161-TouchPalG-6.2.7.1.apk",
+  "build_instructions": "BUILD_161.txt",
+  "status": "verified_ready_to_publish",
+  "published_immutable": false,
   "last_published_version": "160",
   "last_published_apk": "output/160-gTouchPal-6.2.7.1.apk"
 }

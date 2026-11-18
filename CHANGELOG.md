@@ -4,6 +4,12 @@
 
 ## Русский
 
+### 161 · Оформление TouchPalG
+
+- Имя приложения — TouchPalG; иконка жёлтая с чёрным знаком TouchPal.
+- Кнопки восстановления, добавления TXT и переноса оформлены капсулами.
+- Экран резервных копий стал компактнее при прежнем размере шрифта.
+
 ### 160 · Копия вне приложения и плавающие уведомления
 
 - После «Сохранить» можно дополнительно сохранить копию в Загрузки или выбранное место, включая SD-карту.
@@ -84,6 +90,12 @@
 ---
 
 ## English
+
+### 161 · TouchPalG appearance
+
+- The app is named TouchPalG, with a yellow icon and the black TouchPal mark.
+- Restore, TXT import and data transfer buttons now use the same capsule shape as Save.
+- The backup screen is more compact while keeping the existing text size.
 
 ### 160 · Extra copies and floating notices
 

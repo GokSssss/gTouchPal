@@ -1,0 +1,3 @@
+/workspace/touchpal/github/branding161/tests/check_resources.py:36: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  opaque=[rgb[:3] for rgb in new.getdata() if rgb[3]==255]
+PASS161:3 exact label values and3 icon densities; resource IDs/subtype identities/components preserved

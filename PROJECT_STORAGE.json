@@ -4720,7 +4720,7 @@
     "logs_preserved_before_delete": true,
     "reason": "107/106 exact APK/SOURCE/document/history readbacks;105APK retained once forSOURCE106;105SOURCE/passport and unused104input removed;10key checkpoints unchanged"
   },
-  "mod_full_name": "gTouchPal",
+  "mod_full_name": "TouchPalG",
   "base_app_origin": {
     "version_name": "6.2.7.1",
     "version_code": 9999,
@@ -9017,7 +9017,7 @@
   },
   "drive_publication148_complete": true,
   "github_repository": "https://github.com/GokSssss/gTouchPal",
-  "previous_mod_full_name": "TouchPal T9 DelFix",
+  "previous_mod_full_name": "gTouchPal",
   "phone_test149_confirmed": false,
   "drive_publication149_complete": true,
   "github_publication149_complete": true,
@@ -10538,7 +10538,7 @@
   },
   "deferred_next_work": {
     "id": "backup161-layout-branding-deferred",
-    "status": "scheduled_not_started",
+    "status": "in_progress",
     "requested_after_release": "160",
     "next_run_time": "2026-11-18T20:00:00+08:00",
     "timezone": "Etc/GMT-8",
@@ -10559,5 +10559,6 @@
     ],
     "published160_unchanged": true,
     "code_or_apk_changes_now": false
-  }
+  },
+  "agreed_next_mod_full_name": "TouchPalG"
 }

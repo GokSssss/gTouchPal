@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-18",
+  "removed": [
+    {
+      "path": "/workspace/touchpal/runtime158/github-readback/158-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1179662,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime158/github-readback/158-gTouchPal-6.2.7.1.apk",
+      "bytes": 33467377,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime158/github-readback/158-gTouchPal-Passport-6.2.7.1.txt",
+      "bytes": 4889,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime158/history158-drive-readback.zip",
+      "bytes": 59607180,
+      "reason": "Verified raw history duplicate; exact compact history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime159/github-readback/159-gTouchPal-6.2.7.1.apk",
+      "bytes": 33466958,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime159/github-readback/159-gTouchPal-Passport-6.2.7.1.txt",
+      "bytes": 4104,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime159/github-readback/159-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1176651,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime160/github-readback/160-gTouchPal-SOURCE-6.2.7.1.zip",
+      "bytes": 1208913,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime160/github-readback/160-gTouchPal-6.2.7.1.apk",
+      "bytes": 33462601,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime160/github-readback/160-gTouchPal-Passport-6.2.7.1.txt",
+      "bytes": 5640,
+      "reason": "Verified public download duplicate; immutable root artifact preserved"
+    },
+    {
+      "path": "/workspace/touchpal/runtime160/history160-drive-readback.zip",
+      "bytes": 60677279,
+      "reason": "Verified raw history duplicate; exact compact history retained"
+    },
+    {
+      "path": "backup157/history157.zip",
+      "bytes": 59067772,
+      "reason": "Superseded compact-history cache; all payloads preserved in verified current160 history"
+    },
+    {
+      "path": "backup158/history158.zip",
+      "bytes": 59607180,
+      "reason": "Superseded compact-history cache; all payloads preserved in verified current160 history"
+    },
+    {
+      "path": "language159/history159.zip",
+      "bytes": 60140161,
+      "reason": "Superseded compact-history cache; all payloads preserved in verified current160 history"
+    }
+  ],
+  "freed_bytes": 403076367,
+  "current161_build_caches_removed": [
+    {
+      "path": "branding161/decoded",
+      "bytes": 139703709,
+      "kind": "reproducible build cache",
+      "reason": "Signed161 DEX/resources/native and source bindings passed; free space before isolated SOURCE rebuild"
+    },
+    {
+      "path": "branding161/rebuilt.apk",
+      "bytes": 38141268,
+      "kind": "reproducible build cache",
+      "reason": "Signed161 DEX/resources/native and source bindings passed; free space before isolated SOURCE rebuild"
+    },
+    {
+      "path": "branding161/unsigned.apk",
+      "bytes": 33325919,
+      "kind": "reproducible build cache",
+      "reason": "Signed161 DEX/resources/native and source bindings passed; free space before isolated SOURCE rebuild"
+    },
+    {
+      "path": "branding161/helper_decoded",
+      "bytes": 978291,
+      "kind": "reproducible build cache",
+      "reason": "Signed161 DEX/resources/native and source bindings passed; free space before isolated SOURCE rebuild"
+    }
+  ]
+}

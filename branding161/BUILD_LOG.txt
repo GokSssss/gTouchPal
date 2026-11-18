@@ -1,0 +1,68 @@
+PASS161 branding overlays:3 legacy-density icons;3 exact string values; stable resource IDs
+I: Using Apktool 2.12.1 on 160-gTouchPal-6.2.7.1.apk with 4 threads
+I: Baksmaling classes.dex...
+I: Copying raw resources...
+I: Baksmaling classes2.dex...
+I: Copying raw manifest...
+I: Copying original files...
+I: Copying assets...
+I: Copying lib...
+I: Copying unknown files...
+I: Using Apktool 2.12.1 on 160-gTouchPal-6.2.7.1.apk with 4 threads
+I: Checking whether sources have changed...
+I: Smaling smali folder into classes.dex...
+I: Checking whether resources have changed...
+I: Checking whether sources have changed...
+I: Copying raw resources...
+I: Smaling smali_classes2 folder into classes2.dex...
+I: Building apk file...
+I: Importing assets...
+I: Importing lib...
+I: Importing unknown files...
+I: Built apk into: /workspace/touchpal/github/branding161/rebuilt.apk
+{
+  "apk": "output/161-TouchPalG-6.2.7.1.apk",
+  "bytes": 33500335,
+  "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+  "base_sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
+  "changed_existing_entries": [
+    "AndroidManifest.xml",
+    "assets/touchpal_features.html",
+    "assets/touchpal_history.html",
+    "classes.dex",
+    "res/drawable-hdpi/icon.png",
+    "res/drawable-xhdpi/icon.png",
+    "res/drawable-xxhdpi/icon.png",
+    "resources.arsc"
+  ],
+  "new_entries": [],
+  "removed_entries": [],
+  "unchanged_entries_verified": 2838,
+  "native_libraries_unchanged": true,
+  "overlay": {
+    "assets/touchpal_features.html": {
+      "source": "assets/touchpal_features.html",
+      "sha256": "b0ef2af0f14879cc9dbc6681a8edb85df1d8583765924fbb9d4652f2fe66f236"
+    },
+    "assets/touchpal_history.html": {
+      "source": "assets/touchpal_history.html",
+      "sha256": "5a2520620f81cbc051fa607c2b7892060573f1da94c289572f75116b63cd3102"
+    },
+    "res/drawable-hdpi/icon.png": {
+      "source": "overlay/apk/res/drawable-hdpi/icon.png",
+      "sha256": "5f3b05e9cb7b9d4a89becf505923ca21cc72df94a7f0c1aa58bf4e0c0ea45ec7"
+    },
+    "res/drawable-xhdpi/icon.png": {
+      "source": "overlay/apk/res/drawable-xhdpi/icon.png",
+      "sha256": "d603e6bae3212b1af0bf6ba06d44ca382926a229ec2ebe8d632b70195759d05b"
+    },
+    "res/drawable-xxhdpi/icon.png": {
+      "source": "overlay/apk/res/drawable-xxhdpi/icon.png",
+      "sha256": "3e7e11f85850b1cebb6f329e29f00973b8ffd672a7680112429e902cbad19020"
+    },
+    "resources.arsc": {
+      "source": "overlay/apk/resources.arsc",
+      "sha256": "b7345f8b2b2e012a188cbf7bd835f780051ba759c86772a8379b4e260cc1c7b8"
+    }
+  }
+}

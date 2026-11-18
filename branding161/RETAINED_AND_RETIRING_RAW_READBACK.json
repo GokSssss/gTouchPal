@@ -1,0 +1,51 @@
+{
+  "apk160": {
+    "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+    "bytes": 33462601,
+    "sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
+    "path": "/workspace/touchpal/runtime161/retention-before/apk160.apk",
+    "raw_readback_equal": true
+  },
+  "source160": {
+    "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+    "bytes": 1208913,
+    "sha256": "391fa74a91f64a75cb446f6e60a27f620c4c18c5b22dc75e22eab3a233fdd732",
+    "path": "/workspace/touchpal/runtime161/retention-before/source160.zip",
+    "raw_readback_equal": true
+  },
+  "passport160": {
+    "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
+    "bytes": 5640,
+    "sha256": "cd7cc4a69c049dde683502920aab34be312cfe39c41e14fe1eb926a5b6cd7be6",
+    "path": "/workspace/touchpal/runtime161/retention-before/passport160.txt",
+    "raw_readback_equal": true
+  },
+  "apk159": {
+    "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+    "bytes": 33466958,
+    "sha256": "4e28683b6b68df32d05c130a3910d9a025d694f3946aef20bf6b40bc985d2a12",
+    "path": "/workspace/touchpal/runtime161/retention-before/apk159.apk",
+    "raw_readback_equal": true
+  },
+  "source159": {
+    "id": "1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ",
+    "bytes": 1176651,
+    "sha256": "a7bccc4fbe9dfc24c55991b71c4dfcc0b20ca979899685022e726aad2ffb1194",
+    "path": "/workspace/touchpal/runtime161/retention-before/source159.zip",
+    "raw_readback_equal": true
+  },
+  "passport159": {
+    "id": "1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C",
+    "bytes": 4104,
+    "sha256": "65fac7841c6aa493e0af7294f9bfef81df6746300a8a05ff10ccc17f4eb4c6b4",
+    "path": "/workspace/touchpal/runtime161/retention-before/passport159.txt",
+    "raw_readback_equal": true
+  },
+  "input158": {
+    "id": "1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB",
+    "bytes": 33467377,
+    "sha256": "b08fbc1070de01a2d60d288a0f3f7bc4d3adebf9fde4881aebdc7d33f83b16d8",
+    "path": "/workspace/touchpal/runtime161/retention-before/input158.apk",
+    "raw_readback_equal": true
+  }
+}

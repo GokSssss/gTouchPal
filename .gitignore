@@ -206,3 +206,21 @@ backup160/retention_before/
 backup160/history160*.zip
 backup160/BACKUP_PAGE158.png
 backup160/BACKUP_PAGE*.png
+
+#161 generated build caches
+branding161/decoded/
+branding161/compile_classes/
+branding161/helper_classes/
+branding161/helper_decoded/
+branding161/helpers.*
+branding161/contracts.jar
+branding161/rebuilt.apk
+branding161/unsigned.apk
+branding161/tests/classes/
+branding161/tests/framework/target/
+branding161/tests/framework/generated/
+branding161/tests/framework/external/
+branding161/retention_before/
+branding161/history161*.zip
+branding161/BACKUP_PAGE158.png
+branding161/BACKUP_PAGE*.png

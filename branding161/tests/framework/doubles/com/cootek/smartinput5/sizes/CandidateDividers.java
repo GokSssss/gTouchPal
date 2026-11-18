@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.sizes;public class CandidateDividers{public static boolean isEnabled(android.content.Context c){return true;}public static void setEnabled(android.content.Context c,boolean b){}}

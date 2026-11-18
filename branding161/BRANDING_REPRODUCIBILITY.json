@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "independent_regeneration_identical": true,
+  "overlay_sha256": {
+    "branding161/overlay/apk/resources.arsc": "b7345f8b2b2e012a188cbf7bd835f780051ba759c86772a8379b4e260cc1c7b8",
+    "branding161/overlay/apk/res/drawable-hdpi/icon.png": "5f3b05e9cb7b9d4a89becf505923ca21cc72df94a7f0c1aa58bf4e0c0ea45ec7",
+    "branding161/overlay/apk/res/drawable-xxhdpi/icon.png": "3e7e11f85850b1cebb6f329e29f00973b8ffd672a7680112429e902cbad19020",
+    "branding161/overlay/apk/res/drawable-xhdpi/icon.png": "d603e6bae3212b1af0bf6ba06d44ca382926a229ec2ebe8d632b70195759d05b"
+  },
+  "png_time_metadata_removed": true
+}

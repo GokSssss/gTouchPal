@@ -1,0 +1,270 @@
+{
+  "status": "PASS",
+  "scope": "Metadata IDs/sizes and passport presence in checkpoint folders; SOURCE bytes remain in the central Sources folder. Not a fresh raw revalidation of historical binaries",
+  "checkpoints": [
+    {
+      "version": "TEST80",
+      "folder_id": "17AcRrWqvewOehPE5s4146epfH063dFZw",
+      "apk_id": "1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj",
+      "apk_bytes": 20042413,
+      "source_id": "1aNIbFek9CkBz5FakK471WkVQyBF4dkR_",
+      "source_bytes": 402818,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1TlaV3bTOv071KSmBfnGn_k4M5WmPdCTB",
+          "name": "TEST80_Паспорт.txt",
+          "bytes": 10895
+        },
+        {
+          "id": "1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj",
+          "name": "TEST80_TouchPal_HOLD_COORDS_MENU.apk",
+          "bytes": 20042413
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST72",
+      "folder_id": "1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+      "apk_id": "1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm",
+      "apk_bytes": 20046191,
+      "source_id": "18rGj7u6Hmt9q6mCyx9s47NLntdTomRul",
+      "source_bytes": 315077,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1rESW3fpR7jLblJPmYegtXeDDZ38nJI_f",
+          "name": "TEST72_Паспорт.txt",
+          "bytes": 5550
+        },
+        {
+          "id": "1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm",
+          "name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS.apk",
+          "bytes": 20046191
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST15",
+      "folder_id": "1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+      "apk_id": "1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS",
+      "apk_bytes": 19971102,
+      "source_id": "1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j",
+      "source_bytes": 43428,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1DHVaxTwB8DxsyyBpqH6gU97B150XkLbq",
+          "name": "TEST15_Паспорт.txt",
+          "bytes": 8455
+        },
+        {
+          "id": "1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS",
+          "name": "TEST15_TouchPal_DARK_UI.apk",
+          "bytes": 19971102
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST21",
+      "folder_id": "16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+      "apk_id": "1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R",
+      "apk_bytes": 19979295,
+      "source_id": "1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ",
+      "source_bytes": 159528,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1CvsxtxRgQVHrRzHgkPt53fvyV0Hghq8r",
+          "name": "TEST21_Паспорт.txt",
+          "bytes": 8348
+        },
+        {
+          "id": "1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R",
+          "name": "TEST21_TouchPal_CURSOR_RETREAT.apk",
+          "bytes": 19979295
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST34",
+      "folder_id": "18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+      "apk_id": "10DJBEZjuktzwTcTcWm973-MmAzS9_kqU",
+      "apk_bytes": 19979289,
+      "source_id": "1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4",
+      "source_bytes": 57808,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1RVS6Tal1HMgKZG07CX_VRKLaDuCZE9d9",
+          "name": "TEST34_Паспорт.txt",
+          "bytes": 3923
+        },
+        {
+          "id": "10DJBEZjuktzwTcTcWm973-MmAzS9_kqU",
+          "name": "TEST34_TouchPal_CLEAN_PHYSICAL.apk",
+          "bytes": 19979289
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST36",
+      "folder_id": "1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+      "apk_id": "1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx",
+      "apk_bytes": 20002465,
+      "source_id": "13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ",
+      "source_bytes": 82726,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1eAmef5dLUIKYl-V84rKN8oW658advrfr",
+          "name": "TEST36_Паспорт.txt",
+          "bytes": 3123
+        },
+        {
+          "id": "1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx",
+          "name": "TEST36_TouchPal_SYSTEM_SPELLCHECK.apk",
+          "bytes": 20002465
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "T9+DelFix",
+      "folder_id": "1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+      "apk_id": "1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI",
+      "apk_bytes": 20058328,
+      "source_id": null,
+      "source_bytes": null,
+      "source_parent": null,
+      "children": [
+        {
+          "id": "13l5mRqqHZbTkVl9ZvPg9l7ZYa3hRLnP7",
+          "name": "T9+DelFix_Паспорт.txt",
+          "bytes": 2819
+        },
+        {
+          "id": "1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI",
+          "name": "T9+DelFix_TouchPal.apk",
+          "bytes": 20058328
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST40",
+      "folder_id": "1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+      "apk_id": "1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC",
+      "apk_bytes": 20000440,
+      "source_id": "1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_",
+      "source_bytes": 297358,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1lNsXW0yDEFMg1lGoLT8O8uKg7r05tB9q",
+          "name": "TEST40_Паспорт.txt",
+          "bytes": 9399
+        },
+        {
+          "id": "1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC",
+          "name": "TEST40_TouchPal_FINAL.apk",
+          "bytes": 20000440
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "DelFix T10",
+      "folder_id": "1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+      "apk_id": "14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb",
+      "apk_bytes": 25627277,
+      "source_id": "1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV",
+      "source_bytes": 17602,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1mK8rwFzHHy-QdUoF1CNHjauB-GzTk9RV",
+          "name": "T10_Паспорт.txt",
+          "bytes": 2988
+        },
+        {
+          "id": "14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb",
+          "name": "T10_TouchPal_DeleteFix_FINAL_SIGNED.apk",
+          "bytes": 25627277
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "TEST90",
+      "folder_id": "1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+      "apk_id": "1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1",
+      "apk_bytes": 20070937,
+      "source_id": "14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr",
+      "source_bytes": 420749,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1JjbIt0AEIQFS1YtUFL8WsAA7bVxZ5Kul",
+          "name": "TEST90_Паспорт.txt",
+          "bytes": 9691
+        },
+        {
+          "id": "1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1",
+          "name": "TEST90_TouchPal_SYMBOL_PICKER.apk",
+          "bytes": 20070937
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    },
+    {
+      "version": "135",
+      "folder_id": "1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+      "apk_id": "17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s",
+      "apk_bytes": 26909474,
+      "source_id": "1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto",
+      "source_bytes": 916688,
+      "source_parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "children": [
+        {
+          "id": "1rZeg9EhlR_UFD4T4u9bF-5s_g34NJ0_X",
+          "name": "135-TouchPal T9 DelFix-Паспорт-6.2.7.1.txt",
+          "bytes": 9493
+        },
+        {
+          "id": "17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s",
+          "name": "135-TouchPal T9 DelFix-6.2.7.1.apk",
+          "bytes": 26909474
+        }
+      ],
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false,
+      "previously_verified_hashes_unchanged_in_registry": true
+    }
+  ]
+}

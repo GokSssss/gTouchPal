@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+  "bytes": 62032611,
+  "sha256": "52d3752db56f0d05453db8cd7715c7ef0dc2b73ca8a8b3cf09ac8084b572a842",
+  "raw_readback_equal": true,
+  "all_payload_hashes_verified": 9759,
+  "all_previous_payloads_preserved": 9706,
+  "exact_retiring159_passport_and_source_manifest_preserved": true,
+  "full_old_source_or_apk_added": false
+}

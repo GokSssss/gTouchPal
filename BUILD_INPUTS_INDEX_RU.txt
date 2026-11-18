@@ -1,4 +1,4 @@
-Обязательные бинарные входы сохраняемых SOURCE ·17.11.2026
+Обязательные бинарные входы сохраняемых SOURCE ·18.11.2026
 
 134_BUILD_INPUT_для_135.apk → storage135/build.py
 ID 1aepLY9HEey5Ny9mhtSliwYnxWCLtE7lX
@@ -20,6 +20,12 @@ SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
 ID 1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl
 SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
 
-158-gTouchPal-6.2.7.1.apk → language159/build.py
-ID 1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB
-SHA256 b08fbc1070de01a2d60d288a0f3f7bc4d3adebf9fde4881aebdc7d33f83b16d8
+159-gTouchPal-6.2.7.1.apk → backup160/build.py
+ID 12Wginb-gHHvnqx1DjnE6VF52NMqGG68J
+SHA256 4e28683b6b68df32d05c130a3910d9a025d694f3946aef20bf6b40bc985d2a12
+
+159APK перенесён один раз из прежнего выпуска с прежнимID и полным raw SHA256; он нужен SOURCE160.
+SOURCE161 использует160APK из предыдущего полного выпуска, отдельная копия во Входах не создаётся.
+153APK сохраняется для отдельного прототипа154. Прочие4входа нужны выбранным контрольным точкам.
+158APK больше не нужен после снятия SOURCE159; его удаление выполнено после readbacks и сохранения истории.
+Используемый комплект подписи: https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW

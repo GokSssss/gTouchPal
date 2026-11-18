@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-18",
+  "status": "COMPLETE",
+  "keep": [
+    "161",
+    "160"
+  ],
+  "reason": "Published161 verified;160 retained;159 input moved once for SOURCE160; exact159 passport/manifest and all old history payloads preserved before removing obsolete full Drive snapshots",
+  "removed": [
+    {
+      "id": "1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ",
+      "name": "159 SOURCE",
+      "bytes": 1176651,
+      "deleted": true
+    },
+    {
+      "id": "1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C",
+      "name": "159 passport",
+      "bytes": 4104,
+      "deleted": true
+    },
+    {
+      "id": "1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB",
+      "name": "158 obsolete input",
+      "bytes": 33467377,
+      "deleted": true
+    },
+    {
+      "id": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+      "name": "159 empty folder",
+      "bytes": 0,
+      "deleted": true,
+      "empty_confirmed": true
+    }
+  ],
+  "removed_bytes": 34648132,
+  "moved_without_copy": {
+    "version": "159",
+    "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+    "same_id_and_sha256": true
+  },
+  "prototype154_preserved": true,
+  "protected_unchanged": 11
+}

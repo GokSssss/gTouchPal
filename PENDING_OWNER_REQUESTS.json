@@ -377,18 +377,20 @@
     },
     {
       "id": "branding_touchpalg_yellow_black_20261117",
-      "status": "implemented_host_verification161",
+      "status": "implemented_published161",
       "description": "System name TouchPalG, yellow icon with black existing TouchPal symbol; mockup in mockups/branding157. Not included in157.",
       "owner_approval": "и иконка прежняя, а не желтая из макета и название не TouchPalG",
       "scheduled_next_run": "2026-11-18T20:00:00+08:00",
       "historical_spec_unchanged": true,
-      "code_or_apk_changes_now": true,
+      "code_or_apk_changes_now": false,
       "implemented_version": "161",
-      "phone_tested": false
+      "phone_tested": false,
+      "published_version": 161,
+      "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v161"
     },
     {
       "id": "backup161-layout-branding-deferred",
-      "status": "implemented_host_verification161",
+      "status": "implemented_published161",
       "requested_after_release": "160",
       "next_run_time": "2026-11-18T20:00:00+08:00",
       "timezone": "Etc/GMT-8",
@@ -408,9 +410,11 @@
         "TPL import entry in Languages"
       ],
       "published160_unchanged": true,
-      "code_or_apk_changes_now": true,
+      "code_or_apk_changes_now": false,
       "implemented_version": "161",
-      "phone_tested": false
+      "phone_tested": false,
+      "published_version": 161,
+      "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v161"
     }
   ],
   "clarifications_only": {
@@ -426,15 +430,16 @@
   "current_source_work": {
     "version": 161,
     "directory": "branding161",
-    "status": "verified_ready_to_publish",
-    "last_published_version": 160,
+    "status": "published_verified",
+    "last_published_version": 161,
     "apk_built": true,
     "final_source_frozen": true,
-    "isolated_byte_identical": true
+    "isolated_byte_identical": true,
+    "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v161"
   },
   "deferred_next_work": {
     "id": "backup161-layout-branding-deferred",
-    "status": "in_progress",
+    "status": "completed_published161",
     "requested_after_release": "160",
     "next_run_time": "2026-11-18T20:00:00+08:00",
     "timezone": "Etc/GMT-8",
@@ -454,7 +459,9 @@
       "TPL import entry in Languages"
     ],
     "published160_unchanged": true,
-    "code_or_apk_changes_now": true,
-    "started_utc_date": "2026-11-18"
+    "code_or_apk_changes_now": false,
+    "started_utc_date": "2026-11-18",
+    "completed_utc_date": "2026-11-18",
+    "published_version": 161
   }
 }

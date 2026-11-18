@@ -1,0 +1,500 @@
+{
+  "date": "2026-11-18",
+  "current": {
+    "version": "161",
+    "folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "folder_url": "https://drive.google.com/drive/folders/1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "original_folder_name": "161 — TouchPalG: оформление и компактные копии",
+    "protected": false,
+    "location": "root",
+    "reason": "Owner-approved TouchPalG branding and compact capsule backup layout",
+    "apk_id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+    "apk_name": "161-TouchPalG-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG/view",
+    "apk_bytes": 33500335,
+    "apk_sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+    "apk_raw_readback_verified": true,
+    "source_id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+    "source_name": "161-TouchPalG-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92/view",
+    "source_bytes": 4213516,
+    "source_sha256": "74c14ff8ce680c2a567ad1dd736c3876fc37b10bc206be6b403ef37f2d965d88",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+        "name": "161-TouchPalG-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v161",
+    "github_tag": "v161",
+    "github_commit": "5c0f5ffde11b618b41dfdeaff04d4941d4f1876f",
+    "phone_or_art_tested": false,
+    "status": "Drive_verified_GitHub_readback_in_progress"
+  },
+  "previous": {
+    "version": "160",
+    "folder_id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+    "folder_url": "https://drive.google.com/drive/folders/1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+    "original_folder_name": "160 — копия вне приложения и всплывающие уведомления",
+    "protected": false,
+    "location": "root",
+    "reason": "Optional additional saved copy to Downloads/selected URI, red uninstall reminder and section-anchored floating notices",
+    "apk_id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+    "apk_name": "160-gTouchPal-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38/view",
+    "apk_bytes": 33462601,
+    "apk_sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
+    "apk_raw_readback_verified": true,
+    "source_id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+    "source_name": "160-gTouchPal-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view",
+    "source_bytes": 1208913,
+    "source_sha256": "391fa74a91f64a75cb446f6e60a27f620c4c18c5b22dc75e22eab3a233fdd732",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
+        "name": "160-gTouchPal-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1IXf4gtQHOHAAn0pnatV5jxN48myKf29G/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v160",
+    "github_tag": "v160",
+    "github_commit": "504b0850cf9ab3694d4d0040b63166853e3934cd",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact files verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file",
+    "phone_or_art_tested": false,
+    "status": "published_verified"
+  },
+  "retire": {
+    "version": "159",
+    "folder_id": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+    "folder_url": "https://drive.google.com/drive/folders/1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+    "original_folder_name": "159 — файл словаря в разделе Языки",
+    "protected": false,
+    "location": "root",
+    "reason": "Language-file import entry moved to Languages; native import mechanisms inherited",
+    "apk_id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+    "apk_name": "159-gTouchPal-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/12Wginb-gHHvnqx1DjnE6VF52NMqGG68J/view",
+    "apk_bytes": 33466958,
+    "apk_sha256": "4e28683b6b68df32d05c130a3910d9a025d694f3946aef20bf6b40bc985d2a12",
+    "apk_raw_readback_verified": true,
+    "source_id": "1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ",
+    "source_name": "159-gTouchPal-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ/view",
+    "source_bytes": 1176651,
+    "source_sha256": "a7bccc4fbe9dfc24c55991b71c4dfcc0b20ca979899685022e726aad2ffb1194",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C",
+        "name": "159-gTouchPal-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v159",
+    "github_tag": "v159",
+    "github_commit": "80a9f86a0abbaf11bf27d57f4a022d2055549150",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact files verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file",
+    "phone_or_art_tested": false,
+    "status": "published_verified"
+  },
+  "protected": [
+    {
+      "version": "TEST80",
+      "folder_id": "17AcRrWqvewOehPE5s4146epfH063dFZw",
+      "folder_url": "https://drive.google.com/drive/folders/17AcRrWqvewOehPE5s4146epfH063dFZw",
+      "original_folder_name": "13 — TEST80 перед полной сеткой знаков",
+      "first_folder_saved_utc": "2026-10-26T09:51:08.594Z",
+      "protected": true,
+      "reason": "TEST80 перед полной сеткой знаков",
+      "location": "keys",
+      "phone_evidence": "Телефонный TXT79:ROOT hit=true/KEYBOARD localHit=true,ноSYMBOL_SKIP_NO_KEY;через221мс nativeLONGPRESS1. Отказ прежнего helper воспроизведён в модели смещённого окна и исправлен;80 на телефоне ещё не проверена. Пользователь положительно оценил вид80; сообщил об отсутствии возврата после обычного выбора знака. В81 добавлен единый fallbackabc.",
+      "apk_id": "1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj",
+      "apk_name": "TEST80_TouchPal_HOLD_COORDS_MENU.apk",
+      "apk_url": "https://drive.google.com/file/d/1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj/view",
+      "apk_bytes": 20042413,
+      "apk_sha256": "40775a45e78c7c389beedbd0beb7bf46e84f346188bed895fc03336c2476e18f",
+      "source_id": "1aNIbFek9CkBz5FakK471WkVQyBF4dkR_",
+      "source_url": "https://drive.google.com/file/d/1aNIbFek9CkBz5FakK471WkVQyBF4dkR_/view",
+      "source_name": "TEST80_TouchPal_HOLD_COORDS_MENU_sources.zip",
+      "source_sha256": "1ceccfec62edd3bbbc720f7115fe10f3a1d810acffdf844a4a8461e8ef275f7e",
+      "source_bytes": 402818,
+      "notes": [
+        {
+          "id": "1TlaV3bTOv071KSmBfnGn_k4M5WmPdCTB",
+          "name": "TEST80_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1TlaV3bTOv071KSmBfnGn_k4M5WmPdCTB/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST80 — перед полной сеткой знаков"
+    },
+    {
+      "version": "TEST72",
+      "folder_id": "1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+      "folder_url": "https://drive.google.com/drive/folders/1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+      "original_folder_name": "09_TEST72 — перед упрощением голосового ввода",
+      "first_folder_saved_utc": "2026-10-23T08:19:06.167Z",
+      "protected": true,
+      "reason": "перед упрощением голосового ввода",
+      "location": "keys",
+      "phone_evidence": "На телефоне эта сборка пока не проверена; исчезновение мелькания и исправление провайдера не заявляются.",
+      "apk_id": "1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm",
+      "apk_name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS.apk",
+      "apk_url": "https://drive.google.com/file/d/1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm/view",
+      "apk_bytes": 20046191,
+      "apk_sha256": "a2976995afc142865ff6f14268f5ead4fcfe99c33c4bd28a00c3c0408a52c4b3",
+      "source_id": "18rGj7u6Hmt9q6mCyx9s47NLntdTomRul",
+      "source_url": "https://drive.google.com/file/d/18rGj7u6Hmt9q6mCyx9s47NLntdTomRul/view",
+      "source_name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS_sources.zip",
+      "source_sha256": "6d5fcd3859199bdd0d59812577e30685ad9b213f15e0eb2a6b96434815fe1131",
+      "source_bytes": 315077,
+      "notes": [
+        {
+          "id": "1rESW3fpR7jLblJPmYegtXeDDZ38nJI_f",
+          "name": "TEST72_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1rESW3fpR7jLblJPmYegtXeDDZ38nJI_f/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST72 — перед упрощением голосового ввода"
+    },
+    {
+      "version": "TEST15",
+      "folder_id": "1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+      "folder_url": "https://drive.google.com/drive/folders/1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+      "original_folder_name": "01 — TEST15 — тёмное оформление",
+      "first_folder_saved_utc": "2026-10-13T09:53:47.546Z",
+      "protected": true,
+      "reason": "TEST15 — тёмное оформление",
+      "location": "keys",
+      "phone_evidence": "Пользователь: «всё работает». Принята в Final.",
+      "apk_id": "1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS",
+      "apk_name": "TEST15_TouchPal_DARK_UI.apk",
+      "apk_url": "https://drive.google.com/file/d/1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS/view",
+      "apk_bytes": 19971102,
+      "apk_sha256": "1c281bcb44a741fb21c51614214622c82bea066f80e6d4bc130a70015e70d8ea",
+      "source_id": "1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j",
+      "source_url": "https://drive.google.com/file/d/1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j/view",
+      "source_name": "TEST15_TouchPal_sources.zip",
+      "source_sha256": "b3ee1b0608c1133fae84c1539a46007d7fb0de80b33eb9760e1cfdeae796e329",
+      "source_bytes": 43428,
+      "notes": [
+        {
+          "id": "1DHVaxTwB8DxsyyBpqH6gU97B150XkLbq",
+          "name": "TEST15_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1DHVaxTwB8DxsyyBpqH6gU97B150XkLbq/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST15 — тёмное оформление"
+    },
+    {
+      "version": "TEST21",
+      "folder_id": "16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+      "folder_url": "https://drive.google.com/drive/folders/16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+      "original_folder_name": "02 — TEST21 — жесты, до физической клавиатуры",
+      "first_folder_saved_utc": "2026-10-13T23:35:29.314Z",
+      "protected": true,
+      "reason": "TEST21 — жесты, до физической клавиатуры",
+      "location": "keys",
+      "phone_evidence": "Механика лучше; попросили увеличить запас разворота.",
+      "apk_id": "1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R",
+      "apk_name": "TEST21_TouchPal_CURSOR_RETREAT.apk",
+      "apk_url": "https://drive.google.com/file/d/1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R/view",
+      "apk_bytes": 19979295,
+      "apk_sha256": "4e84e106d78509531ba8ce244a47ed60b1a76572518d000f630aaaa7fb13c64e",
+      "source_id": "1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ",
+      "source_url": "https://drive.google.com/file/d/1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ/view",
+      "source_name": "TEST21_TouchPal_sources.zip",
+      "source_sha256": "d044146503af2b3409591e5f7d94427ee2c6e08d04117a0b4eec3a53f31702f0",
+      "source_bytes": 159528,
+      "notes": [
+        {
+          "id": "1CvsxtxRgQVHrRzHgkPt53fvyV0Hghq8r",
+          "name": "TEST21_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1CvsxtxRgQVHrRzHgkPt53fvyV0Hghq8r/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST21 — жесты, до физической клавиатуры"
+    },
+    {
+      "version": "TEST34",
+      "folder_id": "18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+      "folder_url": "https://drive.google.com/drive/folders/18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+      "original_folder_name": "03 — TEST34 — физическая клавиатура, до орфографии",
+      "first_folder_saved_utc": "2026-10-16T22:42:16.665Z",
+      "protected": true,
+      "reason": "TEST34 — физическая клавиатура, до орфографии",
+      "location": "keys",
+      "phone_evidence": "Пользователь 2026-10-17: «Проверил, все работает.» Принята в локальную Final без пересборки. Обновление бинарных файлов на Диске пока не подтверждено из-за зависания загрузки.",
+      "apk_id": "10DJBEZjuktzwTcTcWm973-MmAzS9_kqU",
+      "apk_name": "TEST34_TouchPal_CLEAN_PHYSICAL.apk",
+      "apk_url": "https://drive.google.com/file/d/10DJBEZjuktzwTcTcWm973-MmAzS9_kqU/view",
+      "apk_bytes": 19979289,
+      "apk_sha256": "790ae93c8b3cff2cf747137785855d5abb01b7a3ce7ae39d3c08c680ccc684d5",
+      "source_id": "1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4",
+      "source_url": "https://drive.google.com/file/d/1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4/view",
+      "source_name": "TEST34_TouchPal_CLEAN_sources.zip",
+      "source_sha256": "aa1e3083b3ff3b6119b9319d880cd92cbd58653804f02f96130654c0542a734d",
+      "source_bytes": 57808,
+      "notes": [
+        {
+          "id": "1RVS6Tal1HMgKZG07CX_VRKLaDuCZE9d9",
+          "name": "TEST34_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1RVS6Tal1HMgKZG07CX_VRKLaDuCZE9d9/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST34 — физическая клавиатура, до орфографии"
+    },
+    {
+      "version": "TEST36",
+      "folder_id": "1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+      "folder_url": "https://drive.google.com/drive/folders/1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+      "original_folder_name": "04 — TEST36 — орфография, до новых кнопок",
+      "first_folder_saved_utc": "2026-10-17T19:30:45.711Z",
+      "protected": true,
+      "reason": "TEST36 — орфография, до новых кнопок",
+      "location": "keys",
+      "phone_evidence": "Пользователь подтвердил: работает почти везде. На телефоне проверены RU/EN запросы слов/предложений и подсветка/меню исправлений. Некоторые поля приложений не показывают системную проверку. Пропуски форм относятся к прежнему словарю TouchPal; механики/исключения не добавлялись. Повторный аудит кода пройден.",
+      "apk_id": "1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx",
+      "apk_name": "TEST36_TouchPal_SYSTEM_SPELLCHECK.apk",
+      "apk_url": "https://drive.google.com/file/d/1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx/view",
+      "apk_bytes": 20002465,
+      "apk_sha256": "27e3c0b8d62ad780458b3c747f204e64f5f58933d18d2039e25810a7adb7d654",
+      "source_id": "13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ",
+      "source_url": "https://drive.google.com/file/d/13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ/view",
+      "source_name": "TEST36_TouchPal_SYSTEM_SPELLCHECK_sources.zip",
+      "source_sha256": "028eb74ec8e05a1508a08170acc2a97f3ac792afe01e47c8ca3404a2f04be337",
+      "source_bytes": 82726,
+      "notes": [
+        {
+          "id": "1eAmef5dLUIKYl-V84rKN8oW658advrfr",
+          "name": "TEST36_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1eAmef5dLUIKYl-V84rKN8oW658advrfr/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST36 — орфография, до новых кнопок"
+    },
+    {
+      "version": "T9+DelFix",
+      "folder_id": "1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+      "folder_url": "https://drive.google.com/drive/folders/1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+      "original_folder_name": "00 — T9 + DelFix — исходная база",
+      "first_folder_saved_utc": "2026-10-20T13:47:24.065Z",
+      "protected": true,
+      "reason": "Первая доступная функциональная база перед жестами пробела",
+      "location": "keys",
+      "phone_evidence": "Подтверждённая функциональная база по исходному описанию.",
+      "apk_id": "1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI",
+      "apk_name": "T9+DelFix_TouchPal.apk",
+      "apk_url": "https://drive.google.com/file/d/1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI/view",
+      "apk_bytes": 20058328,
+      "apk_sha256": "485ee5328066731794da2f0e327bd1b55e7b9b18a1958da3987eda5af7841926",
+      "source_id": null,
+      "source_url": null,
+      "source_name": null,
+      "source_sha256": null,
+      "source_bytes": null,
+      "notes": [
+        {
+          "id": "13l5mRqqHZbTkVl9ZvPg9l7ZYa3hRLnP7",
+          "name": "T9+DelFix_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/13l5mRqqHZbTkVl9ZvPg9l7ZYa3hRLnP7/view"
+        }
+      ],
+      "source_limitation": "Отдельный SOURCE.zip исходной T9+DelFix не найден. Сохранён исходный APK, первоначальное описание и точные diff двух Lua-файлов; полный проект закрытого оригинального TouchPal недоступен.",
+      "source_evidence_url": "https://drive.google.com/file/d/1jHzoiV4IMynTVob3oblZjOy-uIKmtKjL/view",
+      "completeness": "Исторический комплект с ограничениями: Отдельный SOURCE.zip исходной T9+DelFix не найден. Сохранён исходный APK, первоначальное описание и точные diff двух Lua-файлов; полный проект закрытого оригинального TouchPal недоступен.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "T9+DelFix — Первая доступная функциональная база перед жестами пробела"
+    },
+    {
+      "version": "TEST40",
+      "folder_id": "1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+      "folder_url": "https://drive.google.com/drive/folders/1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+      "original_folder_name": "Final",
+      "first_folder_saved_utc": "2026-10-10T01:01:02.164Z",
+      "protected": true,
+      "reason": "Историческая подтверждённая Final; отдельные постоянные ссылки сохранены",
+      "location": "keys",
+      "phone_evidence": "Пользователь подтвердил: «Шикарно». TEST40 и её исходники сохранены как текущая Final на прежних постоянных ссылках.",
+      "apk_id": "1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC",
+      "apk_name": "TEST40_TouchPal_FINAL.apk",
+      "apk_url": "https://drive.google.com/file/d/1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC/view",
+      "apk_bytes": 20000440,
+      "apk_sha256": "ce379270283a7465ac3ca7f31d8cfee5e3564107d034908066dfd48c95053f9f",
+      "source_id": "1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_",
+      "source_url": "https://drive.google.com/file/d/1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_/view",
+      "source_name": "TEST40_TouchPal_FINAL_sources.zip",
+      "source_sha256": "4a2185ebaad469e6d1648e03e67805bebe494113f6e857bb1a1036a3af7bb927",
+      "source_bytes": 297358,
+      "notes": [
+        {
+          "id": "1lNsXW0yDEFMg1lGoLT8O8uKg7r05tB9q",
+          "name": "TEST40_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1lNsXW0yDEFMg1lGoLT8O8uKg7r05tB9q/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "TEST40 — Историческая подтверждённая Final; отдельные постоянные ссылки сохранены"
+    },
+    {
+      "version": "DelFix T10",
+      "folder_id": "1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+      "folder_url": "https://drive.google.com/drive/folders/1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+      "protected": true,
+      "location": "keys",
+      "reason": "Подтверждённая исходная DelFix перед синхронизацией высоты и T9",
+      "first_folder_saved_utc": "2026-09-15",
+      "checkpoint_registered_utc": "2026-10-27",
+      "phone_evidence": "Исходный журнал15.09.2026: пользователь подтвердил запуск, ввод и удаление старых слов. Сейчас сверены реальные APK/нативная библиотека; нового прогона на телефоне не было.",
+      "apk_id": "14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb",
+      "apk_url": "https://drive.google.com/file/d/14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb/view",
+      "apk_name": "T10_TouchPal_DeleteFix_FINAL_SIGNED.apk",
+      "apk_bytes": 25627277,
+      "apk_sha256": "f03959d9dcff02fef2f094004a0a9fa799530671c6f7facb46c463506a5a5bdd",
+      "source_id": "1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV",
+      "source_url": "https://drive.google.com/file/d/1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV/view",
+      "source_name": "T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip",
+      "source_bytes": 17602,
+      "source_sha256": "729efc3805b3a3209529f431572af5df8fc20e1f600e8acbfa8f73d59d13c34b",
+      "source_limitation": "Найденные smali, документы и проверенный бинарный патч, не полный исходный проект закрытого TouchPal.",
+      "notes": [
+        {
+          "id": "1mK8rwFzHHy-QdUoF1CNHjauB-GzTk9RV",
+          "name": "T10_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1mK8rwFzHHy-QdUoF1CNHjauB-GzTk9RV/view"
+        }
+      ],
+      "completeness": "Исторический комплект с ограничениями: Найденные smali, документы и проверенный бинарный патч, не полный исходный проект закрытого TouchPal.",
+      "build_reproducibility": "Историческая сборка и материалы сохранены; чистая пересборка из скачанных файлов в этом сеансе не проверялась. Побайтовое воспроизведение не обещается.",
+      "folder_name": "T10 — Подтверждённая исходная DelFix перед синхронизацией высоты и T9"
+    },
+    {
+      "version": "TEST90",
+      "folder_id": "1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+      "folder_url": "https://drive.google.com/drive/folders/1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+      "original_folder_name": "TEST90 — резерв до GigaAM",
+      "protected": true,
+      "reason": "При выборе жестом от 12# скрыты дополнительные знаки и маркеры; обычная панель показывает их. Исправлен выбор крайних колонок 11/12 и возврат всплывающей подсказки для них. Набор и расположение знаков прежние. Резерв перед GigaAM-v3; пока предыдущая, не дублируется в Ключевых версиях.",
+      "location": "keys",
+      "phone_evidence": "Сборка и проверки DEX/JVM прошли; TEST90 на телефоне ещё не проверена. Ошибка крайних ячеек TEST89 воспроизведена её настоящим обработчиком и исправлена в модели.",
+      "apk_id": "1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1",
+      "apk_name": "TEST90_TouchPal_SYMBOL_PICKER.apk",
+      "apk_url": "https://drive.google.com/file/d/1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1/view",
+      "apk_bytes": 20070937,
+      "apk_sha256": "3af3887fec03173bd3c29d9fd3ea6791bea4d10cd24dc59d3fc7cf49d80b230b",
+      "source_id": "14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr",
+      "source_url": "https://drive.google.com/file/d/14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr/view",
+      "source_name": "TEST90_TouchPal_SYMBOL_PICKER_sources.zip",
+      "notes": [
+        {
+          "id": "1JjbIt0AEIQFS1YtUFL8WsAA7bVxZ5Kul",
+          "name": "TEST90_Паспорт.txt",
+          "url": "https://drive.google.com/file/d/1JjbIt0AEIQFS1YtUFL8WsAA7bVxZ5Kul/view"
+        }
+      ],
+      "completeness": "Доступный код модификаций закрытого TouchPal и точный APK сохранены; собственные исходники производителя недоступны.",
+      "build_reproducibility": "Локальная сборка соответствующего выпуска и host-проверки прошли. Отдельная чистая пересборка пользователем из скачанного SOURCE не выполнялась; побайтовая детерминированность не заявляется.",
+      "source_sha256": "cf5bd7556beca5d1e52a26998dde0f4fa9a86f47eef5a1cf4a0b54818112d622",
+      "source_bytes": 420749,
+      "reserve_reason": "Резерв до добавления нативного локального GigaAM. Не содержит офлайн-движка/загрузчика и сохраняет прежний API-путь. Независимая ценность при сбое загрузки JNI, памяти или модели."
+    },
+    {
+      "version": "135",
+      "folder_id": "1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+      "folder_url": "https://drive.google.com/drive/folders/1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+      "original_folder_name": "135 — рабочий резерв восстановления",
+      "protected": true,
+      "location": "keys",
+      "reason": "Владелец подтвердил чистую установку135 и восстановлениеZIP; последняя явно принятая база восстановления до ошибок экспорта137.",
+      "phone_evidence": "Владелец сообщил: после полной чистой установки135 и восстановления ZIP клавиатура запустилась; прямой путь136 и восстановление на ней сопровождались мельканием/незапуском. Это позднейшее уточнение135, прежнее сообщение о незапуске135 сохраняется как история. Для137 новых телефонных результатов пока нет.",
+      "apk_id": "17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s",
+      "apk_name": "135-TouchPal T9 DelFix-6.2.7.1.apk",
+      "apk_url": "https://drive.google.com/file/d/17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s/view?usp=drivesdk",
+      "apk_bytes": 26909474,
+      "apk_sha256": "3608cfa36ffc4f45010ac08ca5c7b15582120732c366ef5be8d2cbd7435864bf",
+      "source_id": "1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto",
+      "source_url": "https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view?usp=drivesdk",
+      "source_name": "135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip",
+      "notes": [
+        {
+          "id": "1rZeg9EhlR_UFD4T4u9bF-5s_g34NJ0_X",
+          "name": "135-TouchPal T9 DelFix-Паспорт-6.2.7.1.txt",
+          "url": "https://drive.google.com/file/d/1rZeg9EhlR_UFD4T4u9bF-5s_g34NJ0_X/view?usp=drivesdk"
+        }
+      ],
+      "completeness": "Полная135 сохранена; владелец подтвердил запуск после чистой установки и восстановления ZIP.",
+      "build_reproducibility": "Чистая пересборка в новой пустой папке из проверенного SOURCE и точного APK134 дала побайтово тот же подписанный APK135. Это не проверка на телефоне.",
+      "source_bytes": 916688,
+      "source_sha256": "4d3d3d8b336d2291b58a7f699725ca985653464112be6507d38cd31518c15555",
+      "base_app_origin": {
+        "version_name": "6.2.7.1",
+        "version_code": 9999,
+        "package": "com.cootek.smartinputv5",
+        "file_id": "1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR",
+        "filename": "Touchpal_android16_base.apk",
+        "url": "https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view?usp=drivesdk",
+        "sha256": "469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06",
+        "verified_from": "original binary AndroidManifest.xml;not inferred from Android or mod version"
+      },
+      "source_raw_readback_verified": true,
+      "apk_raw_readback_verified": true,
+      "mod_version": "135",
+      "display_version": "135",
+      "internal_recipe_version": "135",
+      "reserve_reason": "Полный рабочий резерв135 с APK/SOURCE/паспортом; сохранить по прежнему пожеланию владельца не удалять работающую клавиатуру."
+    }
+  ],
+  "move_input159": {
+    "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+    "from_parent": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+    "to_parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+    "same_id": true,
+    "reason": "Required input for retained SOURCE160"
+  },
+  "delete_after_history": [
+    {
+      "id": "1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ",
+      "name": "159 SOURCE",
+      "bytes": 1176651
+    },
+    {
+      "id": "1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C",
+      "name": "159 passport",
+      "bytes": 4104
+    },
+    {
+      "id": "1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB",
+      "name": "158 obsolete input",
+      "bytes": 33467377
+    },
+    {
+      "id": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
+      "name": "159 empty folder",
+      "bytes": 0,
+      "require_empty": true
+    }
+  ],
+  "preserve_prototype154": true,
+  "preserve_all_logs_and_implementation": true,
+  "published160_unchanged": true
+}

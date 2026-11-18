@@ -1,0 +1,75 @@
+TouchPalG161 — паспорт проверочного выпуска
+Дата:18.11.2026. Выполнение отложенного поручения18Nov20:00UTC+8.
+
+Основа TouchPal Keyboard6.2.7.1; package com.cootek.smartinputv5.
+Точная исходная6.2.7.1/versionCode9999 подтверждена исходнымAPK:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+SHA256 469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06
+Вход для161 — опубликованный160APK:
+https://drive.google.com/file/d/1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38/view
+SHA256 8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd
+
+APK:161-TouchPalG-6.2.7.1.apk
+versionCode10074;versionName6.2.7.1-161.
+Байт:33500335
+SHA256:1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d
+SOURCE:161-TouchPalG-SOURCE-6.2.7.1.zip
+Байт:4213516;файлов manifest:302.
+SHA256:74c14ff8ce680c2a567ad1dd736c3876fc37b10bc206be6b403ef37f2d965d88
+Финальный SOURCE заморожен один раз и изолированно пересобран в побайтово
+тот же подписанный APK. Старые APK/SOURCE/теги не переписаны.
+GitHub:https://github.com/GokSssss/gTouchPal/releases/tag/v161
+Код v161:5c0f5ffde11b618b41dfdeaff04d4941d4f1876f
+Фактическое имя репозитория gTouchPal сохраняется; новый display brand TouchPalG.
+
+Изменения:
+— Restore, добавлениеTXT и перенос — настоящие capsule-кнопки, как Save.
+  Убран inherited ActionButton, рисовавший старый9dpконтур поверх фона.
+— Верхнийpad и повторная строка стрелкиDownloads убраны; уменьшены интервалы.
+  Размеры14sp captions/buttons и16sp headings сохранены.
+— Системное имя TouchPalG, жёлтая иконка с чёрным прежним TouchPal mark.
+  Макет157 одобрен поздним прямым указанием владельца, историческийSPEC неизменён.
+  Settings/About используют TouchPalG; физические displaylabels TouchPalG RU/en
+  иTouchPalG EN/ru. Subtype XML/ID/языки/раскладки не меняются.
+— В resources.arsc изменены ровно3значения stringpool без изменения индексов
+  илиpackage chunks;3icon.png72/96/180px сохраняют старуюalpha-маску.
+  ImageGen подготовил чистую графику; ImageMagick только размер/маска/strip.
+  Повторная генерация ресурсов побайтово одинакова; PNGtime metadata удалена.
+
+Сохранено160: внутреннийSave и предложение внешней дополнительной копии
+Downloads/CREATE_DOCUMENT/Не сейчас; точные байты/digest/readback/recreation;
+отказ оставляет внутреннюю копию. Красное напоминание перед удалением.
+Плавающий nonfocusable PopupWindow у конца выбранного блока, безinline rows.
+Restore открывает локальные копии формата; Folder — системныйGET_CONTENT.
+TPL-вход остаётся вЯзыках, IMPORT_LANGUAGE_ACTION159 иnative import неизменны.
+Рабочийкорень Context.getExternalFilesDir(null)/TouchPalG,
+обычно /storage/emulated/0/Android/data/com.cootek.smartinputv5/files/TouchPalG.
+Копии Backup; private westernUSR/native staging как160. На публичномSD новый
+рабочийкорень не создаётся. Файлы внутри app-owned каталога удаляются Android
+приuninstall; устанавливать поверх предыдущего приложения без удаления.
+
+Проверки:
+42framework сценария PASS: production Android Views/Intents/filesystem,
+provider streams, сохранение/отмена/Downloads/selected URI/readback/recreation,
+отказ при изменённом исходнике до открытия назначения, floating anchor,
+языковойimport. Native engine/parser и mapping OS provider — явные doubles.
+Dark/light layout:394dpширины/740dpдоступнойвысоты, fontScale1,
+1107pxcontent в1110pxviewport; нижняя строка целиком. Путь на снимке —
+телефонный display fixture, файловая система теста остаётся изолированной.
+При большем системном шрифте/меньшем экране остаётся ScrollView.
+Проверены полное рисование capsule-кнопок, прозрачные углы иpressed feedback.
+Actual signedDEX/API16 PASS;10234исходных классов сравнены,
+15ownсемейств/92класса;0vendor методов.
+classes2/native libraries/ROM/TPL и все прочие ресурсы неизменны160.
+AAPT подтверждает имя TouchPalG иpackage/version; component identities,
+permissions/resourceIDs/physical subtype IDs сохранены. Stubs не упакованы.
+Это не запуск реальногоIME/AndroidART/проверкаSDprovider на телефоне.
+
+Прежний сертификатSHA256:0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+v1/v2/v3; совместимость обновления сохранена. Использованный комплект подписи
+свежо скачан в этом запуске из обычной папки проекта и сверён с160:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Ключи, пароли, значения параметров и личные фото/видео не публикуются.
+Рецепт BUILD_161.txt, подробные проверки branding161/VERIFICATION.json.
+Ретенция после публикации: полные161/160 и11полезных точек, прототип154;
+вся история сохраняется отдельно компактно перед удалением старых полных копий.

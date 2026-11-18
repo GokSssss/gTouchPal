@@ -27,7 +27,6 @@
 
 Снимок Android Views в тестовой среде, не фотография телефона.
 
-<img src="ui153/research/framework-capture/main-dark.png" alt="Настройки gTouchPal с ручным включением" width="394">
 
 <img src="ui155/research/framework-capture/additional153-dark.png" alt="Дополнительные настройки gTouchPal" width="394">
 
@@ -64,7 +63,6 @@ Install over the previous version without deleting data. Preview release; phone 
 
 Android Views captured in the test environment, not a phone photograph.
 
-<img src="ui153/research/framework-capture/main-dark.png" alt="gTouchPal settings with manual activation" width="394">
 
 <img src="ui155/research/framework-capture/additional153-dark.png" alt="gTouchPal additional settings" width="394">
 

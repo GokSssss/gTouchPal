@@ -11,6 +11,42 @@
   "research_id": "1FB2MIYM2mR_nQZK0QK51gyTAWMsigz0h",
   "records_id": "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3",
   "current": {
+    "version": "163",
+    "folder_id": "1Zvln34sXCfz7AXvEpzq3xrshHgoHBCkd",
+    "folder_url": "https://drive.google.com/drive/folders/1Zvln34sXCfz7AXvEpzq3xrshHgoHBCkd",
+    "original_folder_name": "163 — штатные темы и удаление сетевых экранов",
+    "protected": false,
+    "location": "root",
+    "reason": "Original native T-shirt action/local installed themes; retire obsolete online screens",
+    "apk_id": "1kkEyFY7zrCwbWM8siWVV_vOrLyTehOoq",
+    "apk_name": "163-TouchPalG-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1kkEyFY7zrCwbWM8siWVV_vOrLyTehOoq/view",
+    "apk_bytes": 33499721,
+    "apk_sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+    "apk_raw_readback_verified": true,
+    "source_id": "1uqszI4sAjgPMW-CXCagopymiO-9G_BeB",
+    "source_name": "163-TouchPalG-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1uqszI4sAjgPMW-CXCagopymiO-9G_BeB/view",
+    "source_bytes": 1912882,
+    "source_sha256": "c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1RIxBPm6j-iRHOCmt2Fb9IsIHRhx6A-Th",
+        "name": "163-TouchPalG-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1RIxBPm6j-iRHOCmt2Fb9IsIHRhx6A-Th/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v163",
+    "github_tag": "v163",
+    "github_commit": "aace4b6d18e2fa2cd59fcd2dc8bc95ac745bfe4e",
+    "phone_or_art_tested": false,
+    "status": "published_verified",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact artifacts verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE frozen once and isolated rebuild byte-identical; downloaded SOURCE exact bytes verified"
+  },
+  "previous": {
     "version": "162",
     "folder_id": "1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
     "folder_url": "https://drive.google.com/drive/folders/1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
@@ -45,42 +81,6 @@
     "github_public_downloads_verified": true,
     "completeness": "Same three exact artifacts verified on Drive and public GitHub",
     "build_reproducibility": "Final SOURCE frozen once and isolated rebuild byte-identical; downloaded SOURCE exact bytes verified"
-  },
-  "previous": {
-    "version": "161",
-    "folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
-    "folder_url": "https://drive.google.com/drive/folders/1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
-    "original_folder_name": "161 — TouchPalG: оформление и компактные копии",
-    "protected": false,
-    "location": "root",
-    "reason": "Owner-approved TouchPalG branding and compact capsule backup layout",
-    "apk_id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
-    "apk_name": "161-TouchPalG-6.2.7.1.apk",
-    "apk_url": "https://drive.google.com/file/d/15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG/view",
-    "apk_bytes": 33500335,
-    "apk_sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
-    "apk_raw_readback_verified": true,
-    "source_id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
-    "source_name": "161-TouchPalG-SOURCE-6.2.7.1.zip",
-    "source_url": "https://drive.google.com/file/d/1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92/view",
-    "source_bytes": 4213516,
-    "source_sha256": "74c14ff8ce680c2a567ad1dd736c3876fc37b10bc206be6b403ef37f2d965d88",
-    "source_raw_readback_verified": true,
-    "notes": [
-      {
-        "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
-        "name": "161-TouchPalG-Passport-6.2.7.1.txt",
-        "url": "https://drive.google.com/file/d/13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR/view"
-      }
-    ],
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v161",
-    "github_tag": "v161",
-    "github_commit": "5c0f5ffde11b618b41dfdeaff04d4941d4f1876f",
-    "phone_or_art_tested": false,
-    "status": "published_verified",
-    "github_public_downloads_verified": true,
-    "completeness": "Same three exact files verified on Drive and public GitHub",
-    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file"
   },
   "protected": [
     {
@@ -445,16 +445,16 @@
   "full_history": {
     "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
     "path": "TouchPal_журналы_и_логика_изменений.zip",
-    "stages": 167,
+    "stages": 168,
     "source_archives": 0,
     "note": "Компактные журналы/логика, без полного SOURCE старых выпусков; не обещает восстановление каждой удалённой версии.",
-    "bytes": 62586946,
-    "sha256": "842afcfd86ff5d1f01844d47a1451d679463128b79cbc63e982fd45751b50982",
-    "entries": 9806,
-    "individual_logs": 166,
-    "implementation_patches": 6992,
+    "bytes": 63184023,
+    "sha256": "aecb5b20017fb11c3406dcf1819d75eaca5538ddd5d81b1f5307ba9aa3bef54a",
+    "entries": 9861,
+    "individual_logs": 167,
+    "implementation_patches": 7015,
     "drive_readback_verified": true,
-    "manifest_hashes": 9805,
+    "manifest_hashes": 9860,
     "post_publication127_preserved": true,
     "post_publication127_evidence": [
       {
@@ -1501,10 +1501,13 @@
     "all_previous9706_payloads_preserved": true,
     "post_publication160_and_deferred161_preserved": true,
     "exact_retiring159_passport_and_manifest_preserved": true,
-    "last_receipt": "theme162/HISTORY_RAW_READBACK.json",
+    "last_receipt": "offline163/HISTORY_RAW_READBACK.json",
     "all_previous9759_payloads_preserved": true,
     "post_publication161_preserved": true,
-    "exact_retiring160_passport_and_manifest_preserved": true
+    "exact_retiring160_passport_and_manifest_preserved": true,
+    "all_previous9805_payloads_preserved": true,
+    "post_publication162_preserved": true,
+    "exact_retiring161_passport_and_manifest_preserved": true
   },
   "phone_test86_confirmed": false,
   "word_order_fixed": false,
@@ -1569,14 +1572,14 @@
   },
   "passports": [
     {
+      "id": "1RIxBPm6j-iRHOCmt2Fb9IsIHRhx6A-Th",
+      "folder_id": "1Zvln34sXCfz7AXvEpzq3xrshHgoHBCkd",
+      "version": "163"
+    },
+    {
       "id": "1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN",
       "folder_id": "1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
       "version": "162"
-    },
-    {
-      "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
-      "folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
-      "version": "161"
     },
     {
       "id": "1TlaV3bTOv071KSmBfnGn_k4M5WmPdCTB",
@@ -1883,20 +1886,20 @@
       "reason": "Preserved active154 prototype at owner request"
     },
     {
-      "version": "160",
-      "mod_version": "160",
-      "file": "160-gTouchPal-6.2.7.1.apk",
-      "drive_name": "160-gTouchPal-6.2.7.1.apk",
-      "for_release": "161",
-      "consumer": "branding161/build.py",
-      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+      "version": "161",
+      "mod_version": "161",
+      "file": "161-TouchPalG-6.2.7.1.apk",
+      "drive_name": "161-TouchPalG-6.2.7.1.apk",
+      "for_release": "162",
+      "consumer": "theme162/build.py",
+      "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
       "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
-      "bytes": 33462601,
-      "sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
+      "bytes": 33500335,
+      "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
       "move_pending": false,
       "move_verified": true,
       "raw_after_move_verified": true,
-      "reason": "Single required APK input for retained SOURCE161; same ID and bytes after metadata-only move"
+      "reason": "Single required APK input for retained SOURCE162; same ID/bytes after metadata-only move"
     }
   ],
   "symbol_layout_map": [
@@ -1916,12 +1919,12 @@
     "date": "2026-11-18",
     "general_rules_revision": "2026-11-15T07:53:46.300Z",
     "retained_complete_versions": [
-      "162",
-      "161"
+      "163",
+      "162"
     ],
     "verified_live_readbacks": 8,
     "project_mark_present": true,
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v162",
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v163",
     "github_public_downloads_verified": true,
     "observed": {
       "root": 8,
@@ -1937,52 +1940,48 @@
     "rules_revision": "2026-11-15T07:53:46.300Z",
     "root_name": "10 TouchPal T9 DelFix √",
     "live_documents_readback_verified": 8,
-    "registry_final_readback_receipt": "theme162/FINAL_LIVE_DOCUMENT_READBACK.json",
+    "registry_final_readback_receipt": "offline163/FINAL_LIVE_DOCUMENT_READBACK.json",
     "phone_or_art_tested": false
   },
   "latest_cleanup": {
-    "date": "2026-11-18",
     "status": "COMPLETE",
-    "keep": [
-      "162",
-      "161"
+    "date": "2026-11-18",
+    "retained_complete": [
+      "163",
+      "162"
     ],
-    "reason": "New162 and retained161 exact readbacks;160 input moved once for SOURCE161; all earlier history plus exact160passport/source manifest preserved before obsolete full Drive files were removed",
     "removed": [
       {
-        "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
-        "name": "160 SOURCE",
-        "bytes": 1208913,
-        "deleted": true
+        "id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+        "bytes": 4213516,
+        "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
       },
       {
-        "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
-        "name": "160 passport",
-        "bytes": 5640,
-        "deleted": true
+        "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+        "bytes": 6470,
+        "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
       },
       {
-        "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
-        "name": "159 obsolete input",
-        "bytes": 33466958,
-        "deleted": true
-      },
-      {
-        "id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
-        "name": "160 empty folder",
-        "bytes": 0,
-        "deleted": true,
-        "empty_confirmed": true
+        "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+        "bytes": 33462601,
+        "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
       }
     ],
-    "removed_bytes": 34681511,
-    "moved_without_copy": {
-      "version": "160",
-      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
-      "same_id_and_sha256": true
+    "removed_bytes": 37682587,
+    "removed_empty_folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "moved161_input": {
+      "status": "PASS",
+      "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+      "bytes": 33500335,
+      "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+      "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+      "same_id_and_bytes": true
     },
-    "prototype154_preserved": true,
-    "protected_unchanged": 11
+    "history_id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+    "history_raw_verified": true,
+    "checkpoints11_and_prototype154_preserved": true,
+    "github_old_releases_unchanged": true,
+    "protected_sizes_and_ids_checked": true
   },
   "phone_test87_confirmed": false,
   "symbol_layout_map_previous": [
@@ -3484,6 +3483,46 @@
       },
       "prototype154_preserved": true,
       "protected_unchanged": 11
+    },
+    {
+      "status": "COMPLETE",
+      "date": "2026-11-18",
+      "retained_complete": [
+        "163",
+        "162"
+      ],
+      "removed": [
+        {
+          "id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+          "bytes": 4213516,
+          "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+        },
+        {
+          "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+          "bytes": 6470,
+          "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+        },
+        {
+          "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+          "bytes": 33462601,
+          "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+        }
+      ],
+      "removed_bytes": 37682587,
+      "removed_empty_folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+      "moved161_input": {
+        "status": "PASS",
+        "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+        "bytes": 33500335,
+        "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+        "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+        "same_id_and_bytes": true
+      },
+      "history_id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+      "history_raw_verified": true,
+      "checkpoints11_and_prototype154_preserved": true,
+      "github_old_releases_unchanged": true,
+      "protected_sizes_and_ids_checked": true
     }
   ],
   "phone_test88_confirmed": false,
@@ -3764,22 +3803,22 @@
     "url": "https://docs.google.com/spreadsheets/d/1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_/edit?usp=drivesdk&ouid=114000821361130224383&rtpof=true&sd=true",
     "name": "TouchPal_Нововведения_от_DelFix.xlsx",
     "parent": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH",
-    "rows": 152,
+    "rows": 153,
     "columns": [
       "Версия",
       "Изменение",
       "Описание"
     ],
-    "used_range": "A1:C152",
+    "used_range": "A1:C153",
     "chronological": true,
-    "unused_grid": "Only A1:C151 contains information; grid lines hidden; filter/print range matches data",
+    "unused_grid": "Only A1:C153 contains information; grid lines hidden; filter/print range matches data",
     "retired_functions_marked_in_description": true,
     "raw_readback_verified": true,
-    "bytes": 39355,
-    "sha256": "cb63b8c33d3aae4923bd90e7a08bca507ebcc9e496dae193690385bc9afadf58",
-    "range": "A1:C152",
-    "data_rows": 151,
-    "latest_version": "162"
+    "bytes": 39641,
+    "sha256": "a7dfe44bff635a8ee0caab38e66494552c73e786472113a86625c994c7bac4f9",
+    "range": "A1:C153",
+    "data_rows": 152,
+    "latest_version": "163"
   },
   "release95_cleanup": {
     "stage": "TEST95",
@@ -5105,7 +5144,7 @@
     "lua_index_domain_proven": "1-based page-local; JNI/native absolute0-based",
     "core_library_sha256": "3aea8fa5724c56c497293072374746d469bd3117623585b2836c7278ddf6549a"
   },
-  "verification_scope": "Theme route/order framework and signed-DEX/resource/source/signature/publication/storage checks; native theme application on owner phone after162 remains untested.",
+  "verification_scope": "Exact native shirt route and retired network manifest/intent boundaries, framework and signed-DEX/resource/source/signature/publication/storage checks; owner phone/ART theme application after163 remains untested.",
   "phone_test110_confirmed": false,
   "release110_cleanup": {
     "status": "completed_after_readbacks",
@@ -11147,6 +11186,1824 @@
     "feature_cards": 29,
     "chronology_entries": 151,
     "excel_rows_including_header": 152,
+    "updated_existing_cards": [
+      "settings"
+    ],
+    "new_history_entries": 1,
+    "ascending_history_preserved": true
+  },
+  "release163_verification": {
+    "version": "163",
+    "apk_bytes": 33499721,
+    "apk_sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+    "base_sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "tests": 54,
+    "framework": "Actual Android34 Views/Intents, app-owned filesystem and provider streams; native engine/parser and OS MediaStore authority are explicit boundaries, not a phone test",
+    "own_helper_families": 16,
+    "own_compiled_classes": 91,
+    "original_classes_compared": 10232,
+    "bounded_vendor_methods": 153,
+    "api16_actual_dex_verified": true,
+    "classes2_unchanged": true,
+    "all_native_libraries_and_other_resources_unchanged": true,
+    "live_workspace_and_private_dictionary_and_native_staging_unchanged": true,
+    "physical_keyboard_subtypes_unchanged": true,
+    "exports_default": "Context.getExternalFilesDir(null)/TouchPalG/Backup",
+    "save_without_picker": true,
+    "restore_uses_filtered_app_owned_list": true,
+    "folder_uses_system_file_chooser": true,
+    "share_keeps_same_saved_file": true,
+    "downloads": "MediaStore Downloads29+; legacy public Downloads before29",
+    "incoming_read_once_checked_snapshot": true,
+    "confirmed_restore_input_retained": true,
+    "cancel_and_invalid_input_not_retained": true,
+    "former_public_copies_verified_before_source_removal": true,
+    "delete_only_empty_old_directories": true,
+    "unknown_files_and_name_collisions_preserved": true,
+    "icon_long_press_help_without_action": true,
+    "last_full_zip_date_filename_one_line_above_buttons": true,
+    "certificate_sha256": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+    "signature_schemes": [
+      "v1",
+      "v2",
+      "v3"
+    ],
+    "android_art_or_phone_executed": false,
+    "icon_targets_52dp": true,
+    "visible_separators": true,
+    "pressed_state_held_180ms": true,
+    "no_global_action_disable_or_main_page_progress_relayout": true,
+    "nonfocusable_progress_success_popup_with_full_filename_and_folder": true,
+    "language_import_entry_in_languages_only": true,
+    "language_mode_has_no_backup_actions": true,
+    "language_cancel_returns_to_languages": true,
+    "save_offer_downloads_or_system_destination": true,
+    "decline_keeps_internal_copy": true,
+    "extra_copy_uses_saved_bytes_without_native_recapture": true,
+    "external_destination_stream_readback_checked": true,
+    "pending_export_state_survives_recreation": true,
+    "source_tamper_refused_before_output_open": true,
+    "red_uninstall_reminder": true,
+    "floating_notice_anchored_to_section_without_inline_reflow": true,
+    "language_tpl_import": true,
+    "strip_only_final_apk_suffix": true,
+    "language_archive_container_checked": true,
+    "existing_language_confirmation_and_backup": true,
+    "native_language_compatibility_not_claimed": true,
+    "branding_design_pending": false,
+    "restore_button_shape_deferred": false,
+    "obsolete_web_components_removed": true,
+    "internet_permission_absent": true,
+    "only_about_links_open_external_browser": true,
+    "same_native_shirt_handler": true,
+    "native_installed_theme_grid": true,
+    "theme_route_intent_verified": true,
+    "native_grid_selection_runtime_tested": false,
+    "owner_phone_after_fix_tested": false,
+    "theme_first_in_additions": true,
+    "system_application_name": "TouchPalG",
+    "yellow_black_original_mark": true,
+    "ordinary_backup_buttons_capsules": true,
+    "top_padding_and_redundant_download_caption_removed": true,
+    "phone_size_layout_checks": true
+  },
+  "clean_rebuild163": {
+    "version": "163",
+    "status": "PASS",
+    "source_sha256": "c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98",
+    "source_files": 420,
+    "apk_sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+    "byte_identical_apk": true,
+    "isolated": true,
+    "steps": [
+      {
+        "stage": "compile_helpers.py",
+        "exit_code": 0,
+        "seconds": 6.78,
+        "stdout_sha256": "b8302e5554adccd38561d14ef7216603507aad1345d9826cb6c5029fb05959d2",
+        "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+      },
+      {
+        "stage": "build.py",
+        "exit_code": 0,
+        "seconds": 25.74,
+        "stdout_sha256": "aaac10b02cd676ee8a4069a0da2063ef788a133cec3ee32ffc25cb50fe4faf4a",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/run_dex_checks.py",
+        "exit_code": 0,
+        "seconds": 14.17,
+        "stdout_sha256": "57d100268af126092af86066b407f91388689e3d9b54bf7717fbac5c93dd8b19",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/check_resources.py",
+        "exit_code": 0,
+        "seconds": 0.56,
+        "stdout_sha256": "69745807158d810fb7d78b80e8c4ea6ece7e613c2af496caf7751c5a9099f1ee",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/check_offline.py",
+        "exit_code": 0,
+        "seconds": 0.16,
+        "stdout_sha256": "195ac406867d440d755f66973919d010a88ea661474a805526ffff987f736b34",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/framework/run.py",
+        "exit_code": 0,
+        "seconds": 36.06,
+        "stdout_sha256": "b1fc5cd86801a375cceb7222dd4a24b815df880b8d1e2cb1bf7e7d34b0dfd6ed",
+        "stderr_sha256": "ff885469d07449566dcf3052989e9ae27ba5d73f5e87b15137a47d21a8da08e0"
+      },
+      {
+        "stage": "collect_verification163.py",
+        "exit_code": 0,
+        "seconds": 2.61,
+        "stdout_sha256": "dc43accaca540052e41a9b5aec87163c281190bcc6696651a4d7d340e22060ee",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "private_materials_exported": false,
+    "original_inputs_unchanged": true,
+    "android_runtime_executed": false
+  },
+  "drive_publication163_complete": true,
+  "github_publication163_complete": true,
+  "phone_test163_confirmed": false,
+  "cleanup163_complete": true,
+  "release163_cleanup": {
+    "status": "COMPLETE",
+    "date": "2026-11-18",
+    "retained_complete": [
+      "163",
+      "162"
+    ],
+    "removed": [
+      {
+        "id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+        "bytes": 4213516,
+        "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+      },
+      {
+        "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+        "bytes": 6470,
+        "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+      },
+      {
+        "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+        "bytes": 33462601,
+        "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+      }
+    ],
+    "removed_bytes": 37682587,
+    "removed_empty_folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "moved161_input": {
+      "status": "PASS",
+      "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+      "bytes": 33500335,
+      "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+      "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+      "same_id_and_bytes": true
+    },
+    "history_id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+    "history_raw_verified": true,
+    "checkpoints11_and_prototype154_preserved": true,
+    "github_old_releases_unchanged": true,
+    "protected_sizes_and_ids_checked": true
+  },
+  "retention163": {
+    "status": "complete",
+    "plan": "offline163/RETENTION_PLAN.json",
+    "published_verified": true,
+    "prototype154_preserved": true,
+    "removed_source161": true,
+    "removed_passport161": true,
+    "removed_empty_folder161": true,
+    "removed_obsolete_input160": true,
+    "freed_bytes": 37682587,
+    "input161_moved_once": true,
+    "history_verified": "aecb5b20017fb11c3406dcf1819d75eaca5538ddd5d81b1f5307ba9aa3bef54a"
+  },
+  "compliance163": {
+    "status": "VERIFIED",
+    "rules_id": "1PC7jbtXP9HRTi1C8t3JTG8xc_Y-F9H_z",
+    "rules_revision": "2026-11-15T07:53:46.300Z",
+    "rules_rechecked_unchanged": true,
+    "retained": [
+      "163",
+      "162"
+    ],
+    "checkpoints": 11,
+    "active_prototype154_retained": true,
+    "owner_media_not_published": true,
+    "private_signing_material_not_exported": true,
+    "counts": {
+      "root": 8,
+      "current": 2,
+      "previous": 2,
+      "keys": 12,
+      "sources": 12,
+      "inputs": 7,
+      "signing": 2,
+      "prototype": 2
+    },
+    "final_eight_documents_raw_readback_receipt": "offline163/FINAL_LIVE_DOCUMENT_READBACK.json"
+  },
+  "phone162_owner_report": {
+    "date": "2026-11-18",
+    "version": 162,
+    "white_MainEntrance_with_trending_words_and_popular_apps_observed": true,
+    "wrong_native_host162_confirmed": true,
+    "owner_requests_exact_shirt_action_and_online_UI_removal": true,
+    "fix_version": 163,
+    "after_fix_phone_tested": false,
+    "private_photos_not_copied": true
+  },
+  "theme163": {
+    "shirt_class": "pluginwidget.t",
+    "original_route": "t.c -> rnstore.a.e(theme,source_plugin_skin,!net.w.o) -> TPDeepLinkActivity -> StoreActivity/start_page11",
+    "current": "Settings ThemePicker156 -> SAME t.c -> native StoreActivity/local11; native keyboard shirt uses SAME t.c",
+    "native_grid_and_callbacks_unchanged": true,
+    "dark_base": "StoreActivity -> ui.g0.onCreate -> ThemeMod.initDark before super",
+    "local_only_fragment": "skinappshop.i -> settings.p -> mainentrance.f/GridView",
+    "retired_mainentrance_activity_removed": true,
+    "vendor_methods": {
+      "Lcom/cootek/e/b/c/b/D;": [
+        "m(Ljava/lang/String;Z)V"
+      ],
+      "Lcom/cootek/e/b/c/e/a/n;": [
+        "e0(Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/e/b/c/e/c/i;": [
+        "L(Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/nativejsapis/JavascriptHandler;": [
+        "launchLocalApp(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V",
+        "launchLocalAppByClassName(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V",
+        "launchLocalAppWithJsonParam(Ljava/lang/String;)V",
+        "openMapStartup(Landroid/net/Uri;)V",
+        "sendMessage(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V",
+        "showSystemShareDialog(Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/presentation/sdk/utils/ActionDriverHelper;": [
+        "installApk(Landroid/content/Context;Ljava/lang/String;)V",
+        "launchApp(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/rnstore/a;": [
+        "c(Landroid/content/Context;Ljava/lang/String;)V",
+        "e(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Z)V"
+      ],
+      "Lcom/cootek/smartdialer/utils/IntentUtil;": [
+        "callPhone(Landroid/content/Context;Ljava/lang/String;)V",
+        "sendMailTo(Landroid/content/Context;Ljava/lang/String;)V",
+        "startIntent(Landroid/content/Intent;I)Z"
+      ],
+      "Lcom/cootek/smartinput/upgrade/PackageUninstallerActivty$c;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput/utilities/LogViewActivity;": [
+        "f()V"
+      ],
+      "Lcom/cootek/smartinput/utilities/ShortcutParseActivity$a;": [
+        "a()V"
+      ],
+      "Lcom/cootek/smartinput/utilities/TJavascriptHandler$b;": [
+        "run()V"
+      ],
+      "Lcom/cootek/smartinput/utilities/TJavascriptHandler;": [
+        "callFacebook(Ljava/lang/String;Ljava/lang/String;)V",
+        "openInWebView(Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput/utilities/a;": [
+        "uncaughtException(Ljava/lang/Thread;Ljava/lang/Throwable;)V"
+      ],
+      "Lcom/cootek/smartinput/utilities/p;": [
+        "f(Landroid/content/Context;Landroid/content/Intent;Lcom/cootek/smartinput/utilities/p$a;)V",
+        "g(Landroid/content/Context;Landroid/content/pm/ShortcutInfo;Lcom/cootek/smartinput/utilities/p$a;)V"
+      ],
+      "Lcom/cootek/smartinput5/GateActivity;": [
+        "o()V"
+      ],
+      "Lcom/cootek/smartinput5/Guide;": [
+        "M()V",
+        "N()V",
+        "k(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/PluginInstallerActivity;": [
+        "a(Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/TPAboutPageActivity;": [
+        "f0(Landroid/content/Context;)V",
+        "h0(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOption$h;": [
+        "d(Ljava/lang/Float;)V"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOption;": [
+        "k(Landroid/os/Bundle;)V"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOptionInte$a;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOptionInte$b;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOptionInte$c;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOptionInte$d;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/TouchPalOptionInte$e;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/devconsole/DevOptionActivity$c;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/e$a;": [
+        "handleMessage(Landroid/os/Message;)V"
+      ],
+      "Lcom/cootek/smartinput5/engine/Engine$11;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/engine/Engine;": [
+        "showInvitationDlg()V"
+      ],
+      "Lcom/cootek/smartinput5/engine/HandWriteMaskManager;": [
+        "removeOldHWPackage()V"
+      ],
+      "Lcom/cootek/smartinput5/engine/IPCManager;": [
+        "downloadApk(Landroid/os/Bundle;)V"
+      ],
+      "Lcom/cootek/smartinput5/engine/VoiceProcessor$2;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/engine/VoiceProcessor$4;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/func/H;": [
+        "c()Z"
+      ],
+      "Lcom/cootek/smartinput5/func/JsHandler;": [
+        "gotoTouchPalSettings()V",
+        "openSponsorTheme(Ljava/lang/String;)V",
+        "setMissionState(Ljava/lang/String;I)Z",
+        "shareText(Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/O;": [
+        "A(Ljava/lang/String;Landroid/content/Context;)V",
+        "B(Ljava/lang/String;Landroid/content/Context;)V",
+        "C(Ljava/lang/String;Landroid/content/Context;)V",
+        "D(Ljava/lang/String;Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/TAccountManager;": [
+        "r(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/UserDictReportActivity$a;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/func/X;": [
+        "n(Landroid/content/Context;Landroid/content/Intent;)I"
+      ],
+      "Lcom/cootek/smartinput5/func/asset/LoadFailedActivity;": [
+        "d()V"
+      ],
+      "Lcom/cootek/smartinput5/func/component/e$c;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/func/iab/google/a;": [
+        "g(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/iab/i;": [
+        "L0(Landroid/app/Activity;Ljava/lang/String;Ljava/lang/String;)V",
+        "s0(I)V"
+      ],
+      "Lcom/cootek/smartinput5/func/learnmanager/a$b;": [
+        "c()V"
+      ],
+      "Lcom/cootek/smartinput5/func/learnmanager/d;": [
+        "u(Lcom/cootek/smartinput5/func/learnmanager/a$c;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/mainentrance/f$b;": [
+        "onClick(Landroid/view/View;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/mainentrance/g$a;": [
+        "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/smartinput5/func/paopao/b;": [
+        "g()V",
+        "h()V",
+        "z(Lcom/cootek/smartinput5/func/paopao/PaopaoData;)Z"
+      ],
+      "Lcom/cootek/smartinput5/func/permission/a;": [
+        "A(Ljava/util/ArrayList;Z)V"
+      ],
+      "Lcom/cootek/smartinput5/func/resource/ui/TPreferenceScreen;": [
+        "clickPreference(Landroid/preference/Preference;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/share/ShareDialogActivity;": [
+        "B(Landroid/content/Context;Landroid/content/Intent;)V",
+        "E(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/net/Uri;Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/share/e;": [
+        "a(Landroid/content/Context;Landroid/content/Intent;)V",
+        "f(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/net/Uri;Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/skin/purchase/a;": [
+        "t(Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/v0;": [
+        "A()V"
+      ],
+      "Lcom/cootek/smartinput5/func/w0$c;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/func/w0$i;": [
+        "handleMessage(Landroid/os/Message;)V"
+      ],
+      "Lcom/cootek/smartinput5/func/w0;": [
+        "G(Landroid/content/Context;Ljava/lang/String;ZLjava/lang/String;)V",
+        "d0(Landroid/content/Context;Landroid/content/Intent;I)V"
+      ],
+      "Lcom/cootek/smartinput5/h;": [
+        "Y()V"
+      ],
+      "Lcom/cootek/smartinput5/net/G;": [
+        "a(Landroid/webkit/WebView;Ljava/lang/String;Landroid/content/Context;)Z"
+      ],
+      "Lcom/cootek/smartinput5/net/M;": [
+        "H(I)V"
+      ],
+      "Lcom/cootek/smartinput5/net/TWebView$e;": [
+        "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/smartinput5/net/y$a;": [
+        "e()V"
+      ],
+      "Lcom/cootek/smartinput5/net/y$c;": [
+        "e()V"
+      ],
+      "Lcom/cootek/smartinput5/net/y$e;": [
+        "e()V"
+      ],
+      "Lcom/cootek/smartinput5/plugin/twitter/e;": [
+        "G(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/pluginwidget/d;": [
+        "l(Landroid/content/Context;Ljava/lang/Class;)V"
+      ],
+      "Lcom/cootek/smartinput5/pluginwidget/f;": [
+        "c(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/pluginwidget/m;": [
+        "c(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/pluginwidget/t;": [
+        "c(Landroid/content/Context;)V"
+      ],
+      "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity$a;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity$b;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity$d$a;": [
+        "run()V"
+      ],
+      "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity;": [
+        "Q()V"
+      ],
+      "Lcom/cootek/smartinput5/preference/ChsInputPreferenceActivity$b;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/preference/ChsInputPreferenceActivity$c;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/presentations/c;": [
+        "launchApp(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)I",
+        "openUrl(Ljava/lang/String;Ljava/lang/String;Z)Z",
+        "showActionConfirmDialog(Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/settings/CandidatePanel141;": [
+        "open(Landroid/preference/Preference;Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/smartinput5/settings/FeatureSettings$3;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/settings/KeyboardActivation152$1;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/settings/SizeSettingsPage;": [
+        "open(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/settings/ToolbarConfig140;": [
+        "open(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/teaching/j$a;": [
+        "onClick(Landroid/view/View;)V"
+      ],
+      "Lcom/cootek/smartinput5/teaching/k/b;": [
+        "x()V"
+      ],
+      "Lcom/cootek/smartinput5/ui/ClipboardView;": [
+        "w(I)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/EmotionKey;": [
+        "showDialog()V"
+      ],
+      "Lcom/cootek/smartinput5/ui/FunctionBar;": [
+        "z()Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/O;": [
+        "I0()V"
+      ],
+      "Lcom/cootek/smartinput5/ui/T;": [
+        "jumpToLangSetting()Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/control/GetImageActivity$a;": [
+        "onClick(Landroid/content/DialogInterface;I)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/control/GetImageActivity;": [
+        "r(Landroid/net/Uri;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/h;": [
+        "u()V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/CellDictListActivity$f;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/FontDialogPreference;": [
+        "openFilePicker()V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/InvitationDialog$c;": [
+        "onClick(Landroid/view/View;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/InvitationDialog$d;": [
+        "onClick(Landroid/view/View;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/InvitationDialog$e;": [
+        "onClick(Landroid/view/View;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/LanguageEditActivityInte$b;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/LanguageListActivity$c;": [
+        "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/LanguageListActivity$d;": [
+        "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/LanguageListActivityInte$l;": [
+        "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/LanguageListActivityInte$n;": [
+        "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/PluginSettings;": [
+        "b(Lcom/cootek/smartinput5/ui/settings/PluginPreference;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/SkinActivity;": [
+        "i(Landroid/content/Intent;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/SkinCustomizeActivity$f;": [
+        "onClick(Landroid/view/View;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/SkinCustomizeActivity;": [
+        "O0(Landroid/net/Uri;)V",
+        "n0()V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/TypingSpeedActivity$b;": [
+        "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/TypingSpeedHandler;": [
+        "feelTheSpeed(Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/s/a$i;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/settings/s/a$o;": [
+        "onPreferenceClick(Landroid/preference/Preference;)Z"
+      ],
+      "Lcom/cootek/smartinput5/ui/skinappshop/StoreActivity$c;": [
+        "handleMessage(Landroid/os/Message;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/skinappshop/StoreActivity;": [
+        "U()Z",
+        "k0()V",
+        "r0()V",
+        "s0(I)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/skinappshop/m$c;": [
+        "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z"
+      ],
+      "Lcom/cootek/smartinput5/urlnavigator/RecommendedURLHandler;": [
+        "onClick(Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/urlnavigator/d;": [
+        "e(ILjava/lang/String;Ljava/lang/String;)V",
+        "l(ILjava/lang/Object;)Z"
+      ],
+      "Lcom/cootek/smartinputv5/SettingsActivity;": [
+        "o()V"
+      ],
+      "Lcom/cootek/tark/privacy/d;": [
+        "B(Landroid/content/Context;)V",
+        "y(Landroid/content/Context;Ljava/lang/String;)V",
+        "z(Landroid/content/Context;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/touchpal/commercial/utils/l;": [
+        "f(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+      ],
+      "Lcom/cootek/smartinput5/ui/skinappshop/j$b;": [
+        "handleMessage(Landroid/os/Message;)V"
+      ]
+    },
+    "launch_boundaries": [
+      {
+        "cls": "Lcom/cootek/e/b/c/b/D;",
+        "method": "m(Ljava/lang/String;Z)V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/e/b/c/e/a/n;",
+        "method": "e0(Ljava/lang/String;)Z",
+        "call": "invoke-static {v1, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/e/b/c/e/c/i;",
+        "method": "L(Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/nativejsapis/JavascriptHandler;",
+        "method": "launchLocalApp(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/nativejsapis/JavascriptHandler;",
+        "method": "launchLocalAppByClassName(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/nativejsapis/JavascriptHandler;",
+        "method": "launchLocalAppWithJsonParam(Ljava/lang/String;)V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/nativejsapis/JavascriptHandler;",
+        "method": "openMapStartup(Landroid/net/Uri;)V",
+        "call": "invoke-static {v2, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/nativejsapis/JavascriptHandler;",
+        "method": "sendMessage(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/nativejsapis/JavascriptHandler;",
+        "method": "showSystemShareDialog(Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/presentation/sdk/utils/ActionDriverHelper;",
+        "method": "installApk(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/presentation/sdk/utils/ActionDriverHelper;",
+        "method": "launchApp(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/rnstore/a;",
+        "method": "c(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/rnstore/a;",
+        "method": "c(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartdialer/utils/IntentUtil;",
+        "method": "callPhone(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartdialer/utils/IntentUtil;",
+        "method": "sendMailTo(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartdialer/utils/IntentUtil;",
+        "method": "startIntent(Landroid/content/Intent;I)Z",
+        "call": "invoke-static {p1, p0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/upgrade/PackageUninstallerActivty$c;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/LogViewActivity;",
+        "method": "f()V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/ShortcutParseActivity$a;",
+        "method": "a()V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/ShortcutParseActivity$a;",
+        "method": "a()V",
+        "call": "invoke-static {v2, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/ShortcutParseActivity$a;",
+        "method": "a()V",
+        "call": "invoke-static {v2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/TJavascriptHandler$b;",
+        "method": "run()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/TJavascriptHandler;",
+        "method": "callFacebook(Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/TJavascriptHandler;",
+        "method": "openInWebView(Ljava/lang/String;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/TJavascriptHandler;",
+        "method": "openInWebView(Ljava/lang/String;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/TJavascriptHandler;",
+        "method": "openInWebView(Ljava/lang/String;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/a;",
+        "method": "uncaughtException(Ljava/lang/Thread;Ljava/lang/Throwable;)V",
+        "call": "invoke-static {v3, v5}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/p;",
+        "method": "f(Landroid/content/Context;Landroid/content/Intent;Lcom/cootek/smartinput/utilities/p$a;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput/utilities/p;",
+        "method": "g(Landroid/content/Context;Landroid/content/pm/ShortcutInfo;Lcom/cootek/smartinput/utilities/p$a;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/GateActivity;",
+        "method": "o()V",
+        "call": "invoke-static {p0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/Guide;",
+        "method": "M()V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/Guide;",
+        "method": "N()V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/Guide;",
+        "method": "k(Landroid/content/Context;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/PluginInstallerActivity;",
+        "method": "a(Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TPAboutPageActivity;",
+        "method": "f0(Landroid/content/Context;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TPAboutPageActivity;",
+        "method": "h0(Landroid/content/Context;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOption$h;",
+        "method": "d(Ljava/lang/Float;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOption;",
+        "method": "k(Landroid/os/Bundle;)V",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOptionInte$a;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOptionInte$b;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOptionInte$c;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOptionInte$d;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/TouchPalOptionInte$e;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/devconsole/DevOptionActivity$c;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/e$a;",
+        "method": "handleMessage(Landroid/os/Message;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/engine/Engine$11;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p1, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/engine/Engine;",
+        "method": "showInvitationDlg()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/engine/HandWriteMaskManager;",
+        "method": "removeOldHWPackage()V",
+        "call": "invoke-static {v3, v2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/engine/IPCManager;",
+        "method": "downloadApk(Landroid/os/Bundle;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/engine/VoiceProcessor$2;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/engine/VoiceProcessor$4;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/H;",
+        "method": "c()Z",
+        "call": "invoke-static {p0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/JsHandler;",
+        "method": "gotoTouchPalSettings()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/JsHandler;",
+        "method": "openSponsorTheme(Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/JsHandler;",
+        "method": "setMissionState(Ljava/lang/String;I)Z",
+        "call": "invoke-static {v2, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/JsHandler;",
+        "method": "shareText(Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/O;",
+        "method": "A(Ljava/lang/String;Landroid/content/Context;)V",
+        "call": "invoke-static {p2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/O;",
+        "method": "B(Ljava/lang/String;Landroid/content/Context;)V",
+        "call": "invoke-static {p2, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/O;",
+        "method": "C(Ljava/lang/String;Landroid/content/Context;)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/O;",
+        "method": "D(Ljava/lang/String;Landroid/content/Context;)V",
+        "call": "invoke-static {p2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/TAccountManager;",
+        "method": "r(Landroid/content/Context;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/UserDictReportActivity$a;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/X;",
+        "method": "n(Landroid/content/Context;Landroid/content/Intent;)I",
+        "call": "invoke-static {p1, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/asset/LoadFailedActivity;",
+        "method": "d()V",
+        "call": "invoke-static {p0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/component/e$c;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p1, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/iab/google/a;",
+        "method": "g(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/iab/i;",
+        "method": "L0(Landroid/app/Activity;Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p2, p1, p3}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/iab/i;",
+        "method": "s0(I)V",
+        "call": "invoke-static {p1, v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/learnmanager/a$b;",
+        "method": "c()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/learnmanager/d;",
+        "method": "u(Lcom/cootek/smartinput5/func/learnmanager/a$c;)V",
+        "call": "invoke-static {v2, v3}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/mainentrance/f$b;",
+        "method": "onClick(Landroid/view/View;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/mainentrance/g$a;",
+        "method": "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/paopao/b;",
+        "method": "g()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/paopao/b;",
+        "method": "h()V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/paopao/b;",
+        "method": "z(Lcom/cootek/smartinput5/func/paopao/PaopaoData;)Z",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/paopao/b;",
+        "method": "z(Lcom/cootek/smartinput5/func/paopao/PaopaoData;)Z",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/permission/a;",
+        "method": "A(Ljava/util/ArrayList;Z)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/resource/ui/TPreferenceScreen;",
+        "method": "clickPreference(Landroid/preference/Preference;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/share/ShareDialogActivity;",
+        "method": "B(Landroid/content/Context;Landroid/content/Intent;)V",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/share/ShareDialogActivity;",
+        "method": "E(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/net/Uri;Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {v2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/share/e;",
+        "method": "a(Landroid/content/Context;Landroid/content/Intent;)V",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/share/e;",
+        "method": "f(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/net/Uri;Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/skin/purchase/a;",
+        "method": "t(Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/v0;",
+        "method": "A()V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/w0$c;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p1, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/w0$i;",
+        "method": "handleMessage(Landroid/os/Message;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/w0;",
+        "method": "G(Landroid/content/Context;Ljava/lang/String;ZLjava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/w0;",
+        "method": "d0(Landroid/content/Context;Landroid/content/Intent;I)V",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/func/w0;",
+        "method": "d0(Landroid/content/Context;Landroid/content/Intent;I)V",
+        "call": "invoke-static {p0, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/h;",
+        "method": "Y()V",
+        "call": "invoke-static {v2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/G;",
+        "method": "a(Landroid/webkit/WebView;Ljava/lang/String;Landroid/content/Context;)Z",
+        "call": "invoke-static {p3, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/G;",
+        "method": "a(Landroid/webkit/WebView;Ljava/lang/String;Landroid/content/Context;)Z",
+        "call": "invoke-static {p3, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/M;",
+        "method": "H(I)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/TWebView$e;",
+        "method": "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/y$a;",
+        "method": "e()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/y$c;",
+        "method": "e()V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/net/y$e;",
+        "method": "e()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/plugin/twitter/e;",
+        "method": "G(Landroid/content/Context;)V",
+        "call": "invoke-static {p1, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/pluginwidget/d;",
+        "method": "l(Landroid/content/Context;Ljava/lang/Class;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/pluginwidget/f;",
+        "method": "c(Landroid/content/Context;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/pluginwidget/m;",
+        "method": "c(Landroid/content/Context;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity$a;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity$b;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity$d$a;",
+        "method": "run()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/preference/AboutPreferenceActivity;",
+        "method": "Q()V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/preference/ChsInputPreferenceActivity$b;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/preference/ChsInputPreferenceActivity$c;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/presentations/c;",
+        "method": "launchApp(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)I",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/presentations/c;",
+        "method": "openUrl(Ljava/lang/String;Ljava/lang/String;Z)Z",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/presentations/c;",
+        "method": "showActionConfirmDialog(Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/CandidatePanel141;",
+        "method": "open(Landroid/preference/Preference;Ljava/lang/String;)Z",
+        "call": "invoke-static {p0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/FeatureSettings$3;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p1, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/FeatureSettings$3;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p1, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/FeatureSettings$3;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p1, v2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/KeyboardActivation152$1;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/SizeSettingsPage;",
+        "method": "open(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v3, v4}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/settings/ToolbarConfig140;",
+        "method": "open(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/teaching/j$a;",
+        "method": "onClick(Landroid/view/View;)V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/teaching/k/b;",
+        "method": "x()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/ClipboardView;",
+        "method": "w(I)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/EmotionKey;",
+        "method": "showDialog()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/FunctionBar;",
+        "method": "z()Z",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/O;",
+        "method": "I0()V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/T;",
+        "method": "jumpToLangSetting()Z",
+        "call": "invoke-static {v0, v3}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/control/GetImageActivity$a;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {v1, p2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/control/GetImageActivity$a;",
+        "method": "onClick(Landroid/content/DialogInterface;I)V",
+        "call": "invoke-static {p2, v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/control/GetImageActivity;",
+        "method": "r(Landroid/net/Uri;)V",
+        "call": "invoke-static {p0, v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/h;",
+        "method": "u()V",
+        "call": "invoke-static {v1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/CellDictListActivity$f;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/FontDialogPreference;",
+        "method": "openFilePicker()V",
+        "call": "invoke-static {v1, v0, v2}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/InvitationDialog$c;",
+        "method": "onClick(Landroid/view/View;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/InvitationDialog$d;",
+        "method": "onClick(Landroid/view/View;)V",
+        "call": "invoke-static {p1, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/InvitationDialog$e;",
+        "method": "onClick(Landroid/view/View;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/LanguageEditActivityInte$b;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {p1, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/LanguageListActivity$c;",
+        "method": "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/LanguageListActivity$d;",
+        "method": "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/LanguageListActivityInte$l;",
+        "method": "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/LanguageListActivityInte$n;",
+        "method": "a(Lcom/cootek/smartinput5/ui/settings/CustomCheckBoxPreference;)V",
+        "call": "invoke-static {p1, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/PluginSettings;",
+        "method": "b(Lcom/cootek/smartinput5/ui/settings/PluginPreference;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/SkinActivity;",
+        "method": "i(Landroid/content/Intent;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/SkinCustomizeActivity$f;",
+        "method": "onClick(Landroid/view/View;)V",
+        "call": "invoke-static {v0, p1, v1}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/SkinCustomizeActivity;",
+        "method": "O0(Landroid/net/Uri;)V",
+        "call": "invoke-static {p0, v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/SkinCustomizeActivity;",
+        "method": "n0()V",
+        "call": "invoke-static {p0, v2, v1}, Lcom/cootek/smartinput5/settings/Offline163;->result(Landroid/app/Activity;Landroid/content/Intent;I)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/TypingSpeedActivity$b;",
+        "method": "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/TypingSpeedHandler;",
+        "method": "feelTheSpeed(Ljava/lang/String;)V",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/s/a$i;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/settings/s/a$o;",
+        "method": "onPreferenceClick(Landroid/preference/Preference;)Z",
+        "call": "invoke-static {v0, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/skinappshop/StoreActivity$c;",
+        "method": "handleMessage(Landroid/os/Message;)V",
+        "call": "invoke-static {v0, v1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/skinappshop/m$c;",
+        "method": "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z",
+        "call": "invoke-static {p1, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/ui/skinappshop/m$c;",
+        "method": "shouldOverrideUrlLoading(Landroid/webkit/WebView;Ljava/lang/String;)Z",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/urlnavigator/RecommendedURLHandler;",
+        "method": "onClick(Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p1, p2}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/urlnavigator/d;",
+        "method": "e(ILjava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p2, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinput5/urlnavigator/d;",
+        "method": "l(ILjava/lang/Object;)Z",
+        "call": "invoke-static {p2, p1}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/smartinputv5/SettingsActivity;",
+        "method": "o()V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/tark/privacy/d;",
+        "method": "B(Landroid/content/Context;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/tark/privacy/d;",
+        "method": "y(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/tark/privacy/d;",
+        "method": "z(Landroid/content/Context;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      },
+      {
+        "cls": "Lcom/cootek/touchpal/commercial/utils/l;",
+        "method": "f(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V",
+        "call": "invoke-static {p0, v0}, Lcom/cootek/smartinput5/settings/Offline163;->start(Landroid/content/Context;Landroid/content/Intent;)V"
+      }
+    ],
+    "local_feature_journal_preserved": "DevelopmentHistory, a local assets WebView, unchanged; original online TouchPalFAQActivity removed",
+    "native_grid_byte_exact": "mainentrance.f and normal preview/apply/image/delete callbacks unchanged; obsolete SponsorThemeActivity callback blocked",
+    "unrelated_existing_reference_preserved": "Engine.commitKeyEvent only launches local settings, kept byte-for-byte; preexisting unresolved AdvancedInputConnection.performEditorAction is outside163 and not changed",
+    "guarded_native_launch_calls": 158,
+    "bounded_native_methods": 153,
+    "phone_tested": false
+  },
+  "offline163_policy": {
+    "removed_components": [
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.vip.PurchaseVipActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.vip.VipRenewActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.settings.SkinDownloadActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.net.DownloadReceiver",
+        "actions": []
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.SuperDictDownloadReceiver",
+        "actions": [
+          "com.cootek.smartinputv5.INTERNAL_ACTION.superdict_download"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.PresentVipNotificationReceiver",
+        "actions": []
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.LocaleLanguageDownloadReceiver",
+        "actions": [
+          "com.cootek.smartinputv5.INTERNAL_ACTION.download_locale_langauge"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.OemSkinDownloadReceiver",
+        "actions": [
+          "com.cootek.smartinputv5.INTERNAL_ACTION.download_oem_skin"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.CloudSyncTipReceiver",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.settings.RateUsActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.vip.InviteGetVipActivity",
+        "actions": [
+          "android.intent.action.MAIN",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_INVITE_PRESENT_VIP"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.settings.TouchPalCloudActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.settings.JoinBetaActivity",
+        "actions": []
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.component.AutoUpdateReceiver",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.control.CancelDownloadActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.control.RetryDownloadActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.settings.TouchPalUpdateActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.WebPageLoader",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.plugin.twitter.AuthorizeActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.plugin.twitter.FollowActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.plugin.twitter.ShareActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.plugin.twitter.TwitterDialog",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.mainentrance.MainEntranceActivity",
+        "actions": [
+          "android.intent.action.MAIN",
+          "com.cootek.smartinput5.ui.settings.MainEntranceActivity.action.START",
+          "com.cootek.smartinput5.ui.settings.MainEntranceActivity.action.HOTWORD"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.presentations.NotificationActionReceiver",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.presentations.PresentationWebviewActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.presentations.DownloadInStatusActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.presentations.ActionConfirmActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.presentations.PresentationLaunchLocalPageActivity",
+        "actions": [
+          "com.cootek.smartinputv5.HOTWORD",
+          "com.cootek.smartinputv5.BACKUP",
+          "com.cootek.smartinputv5.IMPORT_CONTACTS",
+          "com.cootek.smartinputv5.CLOUD_BACKUP",
+          "com.cootek.smartinputv5.CHECK_ANONYMOUS_CALL_LOG",
+          "com.cootek.smartinputv5.LEARN_TEXT",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_TOUCHPAL_CLOUD",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_PURCHASE_VIP",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_DIY_THEME",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_LANGUAGE",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_CELL",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_MORE",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_BOOMTEXT",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_TRENDS_RECOMMENDER",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_TRENDS_DETAIL",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN_DETAIL",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_CELL_DETAIL",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_MORE_DETAIL",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN_FONT",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_LANGUAGE",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_CELL",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_MORE",
+          "android.intent.action.VIEW",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_PURCHASE_THEME",
+          "com.cootek.smartinput5.LOCAL_PAGE_JACKPOT",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.ACTION_SUMMARY",
+          "com.cootek.smartinput5.ACTION_APP_WALL",
+          "com.cootek.smartinput.intent.action.SHOW_EMOJI_STORE_PAGE",
+          "com.cootek.smartinput.intent.action.SHOW_STICKER_STORE_PAGE",
+          "com.cootek.smartinput.intent.action.SHOW_BOOMTEXT_STORE_PAGE",
+          "com.cootek.smartinput5.ACTION_NEWS"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.net.login.TCloudShowActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.net.login.TLoginActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.net.login.FindPasswordActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.net.login.FacebookLoginWebViewActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.net.login.GoogleLoginWebviewActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.net.login.TwitterLoginWebviewActivity",
+        "actions": []
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.presentation.service.PresentationServiceReceiver",
+        "actions": []
+      },
+      {
+        "type": "service",
+        "name": "com.cootek.presentation.service.PresentationService",
+        "actions": []
+      },
+      {
+        "type": "service",
+        "name": "com.cootek.smartinput5.presentations.BindService",
+        "actions": []
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.presentations.ActionCallbackReceiver",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.iab.google.ControlActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.iab.PurchaseChannelChooseActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.presentation.service.ShortcutActionHandler",
+        "actions": [
+          "intent.action.desktop.SHORTCUT_HANDLE"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.ReferrerReceiver",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.settings.TouchPalFAQActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.skin.purchase.PurchaseThemeActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.skin.SponsorThemeReceiver",
+        "actions": [
+          "com.cootek.smartinputv5.INTERNAL_ACTION.ACTION_SHOW_SPONSOR_NOTIFICATION",
+          "com.cootek.smartinputv5.INTERNAL_ACTION.ACTION_LAUNCH_SPONSOR_THEME"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.func.skin.SponsorThemeActivity",
+        "actions": [
+          "android.intent.action.MAIN"
+        ]
+      },
+      {
+        "type": "receiver",
+        "name": "com.cootek.smartinput5.func.skin.purchase.PurchaseReceiver",
+        "actions": [
+          "com.cootek.smartinput.intent.action.PLUGIN_PURCHASE_FINISH",
+          "com.cootek.smartinput.intent.action.SAVE_PAID_THEME"
+        ]
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.TrendsDetailActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.skinappshop.StoreDetailActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.skinappshop.EmojiStoreActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.skinappshop.StickerStoreActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.smartinput5.ui.skinappshop.BoomTextStoreActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.touchpal.commercial.suggestion.widget.OnePixelActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.tark.privacy.PrivacySettingsActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.tark.privacy.PrivacyPolicyLocalActivity",
+        "actions": []
+      },
+      {
+        "type": "activity",
+        "name": "com.cootek.TPDeepLinkActivity",
+        "actions": []
+      }
+    ],
+    "removed_permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING"
+    ],
+    "retained_native_theme_activity": "com.cootek.smartinput5.ui.skinappshop.StoreActivity",
+    "theme_start_page": 11,
+    "external_web_links_allowed_only_from": "com.cootek.smartinput5.settings.AboutPage149",
+    "previous_internet_permission_present": false,
+    "state_only_permissions_retained": "ACCESS_NETWORK_STATE/ACCESS_WIFI_STATE do not grant sockets; preserve native checks without new SecurityExceptions"
+  },
+  "journal_records163": {
+    "feature_cards": 29,
+    "chronology_entries": 152,
+    "excel_rows_including_header": 153,
     "updated_existing_cards": [
       "settings"
     ],

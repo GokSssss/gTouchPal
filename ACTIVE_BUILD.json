@@ -6,8 +6,8 @@
   "base_mod_version": "162",
   "apk": "output/163-TouchPalG-6.2.7.1.apk",
   "build_instructions": "BUILD_163.txt",
-  "status": "working",
-  "published_immutable": false,
-  "last_published_version": "162",
-  "last_published_apk": "output/162-TouchPalG-6.2.7.1.apk"
+  "status": "published_verified",
+  "published_immutable": true,
+  "last_published_version": "163",
+  "last_published_apk": "output/163-TouchPalG-6.2.7.1.apk"
 }

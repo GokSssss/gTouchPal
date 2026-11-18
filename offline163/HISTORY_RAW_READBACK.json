@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+  "bytes": 63184023,
+  "sha256": "aecb5b20017fb11c3406dcf1819d75eaca5538ddd5d81b1f5307ba9aa3bef54a",
+  "manifest_hashes": 9860,
+  "entries": 9861,
+  "all9805_old_payloads_preserved": true,
+  "downloaded_raw": true,
+  "crc_and_every_payload_verified": true,
+  "initial_download_incomplete_bytes": 36700160,
+  "resumed_with_verified_http_ranges": true
+}

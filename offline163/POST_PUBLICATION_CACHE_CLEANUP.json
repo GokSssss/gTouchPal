@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "release_artifacts_unchanged": true,
+  "removed_reproducible_caches": [
+    "decoded",
+    "helper_decoded",
+    "compile_classes",
+    "helper_classes",
+    "tests/classes",
+    "tests/framework/target",
+    "tests/framework/generated",
+    "tests/framework/external",
+    "rebuilt.apk",
+    "unsigned.apk",
+    "helpers.apk",
+    "helpers.zip",
+    "helpers.jar",
+    "contracts.jar",
+    "retired local SOURCE161 download"
+  ],
+  "current_history163_and_base_history162_retained": true,
+  "signing_files_not_published": true
+}

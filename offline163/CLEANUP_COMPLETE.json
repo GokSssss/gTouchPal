@@ -1,0 +1,40 @@
+{
+  "status": "COMPLETE",
+  "date": "2026-11-18",
+  "retained_complete": [
+    "163",
+    "162"
+  ],
+  "removed": [
+    {
+      "id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+      "bytes": 4213516,
+      "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+    },
+    {
+      "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+      "bytes": 6470,
+      "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+    },
+    {
+      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+      "bytes": 33462601,
+      "reason": "Retired161 SOURCE/passport after exact history preservation; obsolete160 input no longer consumed"
+    }
+  ],
+  "removed_bytes": 37682587,
+  "removed_empty_folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+  "moved161_input": {
+    "status": "PASS",
+    "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+    "bytes": 33500335,
+    "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+    "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+    "same_id_and_bytes": true
+  },
+  "history_id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
+  "history_raw_verified": true,
+  "checkpoints11_and_prototype154_preserved": true,
+  "github_old_releases_unchanged": true,
+  "protected_sizes_and_ids_checked": true
+}

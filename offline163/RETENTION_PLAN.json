@@ -1,0 +1,120 @@
+{
+  "current": {
+    "version": "163",
+    "folder_id": "1Zvln34sXCfz7AXvEpzq3xrshHgoHBCkd",
+    "folder_url": "https://drive.google.com/drive/folders/1Zvln34sXCfz7AXvEpzq3xrshHgoHBCkd",
+    "original_folder_name": "163 — штатные темы и удаление сетевых экранов",
+    "protected": false,
+    "location": "root",
+    "reason": "Original native T-shirt action/local installed themes; retire obsolete online screens",
+    "apk_id": "1kkEyFY7zrCwbWM8siWVV_vOrLyTehOoq",
+    "apk_name": "163-TouchPalG-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1kkEyFY7zrCwbWM8siWVV_vOrLyTehOoq/view",
+    "apk_bytes": 33499721,
+    "apk_sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+    "apk_raw_readback_verified": true,
+    "source_id": "1uqszI4sAjgPMW-CXCagopymiO-9G_BeB",
+    "source_name": "163-TouchPalG-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1uqszI4sAjgPMW-CXCagopymiO-9G_BeB/view",
+    "source_bytes": 1912882,
+    "source_sha256": "c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1RIxBPm6j-iRHOCmt2Fb9IsIHRhx6A-Th",
+        "name": "163-TouchPalG-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1RIxBPm6j-iRHOCmt2Fb9IsIHRhx6A-Th/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v163",
+    "github_tag": "v163",
+    "github_commit": "aace4b6d18e2fa2cd59fcd2dc8bc95ac745bfe4e",
+    "phone_or_art_tested": false,
+    "status": "published_verified",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact artifacts verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE frozen once and isolated rebuild byte-identical; downloaded SOURCE exact bytes verified"
+  },
+  "previous": {
+    "version": "162",
+    "folder_id": "1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
+    "folder_url": "https://drive.google.com/drive/folders/1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
+    "original_folder_name": "162 — штатное меню тем TouchPalG",
+    "protected": false,
+    "location": "root",
+    "reason": "Original native installed-theme grid and first entry in TouchPalG additions",
+    "apk_id": "1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM",
+    "apk_name": "162-TouchPalG-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM/view",
+    "apk_bytes": 33501279,
+    "apk_sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "apk_raw_readback_verified": true,
+    "source_id": "1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4",
+    "source_name": "162-TouchPalG-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4/view",
+    "source_bytes": 1491350,
+    "source_sha256": "c566b9311cdd7730946095aa373e035ca5f5e595f045fe3f8f508c476e1a4cd4",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN",
+        "name": "162-TouchPalG-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v162",
+    "github_tag": "v162",
+    "github_commit": "93407b9a099f0b33d741059fdc74661314795a22",
+    "phone_or_art_tested": false,
+    "status": "published_verified",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact artifacts verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE frozen once and isolated rebuild byte-identical; downloaded SOURCE exact bytes verified"
+  },
+  "retire": {
+    "version": "161",
+    "folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "folder_url": "https://drive.google.com/drive/folders/1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
+    "original_folder_name": "161 — TouchPalG: оформление и компактные копии",
+    "protected": false,
+    "location": "root",
+    "reason": "Owner-approved TouchPalG branding and compact capsule backup layout",
+    "apk_id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+    "apk_name": "161-TouchPalG-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG/view",
+    "apk_bytes": 33500335,
+    "apk_sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+    "apk_raw_readback_verified": true,
+    "source_id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+    "source_name": "161-TouchPalG-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92/view",
+    "source_bytes": 4213516,
+    "source_sha256": "74c14ff8ce680c2a567ad1dd736c3876fc37b10bc206be6b403ef37f2d965d88",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+        "name": "161-TouchPalG-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v161",
+    "github_tag": "v161",
+    "github_commit": "5c0f5ffde11b618b41dfdeaff04d4941d4f1876f",
+    "phone_or_art_tested": false,
+    "status": "published_verified",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact files verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file"
+  },
+  "obsolete_input": {
+    "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+    "version": "160",
+    "bytes": 33462601
+  },
+  "input_move": "161APK same ID to Inputs for SOURCE162",
+  "keep_key_checkpoints": 11,
+  "prototype154_retained": true,
+  "history_before_cleanup_required": true,
+  "retiring_artifacts_raw_verified": true
+}

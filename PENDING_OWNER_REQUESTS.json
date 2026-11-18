@@ -428,10 +428,13 @@
     },
     {
       "id": "theme163-native-shirt-offline",
-      "status": "in_progress",
+      "status": "implemented_published163",
       "reported_version": 162,
       "scope": "Delegate settings to original shirt action; native local StoreActivity; remove obsolete web activities/entrypoints except About external links; INTERNET already absent in162",
-      "owner_phone_after_fix_tested": false
+      "owner_phone_after_fix_tested": false,
+      "published_version": 163,
+      "after_fix_phone_tested": false,
+      "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v163"
     }
   ],
   "clarifications_only": {
@@ -447,9 +450,12 @@
   "current_source_work": {
     "version": 163,
     "directory": "offline163",
-    "status": "working",
-    "last_published_version": 162,
-    "apk_built": false
+    "status": "published_verified",
+    "last_published_version": 163,
+    "apk_built": true,
+    "final_source_frozen": true,
+    "isolated_byte_identical": true,
+    "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v163"
   },
   "deferred_next_work": {
     "id": "backup161-layout-branding-deferred",

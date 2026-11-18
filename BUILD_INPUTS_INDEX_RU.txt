@@ -20,12 +20,12 @@ SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
 ID 1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl
 SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
 
-160-gTouchPal-6.2.7.1.apk → branding161/build.py
-ID 1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38
-SHA256 8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd
+161-TouchPalG-6.2.7.1.apk → theme162/build.py
+ID 15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG
+SHA256 1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d
 
-160APK один раз перенесён из старого выпуска с прежним ID и raw SHA256 для SOURCE161.
-SOURCE162 использует161APK из предыдущего полного выпуска, отдельная копия во Входах не создаётся.
-153APK остаётся нужен прототипу154; прочие4входа — выбранным контрольным точкам.
-159APK снят после удаления SOURCE160 и полной проверки новых/сохраняемых файлов и истории.
+161APK один раз перенесён с прежнимID/rawSHA256 для SOURCE162.
+SOURCE163 использует162APK из предыдущего полного выпуска, без отдельного дубликата во Входах.
+153APK нужен прототипу154; прочие4входа — выбранным контрольным точкам.
+160APK снят после удаления SOURCE161 и проверки новых/сохраняемых файлов и истории.
 Подпись: https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW

@@ -1,0 +1,44 @@
+{
+  "163-TouchPalG-6.2.7.1.apk": {
+    "id": "1kkEyFY7zrCwbWM8siWVV_vOrLyTehOoq",
+    "path": "/workspace/touchpal/runtime163/drive-readback/163-TouchPalG-6.2.7.1.apk",
+    "bytes": 33499721,
+    "sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+    "status": "PASS"
+  },
+  "163-TouchPalG-SOURCE-6.2.7.1.zip": {
+    "id": "1uqszI4sAjgPMW-CXCagopymiO-9G_BeB",
+    "path": "/workspace/touchpal/runtime163/drive-readback/163-TouchPalG-SOURCE-6.2.7.1.zip",
+    "bytes": 1912882,
+    "sha256": "c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98",
+    "status": "PASS"
+  },
+  "163-TouchPalG-Passport-6.2.7.1.txt": {
+    "id": "1RIxBPm6j-iRHOCmt2Fb9IsIHRhx6A-Th",
+    "path": "/workspace/touchpal/runtime163/drive-readback/163-TouchPalG-Passport-6.2.7.1.txt",
+    "bytes": 5709,
+    "sha256": "46aa66bd01bafc4458ea7c945f0b15ddb4a3602d2a38bf000af889ba576525a2",
+    "status": "PASS"
+  },
+  "162-TouchPalG-6.2.7.1.apk": {
+    "id": "1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM",
+    "path": "/workspace/touchpal/runtime163/drive-readback/162-TouchPalG-6.2.7.1.apk",
+    "bytes": 33501279,
+    "sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "status": "PASS"
+  },
+  "162-TouchPalG-Passport-6.2.7.1.txt": {
+    "id": "1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN",
+    "path": "/workspace/touchpal/runtime163/drive-readback/162-TouchPalG-Passport-6.2.7.1.txt",
+    "bytes": 4324,
+    "sha256": "dbdc29e217a6124a5de2dea6f4317870cd2047ebb489819d851e4a973f29307d",
+    "status": "PASS"
+  },
+  "162-TouchPalG-SOURCE-6.2.7.1.zip": {
+    "id": "1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4",
+    "path": "/workspace/touchpal/runtime163/drive-readback/162-TouchPalG-SOURCE-6.2.7.1.zip",
+    "bytes": 1491350,
+    "sha256": "c566b9311cdd7730946095aa373e035ca5f5e595f045fe3f8f508c476e1a4cd4",
+    "status": "PASS"
+  }
+}

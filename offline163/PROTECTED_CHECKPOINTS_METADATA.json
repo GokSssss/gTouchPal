@@ -1,0 +1,216 @@
+{
+  "status": "PASS",
+  "scope": "Fresh metadata IDs/sizes/parents for11 protected checkpoints; T9+DelFix has known missing SOURCE; historical raw bytes not downloaded again",
+  "files": [
+    {
+      "version": "TEST80",
+      "kind": "apk",
+      "id": "1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj",
+      "bytes": 20042413,
+      "parent": "17AcRrWqvewOehPE5s4146epfH063dFZw",
+      "name": "TEST80_TouchPal_HOLD_COORDS_MENU.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST80",
+      "kind": "source",
+      "id": "1aNIbFek9CkBz5FakK471WkVQyBF4dkR_",
+      "bytes": 402818,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST80_TouchPal_HOLD_COORDS_MENU_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST72",
+      "kind": "apk",
+      "id": "1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm",
+      "bytes": 20046191,
+      "parent": "1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+      "name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST72",
+      "kind": "source",
+      "id": "18rGj7u6Hmt9q6mCyx9s47NLntdTomRul",
+      "bytes": 315077,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST72_TouchPal_MANUAL_DIAGNOSTICS_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST15",
+      "kind": "apk",
+      "id": "1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS",
+      "bytes": 19971102,
+      "parent": "1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+      "name": "TEST15_TouchPal_DARK_UI.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST15",
+      "kind": "source",
+      "id": "1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j",
+      "bytes": 43428,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST15_TouchPal_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST21",
+      "kind": "apk",
+      "id": "1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R",
+      "bytes": 19979295,
+      "parent": "16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+      "name": "TEST21_TouchPal_CURSOR_RETREAT.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST21",
+      "kind": "source",
+      "id": "1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ",
+      "bytes": 159528,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST21_TouchPal_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST34",
+      "kind": "apk",
+      "id": "10DJBEZjuktzwTcTcWm973-MmAzS9_kqU",
+      "bytes": 19979289,
+      "parent": "18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+      "name": "TEST34_TouchPal_CLEAN_PHYSICAL.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST34",
+      "kind": "source",
+      "id": "1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4",
+      "bytes": 57808,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST34_TouchPal_CLEAN_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST36",
+      "kind": "apk",
+      "id": "1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx",
+      "bytes": 20002465,
+      "parent": "1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+      "name": "TEST36_TouchPal_SYSTEM_SPELLCHECK.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST36",
+      "kind": "source",
+      "id": "13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ",
+      "bytes": 82726,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST36_TouchPal_SYSTEM_SPELLCHECK_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "T9+DelFix",
+      "kind": "apk",
+      "id": "1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI",
+      "bytes": 20058328,
+      "parent": "1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+      "name": "T9+DelFix_TouchPal.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST40",
+      "kind": "apk",
+      "id": "1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC",
+      "bytes": 20000440,
+      "parent": "1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+      "name": "TEST40_TouchPal_FINAL.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST40",
+      "kind": "source",
+      "id": "1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_",
+      "bytes": 297358,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST40_TouchPal_FINAL_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "DelFix T10",
+      "kind": "apk",
+      "id": "14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb",
+      "bytes": 25627277,
+      "parent": "1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+      "name": "T10_TouchPal_DeleteFix_FINAL_SIGNED.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "DelFix T10",
+      "kind": "source",
+      "id": "1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV",
+      "bytes": 17602,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST90",
+      "kind": "apk",
+      "id": "1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1",
+      "bytes": 20070937,
+      "parent": "1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+      "name": "TEST90_TouchPal_SYMBOL_PICKER.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST90",
+      "kind": "source",
+      "id": "14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr",
+      "bytes": 420749,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "TEST90_TouchPal_SYMBOL_PICKER_sources.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "135",
+      "kind": "apk",
+      "id": "17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s",
+      "bytes": 26909474,
+      "parent": "1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+      "name": "135-TouchPal T9 DelFix-6.2.7.1.apk",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "135",
+      "kind": "source",
+      "id": "1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto",
+      "bytes": 916688,
+      "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT",
+      "name": "135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    }
+  ]
+}

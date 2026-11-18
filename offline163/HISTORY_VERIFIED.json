@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "bytes": 63184023,
+  "sha256": "aecb5b20017fb11c3406dcf1819d75eaca5538ddd5d81b1f5307ba9aa3bef54a",
+  "entries": 9861,
+  "manifest_hashes": 9860,
+  "old_payloads_preserved": 9805,
+  "added_payloads": 55,
+  "stages": 168,
+  "individual_logs": 167,
+  "implementation_patches": 7015,
+  "new_implementation_items": 23,
+  "full_old_apk_or_source_added": false,
+  "exact_retiring161_passport_and_manifest_preserved": true,
+  "published162_closure_preserved": true,
+  "owner_media_not_added": true
+}

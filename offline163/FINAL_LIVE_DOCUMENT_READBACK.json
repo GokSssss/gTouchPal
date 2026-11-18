@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "documents": [
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "file": "10База!",
+      "bytes": 328347,
+      "sha256": "42b7f2777abc7c9478f33aa02814e4498c00c7ed2e409cf48393fe004c602b24",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+      "file": "TouchPal_FEATURES_RU.txt",
+      "bytes": 172634,
+      "sha256": "0bb65e55e74b930ad8dece52b7fe6e36acc20edca1c654fdb3a88a1795af1295",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "file": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 670920,
+      "sha256": "b4119b65ab9601be00a1f88d045f189a699d122ec543876b3a2e719f8fae4afe",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+      "file": "PROJECT_STORAGE.json",
+      "bytes": 595887,
+      "sha256": "04e64b6fb784c6947d33dd5749db6b1ad25d6b2c77657ff6bc91d85e713ca8ed",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+      "file": "CHECKPOINTS_RU.txt",
+      "bytes": 18944,
+      "sha256": "ec7b2a83042c863f1adcfbd2863af5c85a7f2b05de75fa0e6a30e449e93a06ca",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+      "file": "SOURCE_INDEX_RU.txt",
+      "bytes": 3824,
+      "sha256": "6f903fe2050a5e61c2e85af27344f411ea1aaeb7bf157dd42d55887d45bcce3a",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+      "file": "BUILD_INPUTS_INDEX_RU.txt",
+      "bytes": 1708,
+      "sha256": "ca8163067f7deaf36723a9c32c4a3e630cc5272ea14a4a981e081eb72532d00c",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    },
+    {
+      "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+      "file": "TouchPal_Нововведения_от_DelFix.xlsx",
+      "bytes": 39641,
+      "sha256": "a7dfe44bff635a8ee0caab38e66494552c73e786472113a86625c994c7bac4f9",
+      "status": "PASS",
+      "same_id": true,
+      "raw_readback": true
+    }
+  ],
+  "all_eight_raw_bytes_match": true
+}

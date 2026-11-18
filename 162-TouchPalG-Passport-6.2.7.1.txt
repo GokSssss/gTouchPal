@@ -1,0 +1,49 @@
+TouchPalG162 — паспорт проверочного выпуска ·18.11.2026
+Package com.cootek.smartinputv5; основа TouchPal Keyboard6.2.7.1.
+Версия10075/6.2.7.1-162. Установка поверх161 без удаления приложения.
+Исходная6.2.7.1/code9999 подтвержденаAPK:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+SHA256469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06
+Прямой вход161-TouchPalG-6.2.7.1.apk,33500335байт,
+SHA2561a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d
+https://github.com/GokSssss/gTouchPal/releases/download/v161/161-TouchPalG-6.2.7.1.apk
+
+APK162-TouchPalG-6.2.7.1.apk
+Байт:33501279; SHA256:83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2
+SOURCE:162-TouchPalG-SOURCE-6.2.7.1.zip
+Байт:1491350; SHA256:c566b9311cdd7730946095aa373e035ca5f5e595f045fe3f8f508c476e1a4cd4; manifest:293файла.
+Финальный SOURCE заморожен один раз, изолированно пересобран в побайтово
+тот же подписанныйAPK; опубликованные161/160/прежние теги не переписаны.
+GitHub:https://github.com/GokSssss/gTouchPal/releases/tag/v162
+Код v162:93407b9a099f0b33d741059fdc74661314795a22
+
+Что изменено: пункт Тема клавиатуры открывает существующий штатный
+MainEntranceActivity/tabNumber0 с native mainentrance.f/GridView,
+превью/текущей темой/исходными callbacks. Наш список Customize/вызовы B0/U0
+в этом входе убраны. Пункт первый в Дополнения TouchPalG после группировки;
+повторная установка не дублируетPreference. Порядки0..N исключают overflow
+штатного Preference.compareTo при Integer.MIN_VALUE.
+
+47framework сценариев PASS:5новых для Intent/noAlertDialog/noURL,
+порядка/повторного входа/миграции/неосновной страницы/finish;42прежних
+Backup/Downloads/CREATE_DOCUMENT/readback/recreation/PopupWindow/TPL.
+Native grid/preview/selection classes не меняются. Путь подтверждён по
+smali актуального подписанногоAPK и реальному frameworkIntent; реальный
+native/JNI выбор и сохранение темы на телефоне после162 не проверены.
+Нативные boundary вframework явные, телефонная приёмка не заявляется.
+ActualDEX/API16 PASS;10234исходных класса сравнены,0vendor методов,
+15ownсемейств/90классов. Удалены2устаревших собственных класса диалога.
+Все resources/ARSC/icon/classes2/native/ROM/TPL/physical subtype IDs неизменны161.
+Manifest меняет только номер/версию, компоненты/permissions сохранены.
+Имя/жёлтая иконка TouchPalG, Backup-капсулы, внешняя дополнительная копия,
+красное напоминание, floatingPopupWindow и TPL вЯзыках сохраняются.
+Рабочий getExternalFilesDir(null)/TouchPalG, Backup/privateUSR/native staging
+не меняются. Внутренние файлы удаляются при uninstall; обновлять поверх.
+
+Прежний сертификатSHA256:0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+Подписьv1/v2/v3. Ключ/параметры свежо скачаны в этом запуске из обычнойпапки:
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+Прежние значения/ключи не менялись. Private signing material и частные
+фотографии владельца не публикуются. Исходники/рецепт BUILD_162.txt.
+Ретенция после readbacks: полные162/161,11прежних точек и прототип154;
+история/точный паспорт и manifest160 сохраняются до очистки160SOURCE.

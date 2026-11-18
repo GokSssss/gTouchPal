@@ -1,0 +1,16 @@
+{
+  "apk": {
+    "id": "1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM",
+    "bytes": 33501279,
+    "sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "raw_readback_equal": true,
+    "parent": "1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy"
+  },
+  "source": {
+    "id": "1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4",
+    "bytes": 1491350,
+    "sha256": "c566b9311cdd7730946095aa373e035ca5f5e595f045fe3f8f508c476e1a4cd4",
+    "raw_readback_equal": true,
+    "parent": "1KMvQGvhUkBzCSM2HCn7Vi762houVHPPT"
+  }
+}

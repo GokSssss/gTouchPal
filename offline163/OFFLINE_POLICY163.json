@@ -1,0 +1,380 @@
+{
+  "removed_components": [
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.vip.PurchaseVipActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.vip.VipRenewActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.settings.SkinDownloadActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.net.DownloadReceiver",
+      "actions": []
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.SuperDictDownloadReceiver",
+      "actions": [
+        "com.cootek.smartinputv5.INTERNAL_ACTION.superdict_download"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.PresentVipNotificationReceiver",
+      "actions": []
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.LocaleLanguageDownloadReceiver",
+      "actions": [
+        "com.cootek.smartinputv5.INTERNAL_ACTION.download_locale_langauge"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.OemSkinDownloadReceiver",
+      "actions": [
+        "com.cootek.smartinputv5.INTERNAL_ACTION.download_oem_skin"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.CloudSyncTipReceiver",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.settings.RateUsActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.vip.InviteGetVipActivity",
+      "actions": [
+        "android.intent.action.MAIN",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_INVITE_PRESENT_VIP"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.settings.TouchPalCloudActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.settings.JoinBetaActivity",
+      "actions": []
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.component.AutoUpdateReceiver",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.control.CancelDownloadActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.control.RetryDownloadActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.settings.TouchPalUpdateActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.WebPageLoader",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.plugin.twitter.AuthorizeActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.plugin.twitter.FollowActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.plugin.twitter.ShareActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.plugin.twitter.TwitterDialog",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.mainentrance.MainEntranceActivity",
+      "actions": [
+        "android.intent.action.MAIN",
+        "com.cootek.smartinput5.ui.settings.MainEntranceActivity.action.START",
+        "com.cootek.smartinput5.ui.settings.MainEntranceActivity.action.HOTWORD"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.presentations.NotificationActionReceiver",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.presentations.PresentationWebviewActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.presentations.DownloadInStatusActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.presentations.ActionConfirmActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.presentations.PresentationLaunchLocalPageActivity",
+      "actions": [
+        "com.cootek.smartinputv5.HOTWORD",
+        "com.cootek.smartinputv5.BACKUP",
+        "com.cootek.smartinputv5.IMPORT_CONTACTS",
+        "com.cootek.smartinputv5.CLOUD_BACKUP",
+        "com.cootek.smartinputv5.CHECK_ANONYMOUS_CALL_LOG",
+        "com.cootek.smartinputv5.LEARN_TEXT",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_TOUCHPAL_CLOUD",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_PURCHASE_VIP",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_DIY_THEME",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_LANGUAGE",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_CELL",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_MORE",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_BOOMTEXT",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_TRENDS_RECOMMENDER",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_TRENDS_DETAIL",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN_DETAIL",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_CELL_DETAIL",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_MORE_DETAIL",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN_FONT",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_SKIN",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_LANGUAGE",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_CELL",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_SHOP_MORE",
+        "android.intent.action.VIEW",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.LOCAL_PAGE_PURCHASE_THEME",
+        "com.cootek.smartinput5.LOCAL_PAGE_JACKPOT",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.ACTION_SUMMARY",
+        "com.cootek.smartinput5.ACTION_APP_WALL",
+        "com.cootek.smartinput.intent.action.SHOW_EMOJI_STORE_PAGE",
+        "com.cootek.smartinput.intent.action.SHOW_STICKER_STORE_PAGE",
+        "com.cootek.smartinput.intent.action.SHOW_BOOMTEXT_STORE_PAGE",
+        "com.cootek.smartinput5.ACTION_NEWS"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.net.login.TCloudShowActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.net.login.TLoginActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.net.login.FindPasswordActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.net.login.FacebookLoginWebViewActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.net.login.GoogleLoginWebviewActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.net.login.TwitterLoginWebviewActivity",
+      "actions": []
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.presentation.service.PresentationServiceReceiver",
+      "actions": []
+    },
+    {
+      "type": "service",
+      "name": "com.cootek.presentation.service.PresentationService",
+      "actions": []
+    },
+    {
+      "type": "service",
+      "name": "com.cootek.smartinput5.presentations.BindService",
+      "actions": []
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.presentations.ActionCallbackReceiver",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.iab.google.ControlActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.iab.PurchaseChannelChooseActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.presentation.service.ShortcutActionHandler",
+      "actions": [
+        "intent.action.desktop.SHORTCUT_HANDLE"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.ReferrerReceiver",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.settings.TouchPalFAQActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.skin.purchase.PurchaseThemeActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.skin.SponsorThemeReceiver",
+      "actions": [
+        "com.cootek.smartinputv5.INTERNAL_ACTION.ACTION_SHOW_SPONSOR_NOTIFICATION",
+        "com.cootek.smartinputv5.INTERNAL_ACTION.ACTION_LAUNCH_SPONSOR_THEME"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.func.skin.SponsorThemeActivity",
+      "actions": [
+        "android.intent.action.MAIN"
+      ]
+    },
+    {
+      "type": "receiver",
+      "name": "com.cootek.smartinput5.func.skin.purchase.PurchaseReceiver",
+      "actions": [
+        "com.cootek.smartinput.intent.action.PLUGIN_PURCHASE_FINISH",
+        "com.cootek.smartinput.intent.action.SAVE_PAID_THEME"
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.TrendsDetailActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.skinappshop.StoreDetailActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.skinappshop.EmojiStoreActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.skinappshop.StickerStoreActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.smartinput5.ui.skinappshop.BoomTextStoreActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.touchpal.commercial.suggestion.widget.OnePixelActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.tark.privacy.PrivacySettingsActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.tark.privacy.PrivacyPolicyLocalActivity",
+      "actions": []
+    },
+    {
+      "type": "activity",
+      "name": "com.cootek.TPDeepLinkActivity",
+      "actions": []
+    }
+  ],
+  "removed_permissions": [
+    "android.permission.INTERNET",
+    "com.android.vending.BILLING"
+  ],
+  "retained_native_theme_activity": "com.cootek.smartinput5.ui.skinappshop.StoreActivity",
+  "theme_start_page": 11,
+  "external_web_links_allowed_only_from": "com.cootek.smartinput5.settings.AboutPage149",
+  "previous_internet_permission_present": false,
+  "state_only_permissions_retained": "ACCESS_NETWORK_STATE/ACCESS_WIFI_STATE do not grant sockets; preserve native checks without new SecurityExceptions"
+}

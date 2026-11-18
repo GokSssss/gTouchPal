@@ -1,0 +1,1 @@
+PASS163: all resource/icon/subtype bytes unchanged; manifest version and explicit retired network registrations; nameTouchPalG preserved

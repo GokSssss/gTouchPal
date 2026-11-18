@@ -1,13 +1,13 @@
 {
-  "active_directory": "theme162",
-  "version": "162",
-  "mod_version": "162",
-  "base": "161",
-  "base_mod_version": "161",
-  "apk": "output/162-TouchPalG-6.2.7.1.apk",
-  "build_instructions": "BUILD_162.txt",
-  "status": "published_verified",
-  "published_immutable": true,
+  "active_directory": "offline163",
+  "version": "163",
+  "mod_version": "163",
+  "base": "162",
+  "base_mod_version": "162",
+  "apk": "output/163-TouchPalG-6.2.7.1.apk",
+  "build_instructions": "BUILD_163.txt",
+  "status": "working",
+  "published_immutable": false,
   "last_published_version": "162",
   "last_published_apk": "output/162-TouchPalG-6.2.7.1.apk"
 }

@@ -4,6 +4,12 @@
 
 ## Русский
 
+### 163
+
+- «Тема клавиатуры» открывает существующее штатное меню через тот же обработчик, что и кнопка с футболкой.
+- Убраны устаревшие сетевые экраны: «Актуальные слова», «Популярные приложения», магазины, вход и облачные предложения.
+- Ссылки в «О приложении» открываются внешним браузером.
+
 ### 162 · Штатная страница тем
 
 - «Тема клавиатуры» открывает штатную страницу установленных тем с превью и выбором.
@@ -95,6 +101,12 @@
 ---
 
 ## English
+
+### 163
+
+- Keyboard theme uses the same native action as the T-shirt button.
+- Removed obsolete online screens and links to trending words, popular apps, stores, sign-in and cloud offers.
+- About links open in an external browser.
 
 ### 162 · Original theme page
 

@@ -1,0 +1,16 @@
+warning: [options] source value 8 is obsolete and will be removed in a future release
+warning: [options] target value 8 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+3 warnings
+warning: [options] source value 8 is obsolete and will be removed in a future release
+warning: [options] target value 8 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+3 warnings
+I: Using Apktool 2.12.1 on helpers.apk with 4 threads
+I: Copying raw manifest...
+I: Baksmaling classes.dex...
+I: Copying original files...
+I: Copying unknown files...
+Compiled163: 16 own families; 91 classes; maintained own families only

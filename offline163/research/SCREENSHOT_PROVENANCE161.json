@@ -1,0 +1,12 @@
+{
+  "production_source": "src/com/cootek/smartinput5/backup/BackupActivity.java",
+  "test": "Backup158Test.checkCompactPage",
+  "framework": "Robolectric Android34 native graphics",
+  "width_dp": 394,
+  "viewport_height_dp": 740,
+  "font_scale": 1,
+  "phone_path_display_fixture": true,
+  "actual_filesystem": "isolated Robolectric app-owned storage",
+  "photos_or_user_video_included": false,
+  "phone_tested": false
+}

@@ -1,0 +1,30 @@
+{
+  "apk161": {
+    "id": "15haYQHgr5ehR5-nZO56dZBW8p9w9UgdG",
+    "path": "/workspace/touchpal/runtime163/retention-before/apk161.apk",
+    "bytes": 33500335,
+    "sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+    "status": "PASS"
+  },
+  "source161": {
+    "id": "1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92",
+    "path": "/workspace/touchpal/runtime163/retention-before/source161.zip",
+    "bytes": 4213516,
+    "sha256": "74c14ff8ce680c2a567ad1dd736c3876fc37b10bc206be6b403ef37f2d965d88",
+    "status": "PASS"
+  },
+  "passport161": {
+    "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
+    "path": "/workspace/touchpal/runtime163/retention-before/passport161.txt",
+    "bytes": 6470,
+    "sha256": "5130e8fd467a33348258837e6c1692eb771b05cd985a8d796c7f7927845bbfb4",
+    "status": "PASS"
+  },
+  "input160": {
+    "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+    "path": "/workspace/touchpal/runtime163/retention-before/input160.apk",
+    "bytes": 33462601,
+    "sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
+    "status": "PASS"
+  }
+}

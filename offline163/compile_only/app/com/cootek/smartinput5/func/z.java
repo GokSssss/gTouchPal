@@ -1,0 +1,1 @@
+package com.cootek.smartinput5.func;import com.cootek.smartinput5.engine.Okinawa;public class z{public static void G0(android.content.Context context) throws Exception{}public static boolean J0(){return false;}public static z b0(){return null;}public Okinawa m0(){return null;}public i0 v0(){return null;}}

@@ -1,0 +1,63 @@
+{
+  "version": "163",
+  "status": "PASS",
+  "source_sha256": "c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98",
+  "source_files": 420,
+  "apk_sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+  "byte_identical_apk": true,
+  "isolated": true,
+  "steps": [
+    {
+      "stage": "compile_helpers.py",
+      "exit_code": 0,
+      "seconds": 6.78,
+      "stdout_sha256": "b8302e5554adccd38561d14ef7216603507aad1345d9826cb6c5029fb05959d2",
+      "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+    },
+    {
+      "stage": "build.py",
+      "exit_code": 0,
+      "seconds": 25.74,
+      "stdout_sha256": "aaac10b02cd676ee8a4069a0da2063ef788a133cec3ee32ffc25cb50fe4faf4a",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/run_dex_checks.py",
+      "exit_code": 0,
+      "seconds": 14.17,
+      "stdout_sha256": "57d100268af126092af86066b407f91388689e3d9b54bf7717fbac5c93dd8b19",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/check_resources.py",
+      "exit_code": 0,
+      "seconds": 0.56,
+      "stdout_sha256": "69745807158d810fb7d78b80e8c4ea6ece7e613c2af496caf7751c5a9099f1ee",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/check_offline.py",
+      "exit_code": 0,
+      "seconds": 0.16,
+      "stdout_sha256": "195ac406867d440d755f66973919d010a88ea661474a805526ffff987f736b34",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "stage": "tests/framework/run.py",
+      "exit_code": 0,
+      "seconds": 36.06,
+      "stdout_sha256": "b1fc5cd86801a375cceb7222dd4a24b815df880b8d1e2cb1bf7e7d34b0dfd6ed",
+      "stderr_sha256": "ff885469d07449566dcf3052989e9ae27ba5d73f5e87b15137a47d21a8da08e0"
+    },
+    {
+      "stage": "collect_verification163.py",
+      "exit_code": 0,
+      "seconds": 2.61,
+      "stdout_sha256": "dc43accaca540052e41a9b5aec87163c281190bcc6696651a4d7d340e22060ee",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "private_materials_exported": false,
+  "original_inputs_unchanged": true,
+  "android_runtime_executed": false
+}

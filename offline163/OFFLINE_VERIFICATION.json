@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "version": 163,
+  "apk_sha256": "060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2",
+  "base_sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+  "retired_components_absent": 56,
+  "internet_permission_absent": true,
+  "native_shirt_action_shared": true,
+  "native_store_local_page11": true,
+  "native_dark_initialization_before_super": true,
+  "original_grid_preview_and_selection_controller_reused": true,
+  "no_recreated_grid": true,
+  "no_remote_store_navigation": true,
+  "local_journal_preserved": true,
+  "about_two_external_links_preserved": true,
+  "phone_or_art_executed": false
+}

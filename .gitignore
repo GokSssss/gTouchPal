@@ -242,3 +242,20 @@ theme162/retention_before/
 theme162/history162*.zip
 theme162/BACKUP_PAGE158.png
 theme162/BACKUP_PAGE*.png
+
+#163 generated build caches
+offline163/decoded/
+offline163/compile_classes/
+offline163/helper_classes/
+offline163/helper_decoded/
+offline163/helpers.*
+offline163/contracts.jar
+offline163/rebuilt.apk
+offline163/unsigned.apk
+offline163/tests/classes/
+offline163/tests/framework/target/
+offline163/tests/framework/generated/
+offline163/tests/framework/external/
+offline163/retention_before/
+offline163/history163*.zip
+offline163/BACKUP_PAGE*.png

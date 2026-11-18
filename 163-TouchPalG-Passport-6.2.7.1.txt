@@ -1,0 +1,67 @@
+TouchPalG163 · паспорт выпуска18.11.2026
+Основа TouchPal Keyboard6.2.7.1, com.cootek.smartinputv5.
+versionCode10076, versionName6.2.7.1-163. Установка поверх предыдущей версии без удаления.
+
+APK:163-TouchPalG-6.2.7.1.apk
+Байт:33499721
+SHA256:060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2
+SOURCE:163-TouchPalG-SOURCE-6.2.7.1.zip
+Байт:1912882; файлов manifest:420
+SHA256:c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98
+Вход162:33501279байт
+SHA256:83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2
+https://drive.google.com/file/d/1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM/view
+Первичная6.2.7.1/9999 подтверждена оригинальным Android16 APK:
+https://drive.google.com/file/d/1iFuHNMdAdx3nshPp1b62ZXRuJ3t3OISR/view
+SHA256:469f4da1e2c0e678eee7d4956f1636ac0f1e1731ef4d8bea44a43c2e058adb06
+
+Сертификат прежний, v1/v2/v3:
+0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46
+Свежие используемые ключ и параметры скачаны из обычной папки проекта, совпали
+с прежними и проверены подписью. Материалы/значения не экспортированы.
+https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
+
+Изменение163
+Настройки ThemePicker156 -> оригинальный pluginwidget.t.c, как штатная футболка.
+Нативный StoreActivity/start_page11/local установленная вкладка i/p/mainentrance.f.
+В162 ошибочно был выбран MainEntranceActivity с белой сетевой оболочкой.
+Родной GridView/обычный preview/apply/image controller f и local fragments/resources
+сохранены. Store ui.g0 вызывает ThemeMod.initDark до super, как исходный экран.
+Отдельный визуальный аналог UI не создаётся. Первый пункт tp_additions сохранён.
+Фиксирована local11, закрыты detailURL/магазинная навигация/drawer/legacy filters.
+
+По OFFLINE_POLICY163 сняты56регистраций устаревших web/login/cloud/store/
+presentation Activity/receivers/services.153метода118классов изменены только в
+заявленных native launch gates/stock local routing;158native вызовов ограждены.
+INTERNET отсутствовал и в162, отсутствие сохранено; BILLING удалён.
+ACCESS_NETWORK_STATE/WIFI_STATE сохраняют native state checks, интернета не дают.
+Удалённые цели и VIEWwebURL не открываются. Локальные Intent/flags/request codes,
+файловый менеджер, голосовой вызов и SEND/shared files проходят прежними.
+AboutPage149 содержит только2ссылки проекта во внешнем браузере.
+Локальный DevelopmentHistory/WebViewassets сохранён отдельно от удалённого onlineFAQ.
+
+Проверка
+54framework сценария PASS. Actual signed DEX:10232исходныхкласса сравнены,
+153boundednative методов118классов,16ownсемейств/91компилированныйкласс.
+SDK16 для новых helpers, SDK34для исходных guarded hooks; optional Api34cursor
+унаследован. Native/.so/classes2/ARSC/icon/res/ROM/TPL и physical subtypeXML неизменны.
+Подпись/package/данные/системноеTouchPalG/жёлтаяиконка/physicalIDs прежние.
+Итоговый SOURCE заморожен один раз; изолированная пересборка дала побайтово
+тот же подписанный APK и повторно прошла проверки. SOURCE — собственный код,
+контракты/патчи/рецепт поверх закрытого162 APK, не полный код CooTek.
+
+Границы
+ЗакрытыйJNI, AndroidART и реальная смена темы после163 на телефоне не выполнялись.
+Framework doubles nativeengine/parser/provider явно выделены. Исходная unresolved
+ссылка AdvancedInputConnection.performEditorAction в Engine.commitKeyEvent
+не менялась163 и не заявлена исправленной. Этот метод открывает лишь localsettings,
+сохранён byte-for-byte; старый риск не используется как утверждение о тесте телефона.
+
+Сохранённые механизмы
+getExternalFilesDir(null)/TouchPalG/Backup, privateUSR и native staging прежние.
+ZIP/USR/TXT, внешняякопия послеSave, красное напоминание, floating PopupWindow у
+активного блока, Restore/local list, Folder/systemchooser,52dpзоны и капсулы161.
+ВходTPL вЯзыках159 и проверка/backup файла158 сохраняются. YaTouch не изменён.
+Личные фото/видео/signing material не включены. Прежние опубликованные файлы/теги
+не переписываются. Хранятся163/162 и11полезных точек+прототип154; история компактная,
+с логами и малыми патчами.163 — проверочный выпуск до приёмки владельцем.

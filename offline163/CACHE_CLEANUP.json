@@ -1,0 +1,40 @@
+{
+  "reason": "Redundant raw history downloads; every payload already present in verified current history162",
+  "removed": [
+    {
+      "path": "/workspace/touchpal/runtime152/history152-drive.zip",
+      "bytes": 45463190,
+      "preserved_payloads": 9339
+    },
+    {
+      "path": "/workspace/touchpal/runtime152/history151-drive.zip",
+      "bytes": 44387755,
+      "preserved_payloads": 9297
+    },
+    {
+      "path": "/workspace/touchpal/runtime153/history-before.zip",
+      "bytes": 45463190,
+      "preserved_payloads": 9339
+    },
+    {
+      "path": "/workspace/touchpal/runtime153/history-after.zip",
+      "bytes": 46542816,
+      "preserved_payloads": 9382
+    },
+    {
+      "path": "/workspace/touchpal/runtime154/history-before.zip",
+      "bytes": 46542816,
+      "preserved_payloads": 9382
+    },
+    {
+      "path": "/workspace/touchpal/runtime155/history-before.zip",
+      "bytes": 46542816,
+      "preserved_payloads": 9382
+    },
+    {
+      "path": "/workspace/touchpal/runtime156/history-after.zip",
+      "bytes": 60090755,
+      "preserved_payloads": 9530
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+  "bytes": 33462601,
+  "sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
+  "from_parent": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+  "to_parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
+  "same_id_and_sha256": true,
+  "moved_once_without_copy": true,
+  "raw_after_move_verified": true
+}

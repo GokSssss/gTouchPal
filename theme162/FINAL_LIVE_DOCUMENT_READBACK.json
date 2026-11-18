@@ -1,0 +1,93 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "id": "12VOFHP9Owrd7xpfrBoQgfehhrPm8JKrE",
+      "name": "10База!",
+      "drive_name": "10База!.txt",
+      "bytes": 320116,
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "sha256": "92025699b95bcb092d42853b13e9a1549c2a5204a7545a1b21d30ed998e1290e",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1UQHiLSC_v1ZG9aJ5NoCHof6wM6P_vqYY",
+      "name": "TouchPal_FEATURES_RU.txt",
+      "drive_name": "Журнал улучшений TouchPal.txt",
+      "bytes": 171357,
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "sha256": "5611b9928f370144c1aa236ea71d34cefee9efa08214718ebe43bdbd0e80975c",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1sBUg9kyVlNlv_A0JFnVJ6HvM7j0FVtaB",
+      "name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "drive_name": "TouchPal_DEVELOPMENT_LOG_RU.txt",
+      "bytes": 662689,
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "sha256": "464118450af85c357fef3dd534045930964abaf3c6998259b7e4d391b14a70d2",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1EF6hQOD9OL7B9xm9qvDb_DHqtYcd_GsS",
+      "name": "PROJECT_STORAGE.json",
+      "drive_name": "PROJECT_STORAGE.json",
+      "bytes": 509851,
+      "parents": [
+        "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3"
+      ],
+      "sha256": "9c38e30f106d72517da4fc531b1acca13cf5d584f7248d89042432a113e7eb8d",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR",
+      "name": "CHECKPOINTS_RU.txt",
+      "drive_name": "CHECKPOINTS_RU.txt",
+      "bytes": 18604,
+      "parents": [
+        "1jmkShIaCyrjCu3fkDLujpIFoS3r5axLe"
+      ],
+      "sha256": "751b4641fdd52e88d9a418787d45093d5f6f777a1ec6b6d5666e1597f89b1601",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "17UVllUX8DWKeOe-7T1_xNvNIbEvy0k73",
+      "name": "SOURCE_INDEX_RU.txt",
+      "drive_name": "SOURCE_INDEX_RU.txt",
+      "bytes": 3885,
+      "parents": [
+        "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3"
+      ],
+      "sha256": "18f2e288d7a13fad3f0ea61e76e01f44fd5569ffd860a00f64ed207a4d20bc69",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1zcfCdy2X2S2B6czOFYxKVbw0rt2Xlfwr",
+      "name": "BUILD_INPUTS_INDEX_RU.txt",
+      "drive_name": "НАЗНАЧЕНИЕ_И_SHA256.txt",
+      "bytes": 1788,
+      "parents": [
+        "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf"
+      ],
+      "sha256": "451df275c109af1859ff3d0a53819b251226131c8f674e48dbe6af1198218a2b",
+      "raw_readback_equal": true
+    },
+    {
+      "id": "1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_",
+      "name": "TouchPal_Нововведения_от_DelFix.xlsx",
+      "drive_name": "TouchPal_Нововведения_от_DelFix.xlsx",
+      "bytes": 39355,
+      "parents": [
+        "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH"
+      ],
+      "sha256": "cb63b8c33d3aae4923bd90e7a08bca507ebcc9e496dae193690385bc9afadf58",
+      "raw_readback_equal": true
+    }
+  ]
+}

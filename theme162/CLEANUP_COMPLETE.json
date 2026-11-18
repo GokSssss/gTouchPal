@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-18",
+  "status": "COMPLETE",
+  "keep": [
+    "162",
+    "161"
+  ],
+  "reason": "New162 and retained161 exact readbacks;160 input moved once for SOURCE161; all earlier history plus exact160passport/source manifest preserved before obsolete full Drive files were removed",
+  "removed": [
+    {
+      "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+      "name": "160 SOURCE",
+      "bytes": 1208913,
+      "deleted": true
+    },
+    {
+      "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
+      "name": "160 passport",
+      "bytes": 5640,
+      "deleted": true
+    },
+    {
+      "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+      "name": "159 obsolete input",
+      "bytes": 33466958,
+      "deleted": true
+    },
+    {
+      "id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+      "name": "160 empty folder",
+      "bytes": 0,
+      "deleted": true,
+      "empty_confirmed": true
+    }
+  ],
+  "removed_bytes": 34681511,
+  "moved_without_copy": {
+    "version": "160",
+    "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+    "same_id_and_sha256": true
+  },
+  "prototype154_preserved": true,
+  "protected_unchanged": 11
+}

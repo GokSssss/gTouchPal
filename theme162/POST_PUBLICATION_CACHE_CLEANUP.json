@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "removed": [
+    {
+      "path": "/workspace/touchpal/runtime162/drive-readback/162-TouchPalG-6.2.7.1.apk",
+      "bytes": 33501279,
+      "reason": "Verified redundant publication download; canonical artifact retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/drive-readback/162-TouchPalG-SOURCE-6.2.7.1.zip",
+      "bytes": 1491350,
+      "reason": "Verified redundant publication download; canonical artifact retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/drive-readback/162-TouchPalG-Passport-6.2.7.1.txt",
+      "bytes": 4324,
+      "reason": "Verified redundant publication download; canonical artifact retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/github-readback/162-TouchPalG-6.2.7.1.apk",
+      "bytes": 33501279,
+      "reason": "Verified redundant publication download; canonical artifact retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/github-readback/162-TouchPalG-SOURCE-6.2.7.1.zip",
+      "bytes": 1491350,
+      "reason": "Verified redundant publication download; canonical artifact retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/github-readback/162-TouchPalG-Passport-6.2.7.1.txt",
+      "bytes": 4324,
+      "reason": "Verified redundant publication download; canonical artifact retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/apk161.apk",
+      "bytes": 33500335,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/source161.zip",
+      "bytes": 4213516,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/passport161.txt",
+      "bytes": 6470,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/apk160.apk",
+      "bytes": 33462601,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/source160.zip",
+      "bytes": 1208913,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/passport160.txt",
+      "bytes": 5640,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/retention-before/input159.apk",
+      "bytes": 33466958,
+      "reason": "Verified retained/retiring temporary raw download; necessary canonical input/artifacts and exact retiring160 history retained"
+    },
+    {
+      "path": "/workspace/touchpal/runtime162/history162-raw.zip",
+      "bytes": 62586946,
+      "reason": "Verified duplicate of current complete compact history"
+    },
+    {
+      "path": "/workspace/touchpal/github/branding161/history161.zip",
+      "bytes": 62032611,
+      "reason": "Superseded derived compact-history cache; all9759payloads and exact prior manifest raw verified in current162"
+    }
+  ],
+  "freed_bytes": 300477896,
+  "current_history_retained": "theme162/history162.zip",
+  "canonical_apk_source_inputs_and_signing_material_untouched": true,
+  "owner_attachments_untouched": true
+}

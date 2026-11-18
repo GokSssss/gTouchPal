@@ -1,12 +1,12 @@
 TouchPalG · сохраняемые исходники ·18.11.2026
 
-Текущий161 и предыдущий160. SOURCE — собственный код/ресурсы и рецепт поверх закрытого APK. Историческая полнота выбранных точек и ограничения телефонной проверки сохраняются.
+Текущий162 и предыдущий161. SOURCE — собственный код/ресурсы и рецепт поверх закрытого APK; историческая полнота и телефонные ограничения выбранных точек сохраняются.
+
+162-TouchPalG-SOURCE-6.2.7.1.zip
+https://drive.google.com/file/d/1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4/view
 
 161-TouchPalG-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1VVi9y8OKNnOFQj-3XtXHTJUwvQNVBJ92/view
-
-160-gTouchPal-SOURCE-6.2.7.1.zip
-https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view
 
 135-TouchPal T9 DelFix-SOURCE-6.2.7.1.zip
 https://drive.google.com/file/d/1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto/view
@@ -38,9 +38,9 @@ https://drive.google.com/file/d/1aNIbFek9CkBz5FakK471WkVQyBF4dkR_/view
 T10_TouchPal_DelFix_HEIGHTSYNC_материалы_и_исходники.zip
 https://drive.google.com/file/d/1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV/view
 
-SOURCE161 использует APK160 из предыдущего выпуска; SOURCE160 — единственный APK159 во Входах.
-Прототип154 в Документах сохранён отдельно; для него нужен единственный APK153 во Входах.
-Полных текущих SOURCE в центральной папке:12; прототип154 не входит в это число.
+SOURCE162 использует APK161 из предыдущего полного выпуска; SOURCE161 — единственный APK160 во Входах.
+Отдельный прототип154 в Документах сохраняется; ему нужен единственный APK153 во Входах.
+ЦентральныхSOURCE12; прототип154 не входит в это число.
 
 Входы для сохраняемых SOURCE:
 
@@ -64,12 +64,12 @@ SHA256 145ada31c9081681b8a26aa331e9a38e8cadcd554312341bd19e3b22ea2a8dc6
 https://drive.google.com/file/d/1Nf58O4w8GG2XwbKqh2ZR6_EccZhbhsDl/view
 SHA256 eb4b42cc019f72545e2141249a0bc536ad9b4cf9b28ae537cdc68096d0adcf5b
 
-159-gTouchPal-6.2.7.1.apk → backup160/build.py
-https://drive.google.com/file/d/12Wginb-gHHvnqx1DjnE6VF52NMqGG68J/view
-SHA256 4e28683b6b68df32d05c130a3910d9a025d694f3946aef20bf6b40bc985d2a12
+160-gTouchPal-6.2.7.1.apk → branding161/build.py
+https://drive.google.com/file/d/1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38/view
+SHA256 8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd
 
 Комплект подписи: https://drive.google.com/drive/folders/1m6bCBYq3Mrj8Ru_7HQhupN-jCohfjKjW
 Полезные точки: https://drive.google.com/file/d/1nSgcMi_EgW9lLISVE_JNeAxas9RgEzyR/view
 История/логика: https://drive.google.com/file/d/1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e/view
 Прототип154: https://drive.google.com/drive/folders/1csJyu7nlz2xBJv103MRwbp3M8Nqg92US
-История сохраняет все логи и малые патчи, без полных старых SOURCE/APK.
+История — логи/малые патчи, не полные старые SOURCE/APK.

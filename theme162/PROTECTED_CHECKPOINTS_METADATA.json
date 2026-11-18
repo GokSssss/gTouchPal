@@ -1,0 +1,94 @@
+{
+  "status": "PASS",
+  "scope": "Metadata IDs/sizes and existing passport presence; central Sources folder preserved; historical raw bytes were not freshly revalidated",
+  "checkpoints": [
+    {
+      "version": "TEST80",
+      "folder_id": "17AcRrWqvewOehPE5s4146epfH063dFZw",
+      "apk_id": "1YOgFE5VpEc1elQtfh6KivwEGyN6XnLsj",
+      "source_id": "1aNIbFek9CkBz5FakK471WkVQyBF4dkR_",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST72",
+      "folder_id": "1mXyhEeaynUIahk0XtKI3XGb4hyH2vSiC",
+      "apk_id": "1si4GPF3ZWtSHfStHkSzc4G9KpPnSzzXm",
+      "source_id": "18rGj7u6Hmt9q6mCyx9s47NLntdTomRul",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST15",
+      "folder_id": "1yCSAUWIY9L-KOIHNh3FkffNvWNlkPZzO",
+      "apk_id": "1NyZuMG7eK5s1ahkMD2TFeprzll6i9vOS",
+      "source_id": "1ShrZ5om4dSnK3cGpUStFoxXZGnd4Nw2j",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST21",
+      "folder_id": "16JG4R_dBF1b_AfW3TtrYOzoMQsAt5vOa",
+      "apk_id": "1QpwdsyqZ7ZDxgstE0WuDxpfbfw8G0g8R",
+      "source_id": "1GDmfoNiEhn9MQa9xlfWHyqQ3YOKcl1UZ",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST34",
+      "folder_id": "18m3lBhXK5xySUc96JHI89qenD89ah0l7",
+      "apk_id": "10DJBEZjuktzwTcTcWm973-MmAzS9_kqU",
+      "source_id": "1zdbVE5wH0-qiOxoebGV3u56bsV4Us5K4",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST36",
+      "folder_id": "1QkQce3A3MSwjMcROZiDsKye15lR1Vsbw",
+      "apk_id": "1EOaQ3w3XET5XzfSA-bn6NLbSyIvAHVmx",
+      "source_id": "13gN8XFILcbV7prIfmUwNe15ewGPCOYvQ",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "T9+DelFix",
+      "folder_id": "1BiGtZVtMOvsETX2fU-0SAECaFNwbDK2L",
+      "apk_id": "1dIG6HYv00ANyICyJvM1q99bI-kWYQMdI",
+      "source_id": null,
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST40",
+      "folder_id": "1XzTtSSgteDPk0Hpqm8ZGCJe4J7bO_aAn",
+      "apk_id": "1khSXDe-qQst6-8eOd96jTqe0ek2RTSiC",
+      "source_id": "1SK6cpOSaL480zmiJH_j5T8lfYasb01Y_",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "DelFix T10",
+      "folder_id": "1JjZK93LDIaP0jZ7GAAgOx69h_QQKLKM9",
+      "apk_id": "14P4bX-fhes3TcNKrSvJgQnVZ66iBJSFb",
+      "source_id": "1MZHfkTNxvPDYrWWW2iweOwA5HZe8AKjV",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "TEST90",
+      "folder_id": "1hdpDwKDW42UWDApIQeoCFG8qRXpy_TtR",
+      "apk_id": "1cAVBQYnQjSyYcMhln7jbhsCtfd9xM7W1",
+      "source_id": "14mSgiRYuEd-zdkECHVJx-iBBDbRoD6jr",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    },
+    {
+      "version": "135",
+      "folder_id": "1vmUNM9kYxOyF6_a48f8T1bJ0hA81lZCI",
+      "apk_id": "17PU4GGTV_-6eM16KO-HvO9dD-gL-qh_s",
+      "source_id": "1wjZycEiNkJZq2e2uqdBRxNv3V_gQkxto",
+      "metadata_identity_and_size_verified": true,
+      "fresh_raw_hash_check": false
+    }
+  ]
+}

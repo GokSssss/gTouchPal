@@ -11,6 +11,42 @@
   "research_id": "1FB2MIYM2mR_nQZK0QK51gyTAWMsigz0h",
   "records_id": "1AYuuiteQKztlQC99rEjPZe3YpcewdEk3",
   "current": {
+    "version": "162",
+    "folder_id": "1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
+    "folder_url": "https://drive.google.com/drive/folders/1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
+    "original_folder_name": "162 — штатное меню тем TouchPalG",
+    "protected": false,
+    "location": "root",
+    "reason": "Original native installed-theme grid and first entry in TouchPalG additions",
+    "apk_id": "1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM",
+    "apk_name": "162-TouchPalG-6.2.7.1.apk",
+    "apk_url": "https://drive.google.com/file/d/1FfYJJO5ou9XB94v1vt9PPWKGmTFypfGM/view",
+    "apk_bytes": 33501279,
+    "apk_sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "apk_raw_readback_verified": true,
+    "source_id": "1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4",
+    "source_name": "162-TouchPalG-SOURCE-6.2.7.1.zip",
+    "source_url": "https://drive.google.com/file/d/1LXh0QbMQqTdTbPBVD13Kb6Yy-kAxfor4/view",
+    "source_bytes": 1491350,
+    "source_sha256": "c566b9311cdd7730946095aa373e035ca5f5e595f045fe3f8f508c476e1a4cd4",
+    "source_raw_readback_verified": true,
+    "notes": [
+      {
+        "id": "1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN",
+        "name": "162-TouchPalG-Passport-6.2.7.1.txt",
+        "url": "https://drive.google.com/file/d/1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN/view"
+      }
+    ],
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v162",
+    "github_tag": "v162",
+    "github_commit": "93407b9a099f0b33d741059fdc74661314795a22",
+    "phone_or_art_tested": false,
+    "status": "published_verified",
+    "github_public_downloads_verified": true,
+    "completeness": "Same three exact artifacts verified on Drive and public GitHub",
+    "build_reproducibility": "Final SOURCE frozen once and isolated rebuild byte-identical; downloaded SOURCE exact bytes verified"
+  },
+  "previous": {
     "version": "161",
     "folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
     "folder_url": "https://drive.google.com/drive/folders/1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
@@ -45,42 +81,6 @@
     "github_public_downloads_verified": true,
     "completeness": "Same three exact files verified on Drive and public GitHub",
     "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file"
-  },
-  "previous": {
-    "version": "160",
-    "folder_id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
-    "folder_url": "https://drive.google.com/drive/folders/1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
-    "original_folder_name": "160 — копия вне приложения и всплывающие уведомления",
-    "protected": false,
-    "location": "root",
-    "reason": "Optional additional saved copy to Downloads/selected URI, red uninstall reminder and section-anchored floating notices",
-    "apk_id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
-    "apk_name": "160-gTouchPal-6.2.7.1.apk",
-    "apk_url": "https://drive.google.com/file/d/1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38/view",
-    "apk_bytes": 33462601,
-    "apk_sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
-    "apk_raw_readback_verified": true,
-    "source_id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
-    "source_name": "160-gTouchPal-SOURCE-6.2.7.1.zip",
-    "source_url": "https://drive.google.com/file/d/14nQtuafFQnQHXsquLm1MRt17MSKgqOgy/view",
-    "source_bytes": 1208913,
-    "source_sha256": "391fa74a91f64a75cb446f6e60a27f620c4c18c5b22dc75e22eab3a233fdd732",
-    "source_raw_readback_verified": true,
-    "notes": [
-      {
-        "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
-        "name": "160-gTouchPal-Passport-6.2.7.1.txt",
-        "url": "https://drive.google.com/file/d/1IXf4gtQHOHAAn0pnatV5jxN48myKf29G/view"
-      }
-    ],
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v160",
-    "github_tag": "v160",
-    "github_commit": "504b0850cf9ab3694d4d0040b63166853e3934cd",
-    "github_public_downloads_verified": true,
-    "completeness": "Same three exact files verified on Drive and public GitHub",
-    "build_reproducibility": "Final SOURCE isolated rebuild produced byte-identical signed APK; raw downloaded SOURCE matched that exact file",
-    "phone_or_art_tested": false,
-    "status": "published_verified"
   },
   "protected": [
     {
@@ -445,16 +445,16 @@
   "full_history": {
     "id": "1C6lkvTMiwKw9fMRFmA1l2tHS7RzYTG5e",
     "path": "TouchPal_журналы_и_логика_изменений.zip",
-    "stages": 166,
+    "stages": 167,
     "source_archives": 0,
     "note": "Компактные журналы/логика, без полного SOURCE старых выпусков; не обещает восстановление каждой удалённой версии.",
-    "bytes": 62032611,
-    "sha256": "52d3752db56f0d05453db8cd7715c7ef0dc2b73ca8a8b3cf09ac8084b572a842",
-    "entries": 9760,
-    "individual_logs": 165,
-    "implementation_patches": 6974,
+    "bytes": 62586946,
+    "sha256": "842afcfd86ff5d1f01844d47a1451d679463128b79cbc63e982fd45751b50982",
+    "entries": 9806,
+    "individual_logs": 166,
+    "implementation_patches": 6992,
     "drive_readback_verified": true,
-    "manifest_hashes": 9759,
+    "manifest_hashes": 9805,
     "post_publication127_preserved": true,
     "post_publication127_evidence": [
       {
@@ -1501,7 +1501,10 @@
     "all_previous9706_payloads_preserved": true,
     "post_publication160_and_deferred161_preserved": true,
     "exact_retiring159_passport_and_manifest_preserved": true,
-    "last_receipt": "branding161/HISTORY_RAW_READBACK.json"
+    "last_receipt": "theme162/HISTORY_RAW_READBACK.json",
+    "all_previous9759_payloads_preserved": true,
+    "post_publication161_preserved": true,
+    "exact_retiring160_passport_and_manifest_preserved": true
   },
   "phone_test86_confirmed": false,
   "word_order_fixed": false,
@@ -1566,14 +1569,14 @@
   },
   "passports": [
     {
+      "id": "1kAjs-fcln6Fyq1CVstdPErD0J-OSGHrN",
+      "folder_id": "1ln1t7ygN_af8MF4S107S7RpzOFCNkcOy",
+      "version": "162"
+    },
+    {
       "id": "13I8MkhMShkATq2sgZgrtZ_grtvNJfBlR",
       "folder_id": "1KUmuuzmSqCZdaGPHk7L1-uaZf9RRhKB6",
       "version": "161"
-    },
-    {
-      "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
-      "folder_id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
-      "version": "160"
     },
     {
       "id": "1TlaV3bTOv071KSmBfnGn_k4M5WmPdCTB",
@@ -1880,20 +1883,20 @@
       "reason": "Preserved active154 prototype at owner request"
     },
     {
-      "version": "159",
-      "mod_version": "159",
-      "file": "159-gTouchPal-6.2.7.1.apk",
-      "drive_name": "159-gTouchPal-6.2.7.1.apk",
-      "for_release": "160",
-      "consumer": "backup160/build.py",
-      "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+      "version": "160",
+      "mod_version": "160",
+      "file": "160-gTouchPal-6.2.7.1.apk",
+      "drive_name": "160-gTouchPal-6.2.7.1.apk",
+      "for_release": "161",
+      "consumer": "branding161/build.py",
+      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
       "parent": "11XDh3b5ySLdX9bM_q_piwx25v55m6xNf",
-      "bytes": 33466958,
-      "sha256": "4e28683b6b68df32d05c130a3910d9a025d694f3946aef20bf6b40bc985d2a12",
+      "bytes": 33462601,
+      "sha256": "8e4f1442ca3a817b70fe00fada759933e8cc8db02660dd29c8a111d1990b20fd",
       "move_pending": false,
       "move_verified": true,
       "raw_after_move_verified": true,
-      "reason": "Single required APK input for retained SOURCE160; metadata-only move with same ID and bytes"
+      "reason": "Single required APK input for retained SOURCE161; same ID and bytes after metadata-only move"
     }
   ],
   "symbol_layout_map": [
@@ -1913,12 +1916,12 @@
     "date": "2026-11-18",
     "general_rules_revision": "2026-11-15T07:53:46.300Z",
     "retained_complete_versions": [
-      "161",
-      "160"
+      "162",
+      "161"
     ],
     "verified_live_readbacks": 8,
     "project_mark_present": true,
-    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v161",
+    "github_release": "https://github.com/GokSssss/gTouchPal/releases/tag/v162",
     "github_public_downloads_verified": true,
     "observed": {
       "root": 8,
@@ -1934,48 +1937,48 @@
     "rules_revision": "2026-11-15T07:53:46.300Z",
     "root_name": "10 TouchPal T9 DelFix √",
     "live_documents_readback_verified": 8,
-    "registry_final_readback_receipt": "branding161/FINAL_LIVE_DOCUMENT_READBACK.json",
+    "registry_final_readback_receipt": "theme162/FINAL_LIVE_DOCUMENT_READBACK.json",
     "phone_or_art_tested": false
   },
   "latest_cleanup": {
     "date": "2026-11-18",
     "status": "COMPLETE",
     "keep": [
-      "161",
-      "160"
+      "162",
+      "161"
     ],
-    "reason": "Published161 verified;160 retained;159 input moved once for SOURCE160; exact159 passport/manifest and all old history payloads preserved before removing obsolete full Drive snapshots",
+    "reason": "New162 and retained161 exact readbacks;160 input moved once for SOURCE161; all earlier history plus exact160passport/source manifest preserved before obsolete full Drive files were removed",
     "removed": [
       {
-        "id": "1UYwDaq_BIDYlp0Pva8LKCbZw7mn5ZowZ",
-        "name": "159 SOURCE",
-        "bytes": 1176651,
+        "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+        "name": "160 SOURCE",
+        "bytes": 1208913,
         "deleted": true
       },
       {
-        "id": "1nSwuLoLlZpaEZ1V3oC--uMlkEK5KVz0C",
-        "name": "159 passport",
-        "bytes": 4104,
+        "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
+        "name": "160 passport",
+        "bytes": 5640,
         "deleted": true
       },
       {
-        "id": "1iHQGKa56eM7zVeRC7ALpcTZxIGRd3qIB",
-        "name": "158 obsolete input",
-        "bytes": 33467377,
+        "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+        "name": "159 obsolete input",
+        "bytes": 33466958,
         "deleted": true
       },
       {
-        "id": "1H66CMNdfiHkHYgVyfos_ep0csFC5d6ub",
-        "name": "159 empty folder",
+        "id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+        "name": "160 empty folder",
         "bytes": 0,
         "deleted": true,
         "empty_confirmed": true
       }
     ],
-    "removed_bytes": 34648132,
+    "removed_bytes": 34681511,
     "moved_without_copy": {
-      "version": "159",
-      "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+      "version": "160",
+      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
       "same_id_and_sha256": true
     },
     "prototype154_preserved": true,
@@ -3437,6 +3440,50 @@
       },
       "prototype154_preserved": true,
       "protected_unchanged": 11
+    },
+    {
+      "date": "2026-11-18",
+      "status": "COMPLETE",
+      "keep": [
+        "162",
+        "161"
+      ],
+      "reason": "New162 and retained161 exact readbacks;160 input moved once for SOURCE161; all earlier history plus exact160passport/source manifest preserved before obsolete full Drive files were removed",
+      "removed": [
+        {
+          "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+          "name": "160 SOURCE",
+          "bytes": 1208913,
+          "deleted": true
+        },
+        {
+          "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
+          "name": "160 passport",
+          "bytes": 5640,
+          "deleted": true
+        },
+        {
+          "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+          "name": "159 obsolete input",
+          "bytes": 33466958,
+          "deleted": true
+        },
+        {
+          "id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+          "name": "160 empty folder",
+          "bytes": 0,
+          "deleted": true,
+          "empty_confirmed": true
+        }
+      ],
+      "removed_bytes": 34681511,
+      "moved_without_copy": {
+        "version": "160",
+        "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+        "same_id_and_sha256": true
+      },
+      "prototype154_preserved": true,
+      "protected_unchanged": 11
     }
   ],
   "phone_test88_confirmed": false,
@@ -3717,22 +3764,22 @@
     "url": "https://docs.google.com/spreadsheets/d/1dUq2B8FboPFJLX0Xl0GmPGMxBM5eDeX_/edit?usp=drivesdk&ouid=114000821361130224383&rtpof=true&sd=true",
     "name": "TouchPal_Нововведения_от_DelFix.xlsx",
     "parent": "1NWJDsJgyUYaAAxZZLaDB_INjzJ4yHbmH",
-    "rows": 151,
+    "rows": 152,
     "columns": [
       "Версия",
       "Изменение",
       "Описание"
     ],
-    "used_range": "A1:C151",
+    "used_range": "A1:C152",
     "chronological": true,
     "unused_grid": "Only A1:C151 contains information; grid lines hidden; filter/print range matches data",
     "retired_functions_marked_in_description": true,
     "raw_readback_verified": true,
-    "bytes": 39233,
-    "sha256": "cff4c431d430f9c87cc149bcb31e507427557a093f0f30b779887170fad8946c",
-    "range": "A1:C151",
-    "data_rows": 150,
-    "latest_version": "161"
+    "bytes": 39355,
+    "sha256": "cb63b8c33d3aae4923bd90e7a08bca507ebcc9e496dae193690385bc9afadf58",
+    "range": "A1:C152",
+    "data_rows": 151,
+    "latest_version": "162"
   },
   "release95_cleanup": {
     "stage": "TEST95",
@@ -5058,7 +5105,7 @@
     "lua_index_domain_proven": "1-based page-local; JNI/native absolute0-based",
     "core_library_sha256": "3aea8fa5724c56c497293072374746d469bd3117623585b2836c7278ddf6549a"
   },
-  "verification_scope": "Publication, host framework, bounded icon/label resources, source rebuild, signature, retained files and current storage rules; phone/ART acceptance remains pending.",
+  "verification_scope": "Theme route/order framework and signed-DEX/resource/source/signature/publication/storage checks; native theme application on owner phone after162 remains untested.",
   "phone_test110_confirmed": false,
   "release110_cleanup": {
     "status": "completed_after_readbacks",
@@ -8281,10 +8328,10 @@
     "repository": null,
     "user_asked": true,
     "explanation": "Общие правила12.11.2026 15:14:11.854UTC требуют GitHub Releases. Репозиторий TouchPal не указан и не найден среди доступных; адрес ранее запрошен, ответа нет. GitHub-этап остаётся pending; репозиторий с придуманными адресом/видимостью не создаётся. Знак√ отсутствует до завершения этапа. Публикация на GoogleДиске продолжается.",
-    "version": "161",
-    "tag": "v161",
-    "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v161",
-    "commit": "5c0f5ffde11b618b41dfdeaff04d4941d4f1876f",
+    "version": "162",
+    "tag": "v162",
+    "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v162",
+    "commit": "93407b9a099f0b33d741059fdc74661314795a22",
     "public_readbacks_verified": true
   },
   "clean_rebuild139": {
@@ -10855,6 +10902,255 @@
       "about"
     ],
     "new_history_entries": 2,
+    "ascending_history_preserved": true
+  },
+  "release162_verification": {
+    "version": "162",
+    "apk_bytes": 33501279,
+    "apk_sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "base_sha256": "1a4ac54810ada9bef05ff172dfbab1d5023dfb8ab68c13ba4cd1b9b1c701a58d",
+    "tests": 47,
+    "framework": "Actual Android34 Views/Intents, app-owned filesystem and provider streams; native engine/parser and OS MediaStore authority are explicit boundaries, not a phone test",
+    "own_helper_families": 15,
+    "own_compiled_classes": 90,
+    "original_classes_compared": 10234,
+    "bounded_vendor_methods": 0,
+    "api16_actual_dex_verified": true,
+    "classes2_unchanged": true,
+    "all_native_libraries_and_other_resources_unchanged": true,
+    "live_workspace_and_private_dictionary_and_native_staging_unchanged": true,
+    "physical_keyboard_subtypes_unchanged": true,
+    "exports_default": "Context.getExternalFilesDir(null)/TouchPalG/Backup",
+    "save_without_picker": true,
+    "restore_uses_filtered_app_owned_list": true,
+    "folder_uses_system_file_chooser": true,
+    "share_keeps_same_saved_file": true,
+    "downloads": "MediaStore Downloads29+; legacy public Downloads before29",
+    "incoming_read_once_checked_snapshot": true,
+    "confirmed_restore_input_retained": true,
+    "cancel_and_invalid_input_not_retained": true,
+    "former_public_copies_verified_before_source_removal": true,
+    "delete_only_empty_old_directories": true,
+    "unknown_files_and_name_collisions_preserved": true,
+    "icon_long_press_help_without_action": true,
+    "last_full_zip_date_filename_one_line_above_buttons": true,
+    "certificate_sha256": "0cd49335ac2a2116cca692ae980113949977b1e4f78d4281d51cbe58ef145b46",
+    "signature_schemes": [
+      "v1",
+      "v2",
+      "v3"
+    ],
+    "android_art_or_phone_executed": false,
+    "icon_targets_52dp": true,
+    "visible_separators": true,
+    "pressed_state_held_180ms": true,
+    "no_global_action_disable_or_main_page_progress_relayout": true,
+    "nonfocusable_progress_success_popup_with_full_filename_and_folder": true,
+    "language_import_entry_in_languages_only": true,
+    "language_mode_has_no_backup_actions": true,
+    "language_cancel_returns_to_languages": true,
+    "save_offer_downloads_or_system_destination": true,
+    "decline_keeps_internal_copy": true,
+    "extra_copy_uses_saved_bytes_without_native_recapture": true,
+    "external_destination_stream_readback_checked": true,
+    "pending_export_state_survives_recreation": true,
+    "source_tamper_refused_before_output_open": true,
+    "red_uninstall_reminder": true,
+    "floating_notice_anchored_to_section_without_inline_reflow": true,
+    "language_tpl_import": true,
+    "strip_only_final_apk_suffix": true,
+    "language_archive_container_checked": true,
+    "existing_language_confirmation_and_backup": true,
+    "native_language_compatibility_not_claimed": true,
+    "branding_design_pending": false,
+    "restore_button_shape_deferred": false,
+    "native_installed_theme_grid": true,
+    "theme_route_intent_verified": true,
+    "native_grid_selection_runtime_tested": false,
+    "owner_phone_after_fix_tested": false,
+    "theme_first_in_additions": true,
+    "system_application_name": "TouchPalG",
+    "yellow_black_original_mark": true,
+    "ordinary_backup_buttons_capsules": true,
+    "top_padding_and_redundant_download_caption_removed": true,
+    "phone_size_layout_checks": true
+  },
+  "clean_rebuild162": {
+    "version": "162",
+    "status": "PASS",
+    "source_sha256": "c566b9311cdd7730946095aa373e035ca5f5e595f045fe3f8f508c476e1a4cd4",
+    "source_files": 293,
+    "apk_sha256": "83cf07561fe8a3c8a75d4eedb92f14d9c7764c4762070077950e62ba0ea9dcb2",
+    "byte_identical_apk": true,
+    "isolated": true,
+    "steps": [
+      {
+        "stage": "compile_helpers.py",
+        "exit_code": 0,
+        "seconds": 6.07,
+        "stdout_sha256": "97db7fc012aa093807bd35c2553466ad1981fc7872a03fbff7af75fc1acddc28",
+        "stderr_sha256": "f7ec0f419e6881531b75f4aa37a2e62b104c55a661655b2ad4915d7beb58cc13"
+      },
+      {
+        "stage": "build.py",
+        "exit_code": 0,
+        "seconds": 27.9,
+        "stdout_sha256": "b19a564d1890b0c1a6a7077ed29e11fd89260d627be12e2a317a548df8c0a829",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/run_dex_checks.py",
+        "exit_code": 0,
+        "seconds": 12.23,
+        "stdout_sha256": "8960bad0739401b4c20b19e02ee1946a2a5c381f3d7d1f51689180a45bb864e9",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/check_resources.py",
+        "exit_code": 0,
+        "seconds": 0.61,
+        "stdout_sha256": "4675dc5857e20921686c8f41ab2930bd17ec02503bc66274b80210da9744fae4",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "tests/framework/run.py",
+        "exit_code": 0,
+        "seconds": 41.17,
+        "stdout_sha256": "8a23d298c3eb62d02e2ce417ad79381a1adbd4f2954dc1e2f6cf9cf57d0fcd8c",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "stage": "collect_verification162.py",
+        "exit_code": 0,
+        "seconds": 5.11,
+        "stdout_sha256": "0e8a6b682a099bc5c8ed13266e24537a41cfb4a7510c0f30fc17480aa282f34a",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "private_materials_exported": false,
+    "original_inputs_unchanged": true,
+    "android_runtime_executed": false
+  },
+  "drive_publication162_complete": true,
+  "github_publication162_complete": true,
+  "phone_test162_confirmed": false,
+  "cleanup162_complete": true,
+  "release162_cleanup": {
+    "date": "2026-11-18",
+    "status": "COMPLETE",
+    "keep": [
+      "162",
+      "161"
+    ],
+    "reason": "New162 and retained161 exact readbacks;160 input moved once for SOURCE161; all earlier history plus exact160passport/source manifest preserved before obsolete full Drive files were removed",
+    "removed": [
+      {
+        "id": "14nQtuafFQnQHXsquLm1MRt17MSKgqOgy",
+        "name": "160 SOURCE",
+        "bytes": 1208913,
+        "deleted": true
+      },
+      {
+        "id": "1IXf4gtQHOHAAn0pnatV5jxN48myKf29G",
+        "name": "160 passport",
+        "bytes": 5640,
+        "deleted": true
+      },
+      {
+        "id": "12Wginb-gHHvnqx1DjnE6VF52NMqGG68J",
+        "name": "159 obsolete input",
+        "bytes": 33466958,
+        "deleted": true
+      },
+      {
+        "id": "1M4iIkyFQ61WBDnnesia302AU6t21WdDM",
+        "name": "160 empty folder",
+        "bytes": 0,
+        "deleted": true,
+        "empty_confirmed": true
+      }
+    ],
+    "removed_bytes": 34681511,
+    "moved_without_copy": {
+      "version": "160",
+      "id": "1jkjb3uIa2iDEaOerTP1vTF6WBu7ZPd38",
+      "same_id_and_sha256": true
+    },
+    "prototype154_preserved": true,
+    "protected_unchanged": 11
+  },
+  "retention162": {
+    "status": "complete",
+    "plan": "theme162/RETENTION_PLAN.json",
+    "published_verified": true,
+    "prototype154_preserved": true,
+    "removed_source160": true,
+    "removed_passport160": true,
+    "removed_empty_folder160": true,
+    "removed_obsolete_input159": true,
+    "freed_bytes": 34681511,
+    "input160_moved_once": true,
+    "history_verified": "842afcfd86ff5d1f01844d47a1451d679463128b79cbc63e982fd45751b50982"
+  },
+  "compliance162": {
+    "status": "VERIFIED",
+    "rules_id": "1PC7jbtXP9HRTi1C8t3JTG8xc_Y-F9H_z",
+    "rules_revision": "2026-11-15T07:53:46.300Z",
+    "rules_rechecked_unchanged": true,
+    "retained": [
+      "162",
+      "161"
+    ],
+    "checkpoints": 11,
+    "active_prototype154_retained": true,
+    "owner_media_not_published": true,
+    "private_signing_material_not_exported": true,
+    "counts": {
+      "root": 8,
+      "current": 2,
+      "previous": 2,
+      "keys": 12,
+      "sources": 12,
+      "inputs": 7,
+      "signing": 2,
+      "prototype": 2
+    },
+    "final_eight_documents_raw_readback_receipt": "theme162/FINAL_LIVE_DOCUMENT_READBACK.json"
+  },
+  "phone161_owner_report": {
+    "date": "2026-11-18",
+    "version": 161,
+    "settings_title_TouchPalG_observed": true,
+    "custom_theme_dialog_only_Customize": true,
+    "theme_apply_failure_reported": true,
+    "original_installed_grid_shows_default_and_Flat_gate": true,
+    "fix_version": 162,
+    "after_fix_phone_tested": false,
+    "private_photos_not_copied": true
+  },
+  "theme162": {
+    "status": "PASS",
+    "target": "com.cootek.smartinput5.func.mainentrance.MainEntranceActivity",
+    "tabNumber": 0,
+    "action": null,
+    "data": null,
+    "original_installed_manager": "com.cootek.smartinput5.func.mainentrance.f",
+    "original_GridView": true,
+    "original_preview_and_selection_callbacks_preserved": true,
+    "web_alternative_only_for_hotword_action": true,
+    "web_constructor_only_initializes_fields_and_map": true,
+    "native_route_vendor_methods_unchanged": true,
+    "scope": "Static signed-APK route plus Android framework intent/preferences tests; native JNI/theme selection on owner phone remains to be checked",
+    "owner_photos_copied": false
+  },
+  "journal_records162": {
+    "feature_cards": 29,
+    "chronology_entries": 151,
+    "excel_rows_including_header": 152,
+    "updated_existing_cards": [
+      "settings"
+    ],
+    "new_history_entries": 1,
     "ascending_history_preserved": true
   }
 }

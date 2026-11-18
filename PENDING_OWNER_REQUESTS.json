@@ -418,10 +418,13 @@
     },
     {
       "id": "theme162-native-installed-page",
-      "status": "implementing",
+      "status": "implemented_published162",
       "reported_version": 161,
       "scope": "Open original native installed-theme grid instead of custom Customize dialog; first item in TouchPalG additions as annotated",
-      "reference": "Owner18Nov2026 four screenshots; private images not copied"
+      "reference": "Owner18Nov2026 four screenshots; private images not copied",
+      "published_version": 162,
+      "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v162",
+      "after_fix_phone_tested": false
     }
   ],
   "clarifications_only": {
@@ -437,11 +440,12 @@
   "current_source_work": {
     "version": 162,
     "directory": "theme162",
-    "status": "verified_ready_to_publish",
-    "last_published_version": 161,
+    "status": "published_verified",
+    "last_published_version": 162,
     "apk_built": true,
     "final_source_frozen": true,
-    "isolated_byte_identical": true
+    "isolated_byte_identical": true,
+    "release_url": "https://github.com/GokSssss/gTouchPal/releases/tag/v162"
   },
   "deferred_next_work": {
     "id": "backup161-layout-branding-deferred",

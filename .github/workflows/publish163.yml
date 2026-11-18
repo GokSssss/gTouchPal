@@ -1,0 +1,42 @@
+name: Publish verified TouchPalG163 files
+on:
+  workflow_dispatch:
+    inputs:
+      files:
+        description: Temporary download references for the three verified163 artifacts
+        required: true
+        type: string
+permissions:
+  contents: write
+jobs:
+  attach:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download and verify the exact prepared files
+        env:
+          FILES_JSON: ${{ inputs.files }}
+        run: |
+          python - <<'PYCODE'
+          import os,json,urllib.request,hashlib
+          from pathlib import Path
+          expected={'163-TouchPalG-6.2.7.1.apk': '060897fb0916a35e4cc76b6b4b128567f1eaa3c6f2de4a704f0a9856969ed6d2', '163-TouchPalG-SOURCE-6.2.7.1.zip': 'c709c2a0699bdef9b7d95ca277735c693b1f1950fbfd67d1f5b6ef6fcd1abd98', '163-TouchPalG-Passport-6.2.7.1.txt': '46aa66bd01bafc4458ea7c945f0b15ddb4a3602d2a38bf000af889ba576525a2'}
+          files=json.loads(os.environ['FILES_JSON'])
+          assert set(files)==set(expected)
+          for name,item in files.items():
+              url=item['url']
+              print('::add-mask::'+url)
+              assert url.startswith('https://')
+              target=Path(name)
+              with urllib.request.urlopen(url,timeout=120) as response,target.open('wb') as out:
+                  while True:
+                      chunk=response.read(1048576)
+                      if not chunk:break
+                      out.write(chunk)
+              assert hashlib.sha256(target.read_bytes()).hexdigest()==expected[name],name
+              print('Verified '+name)
+          PYCODE
+      - name: Attach files to the163 draft without replacing assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload v163 163-TouchPalG-6.2.7.1.apk 163-TouchPalG-SOURCE-6.2.7.1.zip 163-TouchPalG-Passport-6.2.7.1.txt --repo "$GITHUB_REPOSITORY"
